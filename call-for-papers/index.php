@@ -178,8 +178,8 @@
           <br><br><br>
 
           <strong>
-            Puneet Kumar Mishra and Mrinal Kanti Mandal,<br>
-            General Chairs, IEEE SPACE 2024
+            Puneet Kumar Mishra<br>
+            General Chair, IEEE SPACE 2024
           </strong>
         </p>
       </div>

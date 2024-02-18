@@ -201,9 +201,8 @@
 
           <strong>
             Puneet Kumar Mishra<br>
-            Mrinal Kanti Mandal<br>
             General Chairs, SPACE 2024<br>
-            ieeemapcon@gmail.com
+            <!-- ieeemapcon@gmail.com -->
           </strong>
 
         </p>
