@@ -157,7 +157,7 @@
         <tbody>
           <tr>
             <th scope="row">1</th>
-            <td>MAPCON Best Paper Award(Academia & Industry)</td>
+            <td>SPACE Best Paper Award(Academia & Industry)</td>
             <td>₹ 50,000</td>
           </tr>
           <tr>
@@ -172,12 +172,12 @@
           </tr>
           <tr>
             <th scope="row">4</th>
-            <td>MAPCON Best Student Paper Award (1<sup>st</sup>)</td>
+            <td>SPACE Best Student Paper Award (1<sup>st</sup>)</td>
             <td>₹ 10,000</td>
           </tr>
           <tr>
             <th scope="row">5</th>
-            <td>MAPCON Best Student Paper Award (2<sup>nd</sup>)</td>
+            <td>SPACE Best Student Paper Award (2<sup>nd</sup>)</td>
             <td>₹ 5,000</td>
           </tr>
         </tbody>
@@ -205,7 +205,7 @@
         <div class="info_box ">
           <div class="col-md-2">
             <div class="row">
-              <img src="./images/MAPCON-LOGO.png" width="200px">
+              <img src="./images/APMTT2024Logo.webp" width="200px">
             </div>
             <div class="row">
               <div class="social_box">
