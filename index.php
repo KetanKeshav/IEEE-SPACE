@@ -64,7 +64,7 @@
                     <h2>Welcome To</h2>
                     <h1>IEEE SPACE 2024 </h1>
                     <h2><b>Dec 12-15, 2022</b></h2>
-                    <h2><b>The Leela Bhartiya City, Bangalore</b></h2>
+                    <h2><b>Sheraton Grand Bengaluru Whitefield Hotel & Convention Center</b></h2>
                     <a href="./downloads/Program Booklet.pdf" target="_blank" download="Program Booklet">
                       Program Booklet
                     </a>
@@ -84,7 +84,7 @@
                     <h2>Welcome To</h2>
                     <h1>IEEE SPACE 2024</h1>
                     <h2><b>Dec 12-15, 2022</b></h2>
-                    <h2><b>The Leela Bhartiya City, Bangalore</b></h2>
+                    <h2><b>Sheraton Grand Bengaluru Whitefield Hotel & Convention Center</b></h2>
                     <a href="register.php" target="_blank">
                       Register now
                     </a>
@@ -104,7 +104,7 @@
                     <h2>Welcome To</h2>
                     <h1>IEEE SPACE 2024</h1>
                     <h2><b>Dec 12-15, 2022</b></h2>
-                    <h2><b>The Leela Bhartiya City, Bangalore</b></h2>
+                    <h2><b>Sheraton Grand Bengaluru Whitefield Hotel & Convention Center</b></h2>
                     <a href="register.php" target="_blank">
                       Register now
                     </a>
@@ -138,19 +138,11 @@
               </h2>
             </div>
             <p style="font-weight: bold; color:black;font-size: 16px; text-align:justify">
-              IEEE MTT-S and IEEE AP-S have come together and signed a MoU for combining two flagship conferences of the
-              respective societies in India (IMaRC and InCAP) to a single conference: Microwave, Antennas, and
-              Propagation
-              Conference (MAPCON). The first edition of MAPCON is planned to be organized in Bangalore, India during
-              Dec 12-15, 2022. SPACE 2024 will create an international platform for Microwave, Antenna and Propagation
-              experts and technologist from Industry, Academia and Startup ecosystem to collaborate and share their
-              vision,
-              expertise and knowledge. SPACE 2024 will include technical sessions, poster sessions, special sessions,
-              invited talks, workshops, tutorials, focused track on Young Professionals, Women in Engineering and SIGHT.
-              Eminent professionals from International Space Agencies, Defense Establishments, National Research
-              Organizations,
-              Academia, and Industries will deliver expert talks and tutorials and organize special sessions related to
-              recent developments.
+            The *IEEE SPACE* Conference is a premier interdisciplinary forum for space, aerospace, and defense experts, engineers, and researchers to come together to discuss the latest developments in designated technologies. The conference provides a platform for sharing cutting-edge research, exploring innovative approaches, and addressing the technical challenges facing the aerospace and defense industries.
+            The conference covers various topics, including space missions, satellite systems, propulsion technologies, avionics, space exploration, advanced materials, and defense systems. Researchers and industry practitioners worldwide gather to showcase their work, exchange ideas, and collaborate on new initiatives. The conference program includes keynote presentations, technical sessions, workshops, and panel discussions, all aimed at fostering collaboration and driving innovation in aerospace and defense.
+            The IEEE SPACE Conference is a hub for fostering partnerships between industry, academia, and government agencies. It offers valuable opportunities for networking, mentorship, and professional development, enabling attendees to establish new connections and gain insights into the latest trends and best practices in aerospace and defense.
+            With its focus on advancing technology and pushing the boundaries of aerospace and defense capabilities, the IEEE SPACE Conference plays a crucial role in shaping the future of these industries. By bringing together thought leaders and experts, the conference serves as a catalyst for driving progress and innovation in the aerospace and defense sectors, ultimately contributing to advancing Indian & Global aerospace capabilities and national security.
+            Attendees can look forward to engaging with leading experts, gaining exposure to groundbreaking research, and participating in discussions that are at the forefront of shaping the future of aerospace and defense. Whether you are an industry professional, academic researcher, or government representative, the IEEE SPACE Conference offers a unique platform to exchange ideas, foster collaborations, and contribute to advancing aerospace and defense technologies.
             </p>
           </div>
         </div>
@@ -159,17 +151,14 @@
           <!-- <div class="detail-box"> -->
           <div class="heading_container" id="venue">
             <h2>
-              Conference Venue : <br><span>The Leela Bhartiya City, Bangalore</span>
+              Conference Venue : <br><span>Sheraton Grand Bengaluru Whitefield Hotel & Convention Center</span>
             </h2>
             <!-- <strong>NOTE:</strong>
             <h5>Delegates requiring Hotel Accommodation at Conference Venue can fill the request form. <a
                 href="https://forms.gle/wGcAkpiC2Jdh7PTu6" target="_blank">Click here.</a><br>Organizing team will reach
               out to you with more details.</h5> -->
           </div>
-          <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.229611844452!2d77.64087731482314!3d13.0846293907818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae19ddc5c6076f%3A0x9c2f5e01fcf17215!2sThe%20Leela%20Bhartiya%20City%2C%20Hotel%20Convention%20%26%20Residences%2C%20Bengaluru!5e0!3m2!1sen!2sin!4v1662923123638!5m2!1sen!2sin"
-            width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"
-            referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.7308520368274!2d77.729827!3d12.989058900000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae11eec9986c7f%3A0x6e8715fd5f4e9861!2sSheraton%20Grand%20Bengaluru%20Whitefield%20Hotel%20%26%20Convention%20Center!5e0!3m2!1sen!2sus!4v1708278393438!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           <!-- </div> -->
         </div>
       </div>
@@ -185,7 +174,7 @@
         <div class="col-md-6 ">
         <div class="heading_container">
           <h2>
-            Conference Venue : <br><span>The Leela Bhartiya City, Bangalore</span>
+            Conference Venue : <br><span>Sheraton Grand Bengaluru Whitefield Hotel & Convention Center</span>
           </h2>
           <strong>NOTE:</strong>
           <h5>Delegates requiring Hotel Accommodation at Conference Venue can fill the request form. <a href="https://forms.gle/wGcAkpiC2Jdh7PTu6" target="_blank">Click here.</a><br>Organizing team will reach out to you with more details.</h5>

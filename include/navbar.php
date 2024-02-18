@@ -26,7 +26,7 @@
                         <a class="dropdown-item <?php if($page== "sc") echo "active"?>" href="./session-chairs.php">Session Chairs</a>
                     </div>
                 </li>
-                <li class="nav-item dropdown <?php if($page== "w1" || $page== "w2" || $page== "tutorial" || $page== "6g" || $page== "aa" || $page== "tt" || $page== "kn" || $page== "gan" || $page== "program" || $page== "yp" || $page== "ap") echo "active"?>">
+                <!-- <li class="nav-item dropdown <?php if($page== "w1" || $page== "w2" || $page== "tutorial" || $page== "6g" || $page== "aa" || $page== "tt" || $page== "kn" || $page== "gan" || $page== "program" || $page== "yp" || $page== "ap") echo "active"?>">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Program
                     </a>
@@ -48,7 +48,7 @@
                             Template</a>
                         <!-- <a class="dropdown-item" href="downloads/MAPCON_digital_poster.pptx" target="_blank">Poster Template (A0 size only)</a> -->
                     </div>
-                </li>
+                </li> -->
                 <li class="nav-item dropdown <?php if($page== "awards") echo "active"?>">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Authors
@@ -64,7 +64,7 @@
                         </a>
                     </div>
                 </li>
-                <li class="nav-item dropdown">
+                <!-- <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Student Program
                     </a>
@@ -77,7 +77,7 @@
                         <a class="dropdown-item" href="./student-opportunities/index.php">Opportunities for Students</a>
                         <a class="dropdown-item" href="./job-opportunities/index.php">Job Opportunities</a>
                     </div>
-                </li>
+                </li> -->
                 <li class="nav-item <?php if($page == "speakers") echo "active"?>">
                     <a class="nav-link" href="speakers.php">Speakers</a>
                 </li>
@@ -89,12 +89,12 @@
                         Register
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item <?php if($page== "register") echo "active"?>" href="register.php">MAPCON Registration
+                        <a class="dropdown-item <?php if($page== "register") echo "active"?>" href="register.php">IEEE SPACE Registration
                         </a>
-                        <a class="dropdown-item <?php if($page== "accomodation") echo "active"?>" href="accomodation-list.php">Accomodation List - Reva University
+                        <!-- <a class="dropdown-item <?php if($page== "accomodation") echo "active"?>" href="accomodation-list.php">Accomodation List - Reva University
                         </a>
                         <a class="dropdown-item" href="https://forms.gle/FgXKFrPKpeaYxzFd7">Chapter Chair Meeting</a>
-                        <a class="dropdown-item <?php if($page== "start-up") echo "active"?>" href="startup-initiative.php">Startup Initiative</a>
+                        <a class="dropdown-item <?php if($page== "start-up") echo "active"?>" href="startup-initiative.php">Startup Initiative</a> -->
                     </div>
                 </li>
                 <li class="nav-item <?php if($page== "venue") echo "active"?>">
