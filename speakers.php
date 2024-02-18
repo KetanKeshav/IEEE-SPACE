@@ -197,7 +197,8 @@
                     </h2>
                 </div>
                 <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
-                <div class="heading_container span_body">
+                <h2> Coming Soon</h2>
+                <!-- <div class="heading_container span_body">
                     <div class="row d-flex justify-content-center">
                         <div class="card col-lg-6 col-md-6">
                             <center>
@@ -213,15 +214,6 @@
                         </div>
                     </div>
                     <div class="row">
-                        <!-- <div class="card col-lg-4 col-md-4 col-sm-6">
-                            <center>
-                                <img class="card-img-top" src="./images/speakers/k_radhakrishnan.webp" alt="Card image">
-                            </center>
-                            <div class="card-body">
-                                <h4 class="card-title">K Radhakrishnan</h4>
-                                <p class="card-text">Former: Secretary, DoS / Chairman, ISRO</p>
-                            </div>
-                        </div> -->
                         <div class="card col-lg-4 col-md-4 col-sm-6">
                             <center>
                                 <img class="card-img-top" src="./images/speakers/somanath.webp" alt="Card image">
@@ -276,15 +268,6 @@
                                 <p class="card-text">IEEE MTT-S President</p>
                             </div>
                         </div>
-                        <!-- <div class="card col-lg-4 col-md-4 col-sm-6">
-                            <center>
-                                <img class="card-img-top" src="./images/speakers/goutam.jpg" alt="Card image">
-                            </center>
-                            <div class="card-body">
-                                <h4 class="card-title">Dr. Goutam Chattopadhyay</h4>
-                                <p class="card-text">JPL/NASA</p>
-                            </div>
-                        </div> -->
                         <div class="card col-lg-4 col-md-4 col-sm-6">
                             <center>
                                 <img class="card-img-top" src="./images/speakers/sherry.jpg" alt="Card image">
@@ -321,15 +304,6 @@
                                 <p class="card-text">University of Pisa</p>
                             </div>
                         </div>
-                        <!-- <div class="card col-lg-4 col-md-4 col-sm-6">
-                            <center>
-                                <img class="card-img-top" src="./images/speakers/Yahia.png" alt="Card image">
-                            </center>
-                            <div class="card-body">
-                                <h4 class="card-title">Prof. Yahia Antar</h4>
-                                <p class="card-text">IEEE AP-S Imm. Past President</p>
-                            </div>
-                        </div> -->
                         <div class="card col-lg-4 col-md-4 col-sm-6">
                             <center>
                                 <img class="card-img-top" src="./images/speakers/Stefano.jpg" alt="Card image">
@@ -403,7 +377,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </section>
 
