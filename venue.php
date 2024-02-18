@@ -163,12 +163,7 @@
                         <div class="col-md-12">
                             <h4>Conference Venue</h4>
                             <p>
-                                Sheraton Grand Bengaluru Whitefield Hotel & Convention Center
-                            </p>
-                            <p>
-                                Prestige Shantiniketan, Hoodi, Whitefield, Bengaluru, Karnataka 560048
-                            </p>
-                            <p>
+                                Sheraton Grand Bengaluru Whitefield Hotel & Convention Center 
                                 <a href="https://www.marriott.com/hotels/travel/blrws-sheraton-grand-bengaluru-whitefield-hotel-and-convention-center/" target="_blank">Website</a>
                             </p>
                         <div class="col-lg-6 col-xl-6 col-sm-6 col-md-6">
