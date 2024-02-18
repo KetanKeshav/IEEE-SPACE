@@ -361,10 +361,7 @@
   <footer class="footer_section">
     <div class="container">
       <div class="footer_box">
-        <p>
-          Copyright &copy; IEEESPACE2024 - IEEE Aerospace and Electronic Systems Society (AESS) and IEEE Microwaves, Antennas and Propagation Conference | Powered by
-          IEEESPACE2024 - IEEE Aerospace and Electronic Systems Society (AESS) and IEEE Microwaves, Antennas and Propagation Conference
-        </p>
+        <p>Powered by and Copyright &copy; IEEESPACE2024 - IEEE Aerospace and Electronic Systems Society (AESS) and IEEE Microwaves, Antennas and Propagation Conference</p>
       </div>
     </div>
   </footer>
