@@ -46,7 +46,6 @@
                         <a class="dropdown-item <?php if($page== "ap") echo "active"?>" href="./program/ap.php">AP-S & MTT-S SIGHT</a>
                         <a class="dropdown-item" href="downloads/MAPCON Presentation.pptx" target="_blank">Presentation
                             Template</a>
-                        <!-- <a class="dropdown-item" href="downloads/MAPCON_digital_poster.pptx" target="_blank">Poster Template (A0 size only)</a> -->
                     </div>
                 </li> -->
                 <li class="nav-item dropdown <?php if($page== "awards") echo "active"?>">
