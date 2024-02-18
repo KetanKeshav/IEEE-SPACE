@@ -298,7 +298,7 @@
             <div class="container">
                 <div class="footer_box">
                     <p>
-                        Copyright &copy; 2022 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference |
+                        Copyright &copy; 2024 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference |
                         Powered by SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference
                     </p>
                 </div>

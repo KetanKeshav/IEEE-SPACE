@@ -166,11 +166,11 @@
             <tbody>
               <tr>
                 <td>20% Discount</td>
-                <td>May 31, 2022</td>
+                <td>May 31, 2024</td>
               </tr>
               <tr>
                 <td>10% Discount</td>
-                <td>June 15, 2022</td>
+                <td>June 15, 2024</td>
               </tr>
             </tbody>
           </table>
@@ -190,19 +190,19 @@
             <tbody>
               <tr>
                 <td><b>Last Date of Paper Submission</b></td>
-                <td><b style="color: red;"><s>July 31, 2022</s></b> <b>August 31, 2022 (Hard Deadline)</b></td>
+                <td><b style="color: red;"><s>July 31, 2024</s></b> <b>August 31, 2024 (Hard Deadline)</b></td>
               </tr>
               <tr>
                 <td>Notification of Acceptance</td>
-                <td>October 15, 2022</td>
+                <td>October 15, 2024</td>
               </tr>
               <tr>
                 <td>Last Date of Author Registration</td>
-                <td>November 10, 2022</td>
+                <td>November 10, 2024</td>
               </tr>
               <tr>
                 <td>Last Date of Non-Author Registration</td>
-                <td>November 30, 2022</td>
+                <td>November 30, 2024</td>
               </tr>
             </tbody>
           </table>
@@ -302,7 +302,7 @@
     <div class="container">
       <div class="footer_box">
         <p>
-          Copyright &copy; 2022 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference | Powered by
+          Copyright &copy; 2024 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference | Powered by
           SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference
         </p>
       </div>

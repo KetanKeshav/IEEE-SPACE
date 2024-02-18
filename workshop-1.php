@@ -176,7 +176,7 @@
                 <h2 style="text-align: center;">
                     Workshop-1 on <span>Comprehensive Simulation Solutions for Communication and Radar </span>
                 </h2><br>
-                <h2>Date: Dec 12, 2022, 8.30-17.30 Hall: GBR-2</h2>
+                <h2>Date: Dec 12, 2024, 8.30-17.30 Hall: GBR-2</h2>
 
                 <div class="table-responsive">
                     <table class="table table-bordered border-primary text-justify">
@@ -376,7 +376,7 @@
         <div class="container">
             <div class="footer_box">
                 <p>
-                    Copyright &copy; 2022 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference | Powered by
+                    Copyright &copy; 2024 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference | Powered by
                     SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference
                 </p>
             </div>

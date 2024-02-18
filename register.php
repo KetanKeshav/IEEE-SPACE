@@ -181,8 +181,8 @@
                             <thead>
                                 <tr>
                                     <th scope="col">Event</th>
-                                    <th scope="col">Pre Conference Workshop & Tutorials (Dec 12, 2022)</th>
-                                    <th scope="col" colspan="2">Conference (Dec 13-15, 2022)</th>
+                                    <th scope="col">Pre Conference Workshop & Tutorials (Dec 12, 2024)</th>
+                                    <th scope="col" colspan="2">Conference (Dec 13-15, 2024)</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -374,7 +374,7 @@
             <div class="container">
                 <div class="footer_box">
                     <p>
-                        Copyright &copy; 2022 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference |
+                        Copyright &copy; 2024 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference |
                         Powered by SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference
                     </p>
                 </div>

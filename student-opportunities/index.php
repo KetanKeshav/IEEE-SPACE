@@ -166,7 +166,7 @@
           promote research and job opportunities in RF and Microwave field. Please take this opportunity to advertise
           the incoming openings in your group. The information will be compiled and shared with the registerd students
           and young professionals delegates during SPACE 2024.
-          Please submit the upcoming openings in your group in the following link by November 30, 2022 -
+          Please submit the upcoming openings in your group in the following link by November 30, 2024 -
           Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSehsahqwMf3pAboMXn2E_eH8b3zxUMYjnUtt0GggTgPvSlTeA/viewform?vc=0&c=0&w=1&flr=0" target="_blank">Here</a>
           <br><br>
           Please direct your queries to the organizers at mapcon.yp@gmail.com
@@ -280,7 +280,7 @@
     <div class="container">
       <div class="footer_box">
         <p>
-          Copyright &copy; 2022 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference | Powered by
+          Copyright &copy; 2024 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference | Powered by
           SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference
         </p>
       </div>

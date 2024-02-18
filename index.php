@@ -63,7 +63,7 @@
                   <div class="detail_box">
                     <h2>Welcome To</h2>
                     <h1>IEEE SPACE 2024 </h1>
-                    <h2><b>Dec 12-15, 2022</b></h2>
+                    <h2><b>July 22-23, 2024</b></h2>
                     <h2><b>Sheraton Grand Bengaluru Whitefield Hotel & Convention Center</b></h2>
                     <a href="./downloads/Program Booklet.pdf" target="_blank" download="Program Booklet">
                       Program Booklet
@@ -83,7 +83,7 @@
                   <div class="detail_box">
                     <h2>Welcome To</h2>
                     <h1>IEEE SPACE 2024</h1>
-                    <h2><b>Dec 12-15, 2022</b></h2>
+                    <h2><b>July 22-23, 2024</b></h2>
                     <h2><b>Sheraton Grand Bengaluru Whitefield Hotel & Convention Center</b></h2>
                     <a href="register.php" target="_blank">
                       Register now
@@ -103,7 +103,7 @@
                   <div class="detail_box">
                     <h2>Welcome To</h2>
                     <h1>IEEE SPACE 2024</h1>
-                    <h2><b>Dec 12-15, 2022</b></h2>
+                    <h2><b>July 22-23, 2024</b></h2>
                     <h2><b>Sheraton Grand Bengaluru Whitefield Hotel & Convention Center</b></h2>
                     <a href="register.php" target="_blank">
                       Register now
@@ -134,7 +134,7 @@
                 <img src="images/MAPCON-LOGO.png" alt="">
               </div>
               <h2>
-                ABOUT <span>IEEE SPACE</span> 2022
+                ABOUT <span>IEEE SPACE</span> 2024
               </h2>
             </div>
             <p style="font-weight: bold; color:black;font-size: 16px; text-align:justify">
@@ -292,7 +292,7 @@
     <div class="container">
       <div class="footer_box">
         <p>
-          Copyright &copy; 2022 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference | Powered by
+          Copyright &copy; 2024 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference | Powered by
           SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference
         </p>
       </div>

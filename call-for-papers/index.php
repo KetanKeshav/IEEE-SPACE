@@ -162,7 +162,7 @@
           On behalf of IEEE SPACE 2024 Organizing Committeee, I take this opportunity to invite you to participate in
           this professionally enriching flagship technical conference namely IEEE SPACE. IEEE SPACE is joint
           initiative of IEEE Antenna and Propagation Society (APS) and IEEE Microwave Theory & Techniques Society
-          (MTT-S). 1st edition of IEEE SPACE will be organized on December 12-15,2022. SPACE 2024 will have
+          (MTT-S). 1st edition of IEEE SPACE will be organized on December 12-15,2024. SPACE 2024 will have
           technical tracks covering all the domains of Microwaves, Antennas and Propagation.
           The eminent International speakers from US, Europe and premier National research and Industrial Organizations
           will deliver talks and conduct workshops and tutorials. During this international conference, the prospective
@@ -319,7 +319,7 @@
     <div class="container">
       <div class="footer_box">
         <p>
-          Copyright &copy; 2022 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference | Powered by
+          Copyright &copy; 2024 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference | Powered by
           SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference
         </p>
       </div>

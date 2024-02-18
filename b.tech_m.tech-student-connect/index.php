@@ -212,7 +212,7 @@
                 <br>(e) One product from the exhibition. Maximum length of the report should be of 10 slides.
               </li>
               <li>
-                Last Date to apply: September 30, 2022
+                Last Date to apply: September 30, 2024
               </li>
             </ul>
           </li>
@@ -329,7 +329,7 @@
     <div class="container">
       <div class="footer_box">
         <p>
-          Copyright &copy; 2022 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference | Powered by
+          Copyright &copy; 2024 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference | Powered by
           SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference
         </p>
       </div>

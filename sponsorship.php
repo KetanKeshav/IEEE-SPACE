@@ -170,7 +170,7 @@
           IEEE MTT-S and IEEE AP-S have come together and signed a MoU for combining two flagship conferences
           of the respective societies in India (IMaRC and InCAP) to a single conference: Microwave, Antennas,
           and Propagation Conference (MAPCON). The first edition of MAPCON is planned to be organized in
-          Bangalore, India during Dec 12-15, 2022.
+          Bangalore, India during July 22-23, 2024.
         </p>
         <p style="text-align: left;">
           The key focus of this conference will be on expert talks by internationally renowned professionals,
@@ -400,7 +400,7 @@
     <div class="container">
       <div class="footer_box">
         <p>
-          Copyright &copy; 2022 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference | Powered by
+          Copyright &copy; 2024 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference | Powered by
           SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference
         </p>
       </div>

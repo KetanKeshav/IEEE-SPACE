@@ -56,7 +56,7 @@
                 <h2 style="text-align: center;">
                     PLENARY SESSION - <span>WOMEN IN ELECTROMAGNETICS AND MICROWAVES (WiEM )"</span>
                 </h2><br>
-                December 14, 2022
+                December 14, 2024
                 <div class="container  ">
                     <div class="row">
                         <div class="col-md-12">
@@ -251,7 +251,7 @@
         <div class="container">
             <div class="footer_box">
                 <p>
-                    Copyright &copy; 2022 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference | Powered by
+                    Copyright &copy; 2024 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference | Powered by
                     SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference
                 </p>
             </div>

@@ -192,7 +192,7 @@
                     Professionals working in this research domain.
                     <br><br>
                     Please take this opportunity to advertise the openings in your group starting January 2023, by
-                    filling up the following Google form by November 30, 2022: <a href="https://docs.google.com/forms/d/1jbUCUGom-mJwZ94dwxsDOpvWNjBYBN9TOE-7olFUp2Q
+                    filling up the following Google form by November 30, 2024: <a href="https://docs.google.com/forms/d/1jbUCUGom-mJwZ94dwxsDOpvWNjBYBN9TOE-7olFUp2Q
             ">Fill the Form </a>
                     <br><br>
                     We are planning to compile the information and share it with students and YPs during the conference.
@@ -333,7 +333,7 @@
         <div class="container">
             <div class="footer_box">
                 <p>
-                    Copyright &copy; 2022 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference | Powered by
+                    Copyright &copy; 2024 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference | Powered by
                     SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference
                 </p>
             </div>

@@ -246,7 +246,7 @@
                             </center>
                             <div class="card-body">
                                 <h4 class="card-title">Prof. Saifur Rahman</h4>
-                                <p class="card-text">2022 President-Elect IEEE</p>
+                                <p class="card-text">2024 President-Elect IEEE</p>
                             </div>
                         </div>
                         <div class="card col-lg-4 col-md-4 col-sm-6">
@@ -503,7 +503,7 @@
         <div class="container">
             <div class="footer_box">
                 <p>
-                    Copyright &copy; 2022 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference | Powered by
+                    Copyright &copy; 2024 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference | Powered by
                     SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference
                 </p>
             </div>

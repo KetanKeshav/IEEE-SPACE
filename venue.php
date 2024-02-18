@@ -167,7 +167,7 @@
                         <div class="col-lg-6 col-md-6 col-sm-6">
                             <div class="venue-info-content">
                                 <h4>The Leela Bhartiya City, Hotel</h4>
-                                <img width="100%" src="https://www.theleela.com/prod/content/assets/styles/tl_500_400_webp/public/2022-05/Leela-Bhartiya-City-Bengaluru_4.jpg.webp?VersionId=pBW0nRAL91d3u.SMtAfqKZqDikiktYmS&itok=8IAyD6ay" alt="Venue">
+                                <img width="100%" src="https://www.theleela.com/prod/content/assets/styles/tl_500_400_webp/public/2024-05/Leela-Bhartiya-City-Bengaluru_4.jpg.webp?VersionId=pBW0nRAL91d3u.SMtAfqKZqDikiktYmS&itok=8IAyD6ay" alt="Venue">
                             </div>
                         </div>
 
@@ -281,7 +281,7 @@
         <div class="container">
             <div class="footer_box">
                 <p>
-                    Copyright &copy; 2022 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference |
+                    Copyright &copy; 2024 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference |
                     Powered by SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference
                 </p>
             </div>

@@ -157,7 +157,7 @@
           <h2>
             IEEE <span>MAPCON</span> Registration
           </h2>
-          <iframe src="https://in.explara.com/widget-new/2022-ieee-microwaves-antennas-and-propagation-conference" frameborder="0" style="width:100%;" height="750"></iframe>
+          <iframe src="https://in.explara.com/widget-new/2024-ieee-microwaves-antennas-and-propagation-conference" frameborder="0" style="width:100%;" height="750"></iframe>
           <div class="table-responsive">
           </div>
         </div>
@@ -262,7 +262,7 @@
       <div class="container">
         <div class="footer_box">
           <p>
-            Copyright &copy; 2022 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference |
+            Copyright &copy; 2024 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference |
             Powered by SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference
           </p>
         </div>
