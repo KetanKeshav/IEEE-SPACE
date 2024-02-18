@@ -216,7 +216,7 @@
         <div class="info_box ">
           <div class="col-md-2">
             <div class="row">
-              <img src="./images/MAPCON-LOGO.png" width="200px">
+              <img src="./images/APMTT2024Logo.webp" width="200px">
             </div>
             <div class="row">
               <div class="social_box">
@@ -292,8 +292,8 @@
     <div class="container">
       <div class="footer_box">
         <p>
-          Copyright &copy; 2024 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference | Powered by
-          SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference
+          Copyright &copy; IEEESPACE2024 - IEEE Aerospace and Electronic Systems Society (AESS) and IEEE Microwaves, Antennas and Propagation Conference | Powered by
+          IEEESPACE2024 - IEEE Aerospace and Electronic Systems Society (AESS) and IEEE Microwaves, Antennas and Propagation Conference
         </p>
       </div>
     </div>
