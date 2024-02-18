@@ -162,12 +162,12 @@
                     <div class=" row">
                         <div class="col-lg-6 col-xl-6 col-sm-6 col-md-6">
                             <h4>Directions to reach</h4>
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.229611844452!2d77.64087731482314!3d13.0846293907818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae19ddc5c6076f%3A0x9c2f5e01fcf17215!2sThe%20Leela%20Bhartiya%20City%2C%20Hotel%20Convention%20%26%20Residences%2C%20Bengaluru!5e0!3m2!1sen!2sin!4v1662923123638!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.7308520368274!2d77.729827!3d12.989058900000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae11eec9986c7f%3A0x6e8715fd5f4e9861!2sSheraton%20Grand%20Bengaluru%20Whitefield%20Hotel%20%26%20Convention%20Center!5e0!3m2!1sen!2sus!4v1708278393438!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6">
                             <div class="venue-info-content">
-                                <h4>The Leela Bhartiya City, Hotel</h4>
-                                <img width="100%" src="https://www.theleela.com/prod/content/assets/styles/tl_500_400_webp/public/2024-05/Leela-Bhartiya-City-Bengaluru_4.jpg.webp?VersionId=pBW0nRAL91d3u.SMtAfqKZqDikiktYmS&itok=8IAyD6ay" alt="Venue">
+                                <h4>Sheraton Grand Bengaluru Whitefield Hotel & Convention Center</h4>
+                                <img width="100%" src="" alt="Venue">
                             </div>
                         </div>
 
