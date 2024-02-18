@@ -130,9 +130,9 @@
         <div class="col-md-6">
           <div class="detail-box">
             <div class="heading_container">
-              <div class="img-box">
+              <!-- <div class="img-box">
                 <img src="images/MAPCON-LOGO.png" alt="">
-              </div>
+              </div> -->
               <h2>
                 ABOUT <span>IEEE SPACE</span> 2024
               </h2>
