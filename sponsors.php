@@ -5,7 +5,7 @@
           <div class="heading_container">
               <h2 style="text-align: center;"><span>Sponsors</span></h2>
           </div>
-          <div class="row">
+          <!-- <div class="row">
               <div class="col-md-4 img-box mt-2 mb-2">
                   <a href="https://www.ansys.com/en-in"><img src="https://ieeespace.org/images/sponsors/1n.png" alt=""><br><br>
                       <h2 style="text-align: center;">Signature</h2>
@@ -187,7 +187,7 @@
               </div>
 
           </div>
-      </div>
+      </div> -->
   </section>
 
   <!-- end sponsprs section -->
