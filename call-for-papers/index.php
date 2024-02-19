@@ -212,12 +212,12 @@
               </tr>
             </thead>
             <tbody>
-              <tr>
+              <!-- <tr>
                 <td>On or Before May 31</td>
                 <td>20%</td>
-              </tr>
+              </tr> -->
               <tr>
-                <td>On or Before June 15</td>
+                <td>On or Before March 15</td>
                 <td>10%</td>
               </tr>
             </tbody>
