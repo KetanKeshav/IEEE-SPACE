@@ -267,7 +267,6 @@
             </div>
           </div>
         </div>
-        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
               <center>
                 <img class="card-img-top" src="./images/kamal.webp" alt="Card image">
@@ -297,7 +296,6 @@
                 <p class="card-text">Northrop Grumann</p>
               </div>
             </div>
-        </div>
         </div>
         
         </div>
