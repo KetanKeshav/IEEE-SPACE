@@ -283,6 +283,36 @@
                 </div>
           </div>
         </div>
+
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/don.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Dr. Don Tan</h4>
+                  <p class="card-text">Northrop Grumann</p>
+                </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/don.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Dr. Don Tan</h4>
+                  <p class="card-text">Northrop Grumann</p>
+                </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/don.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Dr. Don Tan</h4>
+                  <p class="card-text">Northrop Grumann</p>
+                </div>
+          </div>
+        </div>
   </div>
 
         <h2><span class="span_head">General Chairs:</span></h2>
