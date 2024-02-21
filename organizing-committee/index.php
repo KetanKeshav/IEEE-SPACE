@@ -197,7 +197,6 @@
           <h2><span>International Advisory Committee:</span></h2>
 
           <div class="row">
-
             <div class="card col-lg-4 col-md-4 col-sm-6">
               <center>
                 <img class="card-img-top" src="./images/k_radhakrishnan.webp" alt="Card image">
@@ -216,7 +215,6 @@
                   <p class="card-text">2023 IEEE President</p>
               </div>
             </div>
-
             <div class="card col-lg-4 col-md-4 col-sm-6">
               <center>
                 <img class="card-img-top" src="./images/kathleen.webp" alt="Card image">
@@ -228,7 +226,7 @@
             </div>
           </div>
           <div class="row">
-          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <div class="card col-lg-4 col-md-4 col-sm-6">
               <center>
                 <img class="card-img-top" src="./images/rob.webp" alt="Card image">
               </center>
@@ -256,7 +254,6 @@
               </div>
             </div>
           </div>
-        </div>
         <div class="row">
           <div class="card col-lg-4 col-md-4 col-sm-6">
               <center>
@@ -286,6 +283,7 @@
                 </div>
           </div>
         </div>
+  </div>
 
         <h2><span class="span_head">General Chairs:</span></h2>
 
