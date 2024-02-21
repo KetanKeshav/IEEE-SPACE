@@ -87,7 +87,7 @@ a:focus {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column; */
-  background-image: url(../images/car/car-1.webp);
+  background-image: url(../images/car/hero-n.webp);
   background-size: cover;
   background-position: center;
 }
@@ -102,7 +102,7 @@ a:focus {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column; */
-  background-image: url(../images/car/car-2.webp);
+  background-image: url(../images/car/hero-n.webp);
   background-size: cover;
   background-position: center;
 }
@@ -117,7 +117,7 @@ a:focus {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column; */
-  background-image: url(../images/car/car-3.webp);
+  background-image: url(../images/car/hero-n.webp);
   background-size: cover;
   background-position: center;
 }
