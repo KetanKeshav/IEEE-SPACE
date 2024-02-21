@@ -225,9 +225,10 @@
               </div>
             </div>
           </div>
+
           <div class="row">
             <div class="card col-lg-4 col-md-4 col-sm-6">
-              <center>
+            <center>
                 <img class="card-img-top" src="./images/rob.webp" alt="Card image">
               </center>
               <div class="card-body">
@@ -236,7 +237,7 @@
               </div>
             </div>
             <div class="card col-lg-4 col-md-4 col-sm-6">
-              <center>
+            <center>
                 <img class="card-img-top" src="./images/aylin.webp" alt="Card image">
               </center>
               <div class="card-body">
@@ -245,7 +246,7 @@
               </div>
             </div>
             <div class="card col-lg-4 col-md-4 col-sm-6">
-              <center>
+            <center>
                 <img class="card-img-top" src="./images/chris.webp" alt="Card image">
               </center>
               <div class="card-body">
