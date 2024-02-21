@@ -21,9 +21,9 @@
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item <?php if($page== "oc") echo "active"?>" href="../organizing-committee/index.php">Organizing Committee</a>
-                        <!-- <a class="dropdown-item <?php if($page== "tpc") echo "active"?>" href="../technical-program-committee/index.php">Technical Program
+                        <a class="dropdown-item <?php if($page== "tpc") echo "active"?>" href="../technical-program-committee/index.php">Technical Program
                             Committee</a>
-                        <a class="dropdown-item <?php if($page== "sc") echo "active"?>" href="../session-chairs.php">Session Chairs</a> -->
+                        <!-- <a class="dropdown-item <?php if($page== "sc") echo "active"?>" href="../session-chairs.php">Session Chairs</a> -->
                     </div>
                 </li>
                 <!-- <li class="nav-item dropdown <?php if($page== "w1" || $page== "w2" || $page== "tutorial" || $page== "6g" || $page== "aa" || $page== "tt" || $page== "kn" || $page== "gan" || $page== "program" || $page== "yp" || $page== "ap") echo "active"?>">
