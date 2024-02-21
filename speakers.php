@@ -200,9 +200,18 @@
                 <!-- <h2> Coming Soon</h2> -->
                 <div class="heading_container span_body">
                     <div class="row">
+                    <div class="card col-lg-4 col-md-4 col-sm-6">
+                            <center>
+                                <img class="card-img-top" src="./images/speakers/tom.jpg" alt="Card image">
+                            </center>
+                            <div class="card-body">
+                                <h4 class="card-title">Mr. Thomous Coughling</h4>
+                                <p class="card-text">2024 IEEE President</p>
+                            </div>
+                        </div>
                         <div class="card col-lg-4 col-md-4 col-sm-6">
                         <center>
-                            <img class="card-img-top" src="../orgainising-committee/images/kathleen.webp" alt="Card image">
+                            <img class="card-img-top" src="./images/kathleen.webp" alt="Card image">
                         </center>
                         <div class="card-body">
                             <h4 class="card-title">Prof. Kathleen Kramer</h4>
@@ -216,16 +225,6 @@
                             <div class="card-body">
                                 <h4 class="card-title">Prof. Saifur Rahman</h4>
                                 <p class="card-text">2024 President-Elect IEEE</p>
-                            </div>
-                        </div>
-                        
-                        <div class="card col-lg-4 col-md-4 col-sm-6">
-                            <center>
-                                <img class="card-img-top" src="./images/speakers/Madhumita.png" alt="Card image">
-                            </center>
-                            <div class="card-body">
-                                <h4 class="card-title">Dr. Madhumita Chakravarti</h4>
-                                <p class="card-text"> Director, CMSDS</p>
                             </div>
                         </div>
                     </div>
