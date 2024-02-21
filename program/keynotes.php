@@ -534,7 +534,7 @@ state source with appreciable power is attracting attention of researchers due t
                 <div class="info_box ">
                     <div class="col-md-2">
                         <div class="row">
-                            <img src="./images/APMTT2024Logo.webp" width="200px">
+                            <img src="../images/APMTT2024Logo.webp" width="200px">
                         </div>
                         <div class="row">
                             <div class="social_box">
