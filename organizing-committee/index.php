@@ -286,7 +286,6 @@
                 </div>
           </div>
         </div>
-        </div>
 
         <h2><span class="span_head">General Chairs:</span></h2>
 
