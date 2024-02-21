@@ -155,7 +155,7 @@
       <div class="container">
         <div class="heading_container spon_padding">
           <h2>
-            IEEE <span>MAPCON</span> Registration
+            IEEE <span>SPACE</span> Registration
           </h2>
           <iframe src="https://in.explara.com/widget-new/2024-ieee-microwaves-antennas-and-propagation-conference" frameborder="0" style="width:100%;" height="750"></iframe>
           <div class="table-responsive">

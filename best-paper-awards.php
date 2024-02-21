@@ -56,7 +56,7 @@
         <div class="col-lg-9 col-md-9 col-sm-9 col-9">
         <div class="heading_container spon_padding">
             <h2>
-            IEEE <span>MAPCON</span> Best Paper Awards
+            IEEE <span>SPACE</span> Best Paper Awards
             </h2>
             <iframe src="" frameborder="0" style="width:100%;" height="750"></iframe>
             <div class="table-responsive">

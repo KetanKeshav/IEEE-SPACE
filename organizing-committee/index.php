@@ -12,7 +12,7 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>Organizing Committeee | MAPCON 2022</title>
+  <title>Organizing Committeee | Space 2024</title>
 
   <link rel="shortcut icon" href="../images/favicon.ico" type="">
 
@@ -746,8 +746,7 @@
     <div class="container">
       <div class="footer_box">
         <p>
-          Copyright &copy; 2022 MAPCON2022 - IEEE Microwaves, Antennas and Propagation Conference | Powered by
-          MAPCON2022 - IEEE Microwaves, Antennas and Propagation Conference
+        Powered by & Copyright &copy; IEEESPACE2024 - IEEE Aerospace and Electronic Systems Society (AESS) and IEEE Microwaves, Antennas and Propagation Conference
         </p>
       </div>
     </div>

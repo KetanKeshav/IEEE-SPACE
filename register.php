@@ -173,7 +173,7 @@
             <div class="container">
                 <div class="heading_container spon_padding">
                     <h2>
-                        IEEE <span>MAPCON</span> Registration Fee (Including 18% GST, Excluding 3.54% Payment Gateway
+                        IEEE <span>SPACE</span> Registration Fee (Including 18% GST, Excluding 3.54% Payment Gateway
                         Charges):
                     </h2>
                     <div class="table-responsive">

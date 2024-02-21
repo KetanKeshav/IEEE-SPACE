@@ -175,7 +175,7 @@
       <div class="col-lg-9 col-md-9 col-sm-9 col-9">
         <div class="heading_container spon_padding">
           <h2>
-            IEEE <span>MAPCON</span> Accomodation List - Reva University
+            IEEE <span>SPACE</span> Accomodation List - Reva University
           </h2>
           <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTLqQXXE5v9Db6uM2VY0Th_hvszH-pKFh74Tqp6iCYQzChFLTC12FkkJAa29meOibP0XMObGX6HzU0r/pubhtml" frameborder="0" style="width:100%;" height="750"></iframe>
           <div class="table-responsive">
