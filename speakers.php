@@ -197,6 +197,7 @@
                     </h2>
                 </div>
                 <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
+                <!-- <h2> Coming Soon</h2> -->
                 <div class="heading_container span_body">
                     <div class="row">
                         <div class="card col-lg-4 col-md-4 col-sm-6">
@@ -218,7 +219,15 @@
                             </div>
                         </div>
                         
-                        
+                        <div class="card col-lg-4 col-md-4 col-sm-6">
+                            <center>
+                                <img class="card-img-top" src="./images/speakers/Madhumita.png" alt="Card image">
+                            </center>
+                            <div class="card-body">
+                                <h4 class="card-title">Dr. Madhumita Chakravarti</h4>
+                                <p class="card-text"> Director, CMSDS</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
