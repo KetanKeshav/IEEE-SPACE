@@ -253,6 +253,7 @@
                 <p class="card-text">IEEE Division V Director</p>
               </div>
             </div>
+          </div>
         <div class="row">
           <div class="card col-lg-4 col-md-4 col-sm-6">
               <center>
