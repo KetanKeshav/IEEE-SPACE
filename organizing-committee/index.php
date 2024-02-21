@@ -231,8 +231,8 @@
                 <img class="card-img-top" src="./images/rob.webp" alt="Card image">
               </center>
               <div class="card-body">
-                <h4 class="card-title">Dr. Rob S Fish, 2021-2022 Chair</h4>
-                <p class="card-text">IEEE Industry Engagement Committee</p>
+                <h4 class="card-title">Dr. Rob S Fish</h4>
+                <p class="card-text">2021-2022 Chair, IEEE Industry Engagement Committee</p>
               </div>
             </div>
             <div class="card col-lg-4 col-md-4 col-sm-6">
