@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<?php $page = 'oc'; ?>
+<?php $page = 'iac'; ?>
 <head>
   <!-- Basic -->
   <meta charset="utf-8" />
@@ -12,7 +12,7 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>Organizing Committeee | Space 2024</title>
+  <title>International Advisory Committeee | Space 2024</title>
 
   <link rel="shortcut icon" href="../images/favicon.ico" type="">
 
@@ -187,320 +187,163 @@
       <div class="container">
         <div class="heading_container heading_center">
           <h2>
-            Organizing <span>Committee</span>
+            International Advisory <span>Committee</span>
           </h2>
         </div>
         <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
 
         <div class="heading_container span_body">
 
-        <h2><span class="span_head">General Chairs:</span></h2>
+          <h2><span>International Advisory Committee:</span></h2>
 
-        <div class="row">
-
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/Puneet-K.webp" alt="Card image">
-            </center>
-            <div class="card-body">
-              <h4 class="card-title">Puneet Kumar Mishra</h4>
-              <p class="card-text">BoG, IEEE AESS and Chair, IEEE AESS Bangalore Chapter</p>
+          <div class="row">
+            <div class="card col-lg-4 col-md-4 col-sm-6">
+              <center>
+                <img class="card-img-top" src="./images/k_radhakrishnan.webp" alt="Card image">
+              </center>
+              <div class="card-body">
+                <h4 class="card-title">K Radhakrishnan</h4>
+                <p class="card-text">Former: Secretary, DoS / Chairman, ISRO</p>
+              </div>
+            </div>
+            <div class="card col-lg-4 col-md-4 col-sm-6">
+              <center>
+                  <img class="card-img-top" src="./images/rahman.jpg" alt="Card image">
+              </center>
+              <div class="card-body">
+                  <h4 class="card-title">Prof. Saifur Rahman</h4>
+                  <p class="card-text">2023 IEEE President</p>
+              </div>
+            </div>
+            <div class="card col-lg-4 col-md-4 col-sm-6">
+              <center>
+                <img class="card-img-top" src="./images/kathleen.webp" alt="Card image">
+              </center>
+              <div class="card-body">
+                <h4 class="card-title">Prof. Kathleen Kramer</h4>
+                <p class="card-text">2025 IEEE President</p>
+              </div>
             </div>
           </div>
 
-        
-
+          <div class="row">
+            <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+                <img class="card-img-top" src="./images/rob.webp" alt="Card image">
+              </center>
+              <div class="card-body">
+                <h4 class="card-title">Dr. Rob S Fish</h4>
+                <p class="card-text">2021-2022 Chair, IEEE Industry Engagement Committee</p>
+              </div>
+            </div>
+            <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+                <img class="card-img-top" src="./images/aylin.webp" alt="Card image">
+              </center>
+              <div class="card-body">
+                <h4 class="card-title">Aylin Yener</h4>
+                <p class="card-text">IEEE Division IX Director</p>
+              </div>
+            </div>
+            <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+                <img class="card-img-top" src="./images/chris.webp" alt="Card image">
+              </center>
+              <div class="card-body">
+                <h4 class="card-title">Chris  Schober</h4>
+                <p class="card-text">IEEE Division V Director</p>
+              </div>
+            </div>
+          </div>
+        <div class="row">
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+              <center>
+                <img class="card-img-top" src="./images/kamal.webp" alt="Card image">
+              </center>
+              <div class="card-body">
+                <h4 class="card-title"> ⁠Kamal Al-Haddad</h4>
+                <p class="card-text">IEEE Division VI Director</p>
+              </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/lance.webp" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">⁠Prof. Lance Fung</h4>
+                  <p class="card-text">IEEE R10, Director</p>
+                </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/don.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Dr. Don Tan</h4>
+                  <p class="card-text">Northrop Grumann</p>
+                </div>
+          </div>
         </div>
 
-        <h2><span class="span_head">TPC Chairs:</span></h2>
-
         <div class="row">
-
         <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/chandrakanta.webp" alt="Card image">
-            </center>
-            <div class="card-body">
-              <h4 class="card-title">Dr. Chandrakant Kumar</h4>
-              <p class="card-text">URSC, Bangalore</p>
-            </div>
-          </div>
-
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/ashutosh.webp" alt="Card image">
-            </center>
-            <div class="card-body">
-              <h4 class="card-title">Ashutosh Kedar</h4>
-              <p class="card-text">LRDE/DRDO, Bangalore<br>Secretary IEEE AP-MTT Joint Chapter Bangalore</p>
-            </div>
-          </div>
-
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/kvs.webp" alt="Card image">
-            </center>
-            <div class="card-body">
-              <h4 class="card-title">Dr. Kumar Vaibhav Shrivastava</h4>
-              <p class="card-text">IIT Kanpur</p>
-            </div>
-          </div>
-
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/Soumyabrata Chakrabarty.webp" alt="Card image">
-            </center>
-            <div class="card-body">
-              <h4 class="card-title">Dr. Soumyabrata Chakrabarty</h4>
-              <p class="card-text">IIT Gandhinagar</p>
-            </div>
-          </div>
-
+                <center>
+                  <img class="card-img-top" src="./images/Greco.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                <h4 class="card-title">Prof. Sabrina Greco</h4>
+                <p class="card-text">2024-2024 IEEE AESS President</p>
+                </div>
         </div>
-
-        <h2><span class="span_head">Finance Chair:</span></h2>
-
-        <div class="row">
-
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/Mahesh.webp" alt="Card image">
-            </center>
-            <div class="card-body">
-              <h4 class="card-title">Mahesh A</h4>
-              <p class="card-text">Treasurer, IEEE AESS Bangalore Chapter</p>
-            </div>
-          </div>
-
-        </div>
-
-        <h2><span class="span_head">Industry Outreach Chair:</span></h2>
-
-        <div class="row">
-
         <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/Chengappa.webp" alt="Card image">
-            </center>
-            <div class="card-body">
-              <h4 class="card-title">Dr. Chengappa MR</h4>
-              <p class="card-text">HPE</p>
-            </div>
+                <center>
+                  <img class="card-img-top" src="./images/Mark.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                <h4 class="card-title">Dr. Mark E Davis</h4>
+                <p class="card-text">2022-2023 IEEE AESS President</p>
+                </div>
+        </div>
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/manfred.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Manfred Schindler</h4>
+                  <p class="card-text">IEEE VP-TAB</p>
+                </div>
+        </div>
+  </div>
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/dutta.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Prof. Ashutosh Dutta</h4>
+                  <p class="card-text">JHU, USA</p>
+                </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/ravi.webp" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Mr. Ravikiran Annaswamy</h4>
+                  <p class="card-text">2022-2023 President IEEE TEMS</p>
+                </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/bozzi.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Prof. Maurizio Bozzi</h4>
+                  <p class="card-text">2024 President, IEEE MTT-S</p>
+                </div>
           </div>
         </div>
-
-      </div>
-
-      <!-- <div class="row" style="margin: 50px;"> -->
-      <!-- <div class="spon_body col-md-6">
-          <h2><span>Tutorials & FDP</span></h2>
-          <p>
-          <ul>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-          </ul>
-          </p>
-        </div> -->
-      <!-- <div class="spon_body col-md-6">
-          <h2><span>Special Sessions</span></h2>
-          <p>
-          <ul>
-            <li>Rajeev Jyoti, SAC, Ahmedabad (Co-Chair)</li>
-            <li>Prabhakar Pathak, OSU, USA, (Co-Chair)</li>
-            <li>V V Srinivasan, ISRO HQ, Bangalore</li>
-            <li>John Volakis,Florida International Univ, USA</li>
-            <li>M M Sharma, NIT Jaipur</li>
-            <li>Rajeev Chivukula, Honeywell</li>
-            <li>A K Singh, CAIR, Bangalore</li>
-          </ul>
-          </p>
-        </div> -->
-      <!-- <div class="spon_body col-md-6">
-          <h2><span>Invited Talk</span></h2>
-          <p>
-          <ul>
-            <li>M B Mahajan, SAC Ahmedabad (Co-Chair)</li>
-            <li>A R Harish, IIT Kanpur (Co-Chair)</li>
-            <li>D R Jahagirdar, RCI Hyderabad</li>
-            <li>Sarang Pendharkar, IIT Kharagpur</li>
-            <li>Amit Kumar Singh, IIT Jammu</li>
-            <li>Chayan Roy, IIT Kharagpur</li>
-          </ul>
-          </p>
-        </div> -->
-      <!-- <div class="spon_body col-md-6">
-          <h2><span>Workshop</span></h2>
-          <p>
-          <ul>
-            <li>Kumar Vaibhav Shrivastava, IIT Kanpur (Co-Chair)</li>
-            <li>Satyajeet Chakravarti, SAMEER Kolkata (Co-Chair)</li>
-            <li>Senthil Kumar V., URSC, Bangalore </li>
-            <li>Sandeep Chaturvedi, GATEC Hyderabad</li>
-            <li>Karun Rawat, IIT Roorkee</li>
-            <li>Nikhil Arora, IN-SPACe, Bangalore</li>
-          </ul>
-          </p>
-        </div> -->
-      <!-- <div class="spon_body col-md-6">
-          <h2><span>Industry Engagement</span></h2>
-          <p>
-          <ul>
-            <li>Rajeev Jyoti, SAC, Ahmedabad (Chair)</li>
-            <li>Rod Waterhouse, Octane Wireless, USA </li>
-            <li>Puneet Kumar Mishra, URSC, Bangaloe</li>
-            <li>Tushar Sharma, Renesas Electronics, USA</li>
-          </ul>
-          </p>
-        </div> -->
-      <!-- <div class="spon_body col-md-6">
-          <h2><span>5G & Beyond</span></h2>
-          <p>
-          <ul>
-            <li>Aloknath De, Samsung, Bangalore (Chair)</li>
-            <li>Koichi, Ito, Chiba Univeristy, Japan</li>
-            <li>Tim Lee, Boeing, USA</li>
-            <li>Venkata Vanukuru, Global Foundries, Bangalore</li>
-          </ul>
-          </p>
-        </div> -->
-      <!-- <div class="spon_body col-md-6">
-          <h2><span>Sponsorship & Exhibit</span></h2>
-          <p>
-          <ul>
-            <li>Ashutosh Kedar, LRDE, Bangalore (Co-Chair)</li>
-            <li>Sanjeev Kulshrestha, SAC, Ahmedabad (Co-Chair)</li>
-            <li>Purushothaman S., URSC, Bangalore</li>
-            <li>Debajyoti Chaudhari, HCL, Chennai</li>
-          </ul>
-          </p>
-        </div> -->
-      <!-- <div class="spon_body col-md-6">
-          <h2><span>Govt of India Initiatives & Outreach</span></h2>
-          <p>
-          <ul>
-            <li>Tushar Sharma, Renesas Electronics, USA</li>
-            <li>Puneet Kumar Mishra, URSC, Bangalore</li>
-          </ul>
-          </p>
-        </div> -->
-      <!-- <div class="spon_body col-md-6">
-          <h2><span>WiE</span></h2>
-          <p>
-          <ul>
-            <li>MadhumitaCkakravarti, CMSDS, Kolkata (Co-Chair)</li>
-            <li>Keerthipriya N, RRI, Bangalore, (Co-Chair)</li>
-            <li>Jolly Dhar, SAC, Ahmedabad</li>
-            <li>Sherry Hess, Cadence, USA</li>
-            <li>Chandreyee Sarkar, BIT Mesra</li>
-            <li>Ruchita Sonak, IIT Kharagpur</li>
-          </ul>
-          </p>
-        </div> -->
-      <!-- <div class="spon_body col-md-6">
-          <h2><span>YP</span></h2>
-          <p>
-          <ul>
-            <li>Debdeep Sarkar, IISc, Bangalore (Co-Chair)</li>
-            <li>Somak Bhattacharya, IIT BHU (Co-Chair)</li>
-            <li>Arani Ali Khan, IIT Jodhpur</li>
-            <li>SuvadeepChoudhari, LNMIIT Jaipur</li>
-            <li>Raghvendra K Chaudhari, IIT(ISM) Dhanbad</li>
-            <li>Gaurangi Gupta, JPL, NASA</li>
-          </ul>
-          </p>
-        </div> -->
-      <!-- <div class="spon_body col-md-6">
-          <h2><span>SIGHT</span></h2>
-          <p>
-          <ul>
-            <li>ChinmoySaha, IIST, Thiruvanathapuram</li>
-            <li>Jawad Y Siddiqui, RMC, Canada</li>
-            <li>Ajay Poddar, Synergy Microwave, USA</li>
-            <li>G S Mani, Pune, Ex-DIAT, Pune</li>
-          </ul>
-          </p>
-        </div> -->
-      <!-- <div class="spon_body col-md-6">
-          <h2><span>Student Paper Contest</span></h2>
-          <p>
-          <ul>
-            <li>S B Chakravarti, IIT Gandhi Nagar</li>
-            <li>Abhilasha Mishra, MIT Aurangabad</li>
-            <li>Abhishek Chatterji, IIT Kharagpur</li>
-            <li>Dinesh Yadav, MU Jaipur</li>
-            <li>Rashi Srivastava, CUK, Gulbarga</li>
-          </ul>
-          </p>
-        </div> -->
-      <!-- <div class="spon_body col-md-6">
-          <h2><span>Publication</span></h2>
-          <p>
-          <ul>
-            <li>Koushik Dutta, NSCE, Kolkata (Chair)</li>
-            <li>Ananya De, IIT Kharagpur</li>
-            <li>Pallab Kumar Gogoi, IIT Kharagpur</li>
-          </ul>
-          </p>
-        </div> -->
-      <!-- <div class="spon_body col-md-6">
-          <h2><span>PhD Initiative</span></h2>
-          <p>
-          <ul>
-            <li>Mahesh Kumar A., RVCE, Bangalore</li>
-            <li>Saptarshi Ghosh, IIT Indore</li>
-            <li>Suganthi S., Christ University, Bangalore</li>
-          </ul>
-          </p>
-        </div> -->
-      <!-- <div class="spon_body col-md-6">
-          <h2><span>Local Organization</span></h2>
-          <p>
-          <ul>
-            <li>Pawan Kumar B., URSC , Bangalore</li>
-            <li>Reena Mamgain, LRDE, Bangalore </li>
-            <li>Abhinav Kumar Jha, URSC Bangalore</li>
-            <li>Shwetha Amit, MSPL, Bangalore</li>
-          </ul>
-          </p>
-        </div> -->
-      <!-- <div class="spon_body col-md-6">
-          <h2><span>Mentor-Mentee</span></h2>
-          <p>
-          <ul>
-            <li>Chengappa M R, HPE, Bangalore</li>
-            <li>Nipun Kumar Mishra, GGU, Bilaspur</li>
-            <li>Madhuri Prasad, MSRIT</li>
-            <li>Arvind Anant Bhat, RVCE</li>
-          </ul>
-          </p>
-        </div> -->
-      <!-- <div class="spon_body col-md-6">
-          <h2><span>Website And IT</span></h2>
-          <p>
-          <ul>
-            <li>Ketan Keshav, Software Engineer, Gupshup, Bangalore</li>
-            <li>Nagalekha Ramesh, Execom, IEEE Bangalore Section</li>
-            <li>Peerzada Anzar Azmat, New Horizon College of Engineering, Bangalore</li>
-            <li>S J Ruthvik, Dell technologies, Bangalore</li>
-          </ul>
-          </p>
-        </div> -->
-      <!-- <div class="spon_body col-md-6">
-          <h2><span>Publicity & Social Media</span></h2>
-          <p>
-          <ul>
-            <li>Mohit Mishra, IIT Guwahati</li>
-            <li>Kishor Kumar, Robert Bosch, Bangalore</li>
-            <li>Azharudeen, IIT Kharagpur</li>
-          </ul>
-          </p>
-        </div> -->
-      <!-- </div> -->
+  </div>
   </div>
   </section>
 
