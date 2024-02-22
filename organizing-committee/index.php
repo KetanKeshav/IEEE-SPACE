@@ -187,8 +187,9 @@
             </div>
        </div>
 
-        <!-- <h2><span class="span_head">Website Chairs:</span></h2>
+       <h2><span class="span_head">TPC Chairs:</span></h2>
         <div class="row">
+
           <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
               <img class="card-img-top" src="./images/Ketan.webp" alt="Card image">
@@ -208,8 +209,8 @@
               <p class="card-text">IEEE Bangalore Section</p>
             </div>
           </div>
+
         </div>
-        </div> -->
   </section>
 
   </div>
