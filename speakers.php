@@ -193,7 +193,7 @@
             <div class="container">
                 <div class="heading_container heading_center">
                     <h2>
-                        <span>Speakers</span>
+                        <span>Keynote Speakers</span>
                     </h2>
                 </div>
                 <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
@@ -224,7 +224,7 @@
                             </center>
                             <div class="card-body">
                                 <h4 class="card-title">Prof. Saifur Rahman</h4>
-                                <p class="card-text">2024 President-Elect IEEE</p>
+                                <p class="card-text">2023 IEEE President</p>
                             </div>
                         </div>
                     </div>
