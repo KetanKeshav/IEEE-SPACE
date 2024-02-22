@@ -127,36 +127,6 @@
             </div>
           </div>
 
-          <div class="row">
-            <div class="card col-lg-4 col-md-4 col-sm-6">
-              <center>
-                <img class="card-img-top" src="./images/rob.webp" alt="Card image">
-              </center>
-              <div class="card-body">
-                <h4 class="card-title">Dr. Rob S Fish</h4>
-                <p class="card-text">2021-2022 Chair, IEEE Industry Engagement Committee</p>
-              </div>
-            </div>
-            <div class="card col-lg-4 col-md-4 col-sm-6">
-              <center>
-                  <img class="card-img-top" src="./images/aylin.webp" alt="Card image">
-              </center>
-              <div class="card-body">
-                <h4 class="card-title">Aylin Yener</h4>
-                <p class="card-text">IEEE Division IX Director</p>
-              </div>
-            </div>
-            <div class="card col-lg-4 col-md-4 col-sm-6">
-              <center>
-                <img class="card-img-top" src="./images/chris.webp" alt="Card image">
-              </center>
-              <div class="card-body">
-                <h4 class="card-title">Chris  Schober</h4>
-                <p class="card-text">IEEE Division V Director</p>
-              </div>
-            </div>
-          </div>
-
 
           <div class="row">
             <div class="card col-lg-4 col-md-4 col-sm-6">
