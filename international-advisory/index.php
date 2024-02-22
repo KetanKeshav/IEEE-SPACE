@@ -127,7 +127,7 @@
             </div>
           </div>
 
-          <div class="row">
+          <!-- <div class="row">
             <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
                 <img class="card-img-top" src="./images/rob.webp" alt="Card image">
@@ -155,7 +155,7 @@
                 <p class="card-text">IEEE Division V Director</p>
               </div>
             </div>
-          </div>
+          </div> -->
         <div class="row">
           <div class="card col-lg-4 col-md-4 col-sm-6">
               <center>
@@ -186,7 +186,7 @@
           </div>
         </div>
 
-        <!-- <div class="row">
+        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/Greco.jpg" alt="Card image">
@@ -214,7 +214,7 @@
                   <p class="card-text">IEEE VP-TAB</p>
                 </div>
         </div>
-      </div> -->
+      </div>
         <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
