@@ -96,8 +96,6 @@
 
         <!-- <div class="heading_container span_body"> -->
 
-          <h2><span>International Advisory Committee:</span></h2>
-
           <div class="row">
             <div class="card col-lg-4 col-md-4 col-sm-6">
               <center>
