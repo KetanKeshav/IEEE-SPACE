@@ -245,6 +245,35 @@
                 </div>
           </div>
         </div>
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/dutta.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Prof. Ashutosh Dutta</h4>
+                  <p class="card-text">JHU, USA</p>
+                </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/ravi.webp" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Mr. Ravikiran Annaswamy</h4>
+                  <p class="card-text">2022-2023 President IEEE TEMS</p>
+                </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/bozzi.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Prof. Maurizio Bozzi</h4>
+                  <p class="card-text">2024 President, IEEE MTT-S</p>
+                </div>
+          </div>
+        </div>
   </div>
   </div>
   </section>
