@@ -154,7 +154,6 @@
 
         <h2><span class="span_head">Finance Chair:</span></h2>
 
-        <div class="row">
 
           <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
@@ -166,11 +165,9 @@
             </div>
           </div>
 
-        </div>
 
         <h2><span class="span_head">Industry Outreach Chair:</span></h2>
 
-        <div class="row">
 
         <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
@@ -183,7 +180,6 @@
           </div>
         </div>
 
-      </div>
 
   </div>
   </section>
