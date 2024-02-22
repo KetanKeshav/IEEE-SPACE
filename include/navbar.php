@@ -88,7 +88,7 @@
                         Register
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item <?php if($page== "register") echo "active"?>" href="register.php">IEEE SPACE Registration
+                        <a class="dropdown-item <?php if($page== "register") echo "active"?>" href="register.php">SPACE Registration
                         </a>
                         <a class="dropdown-item <?php if($page== "accomodation") echo "active"?>" href="accomodation-list.php">Accomodation List - Reva University
                         </a>

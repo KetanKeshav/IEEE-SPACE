@@ -159,12 +159,12 @@
       <div class="cfa_heading">
         <h1>Dear <span>Researcher</span>,</h1>
         <p style="text-align: justify;">
-        On behalf of IEEE SPACE Organizing Committee, itake opportunity to invite you to participate in this professionally enriching
-        Technical Conference IEEE SPACE.
+        On behalf of SPACE Organizing Committee, itake opportunity to invite you to participate in this professionally enriching
+        Technical Conference SPACE.
 
-        IEEE SPACE* is a premier interdisciplinary forum for space, aerospace, and defence experts, engineers, and researchers to come together to discuss the latest developments in designated technologies. The conference provides a platform for sharing cutting-edge research, exploring innovative approaches, and addressing the technical challenges facing the space, aerospace and defence industries. 
+        SPACE* is a premier interdisciplinary forum for space, aerospace, and defence experts, engineers, and researchers to come together to discuss the latest developments in designated technologies. The conference provides a platform for sharing cutting-edge research, exploring innovative approaches, and addressing the technical challenges facing the space, aerospace and defence industries. 
 
-        It is a well known fact that technologies used in Space, Aerospace and Defence can be used among these 3 domains with some improvement/modifications. The objective of IEEE SPACE is to create a platform where industry professionals and research scientists working across these.domains share, learn and collaborate. Scientists, Researchers and industry practitioners are encouraged to present their work and developments can be used across/at least in two of these domains.
+        It is a well known fact that technologies used in Space, Aerospace and Defence can be used among these 3 domains with some improvement/modifications. The objective of SPACE is to create a platform where industry professionals and research scientists working across these.domains share, learn and collaborate. Scientists, Researchers and industry practitioners are encouraged to present their work and developments can be used across/at least in two of these domains.
 
         The conference covers all aspects of Space, Aerospace and Defence technologies (within IEEE's field of interest). The conference program includes keynote presentations, technical sessions, workshops, and panel discussions, all aimed at fostering collaboration and driving innovation in aerospace and defense.
 
@@ -174,7 +174,7 @@
 
           <strong>
             Puneet Kumar Mishra<br>
-            General Chair, IEEE SPACE 2024
+            General Chair, SPACE 2024
           </strong>
         </p>
       </div>

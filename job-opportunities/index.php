@@ -184,7 +184,7 @@
                 <p style="text-align: justify;">
                     Dear Professor,
                     <br><br>
-                    Greetings from the IEEE SPACE 2024 Team! We have created a portal to gather the possible research
+                    Greetings from the SPACE 2024 Team! We have created a portal to gather the possible research
                     and job opportunities (both short term and long term) in RF, Microwave and Antennas domain in India.
                     <br><br>
                     The purpose of this initiative is to promote research and jobs in RF and Microwave field, by
@@ -202,9 +202,9 @@
                     Thanks and Best Regards,
                     <br><br>
                     <b>
-                        Debdeep Sarkar (Co-Chair, YP Committee, IEEE SPACE 2024)<br>
-                        Somak Bhattacharyya (Co-Chair, YP Committee, IEEE SPACE 2024)<br>
-                        Puneet Kumar Mishra (General Chair, IEEE SPACE 2024)<br>
+                        Debdeep Sarkar (Co-Chair, YP Committee, SPACE 2024)<br>
+                        Somak Bhattacharyya (Co-Chair, YP Committee, SPACE 2024)<br>
+                        Puneet Kumar Mishra (General Chair, SPACE 2024)<br>
                         Web: https://www.ieeemapcon.org/
                     </b>
 

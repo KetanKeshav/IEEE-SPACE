@@ -174,18 +174,18 @@
             <div class="container">
                 <div class="heading_container spon_padding">
                     <h2>
-                        IEEE SPACE-Start Up Initiative
+                        SPACE-Start Up Initiative
                     </h2>
                     <br>
                     <p>
-                        IEEE SPACE is pleased to provide Start Ups working in RF/Microwaves/Antennas/Propagation
+                        SPACE is pleased to provide Start Ups working in RF/Microwaves/Antennas/Propagation
                         domains to showcase their product and services. Each Qualified Start Up will be given 1 Table
                         Space. Qualification Criterion are following:<br><br>
                         1. Start Ups should be working in RF/Microwave/Antennas/Propagation domain<br>
                         2. Start Ups Registration with Start Up India (DPIIT Recognition) Certificate<br>
                         3. Preference to Indian National Founder/Co-Founders<br>
                         4. Preference will be given to Start ups registered in past 3 years<br>
-                        5. At-least two delegates registered for the IEEE SPACE under Non-Member delegate category
+                        5. At-least two delegates registered for the SPACE under Non-Member delegate category
                         (irrespective of their membership status)<br>
                         6. Limited Slots Available. Allotment will be done on FCFS basis subject to meeting all the
                         above criterion.<br>

@@ -157,7 +157,7 @@
       <div class="container">
         <div class="heading_container heading_center">
           <h2>
-            <span>Best Student Paper</span> Award - IEEE SPACE 2024
+            <span>Best Student Paper</span> Award - SPACE 2024
           </h2>
         </div>
         <hr style="border-bottom: 3px solid #2575fc; width: 50%;">

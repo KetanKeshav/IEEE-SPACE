@@ -160,7 +160,7 @@
       </div>
       <div class="cfa_heading">
         <p style="text-align: justify;">
-          IEEE SPACE RF and Microwave Opportunities Portal
+          SPACE RF and Microwave Opportunities Portal
           This portal is being made to gather the research and job opportunities in RF, Microwave and Antennas domain
           for students and young professionals beginning from January, 2023. The purpose of this initiative is to
           promote research and job opportunities in RF and Microwave field. Please take this opportunity to advertise

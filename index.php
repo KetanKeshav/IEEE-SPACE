@@ -62,7 +62,7 @@
                 <div class="col-md-8 mx-auto">
                   <div class="detail_box">
                     <h2>Welcome To</h2>
-                    <h1>IEEE SPACE 2024 </h1>
+                    <h1>SPACE 2024 </h1>
                     <h2><b>July 22-23, 2024</b></h2>
                     <h2><b>Sheraton Grand Bengaluru Whitefield Hotel & Convention Center</b></h2>
                     <!-- <a href="./downloads/Program Booklet.pdf" target="_blank" download="Program Booklet">
@@ -82,7 +82,7 @@
                 <div class="col-md-8 mx-auto">
                   <div class="detail_box">
                     <h2>Welcome To</h2>
-                    <h1>IEEE SPACE 2024</h1>
+                    <h1>SPACE 2024</h1>
                     <h2><b>July 22-23, 2024</b></h2>
                     <h2><b>Sheraton Grand Bengaluru Whitefield Hotel & Convention Center</b></h2>
                     <!-- <a href="register.php" target="_blank">
@@ -102,7 +102,7 @@
                 <div class="col-md-8 mx-auto">
                   <div class="detail_box">
                     <h2>Welcome To</h2>
-                    <h1>IEEE SPACE 2024</h1>
+                    <h1>SPACE 2024</h1>
                     <h2><b>July 22-23, 2024</b></h2>
                     <h2><b>Sheraton Grand Bengaluru Whitefield Hotel & Convention Center</b></h2>
                     <!-- <a href="register.php" target="_blank">
@@ -134,15 +134,15 @@
                 <img src="images/MAPCON-LOGO.png" alt="">
               </div> -->
               <h2>
-                ABOUT <span>IEEE SPACE</span> 2024
+                ABOUT <span>SPACE</span> 2024
               </h2>
             </div>
             <p style="font-weight: bold; color:black;font-size: 16px; text-align:justify">
-            The IEEE SPACE Conference is a premier interdisciplinary forum for space, aerospace, and defense experts, engineers, and researchers to come together to discuss the latest developments in designated technologies. The conference provides a platform for sharing cutting-edge research, exploring innovative approaches, and addressing the technical challenges facing the aerospace and defense industries.
+            The SPACE Conference is a premier interdisciplinary forum for space, aerospace, and defense experts, engineers, and researchers to come together to discuss the latest developments in designated technologies. The conference provides a platform for sharing cutting-edge research, exploring innovative approaches, and addressing the technical challenges facing the aerospace and defense industries.
             The conference covers various topics, including space missions, satellite systems, propulsion technologies, avionics, space exploration, advanced materials, and defense systems. Researchers and industry practitioners worldwide gather to showcase their work, exchange ideas, and collaborate on new initiatives. The conference program includes keynote presentations, technical sessions, workshops, and panel discussions, all aimed at fostering collaboration and driving innovation in aerospace and defense.
-            The IEEE SPACE Conference is a hub for fostering partnerships between industry, academia, and government agencies. It offers valuable opportunities for networking, mentorship, and professional development, enabling attendees to establish new connections and gain insights into the latest trends and best practices in aerospace and defense.
-            With its focus on advancing technology and pushing the boundaries of aerospace and defense capabilities, the IEEE SPACE Conference plays a crucial role in shaping the future of these industries. By bringing together thought leaders and experts, the conference serves as a catalyst for driving progress and innovation in the aerospace and defense sectors, ultimately contributing to advancing Indian & Global aerospace capabilities and national security.
-            Attendees can look forward to engaging with leading experts, gaining exposure to groundbreaking research, and participating in discussions that are at the forefront of shaping the future of aerospace and defense. Whether you are an industry professional, academic researcher, or government representative, the IEEE SPACE Conference offers a unique platform to exchange ideas, foster collaborations, and contribute to advancing aerospace and defense technologies.
+            The SPACE Conference is a hub for fostering partnerships between industry, academia, and government agencies. It offers valuable opportunities for networking, mentorship, and professional development, enabling attendees to establish new connections and gain insights into the latest trends and best practices in aerospace and defense.
+            With its focus on advancing technology and pushing the boundaries of aerospace and defense capabilities, the SPACE Conference plays a crucial role in shaping the future of these industries. By bringing together thought leaders and experts, the conference serves as a catalyst for driving progress and innovation in the aerospace and defense sectors, ultimately contributing to advancing Indian & Global aerospace capabilities and national security.
+            Attendees can look forward to engaging with leading experts, gaining exposure to groundbreaking research, and participating in discussions that are at the forefront of shaping the future of aerospace and defense. Whether you are an industry professional, academic researcher, or government representative, the SPACE Conference offers a unique platform to exchange ideas, foster collaborations, and contribute to advancing aerospace and defense technologies.
             </p>
           </div>
         </div>
