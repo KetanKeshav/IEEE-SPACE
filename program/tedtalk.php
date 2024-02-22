@@ -154,7 +154,8 @@
                         <ul>
                             <li class="f-links"><a href="https://ieee.taleo.net/careersection/2/jobsearch.ftl?utm_source=mf&utm_campaign=taleo-jobs&utm_medium=footer&utm_term=taleo-jobs%20at%20ieee">Careers
                                     at IEEE</a></li>
-                            <li class="f-links"><a href="https://ieeeaps.org/">IEEE APS</a></li>
+                            <li class="f-links"><a href="https://ieee-aess.org/">IEEE AESS</a></li>
+              <li class="f-links"><a href="https://ieeeaps.org/">IEEE APS</a></li>
                             <li class="f-links"><a href="https://mtt.org/">IEEE MTT-S</a></li>
                             <li class="f-links"><a href="https://aps-mtts.ieeebangalore.org/">AP/MTT Joint Bangalore Chapter</a></li>
                             <li class="f-links"><a href="https://iln.ieee.org/public/TrainingCatalog.aspx">IEEE Learning Network</a>
