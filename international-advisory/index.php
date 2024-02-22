@@ -86,9 +86,10 @@
 
     <section class="course_section layout_padding content-bg">
       <div class="container">
-        <div class="heading_container heading_center">
+
+      <div class="heading_container heading_center">
           <h2>
-            International Advisory <span>Committee</span>
+           International Advisory <span>Committee</span>
           </h2>
         </div>
         <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
