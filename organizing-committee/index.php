@@ -355,7 +355,7 @@
             </center>
             <div class="card-body">
               <h4 class="card-title">Puneet Kumar Mishra</h4>
-              <p class="card-text">Chair, IEEE AP-MTT Joint Bangalore Chapter</p>
+              <p class="card-text">BoG, IEEE AESS and Chair, IEEE AESS Bangalore Chapter</p>
             </div>
           </div>
 
