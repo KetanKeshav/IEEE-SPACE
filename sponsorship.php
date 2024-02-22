@@ -167,42 +167,14 @@
           Welcome <span>Message</span>
         </h2><br>
         <p style="text-align: left;">
-          IEEE MTT-S and IEEE AP-S have come together and signed a MoU for combining two flagship conferences
-          of the respective societies in India (IMaRC and InCAP) to a single conference: Microwave, Antennas,
-          and Propagation Conference (MAPCON). The first edition of MAPCON is planned to be organized in
-          Bangalore, India during July 22-23, 2024.
+        On behalf of the executive committee of SPACE 2024, it is my great pleasure to invite you to be a valued sponsor at the event. SPACE offers multiple levels of sponsorship and exhibitor opportunities to promote your organization to this influential audience.
+        We would like you to sponsor this event as a Diamond/Platinum/Gold/Silver/Bronze sponsor. The details for the same are contained in the attached document.
+        Looking forward to see you in the SPACE 2024, at Bangalore.
         </p>
-        <p style="text-align: left;">
-          The key focus of this conference will be on expert talks by internationally renowned professionals,
-          workshops/tutorials by eminent speakers, oral/poster paper presentations by researchers and exhibition
-          by global industries. SPACE 2024 is a right opportunity to showcase state of the art technologies,
-          measurement facilities and modelling tools available in Antenna/Microwave & RF industries.
-        </p>
-        <p style="text-align: left;">
-          This is a 5 days long conference where nearly 1000 participants from various countries (USA, Europe,
-          UK, Australia, Japan, Taiwan, South Korea etc.), Indian research organizations (ISRO, BARC, DRDO, IPR
-          etc.) and Indian academic institutes (IITs & NITs etc.) are expected to attend this conference. This
-          international event offers an outstanding opportunity to exhibit company's products/services and
-          applications to a vibrant and engaged audience and provides an ideal platform to reach hundreds of
-          key decision makers.
-        </p>
-        <p style="text-align: left;">
-          On behalf of the executive committee of SPACE 2024, it is my great pleasure to invite you to be a
-          valued sponsor at the event. MAPCON offers multiple levels of sponsorship and exhibitor opportunities
-          to promote your organization to this influential audience.
-        </p>
-        <p style="text-align: left;">
-          We would like you to sponsor this event as a Diamond/Platinum/Gold/Silver/Bronze sponsor. The details
-          for the same are contained in the attached document.
           <br><br>
-          Looking forward to see you in the SPACE 2024, at Bangalore.
-
-          <br><br>
-
           <strong>
             Puneet Kumar Mishra<br>
-            General Chairs, SPACE 2024<br>
-            <!-- ieeemapcon@gmail.com -->
+            General Chair, SPACE 2024<br>
           </strong>
 
         </p>
@@ -227,11 +199,12 @@
               </h2>
             </div>
             <div class="spon_body">
-              <h2><span>Signature</span> Sponsor: <u>INR 15.0L</u> (US$20.25K) + GST (18%)</h2>
+              <h2><span>Signature</span> Sponsor(Max 2): <u>INR 15.0L</u> (US$20.25K) + GST (18%)</h2>
               <p>
               <ul>
                 <li>12 Complimentary delegate passes</li>
-                <li>20 minutes Banquet Keynote presentation slot and 1 Hour Workshop Slot</li>
+                <li>20 Minutes Keynote presentation slot</li>
+                <li>90 Minutes Hands-on Training Session Slot in one of the Breakaway Venues</li>
                 <li>Acknowledgement during Inaugural, Awards, Banquet and Valedictory functions</li>
                 <li>3 Complimentary exhibit booths at Ultra Prime Location</li>
                 <li>Prominent display of logo on all printed material, backdrop and website</li>
@@ -244,8 +217,8 @@
               <p>
               <ul>
                 <li>6 Complimentary delegate passes</li>
-                <li>20 minutes presentation slot</li>
-                <li>Acknowledgement during Inaugural, Awards and Valedictory functions </li>
+                <li>Opportunity to be a Panel Speaker</li>
+                <li>Acknowledgement during Inaugural, Awards and Valedictory functions</li>
                 <li>2 Complimentary exhibit booths at Prime Location</li>
                 <li>Prominent display of logo on all printed material, backdrop and website</li>
                 <li>Permission to keep Company brochure in registration Kit</li>
@@ -257,7 +230,7 @@
               <p>
               <ul>
                 <li>5 Complimentary delegate passes</li>
-                <li>15 minutes presentation slot</li>
+                <li>10 minutes presentation slot</li>
                 <li>Acknowledgement during Awards & Valedictory Function</li>
                 <li>2 Complimentary exhibit booths at Prime Location</li>
                 <li>Prominent display of logo on all printed material, backdrop and website</li>
@@ -270,7 +243,7 @@
               <p>
               <ul>
                 <li>4 Complimentary delegate passes</li>
-                <li>10 minutes presentation slot</li>
+                <li>10 minutes presentation slot in one of the Breakaway sessions</li>
                 <li>Acknowledgement during Valedictory Function</li>
                 <li>Complimentary exhibit booth</li>
                 <li>Prominent display of logo on all printed material, backdrop and website</li>
@@ -282,7 +255,7 @@
               <p>
               <ul>
                 <li>4 Complimentary delegate passes</li>
-                <li>5 minutes pre-recorded video presentation slot </li>
+                <li>5 minutes pre-recorded video presentation slot in one of the breakaway sessions</li>
                 <li>Complimentary exhibit booth</li>
                 <li>Display of logo on all printed material, backdrop and website</li>
               </ul>
