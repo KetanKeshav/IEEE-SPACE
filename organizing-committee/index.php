@@ -105,8 +105,9 @@
             </div>
           </div>
 
-        <div class="row">
         <h2><span class="span_head">TPC Chairs:</span></h2>
+        <div class="row">
+
           <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
               <img class="card-img-top" src="./images/chandrakanta.webp" alt="Card image">
