@@ -114,7 +114,7 @@
             </center>
             <div class="card-body">
               <h4 class="card-title">Dr. Chandrakant Kumar</h4>
-              <p class="card-text">URSC, Bangalore</p>
+              <p class="card-text">URSC, Bangalore & Chair, IEEE AP/MTT Bangalore Jt. Chapter</p>
             </div>
           </div>
 
@@ -124,7 +124,7 @@
             </center>
             <div class="card-body">
               <h4 class="card-title">Ashutosh Kedar</h4>
-              <p class="card-text">LRDE/DRDO, Bangalore<br>Secretary IEEE AP-MTT Joint Chapter Bangalore</p>
+              <p class="card-text">LRDE/DRDO, Bangalore & Chair-Elect, IEEE AP/MTT Bangalore Jt. Chapter</p>
             </div>
           </div>
 
@@ -134,7 +134,7 @@
             </center>
             <div class="card-body">
               <h4 class="card-title">Dr. Kumar Vaibhav Shrivastava</h4>
-              <p class="card-text">IIT Kanpur</p>
+              <p class="card-text">IIT Kanpur & Chair, IEEE AESS UP Chapter</p>
             </div>
           </div>
         </div>
