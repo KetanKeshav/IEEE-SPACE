@@ -159,21 +159,16 @@
       <div class="cfa_heading">
         <h1>Dear <span>Researcher</span>,</h1>
         <p style="text-align: justify;">
-          On behalf of IEEE SPACE 2024 Organizing Committeee, I take this opportunity to invite you to participate in
-          this professionally enriching flagship technical conference namely IEEE SPACE. IEEE SPACE is joint
-          initiative of IEEE Antenna and Propagation Society (APS) and IEEE Microwave Theory & Techniques Society
-          (MTT-S). 1st edition of IEEE SPACE will be organized on December 12-15,2024. SPACE 2024 will have
-          technical tracks covering all the domains of Microwaves, Antennas and Propagation.
-          The eminent International speakers from US, Europe and premier National research and Industrial Organizations
-          will deliver talks and conduct workshops and tutorials. During this international conference, the prospective
-          researchers will have the opportunity to present their own work in the form of oral presentation, apart from
-          taking the advantage of the talks by a number of international experts. You are requested to upload your
-          paper having length of min 4 pages to maximum six pages, to paper submission portal:
-          <br><br>
-          <a href=" https://edas.info/N29753"> https://edas.info/N29753</a>
-          <br><br>
-          I assure you of an international technically enriched and vibrant experience at SPACE 2024, and I
-          am sure your experience at this conference will be a rewarding and memorable one.
+        On behalf of IEEE SPACE Organizing Committee, itake opportunity to invite you to participate in this professionally enriching
+        Technical Conference IEEE SPACE.
+
+        IEEE SPACE* is a premier interdisciplinary forum for space, aerospace, and defence experts, engineers, and researchers to come together to discuss the latest developments in designated technologies. The conference provides a platform for sharing cutting-edge research, exploring innovative approaches, and addressing the technical challenges facing the space, aerospace and defence industries. 
+
+        It is a well known fact that technologies used in Space, Aerospace and Defence can be used among these 3 domains with some improvement/modifications. The objective of IEEE SPACE is to create a platform where industry professionals and research scientists working across these.domains share, learn and collaborate. Scientists, Researchers and industry practitioners are encouraged to present their work and developments can be used across/at least in two of these domains.
+
+        The conference covers all aspects of Space, Aerospace and Defence technologies (within IEEE's field of interest). The conference program includes keynote presentations, technical sessions, workshops, and panel discussions, all aimed at fostering collaboration and driving innovation in aerospace and defense.
+
+        You are requested to upload your paper having length minimum 2 pages to maximum 4 pages  to paper submission portal
 
           <br><br><br>
 

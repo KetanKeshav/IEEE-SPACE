@@ -53,7 +53,7 @@
                         Authors
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item <?php if($page== "ra") echo "active"?>" href="./registered-authors.php">Registered Authors</a>
+                        <!-- <a class="dropdown-item <?php if($page== "ra") echo "active"?>" href="./registered-authors.php">Registered Authors</a> -->
                         <a class="dropdown-item" href="./call-for-papers/index.php">Call For Papers</a>
                         <a class="dropdown-item" href="./paper-submission/index.php">Paper Submission</a>
                         <a class="dropdown-item" href="./important-dates/index.php">Important Dates</a>
