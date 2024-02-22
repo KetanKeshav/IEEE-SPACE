@@ -185,7 +185,6 @@
               <p class="card-text">Director, MIT ADT University & Chair, IEEE AESS Pune Chapter</p>
             </div>
           </div>
-        </div>
        </div>
 
         <h2><span class="span_head">Website Chairs:</span></h2>
