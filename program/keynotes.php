@@ -606,7 +606,7 @@ state source with appreciable power is attracting attention of researchers due t
         <div class="container">
             <div class="footer_box">
                 <p>
-          Powered by & Copyright &copy; IEEESPACE2024 - IEEE Aerospace and Electronic Systems Society (AESS) and IEEE Microwaves, Antennas and Propagation Conference
+          Powered by & Copyright &copy; 2024 SPACE2024
         </p>
             </div>
         </div>

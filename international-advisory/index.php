@@ -156,9 +156,11 @@
               </div>
             </div>
           </div>
-          <!-- <div class="row">
+
+
+          <div class="row">
             <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
+              <center>
                 <img class="card-img-top" src="./images/rob.webp" alt="Card image">
               </center>
               <div class="card-body">
@@ -167,8 +169,8 @@
               </div>
             </div>
             <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-                <img class="card-img-top" src="./images/aylin.webp" alt="Card image">
+              <center>
+                  <img class="card-img-top" src="./images/aylin.webp" alt="Card image">
               </center>
               <div class="card-body">
                 <h4 class="card-title">Aylin Yener</h4>
@@ -176,7 +178,7 @@
               </div>
             </div>
             <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
+              <center>
                 <img class="card-img-top" src="./images/chris.webp" alt="Card image">
               </center>
               <div class="card-body">
@@ -184,7 +186,8 @@
                 <p class="card-text">IEEE Division V Director</p>
               </div>
             </div>
-          </div> -->
+          </div>
+
         <div class="row">
           <div class="card col-lg-4 col-md-4 col-sm-6">
               <center>
@@ -369,7 +372,7 @@
     <div class="container">
       <div class="footer_box">
         <p>
-        Powered by & Copyright &copy; IEEESPACE2024 - IEEE Aerospace and Electronic Systems Society (AESS) and IEEE Microwaves, Antennas and Propagation Conference
+        Powered by & Copyright &copy; 2024 SPACE2024
         </p>
       </div>
     </div>

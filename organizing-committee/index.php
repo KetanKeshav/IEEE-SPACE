@@ -172,7 +172,31 @@
             </center>
             <div class="card-body">
               <h4 class="card-title">Dr. Chengappa MR</h4>
-              <p class="card-text">HPE</p>
+              <p class="card-text">HPE & Vice Chairman(Technical Activities), IEEE Bangalore Section</p>
+            </div>
+          </div>
+        </div>
+
+        <h2><span class="span_head">Website Chairs:</span></h2>
+        <div class="row">
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/Ketan.webp" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Ketan Keshav</h4>
+              <p class="card-text">IEEE Bangalore Section</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/nagalekha.webp" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Nagalekha Ramesh</h4>
+              <p class="card-text">IEEE Bangalore Section</p>
             </div>
           </div>
         </div>
@@ -271,7 +295,7 @@
     <div class="container">
       <div class="footer_box">
         <p>
-        Powered by & Copyright &copy; IEEESPACE2024 - IEEE Aerospace and Electronic Systems Society (AESS) and IEEE Microwaves, Antennas and Propagation Conference
+        Powered by & Copyright &copy; 2024 SPACE2024
         </p>
       </div>
     </div>
