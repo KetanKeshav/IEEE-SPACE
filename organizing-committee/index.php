@@ -174,7 +174,6 @@
               <h4 class="card-title">Dr. Chengappa MR</h4>
               <p class="card-text">HPE & Vice Chairman(Technical Activities), IEEE Bangalore Section</p>
             </div>
-          </div>
         </div>
         <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
