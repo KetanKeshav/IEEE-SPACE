@@ -93,7 +93,7 @@
         </div>
         <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
 
-        <div class="heading_container span_body">
+        <!-- <div class="heading_container span_body"> -->
 
           <h2><span>International Advisory Committee:</span></h2>
 
