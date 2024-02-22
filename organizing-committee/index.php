@@ -90,7 +90,7 @@
         </div>
         <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
 
-        <div class="heading_container span_body">
+        <!-- <div class="heading_container span_body"> -->
 
         <h2><span class="span_head">General Chairs:</span></h2>
 
@@ -187,7 +187,7 @@
             </div>
        </div>
 
-       <h2><span class="span_head">TPC Chairs:</span></h2>
+       <h2><span class="span_head">Web Chairs:</span></h2>
         <div class="row">
 
           <div class="card col-lg-4 col-md-4 col-sm-6">
@@ -199,7 +199,6 @@
               <p class="card-text">IEEE Bangalore Section</p>
             </div>
           </div>
-
           <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
               <img class="card-img-top" src="./images/nagalekha.webp" alt="Card image">
