@@ -274,6 +274,36 @@
                 </div>
           </div>
         </div>
+
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/manoj.png" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Prof. Manoj Tiwari</h4>
+                  <p class="card-text">Director, IIM Mumbai</p>
+                </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/surendra.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Dr. Surendra Pal</h4>
+                  <p class="card-text">Ex-AD, URSC</p>
+                </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/guha.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Prof. Debatosh Guha</h4>
+                  <p class="card-text">CU, MGA Chair, IEEE AP-S</p>
+                </div>
+          </div>
+        </div>
   </div>
   </div>
   </section>
