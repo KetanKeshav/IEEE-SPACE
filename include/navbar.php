@@ -20,6 +20,7 @@
                         Committee
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item <?php if($page== "iac") echo "active"?>" href="../international-advisory/index.php">International Advisory Committee</a>
                         <a class="dropdown-item" href="./organizing-committee/index.php">Organizing Committee</a>
                         <a class="dropdown-item <?php if($page== "tpc") echo "active"?>" href="./technical-program-committee/index.php">Technical Program
                             Committee</a>
