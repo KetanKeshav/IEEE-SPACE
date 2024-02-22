@@ -209,8 +209,8 @@
               <p class="card-text">IEEE Bangalore Section</p>
             </div>
           </div>
-
         </div>
+  </div>
   </section>
 
   </div>
