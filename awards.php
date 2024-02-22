@@ -157,10 +157,20 @@
         <tbody>
           <tr>
             <th scope="row">1</th>
-            <td>SPACE Best Paper Award(Academia & Industry)</td>
+            <td>SPACE Best Paper Award(Academia & Industry) 1st</td>
             <td>₹ 50,000</td>
           </tr>
           <tr>
+            <th scope="row">1</th>
+            <td>SPACE Best Paper Award(Academia & Industry) 2nd</td>
+            <td>₹ 25,000</td>
+          </tr>
+          <tr>
+            <th scope="row">1</th>
+            <td>SPACE Best Paper Award(Academia & Industry) 3rd</td>
+            <td>₹ 10,000</td>
+          </tr>
+          <!-- <tr>
             <th scope="row">2</th>
             <td>Dr. C J Reddy Best YP Paper Award (Male & Female)</td>
             <td>₹ 15,000</td>
@@ -179,7 +189,7 @@
             <th scope="row">5</th>
             <td>SPACE Best Student Paper Award (2<sup>nd</sup>)</td>
             <td>₹ 5,000</td>
-          </tr>
+          </tr> -->
         </tbody>
       </table>
     </div>
