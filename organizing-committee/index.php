@@ -165,7 +165,7 @@
 
         <h2><span class="span_head">Industry Outreach Chair:</span></h2>
 
-
+        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
               <img class="card-img-top" src="./images/Chengappa.webp" alt="Card image">
@@ -176,6 +176,17 @@
             </div>
           </div>
         </div>
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/Chengappa.webp" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Dr. Chengappa MR</h4>
+              <p class="card-text">HPE & Vice Chairman(Technical Activities), IEEE Bangalore Section</p>
+            </div>
+          </div>
+        </div>
+       </div>
 
         <h2><span class="span_head">Website Chairs:</span></h2>
         <div class="row">
