@@ -122,8 +122,8 @@
               <img class="card-img-top" src="./images/rajeev.jpg" alt="Card image">
             </center>
             <div class="card-body">
-              <h4 class="card-title">Dr. Rajeev Jyoti, Director-Technical</h4>
-              <p class="card-text">IN-SPACe, DoS, GoI</p>
+              <h4 class="card-title">Dr. Rajeev Jyoti</h4>
+              <p class="card-text">Director- Technical, IN-SPACe, DoS, GoI</p>
             </div>
           </div>
           <div class="card col-lg-4 col-md-4 col-sm-6">
