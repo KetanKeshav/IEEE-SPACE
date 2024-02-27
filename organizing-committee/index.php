@@ -90,7 +90,6 @@
         </div>
         <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
 
-        <!-- <div class="heading_container span_body"> -->
 
         <h2><span class="span_head">General Chairs:</span></h2>
 
