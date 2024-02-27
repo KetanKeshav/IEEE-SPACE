@@ -105,6 +105,37 @@
             </div>
           </div>
 
+      <h2><span class="span_head">General Co-Chairs:</span></h2>
+      <div class="row">
+      <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/images.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Dr. Rajlakshmi Menon</h4>
+              <p class="card-text">Director, CABS, DRDO, GoI</p>
+            </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/rajeev.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Dr. Rajeev Jyoti, Director-Technical</h4>
+              <p class="card-text">IN-SPACe, DoS, GoI</p>
+            </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/seema.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">⁠Dr. Seema Chopra</h4>
+              <p class="card-text">ED& Sr.TF,  Boeing India</p>
+            </div>
+          </div>
+      </div>
+
         <h2><span class="span_head">TPC Chairs:</span></h2>
         <div class="row">
 

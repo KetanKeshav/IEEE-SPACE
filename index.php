@@ -137,7 +137,7 @@
                 <img src="images/MAPCON-LOGO.png" alt="">
               </div> -->
               <h2>
-                ABOUT <span>SPACE</span> 2024
+                ABOUT <span>SPACE (SPace, Aerospace and defenCE conference)</span> 2024
               </h2>
             </div>
             <p style="font-weight: bold; color:black;font-size: 16px; text-align:justify">
