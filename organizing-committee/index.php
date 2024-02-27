@@ -96,10 +96,12 @@
         <center>
           <div class="card col-lg-4 col-md-4 col-sm-6">
               <img class="card-img-top" src="./images/puneet.jpg" alt="Card image">
-            <div class="card-body col-lg-4 col-md-4 col-sm-6">
+        <center>
+            <div class="card-body">
               <h4 class="card-title">Puneet Kumar Mishra</h4>
               <p class="card-text">BoG, IEEE AESS and Chair, IEEE AESS Bangalore Chapter</p>
             </div>
+        </center>
           </div>
           </center>
 
