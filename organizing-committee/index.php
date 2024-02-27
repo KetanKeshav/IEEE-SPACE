@@ -91,10 +91,10 @@
         <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
 
 
-        <h2><span class="span_head">General Chairs:</span></h2>
+        <h2><span class="span_head">General Chair:</span></h2>
 
         <center>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
+          <div class="card col-lg-12 col-md-12 col-sm-12">
               <img class="card-img-top" src="./images/puneet.jpg" alt="Card image">
             <div class="card-body">
               <h4 class="card-title">Puneet Kumar Mishra</h4>
