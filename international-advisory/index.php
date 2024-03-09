@@ -459,24 +459,24 @@
                   <p class="card-text">Head of Airbus Defence & Space, India & South Asia</p>
                 </div>
           </div>
-          <!-- <div class="card col-lg-4 col-md-4 col-sm-6">
+          <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
-                  <img class="card-img-top" src="./images/dinanath.jpg" alt="Card image">
+                  <img class="card-img-top" src="./images/john.jpg" alt="Card image">
                 </center>
                 <div class="card-body">
-                  <h4 class="card-title">⁠Mr. Dinanath Kholkar</h4>
-                  <p class="card-text"> Former SVP& Global Head, Partner Ecosystem & Alliances, TCS</p>
+                  <h4 class="card-title">John Barr</h4>
+                  <p class="card-text"> 2002 IEEE MTT-S President and VC, IEEE Conference Committee</p>
                 </div>
           </div>
           <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
-                  <img class="card-img-top" src="./images/singh.jpg" alt="Card image">
+                  <img class="card-img-top" src="./images/manoj.jpg" alt="Card image">
                 </center>
                 <div class="card-body">
-                  <h4 class="card-title">⁠Dr. Kamaljeet Singh</h4>
-                  <p class="card-text">Director, SCL, Chandigarh</p>
+                  <h4 class="card-title">Dr. Manoj Choudhary</h4>
+                  <p class="card-text">VC, Gati Shakti Vishwavidyalaya</p>
                 </div>
-          </div> -->
+          </div>
         </div>
   </div>
   </div>

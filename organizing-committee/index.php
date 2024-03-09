@@ -261,7 +261,7 @@
             </center>
             <div class="card-body">
               <h4 class="card-title">Dr. M B Mahajan</h4>
-              <p class="card-text">SAC Ahmedabad (Co-Chair)</p>
+              <p class="card-text">DD, ASA, SAC, ISRO</p>
             </div>
        </div>
 
@@ -274,7 +274,7 @@
             </center>
             <div class="card-body">
               <h4 class="card-title">Dr. Sanjeev Kulshrestha</h4>
-              <p class="card-text">SAC, Ahmedabad (Co-Chair)</p>
+              <p class="card-text">GD, ASA, SAC & Chair, IEEE AESS Gujarat Chapter</p>
             </div>
        </div>
 
