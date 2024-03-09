@@ -257,11 +257,11 @@
 
         <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
-              <img class="card-img-top" src="./images/m-b-mahajan.jpg" alt="Card image">
+              <img class="card-img-top" src="./images/m-b-mahajan.webp" alt="Card image">
             </center>
             <div class="card-body">
               <h4 class="card-title">Dr. M B Mahajan</h4>
-              <p class="card-text">SAC Ahmedabad (Co-Chair</p>
+              <p class="card-text">SAC Ahmedabad (Co-Chair)</p>
             </div>
        </div>
 
@@ -274,7 +274,7 @@
             </center>
             <div class="card-body">
               <h4 class="card-title">Dr. Sanjeev Kulshrestha</h4>
-              <p class="card-text">Director, MIT ADT University & Chair, IEEE AESS Pune Chapter</p>
+              <p class="card-text">SAC, Ahmedabad (Co-Chair)</p>
             </div>
        </div>
 
