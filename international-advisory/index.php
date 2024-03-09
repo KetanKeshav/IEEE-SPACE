@@ -307,58 +307,58 @@
         <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
-                  <img class="card-img-top" src="./images/manoj.png" alt="Card image">
+                  <img class="card-img-top" src="./images/tapan.png" alt="Card image">
                 </center>
                 <div class="card-body">
-                  <h4 class="card-title">Prof. Manoj Tiwari</h4>
-                  <p class="card-text">Director, IIM Mumbai</p>
+                  <h4 class="card-title">Dr. Tapan Misra</h4>
+                  <p class="card-text">DS & Former Director, SAC</p>
                 </div>
           </div>
           <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
-                  <img class="card-img-top" src="./images/surendra.jpg" alt="Card image">
+                  <img class="card-img-top" src="./images/annadurai.jpg" alt="Card image">
                 </center>
                 <div class="card-body">
-                  <h4 class="card-title">Dr. Surendra Pal</h4>
-                  <p class="card-text">Ex-AD, URSC</p>
+                  <h4 class="card-title">⁠Dr. M Annadurai</h4>
+                  <p class="card-text">DS & Former Director, URSC</p>
                 </div>
           </div>
           <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
-                  <img class="card-img-top" src="./images/guha.jpg" alt="Card image">
+                  <img class="card-img-top" src="./images/dinesh.jpg" alt="Card image">
                 </center>
                 <div class="card-body">
-                  <h4 class="card-title">Prof. Debatosh Guha</h4>
-                  <p class="card-text">CU, MGA Chair, IEEE AP-S</p>
+                  <h4 class="card-title">Shri D K Singh</h4>
+                  <p class="card-text">DS &AD,  SAC, ISRO</p>
                 </div>
           </div>
         </div>
         <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
-                  <img class="card-img-top" src="./images/manoj.png" alt="Card image">
+                  <img class="card-img-top" src="./images/pankaj.png" alt="Card image">
                 </center>
                 <div class="card-body">
-                  <h4 class="card-title">Prof. Manoj Tiwari</h4>
-                  <p class="card-text">Director, IIM Mumbai</p>
+                  <h4 class="card-title">Shri. Pankaj Kiledar</h4>
+                  <p class="card-text">Director, MCF, ISRO</p>
                 </div>
           </div>
           <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
-                  <img class="card-img-top" src="./images/surendra.jpg" alt="Card image">
+                  <img class="card-img-top" src="./images/yashwant.jpg" alt="Card image">
                 </center>
                 <div class="card-body">
-                  <h4 class="card-title">Dr. Surendra Pal</h4>
-                  <p class="card-text">Ex-AD, URSC</p>
+                  <h4 class="card-title">Prof. Yashwant Gupta</h4>
+                  <p class="card-text">Director, NCRA, TIFR, DAE</p>
                 </div>
           </div>
           <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
-                  <img class="card-img-top" src="./images/guha.jpg" alt="Card image">
+                  <img class="card-img-top" src="./images/hari.jpg" alt="Card image">
                 </center>
                 <div class="card-body">
-                  <h4 class="card-title">Prof. Debatosh Guha</h4>
-                  <p class="card-text">CU, MGA Chair, IEEE AP-S</p>
+                  <h4 class="card-title">Prof. K V S Hari</h4>
+                  <p class="card-text">Director, CBR, IISc</p>
                 </div>
           </div>
         </div>
