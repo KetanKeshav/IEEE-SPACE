@@ -91,6 +91,40 @@
         <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
 
 
+        <h2><span class="span_head">Patron:</span></h2>
+        <div class="row">
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/bkdas.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Dr. B K Das</h4>
+              <p class="card-text">DS & DG(ECS), DRDO</p>
+            </div>
+          </div>
+
+          <!-- <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/ashutosh.webp" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Ashutosh Kedar</h4>
+              <p class="card-text">LRDE/DRDO, Bangalore & Chair-Elect, IEEE AP/MTT Bangalore Jt. Chapter</p>
+            </div>
+          </div> -->
+
+          <!-- <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/kvs.webp" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Dr. Kumar Vaibhav Shrivastava</h4>
+              <p class="card-text">IIT Kanpur & Chair, IEEE AESS UP Chapter</p>
+            </div>
+          </div> -->
+        </div>
+
         <h2><span class="span_head">General Chair:</span></h2>
 
         <center>
