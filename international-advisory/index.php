@@ -362,6 +362,93 @@
                 </div>
           </div>
         </div>
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/pankaj.png" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Shri. Pankaj Kiledar</h4>
+                  <p class="card-text">Director, MCF, ISRO</p>
+                </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/yashwant.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Prof. Yashwant Gupta</h4>
+                  <p class="card-text">Director, NCRA, TIFR, DAE</p>
+                </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/hari.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Prof. K V S Hari</h4>
+                  <p class="card-text">Director, CBR, IISc</p>
+                </div>
+          </div>
+        </div>
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/pankaj.png" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Shri. Pankaj Kiledar</h4>
+                  <p class="card-text">Director, MCF, ISRO</p>
+                </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/yashwant.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Prof. Yashwant Gupta</h4>
+                  <p class="card-text">Director, NCRA, TIFR, DAE</p>
+                </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/hari.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Prof. K V S Hari</h4>
+                  <p class="card-text">Director, CBR, IISc</p>
+                </div>
+          </div>
+        </div>
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/pankaj.png" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Shri. Pankaj Kiledar</h4>
+                  <p class="card-text">Director, MCF, ISRO</p>
+                </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/yashwant.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Prof. Yashwant Gupta</h4>
+                  <p class="card-text">Director, NCRA, TIFR, DAE</p>
+                </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/hari.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Prof. K V S Hari</h4>
+                  <p class="card-text">Director, CBR, IISc</p>
+                </div>
+          </div>
+        </div>
   </div>
   </div>
   </section>
