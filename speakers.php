@@ -197,7 +197,6 @@
                     </h2>
                 </div>
                 <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
-                <!-- <h2> Coming Soon</h2> -->
                 <div class="heading_container span_body">
                     <div class="row">
                     <div class="card col-lg-4 col-md-4 col-sm-6">
@@ -208,7 +207,7 @@
                                 <h4 class="card-title">Mr. Thomous Coughling</h4>
                                 <p class="card-text">2024 IEEE President</p>
                             </div>
-                        </div>
+                    </div>
                         <div class="card col-lg-4 col-md-4 col-sm-6">
                         <center>
                             <img class="card-img-top" src="./images/speakers/kathleen.webp" alt="Card image">
@@ -228,7 +227,6 @@
                             </div>
                         </div>
                     </div>
-                </div>
 
                 <div class="row">
                     <div class="card col-lg-4 col-md-4 col-sm-6">
@@ -260,6 +258,7 @@
                     </div>
                     </div>
             </div>
+    </div>
         </section>
 
     </div>
