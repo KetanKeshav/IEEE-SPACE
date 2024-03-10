@@ -88,17 +88,17 @@
   .slide-1{
     position: relative;
     margin-top: 0;
-    background-image: url(../images/car/car-ph-1.webp);
+    background-image: url(../images/car/hero-n.webp);
   }
   .slide-2{
     position: relative;
     margin-top: 0;
-    background-image: url(../images/car/car-ph-2.webp);
+    background-image: url(../images/car/hero-n.webp);
   }
   .slide-3{
     position: relative;
     margin-top: 0;
-    background-image: url(../images/car/car-ph-3.webp);
+    background-image: url(../images/car/hero-n.webp);
   }
   .about_section .detail-box {
     margin-top: 45px;
