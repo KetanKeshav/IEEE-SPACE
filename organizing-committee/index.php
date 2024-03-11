@@ -242,7 +242,7 @@
         </div>
 
         <h2><span class="span_head">Academia Outreach Chair:</span></h2>
-
+        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
               <img class="card-img-top" src="./images/vir.jpg" alt="Card image">
@@ -251,6 +251,17 @@
               <h4 class="card-title">Veerendra V Shete</h4>
               <p class="card-text">Director, MIT ADT University & Chair, IEEE AESS Pune Chapter</p>
             </div>
+       </div>
+       <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/meena.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Veerpratap Meena</h4>
+              <p class="card-text">Chair, IEEE AESS Delhi Chapter</p>
+            </div>
+       </div>
+
        </div>
 
        <h2><span class="span_head"><h2><span class="span_head">Special Sessions Chair:</span></h2>
@@ -267,7 +278,7 @@
 
        <h2><span class="span_head"><h2><span class="span_head">Sponsorship Chair:</span></h2>
 
-
+       <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
               <img class="card-img-top" src="./images/sanjeev.webp" alt="Card image">
@@ -277,6 +288,18 @@
               <p class="card-text">GD, ASA, SAC & Chair, IEEE AESS Gujarat Chapter</p>
             </div>
        </div>
+
+       <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/ashutosh.webp" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Ashutosh Kedar</h4>
+              <p class="card-text">LRDE/DRDO, Bangalore & Chair-Elect, IEEE AP/MTT Bangalore Jt. Chapter</p>
+            </div>
+        </div>
+
+      </div>
 
        <h2><span class="span_head">Web Chairs:</span></h2>
         <div class="row">
