@@ -69,114 +69,6 @@
         <!-- header section strats -->
         <header class="header_section">
             <div class="container-fluid">
-                <!-- <nav class="navbar navbar-expand-lg custom_nav-container ">
-                    <a class="navbar-brand" href="index.php">
-                        <span>
-                            SPACE 2024
-                        </span>
-                    </a>
-                    </a>
-                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class=""> </span>
-                    </button>
-
-                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                        <div class="d-flex mx-auto flex-column flex-lg-row align-items-center">
-                            <ul class="navbar-nav">
-                                <li class="nav-item">
-                                    <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
-                                </li>
-                                <li class="nav-item dropdown ">
-                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                        Committee
-                                    </a>
-                                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <a class="dropdown-item" href="./organizing-committee/index.php">Organizing
-                                            Committee</a>
-                                        <a class="dropdown-item" href="./technical-program-committee/index.php">Technical Program
-                                            Committee</a>
-                                    </div>
-                                </li>
-                                <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                        Authors
-                                    </a>
-                                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <a class="dropdown-item" href="./call-for-papers/index.php">Call For Papers</a>
-                                        <a class="dropdown-item" href="./paper-submission/index.php">Paper
-                                            Submission</a>
-                                        <a class="dropdown-item" href="./important-dates/index.php">Important Dates</a>
-                                        <a class="dropdown-item" href="awards.php">Awards</a>
-                                        <a class="dropdown-item" href="./downloads/MAPCON-CFP.pdf" target="_blank" download="MAPCON-brochure">
-                                            Download CFP
-                                        </a>
-                                    </div>
-                                </li>
-                                <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                        Student Program
-                                    </a>
-                                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <a class="dropdown-item" href="./phd-student-initiative/index.php">PhD Student
-                                            Initiative
-                                            Program</a>
-                                        <a class="dropdown-item" href="./student-paper-award/index.php">Student Paper
-                                            Award</a>
-                                        <a class="dropdown-item" href="./b.tech_m.tech-student-connect/index.php">B.Tech / M.Tech Student
-                                            Connect Initiative Program</a>
-                                        <a class="dropdown-item" href="./student-opportunities/index.php">Opportunities
-                                            for Students</a>
-                                        <a class="dropdown-item" href="./job-opportunities/index.php">Job
-                                            Opportunities</a>
-                                        <a class="dropdown-item" href="./job-opportunities/index.php">Job
-                                            Opportunities</a>
-                                    </div>
-                                </li>
-                                <li class="nav-item active">
-                                    <a class="nav-link" href="speakers.php">Speakers</a>
-                                </li>
-
-                                <li class="nav-item">
-                                    <a class="nav-link" href="sponsorship.php"> Sponsorship</a>
-                                </li>
-                                <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                        Schedule
-                                    </a>
-                                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <a class="dropdown-item" href="../tutorial.php">Tutorial</a>
-                                        <a class="dropdown-item" href="../workshop-1.php">Workshop-1</a>
-                                        <a class="dropdown-item" href="../workshop-2.php">Workshop-2</a>
-                                        <a class="dropdown-item" href="../downloads/MAPCON PROGRAM SCHEDULE.pdf" target="_blank">Conference</a>
-                                        <a class="dropdown-item" href="../downloads/MAPCON Presentation.pptx" target="_blank">Presentation Template</a>
-                                        <a class="dropdown-item" href="../downloads/MAPCON_digital_poster.pptx" target="_blank">Poster Template (A0 size only)</a>
-                                    </div>
-                                </li>
-                                <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                        Register
-                                    </a>
-                                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <a class="dropdown-item" href="register.php">MAPCON Registration
-                                        </a>
-                                        <a class="dropdown-item" href="https://forms.gle/FgXKFrPKpeaYxzFd7">Chapter
-                                            Chair Meeting</a>
-                                        <a class="dropdown-item" href="startup-initiative.php">Startup Initiative</a>
-                                    </div>
-                                </li>
-                                <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                        Venue
-                                    </a>
-                                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <a class="dropdown-item" href="venue.php">Venue</a>
-                                    </div>
-                                </li>
-
-                            </ul>
-                        </div>
-                    </div>
-                </nav> -->
                 <?php include 'include/navbar.php'; ?>
             </div>
         </header>
@@ -186,29 +78,27 @@
 
 
 
-    <!-- end course section -->
     <div class="content_bg">
-
-        <section class="course_section layout_padding content-bg">
-            <div class="container">
-                <div class="heading_container heading_center">
-                    <h2>
-                        <span>Keynote Speakers</span>
-                    </h2>
-                </div>
-                <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
-                <div class="heading_container span_body">
-                    <div class="row">
+    <section class="course_section layout_padding content-bg">
+        <div class="container">
+            <div class="heading_container heading_center">
+                <h2>
+                    <span>Keynote Speakers</span>
+                </h2>
+            </div>
+            <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
+            <div class="heading_container span_body">
+                <div class="row">
                     <div class="card col-lg-4 col-md-4 col-sm-6">
-                            <center>
-                                <img class="card-img-top" src="./images/speakers/tom.jpg" alt="Card image">
-                            </center>
-                            <div class="card-body">
-                                <h4 class="card-title">Mr. Thomous Coughling</h4>
-                                <p class="card-text">2024 IEEE President</p>
-                            </div>
+                        <center>
+                            <img class="card-img-top" src="./images/speakers/tom.jpg" alt="Card image">
+                        </center>
+                        <div class="card-body">
+                            <h4 class="card-title">Mr. Thomous Coughling</h4>
+                            <p class="card-text">2024 IEEE President</p>
+                        </div>
                     </div>
-                        <div class="card col-lg-4 col-md-4 col-sm-6">
+                    <div class="card col-lg-4 col-md-4 col-sm-6">
                         <center>
                             <img class="card-img-top" src="./images/speakers/kathleen.webp" alt="Card image">
                         </center>
@@ -216,93 +106,91 @@
                             <h4 class="card-title">Prof. Kathleen Kramer</h4>
                             <p class="card-text">2025 IEEE President</p>
                         </div>
-                        </div>
-                        <div class="card col-lg-4 col-md-4 col-sm-6">
-                            <center>
-                                <img class="card-img-top" src="./images/speakers/rahman.jpg" alt="Card image">
-                            </center>
-                            <div class="card-body">
-                                <h4 class="card-title">Prof. Saifur Rahman</h4>
-                                <p class="card-text">2023 IEEE President</p>
-                            </div>
-                        </div>
-                    </div>
-
-                <div class="row">
-                    <div class="card col-lg-4 col-md-4 col-sm-6">
-                            <center>
-                                <img class="card-img-top" src="./images/speakers/Mark.jpg" alt="Card image">
-                            </center>
-                            <div class="card-body">
-                                <h4 class="card-title">Dr. Mark E Davis</h4>
-                                <p class="card-text">2022-2023 IEEE AESS President</p>
-                            </div>
-                    </div>
-                    <div class="card col-lg-4 col-md-4 col-sm-6">
-                            <center>
-                                <img class="card-img-top" src="./images/speakers/Greco.jpg" alt="Card image">
-                            </center>
-                            <div class="card-body">
-                                <h4 class="card-title">Prof. Sabrina Greco</h4>
-                                <p class="card-text">2024-2024 IEEE AESS President</p>
-                            </div>
                     </div>
                     <div class="card col-lg-4 col-md-4 col-sm-6">
                         <center>
-                        <img class="card-img-top" src="./images/speakers/bkdas.jpg" alt="Card image">
+                            <img class="card-img-top" src="./images/speakers/rahman.jpg" alt="Card image">
                         </center>
                         <div class="card-body">
-                        <h4 class="card-title">Dr. B K Das</h4>
-                        <p class="card-text">DS & DG(ECS), DRDO</p>
+                            <h4 class="card-title">Prof. Saifur Rahman</h4>
+                            <p class="card-text">2023 IEEE President</p>
                         </div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="card col-lg-4 col-md-4 col-sm-6">
-                            <center>
+                        <center>
+                            <img class="card-img-top" src="./images/speakers/Mark.jpg" alt="Card image">
+                        </center>
+                        <div class="card-body">
+                            <h4 class="card-title">Dr. Mark E Davis</h4>
+                            <p class="card-text">2022-2023 IEEE AESS President</p>
+                        </div>
+                    </div>
+                    <div class="card col-lg-4 col-md-4 col-sm-6">
+                        <center>
+                            <img class="card-img-top" src="./images/speakers/Greco.jpg" alt="Card image">
+                        </center>
+                        <div class="card-body">
+                            <h4 class="card-title">Prof. Sabrina Greco</h4>
+                            <p class="card-text">2024-2024 IEEE AESS President</p>
+                        </div>
+                    </div>
+                    <div class="card col-lg-4 col-md-4 col-sm-6">
+                        <center>
+                            <img class="card-img-top" src="./images/speakers/bkdas.jpg" alt="Card image">
+                        </center>
+                        <div class="card-body">
+                            <h4 class="card-title">Dr. B K Das</h4>
+                            <p class="card-text">DS & DG(ECS), DRDO</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="card col-lg-4 col-md-4 col-sm-6">
+                        <center>
                             <img class="card-img-top" src="./images/speakers/abhay.jpg" alt="Card image">
-                            </center>
-                            <div class="card-body">
+                        </center>
+                        <div class="card-body">
                             <h4 class="card-title">Dr. Abhay A Pashilkar</h4>
                             <p class="card-text"> Director, CSIR-NAL</p>
-                            </div>
-                    </div>
-                    <div class="card col-lg-4 col-md-4 col-sm-6">
-                        <center>
-                        <img class="card-img-top" src="./images/speakers/manoj.jpg" alt="Card image">
-                        </center>
-                        <div class="card-body">
-                        <h4 class="card-title">Dr. Manoj Choudhary</h4>
-                        <p class="card-text">VC, Gati Shakti Vishwavidyalaya</p>
                         </div>
                     </div>
                     <div class="card col-lg-4 col-md-4 col-sm-6">
                         <center>
-                        <img class="card-img-top" src="./images/speakers/tapan.png" alt="Card image">
+                            <img class="card-img-top" src="./images/speakers/manoj.jpg" alt="Card image">
                         </center>
                         <div class="card-body">
-                        <h4 class="card-title">Dr. Tapan Misra</h4>
-                        <p class="card-text">DS & Former Director, SAC</p>
+                            <h4 class="card-title">Dr. Manoj Choudhary</h4>
+                            <p class="card-text">VC, Gati Shakti Vishwavidyalaya</p>
+                        </div>
+                    </div>
+                    <div class="card col-lg-4 col-md-4 col-sm-6">
+                        <center>
+                            <img class="card-img-top" src="./images/speakers/tapan.png" alt="Card image">
+                        </center>
+                        <div class="card-body">
+                            <h4 class="card-title">Dr. Tapan Misra</h4>
+                            <p class="card-text">DS & Former Director, SAC</p>
                         </div>
                     </div>
                 </div>
-
                 <div class="row">
                     <div class="card col-lg-4 col-md-4 col-sm-6">
-                            <center>
-                        <img class="card-img-top" src="./images/speakers/dinesh.jpg" alt="Card image">
+                        <center>
+                            <img class="card-img-top" src="./images/speakers/dinesh.jpg" alt="Card image">
                         </center>
                         <div class="card-body">
-                        <h4 class="card-title">Shri D K Singh</h4>
-                        <p class="card-text">DS &AD,  SAC, ISRO</p>
+                            <h4 class="card-title">Shri D K Singh</h4>
+                            <p class="card-text">DS &AD,  SAC, ISRO</p>
                         </div>
                     </div>
                 </div>
             </div>
-    </div>
-        </section>
+        </div>
+    </section>
+</div>
 
-    </div>
 
     <!-- sponsors section -->
 
@@ -415,7 +303,6 @@
     <!-- Google Map -->
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCh39n5U-4IoWpsVGUHWdqB6puEkhRLdmI&callback=myMap"></script>
     <!-- End Google Map -->
-    <!-- <script src = "./js/custom.js"></script> -->
 </body>
 
 </html>
