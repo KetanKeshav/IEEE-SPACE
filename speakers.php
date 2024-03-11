@@ -256,7 +256,36 @@
                         <p class="card-text">DS & DG(ECS), DRDO</p>
                         </div>
                     </div>
+                </div>
+                <div class="row">
+                    <div class="card col-lg-4 col-md-4 col-sm-6">
+                            <center>
+                            <img class="card-img-top" src="./images/speakers/abhay.jpg" alt="Card image">
+                            </center>
+                            <div class="card-body">
+                            <h4 class="card-title">Dr. Abhay A Pashilkar</h4>
+                            <p class="card-text"> Director, CSIR-NAL</p>
+                            </div>
                     </div>
+                    <div class="card col-lg-4 col-md-4 col-sm-6">
+                        <center>
+                        <img class="card-img-top" src="./images/speakers/manoj.jpg" alt="Card image">
+                        </center>
+                        <div class="card-body">
+                        <h4 class="card-title">Dr. Manoj Choudhary</h4>
+                        <p class="card-text">VC, Gati Shakti Vishwavidyalaya</p>
+                        </div>
+                    </div>
+                    <div class="card col-lg-4 col-md-4 col-sm-6">
+                        <center>
+                        <img class="card-img-top" src="./images/speakers/tapan.png" alt="Card image">
+                        </center>
+                        <div class="card-body">
+                        <h4 class="card-title">Dr. Tapan Misra</h4>
+                        <p class="card-text">DS & Former Director, SAC</p>
+                        </div>
+                    </div>
+                </div>
             </div>
     </div>
         </section>
