@@ -162,12 +162,12 @@
         </div>
         <p>
           For questions / queries please contact : ieeemapcon@gmail.com <br><br>
-          For accomodation related queries please call:<br>
+          <!-- For accomodation related queries please call:<br>
           Shree Harsh : 8434813459 (Boys Hostel)<br>
           Harshith: 9380071718 (Boys Hostel)<br>
           Kushala TS: 7625077324(Girls Hostel)<br>
           Preeti : 7619255924 (Girls Hostel)<br>
-          Dr.M.Devanathan : 7418332829.
+          Dr.M.Devanathan : 7418332829. -->
         </p>
       </div>
     </section>

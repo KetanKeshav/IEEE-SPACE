@@ -478,6 +478,35 @@
                 </div>
           </div>
         </div>
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/srini.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Dr. V V Srinivasan</h4>
+                  <p class="card-text">OS & Former Director, ISTRAC, ISRO</p>
+                </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/abhay.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Dr. Abhay A Pashilkar</h4>
+                  <p class="card-text"> Director, CSIR-NAL</p>
+                </div>
+          </div>
+          <!-- <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/manoj.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Dr. Manoj Choudhary</h4>
+                  <p class="card-text">VC, Gati Shakti Vishwavidyalaya</p>
+                </div>
+          </div> -->
+        </div>
   </div>
   </div>
   </section>
