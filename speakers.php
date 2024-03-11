@@ -182,7 +182,7 @@
                         </center>
                         <div class="card-body">
                             <h4 class="card-title">Shri D K Singh</h4>
-                            <p class="card-text"> DS &AD,  SAC, ISRO</p>
+                            <p class="card-text"> DS &AD, SAC, ISRO</p>
                         </div>
                     </div>
                 </div>
