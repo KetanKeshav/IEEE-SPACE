@@ -102,8 +102,8 @@
                 <img class="card-img-top" src="./images/k_radhakrishnan.webp" alt="Card image">
               </center>
               <div class="card-body">
-                <h4 class="card-title">K Radhakrishnan</h4>
-                <p class="card-text">Former: Secretary, DoS / Chairman, ISRO</p>
+                <h4 class="card-title">Dr. K Radhakrishnan</h4>
+                <p class="card-text">2009-2014 Secretary, DoS/ Chairman ISRO, GoI</p>
               </div>
             </div>
 
@@ -383,10 +383,18 @@
                 </center>
                 <div class="card-body">
                   <h4 class="card-title">Dr K Radhakrishnan</h4>
-                  <p class="card-text">2009-2014 Secretary, DoS/ Chairman ISRO, GoI</p>
+                  <p class="card-text">Former Director LRDE</p>
                 </div>
           </div>
-          
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/dinesh.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Shri D K Singh</h4>
+                  <p class="card-text">DS &AD,  SAC, ISRO</p>
+                </div>
+          </div>
         </div>
         <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
@@ -504,15 +512,7 @@
                   <p class="card-text">OS & Former AD, URSC</p>
                 </div>
           </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-                <center>
-                  <img class="card-img-top" src="./images/dinesh.jpg" alt="Card image">
-                </center>
-                <div class="card-body">
-                  <h4 class="card-title">Shri D K Singh</h4>
-                  <p class="card-text">DS &AD,  SAC, ISRO</p>
-                </div>
-          </div>
+          
         </div>
   </div>
   </div>
