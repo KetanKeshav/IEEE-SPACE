@@ -224,6 +224,15 @@
         <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
+                  <img class="card-img-top" src="./images/bozzi.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Prof. Maurizio Bozzi</h4>
+                  <p class="card-text">2024 President, IEEE MTT-S</p>
+                </div>
+          </div>
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
                   <img class="card-img-top" src="./images/manfred.jpg" alt="Card image">
                 </center>
                 <div class="card-body">
@@ -240,7 +249,9 @@
                   <p class="card-text">JHU, USA</p>
                 </div>
           </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
+        </div>
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/ravi.webp" alt="Card image">
                 </center>
@@ -249,9 +260,6 @@
                   <p class="card-text">2022-2023 President IEEE TEMS</p>
                 </div>
           </div>
-          
-        </div>
-        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/das.jpg" alt="Card image">
@@ -270,7 +278,10 @@
                   <p class="card-text">Director, IIITM Gwalior</p>
                 </div>
           </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
+        </div>
+
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/karthik.jpg" alt="Card image">
                 </center>
@@ -279,9 +290,6 @@
                   <p class="card-text">Director, IIITDM, Kanchipuram</p>
                 </div>
           </div>
-        </div>
-
-        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/manoj.png" alt="Card image">
@@ -300,7 +308,9 @@
                   <p class="card-text">Ex-AD, URSC</p>
                 </div>
           </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
+        </div>
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/guha.jpg" alt="Card image">
                 </center>
@@ -309,8 +319,6 @@
                   <p class="card-text">CU, MGA Chair, IEEE AP-S</p>
                 </div>
           </div>
-        </div>
-        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/tapan.png" alt="Card image">
@@ -327,15 +335,6 @@
                 <div class="card-body">
                   <h4 class="card-title">⁠Dr. M Annadurai</h4>
                   <p class="card-text">DS & Former Director, URSC</p>
-                </div>
-          </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-                <center>
-                  <img class="card-img-top" src="./images/dinesh.jpg" alt="Card image">
-                </center>
-                <div class="card-body">
-                  <h4 class="card-title">Shri D K Singh</h4>
-                  <p class="card-text">DS &AD,  SAC, ISRO</p>
                 </div>
           </div>
         </div>
@@ -507,11 +506,11 @@
           </div>
           <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
-                  <img class="card-img-top" src="./images/bozzi.jpg" alt="Card image">
+                  <img class="card-img-top" src="./images/dinesh.jpg" alt="Card image">
                 </center>
                 <div class="card-body">
-                  <h4 class="card-title">Prof. Maurizio Bozzi</h4>
-                  <p class="card-text">2024 President, IEEE MTT-S</p>
+                  <h4 class="card-title">Shri D K Singh</h4>
+                  <p class="card-text">DS &AD,  SAC, ISRO</p>
                 </div>
           </div>
         </div>
