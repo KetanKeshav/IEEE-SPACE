@@ -310,6 +310,16 @@
             </div>
         </div>
 
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/nikhil.webp" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Nikhil Arora</h4>
+              <p class="card-text">DD, IN-SPACE</p>
+            </div>
+        </div>
+
       </div>
 
        <h2><span class="span_head">Web Chairs:</span></h2>
