@@ -106,6 +106,16 @@
                 <p class="card-text">Former: Secretary, DoS / Chairman, ISRO</p>
               </div>
             </div>
+
+            <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/kiran.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">⁠Shri A S Kiran Kumar</h4>
+                  <p class="card-text">2015-2018 Secretary DoS/Chairman ISRO, GoI</p>
+                </div>
+          </div>
             <div class="card col-lg-4 col-md-4 col-sm-6">
               <center>
                   <img class="card-img-top" src="./images/rahman.jpg" alt="Card image">
@@ -115,7 +125,12 @@
                   <p class="card-text">2023 IEEE President</p>
               </div>
             </div>
-            <div class="card col-lg-4 col-md-4 col-sm-6">
+            
+          </div>
+
+
+          <div class="row">
+          <div class="card col-lg-4 col-md-4 col-sm-6">
               <center>
                 <img class="card-img-top" src="./images/kathleen.webp" alt="Card image">
               </center>
@@ -124,10 +139,6 @@
                 <p class="card-text">2025 IEEE President</p>
               </div>
             </div>
-          </div>
-
-
-          <div class="row">
             <div class="card col-lg-4 col-md-4 col-sm-6">
               <center>
                 <img class="card-img-top" src="./images/rob.webp" alt="Card image">
@@ -146,7 +157,11 @@
                 <p class="card-text">IEEE Division IX Director</p>
               </div>
             </div>
-            <div class="card col-lg-4 col-md-4 col-sm-6">
+            
+          </div>
+
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
               <center>
                 <img class="card-img-top" src="./images/chris.webp" alt="Card image">
               </center>
@@ -155,9 +170,6 @@
                 <p class="card-text">IEEE Division V Director</p>
               </div>
             </div>
-          </div>
-
-        <div class="row">
           <div class="card col-lg-4 col-md-4 col-sm-6">
               <center>
                 <img class="card-img-top" src="./images/kamal.webp" alt="Card image">
@@ -176,7 +188,11 @@
                   <p class="card-text">IEEE R10, Director</p>
                 </div>
           </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
+         
+        </div>
+
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/don.jpg" alt="Card image">
                 </center>
@@ -185,9 +201,6 @@
                   <p class="card-text">Northrop Grumann</p>
                 </div>
           </div>
-        </div>
-
-        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/Greco.jpg" alt="Card image">
@@ -206,6 +219,9 @@
                 <p class="card-text">2022-2023 IEEE AESS President</p>
                 </div>
         </div>
+        
+      </div>
+        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/manfred.jpg" alt="Card image">
@@ -215,8 +231,6 @@
                   <p class="card-text">IEEE VP-TAB</p>
                 </div>
         </div>
-      </div>
-        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/dutta.jpg" alt="Card image">
@@ -235,15 +249,7 @@
                   <p class="card-text">2022-2023 President IEEE TEMS</p>
                 </div>
           </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-                <center>
-                  <img class="card-img-top" src="./images/bozzi.jpg" alt="Card image">
-                </center>
-                <div class="card-body">
-                  <h4 class="card-title">Prof. Maurizio Bozzi</h4>
-                  <p class="card-text">2024 President, IEEE MTT-S</p>
-                </div>
-          </div>
+          
         </div>
         <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
@@ -381,15 +387,7 @@
                   <p class="card-text">2009-2014 Secretary, DoS/ Chairman ISRO, GoI</p>
                 </div>
           </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-                <center>
-                  <img class="card-img-top" src="./images/kiran.jpg" alt="Card image">
-                </center>
-                <div class="card-body">
-                  <h4 class="card-title">⁠Shri A S Kiran Kumar</h4>
-                  <p class="card-text">2015-2018 Secretary DoS/Chairman ISRO, GoI</p>
-                </div>
-          </div>
+          
         </div>
         <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
@@ -505,6 +503,15 @@
                 <div class="card-body">
                   <h4 class="card-title">⁠Dr. Alok Kumar Shrivastava</h4>
                   <p class="card-text">OS & Former AD, URSC</p>
+                </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/bozzi.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Prof. Maurizio Bozzi</h4>
+                  <p class="card-text">2024 President, IEEE MTT-S</p>
                 </div>
           </div>
         </div>
