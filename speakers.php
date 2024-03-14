@@ -175,7 +175,6 @@
                         </div>
                     </div>
                 </div>
-                <div class="row">
                     <div class="card col-lg-4 col-md-4 col-sm-6">
                         <center>
                             <img class="card-img-top" src="./images/speakers/dinesh.jpg" alt="Card image">
@@ -185,25 +184,7 @@
                             <p class="card-text"> DS & AD, SAC, ISRO</p>
                         </div>
                     </div>
-                    <div class="card col-lg-4 col-md-4 col-sm-6">
-                        <!-- <center>
-                            <img class="card-img-top" src="./images/speakers/dinesh.jpg" alt="Card image">
-                        </center> -->
-                        <div class="card-body"> 
-                            <!-- <h4 class="card-title">Shri D K Singh</h4> -->
-                            <!-- <p class="card-text"> DS & AD, SAC, ISRO</p> -->
-                        </div> 
-                    </div>
-                    <div class="card col-lg-4 col-md-4 col-sm-6">
-                        <center>
-                            <!-- <img class="card-img-top" src="./images/speakers/dinesh.jpg" alt="Card image"> -->
-                        </center>
-                        <div class="card-body">
-                            <!-- <h4 class="card-title">Shri D K Singh</h4>
-                            <p class="card-text"> DS & AD, SAC, ISRO</p> -->
-                        </div>
-                    </div>
-                </div>
+                    
             </div>
         </div>
     </section>
