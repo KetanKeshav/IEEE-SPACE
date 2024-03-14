@@ -377,11 +377,22 @@
                   <img class="card-img-top" src="./images/radhakrishna.jpg" alt="Card image">
                 </center>
                 <div class="card-body">
-                  <h4 class="card-title"> ⁠Dr. P Radhakrishna</h4>
-                  <p class="card-text">OS& Former Director, LRDE, DRDO</p>
+                  <h4 class="card-title">Dr K Radhakrishnan</h4>
+                  <p class="card-text">2009-2014 Secretary, DoS/ Chairman ISRO, GoI</p>
                 </div>
           </div>
           <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/kiran.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">⁠Shri A S Kiran Kumar</h4>
+                  <p class="card-text">2015-2018 Secretary DoS/Chairman ISRO, GoI</p>
+                </div>
+          </div>
+        </div>
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/aksingh.jpg" alt="Card image">
                 </center>
@@ -390,8 +401,6 @@
                   <p class="card-text">OS & Former Director, DLRL, DRDO</p>
                 </div>
           </div>
-        </div>
-        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/Nageswar.jpg" alt="Card image">
@@ -410,15 +419,7 @@
                   <p class="card-text">OS & Former AD, LRDE</p>
                 </div>
           </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-                <center>
-                  <img class="card-img-top" src="./images/alok.jpg" alt="Card image">
-                </center>
-                <div class="card-body">
-                  <h4 class="card-title">⁠Dr. Alok Kumar Shrivastava</h4>
-                  <p class="card-text">OS & Former AD, URSC</p>
-                </div>
-          </div>
+          
         </div>
         <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
@@ -497,15 +498,15 @@
                   <p class="card-text"> Director, CSIR-NAL</p>
                 </div>
           </div>
-          <!-- <div class="card col-lg-4 col-md-4 col-sm-6">
+          <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
-                  <img class="card-img-top" src="./images/manoj.jpg" alt="Card image">
+                  <img class="card-img-top" src="./images/alok.jpg" alt="Card image">
                 </center>
                 <div class="card-body">
-                  <h4 class="card-title">Dr. Manoj Choudhary</h4>
-                  <p class="card-text">VC, Gati Shakti Vishwavidyalaya</p>
+                  <h4 class="card-title">⁠Dr. Alok Kumar Shrivastava</h4>
+                  <p class="card-text">OS & Former AD, URSC</p>
                 </div>
-          </div> -->
+          </div>
         </div>
   </div>
   </div>
