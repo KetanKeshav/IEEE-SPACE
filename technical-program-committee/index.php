@@ -645,6 +645,48 @@
     <td>IIT MADRAS</td>
 </tr>
 
+<tr>
+    <td>Subhra Chakraborty</td>
+    <td>Nitte Meenakshi Institute of Technology</td>
+</tr>
+<tr>
+    <td>Dr. Avishek Chakraborty</td>
+    <td>GITAM University Bangalore</td>
+</tr>
+<tr>
+    <td>Dr S Angel Latha Mary</td>
+    <td>SNS College of Technology</td>
+</tr>
+<tr>
+    <td>TAHIR NAQUASH H B</td>
+    <td>HKBK COLLEGE OF ENGINEERING</td>
+</tr>
+<tr>
+    <td>Dr. Shweta Loonkar</td>
+    <td>Atlas Skilltech University</td>
+</tr>
+<tr>
+    <td>Dr. Prince Jain</td>
+    <td>Parul University, Vadodara</td>
+</tr>
+<tr>
+    <td>DR. MANU Y M</td>
+    <td>ADICHUNCHANAGIRI UNIVERSITY</td>
+</tr>
+<tr>
+    <td>Dr. Garima Mathur</td>
+    <td>Poornima College of Engineering Jaipur</td>
+</tr>
+<tr>
+    <td>Dr Sudarshan Patilkulkarni</td>
+    <td></td>
+</tr>
+<tr>
+    <td>Dr. Madhusudhanan Natarajan</td>
+    <td>National Institute of Technology Karnataka, Surathkal</td>
+</tr>
+
+
           </tbody>
         </table>
       </div>

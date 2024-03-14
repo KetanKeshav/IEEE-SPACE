@@ -247,7 +247,7 @@
             </center>
             <div class="card-body">
               <h4 class="card-title">Harish Veerabhadraiah</h4>
-              <p class="card-text">HO-Space system at Airbus Group</p>
+              <p class="card-text">KAM Space Systems, Airbus India</p>
             </div>
         </div>
         </div>
