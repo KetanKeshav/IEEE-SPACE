@@ -170,7 +170,7 @@
               </tr> -->
               <tr>
                 <td>10% Discount</td>
-                <td>March 15, 2024</td>
+                <td>April 15, 2024</td>
               </tr>
             </tbody>
           </table>
