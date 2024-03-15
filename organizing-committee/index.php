@@ -214,6 +214,24 @@
               <p class="card-text">IIT Gandhinagar</p>
             </div>
           </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/Radhakant.webp" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Prof. Radhakant Padhi</h4>
+              <p class="card-text"> IISc</p>
+            </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/Madumita Chakravarti.webp" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Dr. Madhumita Chakravarti</h4>
+              <p class="card-text">Former Director CMSDS</p>
+            </div>
+          </div>
 
         <h2><span class="span_head">Finance Chair:</span></h2>
 
