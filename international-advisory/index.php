@@ -253,14 +253,194 @@
         <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
-                  <img class="card-img-top" src="./images/ravi.webp" alt="Card image">
+                  <img class="card-img-top" src="./images/abhay.jpg" alt="Card image">
                 </center>
                 <div class="card-body">
-                  <h4 class="card-title">Mr. Ravikiran Annaswamy</h4>
-                  <p class="card-text">2022-2023 President IEEE TEMS</p>
+                  <h4 class="card-title">Dr. Abhay A Pashilkar</h4>
+                  <p class="card-text"> Director, CSIR-NAL</p>
+                </div>
+        </div>
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/dinesh.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Shri D K Singh</h4>
+                  <p class="card-text">DS &AD,  SAC, ISRO</p>
+                </div>
+        </div>
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/pankaj.png" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Shri. Pankaj Kiledar</h4>
+                  <p class="card-text">Director, MCF, ISRO</p>
+                </div>
+        </div>
+        </div>
+        
+        
+        
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/subha.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">⁠Dr. Subba Rao Pavuluri</h4>
+                  <p class="card-text">President, SIA-India & Chairman & MD Ananth Technologies Ltd</p>
+                </div>
+        </div>
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/venkat.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Mr. Venkat Katkuri</h4>
+                  <p class="card-text">Head of Airbus Defence & Space, India & South Asia</p>
                 </div>
           </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/annadurai.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">⁠Dr. M Annadurai</h4>
+                  <p class="card-text">DS & Former Director, URSC</p>
+                </div>
+          </div>
+  </div>
+
+        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/tapan.png" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Dr. Tapan Misra</h4>
+                  <p class="card-text">DS & Former Director, SAC</p>
+                </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/surendra.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Dr. Surendra Pal</h4>
+                  <p class="card-text">Ex-AD, URSC</p>
+                </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/rajkumar.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Dr. Rajkumar Sharma</h4>
+                  <p class="card-text">DS & Former Director, NRSC, ISRO</p>
+                </div>
+          </div>
+          
+        </div>
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/manoj.png" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Prof. Manoj Tiwari</h4>
+                  <p class="card-text">Director, IIM Mumbai</p>
+                </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/manoj.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Dr. Manoj Choudhary</h4>
+                  <p class="card-text">VC, Gati Shakti Vishwavidyalaya</p>
+                </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/dinanath.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">⁠Mr. Dinanath Kholkar</h4>
+                  <p class="card-text"> Former SVP& Global Head, Partner Ecosystem & Alliances, TCS</p>
+                </div>
+          </div>      
+        </div>
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/Nageswar.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Dr. M Nageswar Rao</h4>
+                  <p class="card-text">DS & Former AD, URSC</p>
+                </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/alok.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">⁠Dr. Alok Kumar Shrivastava</h4>
+                  <p class="card-text">OS & Former AD, URSC</p>
+                </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/ksingh.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">⁠Dr. Kamaljeet Singh</h4>
+                  <p class="card-text">Director, SCL, Chandigarh</p>
+                </div>
+          </div>
+        </div>
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/pande.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Dr. D C Pande</h4>
+                  <p class="card-text">OS & Former AD, LRDE</p>
+                </div>
+          </div>
+          
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/radhakrishna.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Dr K Radhakrishnan</h4>
+                  <p class="card-text">Former Director LRDE</p>
+                </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/guha.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Prof. Debatosh Guha</h4>
+                  <p class="card-text">CU, MGA Chair, IEEE AP-S</p>
+                </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/aksingh.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">⁠⁠Dr. A K Singh</h4>
+                  <p class="card-text">OS & Former Director, DLRL, DRDO</p>
+                </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/das.jpg" alt="Card image">
                 </center>
@@ -279,7 +459,7 @@
                 </div>
           </div>
         </div>
-
+        
         <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
@@ -288,64 +468,6 @@
                 <div class="card-body">
                   <h4 class="card-title">Prof. M V Kartikeyan</h4>
                   <p class="card-text">Director, IIITDM, Kanchipuram</p>
-                </div>
-          </div>
-        <div class="card col-lg-4 col-md-4 col-sm-6">
-                <center>
-                  <img class="card-img-top" src="./images/manoj.png" alt="Card image">
-                </center>
-                <div class="card-body">
-                  <h4 class="card-title">Prof. Manoj Tiwari</h4>
-                  <p class="card-text">Director, IIM Mumbai</p>
-                </div>
-          </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-                <center>
-                  <img class="card-img-top" src="./images/surendra.jpg" alt="Card image">
-                </center>
-                <div class="card-body">
-                  <h4 class="card-title">Dr. Surendra Pal</h4>
-                  <p class="card-text">Ex-AD, URSC</p>
-                </div>
-          </div>
-        </div>
-        <div class="row">
-        <div class="card col-lg-4 col-md-4 col-sm-6">
-                <center>
-                  <img class="card-img-top" src="./images/guha.jpg" alt="Card image">
-                </center>
-                <div class="card-body">
-                  <h4 class="card-title">Prof. Debatosh Guha</h4>
-                  <p class="card-text">CU, MGA Chair, IEEE AP-S</p>
-                </div>
-          </div>
-        <div class="card col-lg-4 col-md-4 col-sm-6">
-                <center>
-                  <img class="card-img-top" src="./images/tapan.png" alt="Card image">
-                </center>
-                <div class="card-body">
-                  <h4 class="card-title">Dr. Tapan Misra</h4>
-                  <p class="card-text">DS & Former Director, SAC</p>
-                </div>
-          </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-                <center>
-                  <img class="card-img-top" src="./images/annadurai.jpg" alt="Card image">
-                </center>
-                <div class="card-body">
-                  <h4 class="card-title">⁠Dr. M Annadurai</h4>
-                  <p class="card-text">DS & Former Director, URSC</p>
-                </div>
-          </div>
-        </div>
-        <div class="row">
-        <div class="card col-lg-4 col-md-4 col-sm-6">
-                <center>
-                  <img class="card-img-top" src="./images/pankaj.png" alt="Card image">
-                </center>
-                <div class="card-body">
-                  <h4 class="card-title">Shri. Pankaj Kiledar</h4>
-                  <p class="card-text">Director, MCF, ISRO</p>
                 </div>
           </div>
           <div class="card col-lg-4 col-md-4 col-sm-6">
@@ -370,123 +492,6 @@
         <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
-                  <img class="card-img-top" src="./images/rajkumar.jpg" alt="Card image">
-                </center>
-                <div class="card-body">
-                  <h4 class="card-title">Dr. Rajkumar Sharma</h4>
-                  <p class="card-text">DS & Former Director, NRSC, ISRO</p>
-                </div>
-          </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-                <center>
-                  <img class="card-img-top" src="./images/radhakrishna.jpg" alt="Card image">
-                </center>
-                <div class="card-body">
-                  <h4 class="card-title">Dr K Radhakrishnan</h4>
-                  <p class="card-text">Former Director LRDE</p>
-                </div>
-          </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-                <center>
-                  <img class="card-img-top" src="./images/dinesh.jpg" alt="Card image">
-                </center>
-                <div class="card-body">
-                  <h4 class="card-title">Shri D K Singh</h4>
-                  <p class="card-text">DS &AD,  SAC, ISRO</p>
-                </div>
-          </div>
-        </div>
-        <div class="row">
-        <div class="card col-lg-4 col-md-4 col-sm-6">
-                <center>
-                  <img class="card-img-top" src="./images/aksingh.jpg" alt="Card image">
-                </center>
-                <div class="card-body">
-                  <h4 class="card-title">⁠⁠Dr. A K Singh</h4>
-                  <p class="card-text">OS & Former Director, DLRL, DRDO</p>
-                </div>
-          </div>
-        <div class="card col-lg-4 col-md-4 col-sm-6">
-                <center>
-                  <img class="card-img-top" src="./images/Nageswar.jpg" alt="Card image">
-                </center>
-                <div class="card-body">
-                  <h4 class="card-title">Dr. M Nageswar Rao</h4>
-                  <p class="card-text">DS & Former AD, URSC</p>
-                </div>
-          </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-                <center>
-                  <img class="card-img-top" src="./images/pande.jpg" alt="Card image">
-                </center>
-                <div class="card-body">
-                  <h4 class="card-title">Dr. D C Pande</h4>
-                  <p class="card-text">OS & Former AD, LRDE</p>
-                </div>
-          </div>
-          
-        </div>
-        <div class="row">
-        <div class="card col-lg-4 col-md-4 col-sm-6">
-                <center>
-                  <img class="card-img-top" src="./images/subha.jpg" alt="Card image">
-                </center>
-                <div class="card-body">
-                  <h4 class="card-title">⁠Dr. Subba Rao Pavuluri</h4>
-                  <p class="card-text">President, SIA-India & Chairman & MD Ananth Technologies Ltd</p>
-                </div>
-          </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-                <center>
-                  <img class="card-img-top" src="./images/dinanath.jpg" alt="Card image">
-                </center>
-                <div class="card-body">
-                  <h4 class="card-title">⁠Mr. Dinanath Kholkar</h4>
-                  <p class="card-text"> Former SVP& Global Head, Partner Ecosystem & Alliances, TCS</p>
-                </div>
-          </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-                <center>
-                  <img class="card-img-top" src="./images/ksingh.jpg" alt="Card image">
-                </center>
-                <div class="card-body">
-                  <h4 class="card-title">⁠Dr. Kamaljeet Singh</h4>
-                  <p class="card-text">Director, SCL, Chandigarh</p>
-                </div>
-          </div>
-        </div>
-        <div class="row">
-        <div class="card col-lg-4 col-md-4 col-sm-6">
-                <center>
-                  <img class="card-img-top" src="./images/venkat.jpg" alt="Card image">
-                </center>
-                <div class="card-body">
-                  <h4 class="card-title">Mr. Venkat Katkuri</h4>
-                  <p class="card-text">Head of Airbus Defence & Space, India & South Asia</p>
-                </div>
-          </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-                <center>
-                  <img class="card-img-top" src="./images/john.jpg" alt="Card image">
-                </center>
-                <div class="card-body">
-                  <h4 class="card-title">John Barr</h4>
-                  <p class="card-text"> 2002 IEEE MTT-S President and VC, IEEE Conference Committee</p>
-                </div>
-          </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-                <center>
-                  <img class="card-img-top" src="./images/manoj.jpg" alt="Card image">
-                </center>
-                <div class="card-body">
-                  <h4 class="card-title">Dr. Manoj Choudhary</h4>
-                  <p class="card-text">VC, Gati Shakti Vishwavidyalaya</p>
-                </div>
-          </div>
-        </div>
-        <div class="row">
-        <div class="card col-lg-4 col-md-4 col-sm-6">
-                <center>
                   <img class="card-img-top" src="./images/srini.jpg" alt="Card image">
                 </center>
                 <div class="card-body">
@@ -494,25 +499,25 @@
                   <p class="card-text">OS & Former Director, ISTRAC, ISRO</p>
                 </div>
           </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
-                  <img class="card-img-top" src="./images/abhay.jpg" alt="Card image">
+                  <img class="card-img-top" src="./images/john.jpg" alt="Card image">
                 </center>
                 <div class="card-body">
-                  <h4 class="card-title">Dr. Abhay A Pashilkar</h4>
-                  <p class="card-text"> Director, CSIR-NAL</p>
+                  <h4 class="card-title">John Barr</h4>
+                  <p class="card-text"> 2002 IEEE MTT-S President and VC, IEEE Conference Committee</p>
                 </div>
-          </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
+        </div>
+        <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
-                  <img class="card-img-top" src="./images/alok.jpg" alt="Card image">
+                  <img class="card-img-top" src="./images/ravi.webp" alt="Card image">
                 </center>
                 <div class="card-body">
-                  <h4 class="card-title">⁠Dr. Alok Kumar Shrivastava</h4>
-                  <p class="card-text">OS & Former AD, URSC</p>
+                  <h4 class="card-title">Mr. Ravikiran Annaswamy</h4>
+                  <p class="card-text">2022-2023 President IEEE TEMS</p>
                 </div>
           </div>
-          
+        </div>  
         </div>
   </div>
   </div>
