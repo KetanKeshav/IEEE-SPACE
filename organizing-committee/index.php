@@ -204,7 +204,7 @@
             </div>
           </div>
         </div>
-
+        <div class="row">
           <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
               <img class="card-img-top" src="./images/Soumyabrata Chakrabarty.webp" alt="Card image">
@@ -232,7 +232,7 @@
               <p class="card-text">Former Director CMSDS</p>
             </div>
           </div>
-
+  </div>
         <h2><span class="span_head">Finance Chair:</span></h2>
 
 
