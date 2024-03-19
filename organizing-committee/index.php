@@ -229,7 +229,7 @@
             </center>
             <div class="card-body">
               <h4 class="card-title">Dr. Madhumita Chakravarti</h4>
-              <p class="card-text">Former Director CMSDS</p>
+              <p class="card-text">Former Director CMSDS & Chair, AESS Hyderabad Chapter</p>
             </div>
           </div>
   </div>
