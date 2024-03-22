@@ -91,7 +91,7 @@
         <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
 
 
-        <h2><span class="span_head">Patron:</span></h2>
+        <h2><span class="span_head">Patrons:</span></h2>
         <div class="row">
 
           <div class="card col-lg-4 col-md-4 col-sm-6">
