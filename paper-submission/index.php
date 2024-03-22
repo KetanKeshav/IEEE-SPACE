@@ -208,7 +208,6 @@
         <div class="spon_body">
           <h2>PAPER <span>UPLOAD</span></h2>
           <p>
-            All papers must be submitted in PDF via EDAS: <a href="https://edas.info/index.php?c=32329">https://edas.info/index.php?c=32329</a>
 
             <br><br>
 
@@ -223,6 +222,9 @@
             sent for possible inclusion in IEEE Xplore. The authors must agree to the IEEE copyright conditions
             and sign the IEEE copyright form as part of the online submission process. All submitted papers will
             be peer reviewed by the Technical Program Committees (TPC).
+
+            <br>
+            All papers must be submitted in PDF via EDAS: <a href="https://edas.info/index.php?c=32329">https://edas.info/index.php?c=32329</a>
 
           </p>
         </div>
