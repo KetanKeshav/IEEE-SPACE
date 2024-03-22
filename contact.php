@@ -161,7 +161,7 @@
           </h2>
         </div>
         <p>
-          For questions / queries please contact : ieeemapcon@gmail.com <br><br>
+          For questions / queries please contact : ieeespace2024@gmail.com<br><br>
           <!-- For accomodation related queries please call:<br>
           Shree Harsh : 8434813459 (Boys Hostel)<br>
           Harshith: 9380071718 (Boys Hostel)<br>

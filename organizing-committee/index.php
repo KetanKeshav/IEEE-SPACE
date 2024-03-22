@@ -103,6 +103,15 @@
               <p class="card-text">DS & DG(ECS), DRDO</p>
             </div>
           </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/Unnikrishnan.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Dr S. Unnikrishnan Nair</h4>
+              <p class="card-text">DS and Director, VSSC & IIST, ISRO</p>
+            </div>
+          </div>
 
           <!-- <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
@@ -233,6 +242,15 @@
             </div>
           </div>
   </div>
+  <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/Krishna.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Dr Krishna Paul, Director</h4>
+              <p class="card-text">Intel</p>
+            </div>
+          </div>
 
   <h2><span class="span_head"><h2><span class="span_head">Special Sessions Chair:</span></h2>
        <div class="row">
@@ -253,6 +271,15 @@
             <div class="card-body">
               <h4 class="card-title">Dr. Vinod Chipoalkatti</h4>
               <p class="card-text">President, SEBU, Centum</p>
+            </div>
+       </div>
+       <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/Shitalkumar.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Shitalkumar Joshi</h4>
+              <p class="card-text">Sr Director Ansys</p>
             </div>
        </div>
        </div>
@@ -303,16 +330,25 @@
               <h4 class="card-title">Veerendra V Shete</h4>
               <p class="card-text">Director, MIT ADT University & Chair, IEEE AESS Pune Chapter</p>
             </div>
-       </div>
-       <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/meena.png" alt="Card image">
-            </center>
-            <div class="card-body">
-              <h4 class="card-title">Veerpratap Meena</h4>
-              <p class="card-text">Chair, IEEE AESS Delhi Chapter</p>
-            </div>
-       </div>
+        </div>
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+              <center>
+                <img class="card-img-top" src="./images/meena.png" alt="Card image">
+              </center>
+              <div class="card-body">
+                <h4 class="card-title">Veerpratap Meena</h4>
+                <p class="card-text">Chair, IEEE AESS Delhi Chapter</p>
+              </div>
+        </div>
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+              <center>
+                <img class="card-img-top" src="./images/Devendra.jpg" alt="Card image">
+              </center>
+              <div class="card-body">
+                <h4 class="card-title">Dr Devendra Gowda Patil</h4>
+                <p class="card-text">AIT</p>
+              </div>
+        </div>
 
        </div>
 
@@ -370,6 +406,29 @@
             <div class="card-body">
               <h4 class="card-title">Nagalekha Ramesh</h4>
               <p class="card-text">IEEE Bangalore Section</p>
+            </div>
+          </div>
+        </div>
+
+        <h2><span class="span_head">Publicity Chairs:</span></h2>
+        <div class="row">
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/Abir.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Abir Tabarki</h4>
+              <p class="card-text">IEEE AESS BoG</p>
+            </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/Ambar.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Dr. Ambar Bajpai</h4>
+              <p class="card-text">GITAM University</p>
             </div>
           </div>
         </div>

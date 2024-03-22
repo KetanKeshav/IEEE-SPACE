@@ -254,7 +254,7 @@
                                 href="./downloads/MAPCON Pre Conference Workshop and Tutorial Registration Form.pdf"
                                 download>Pre Conference Workshop & Tutorials,</a> 2. <a
                                 href="./downloads/MAPCON Conference Registration Form.pdf" download>Conference</a> ) to
-                            ieeemapcon@gmail.com.
+                                ieeespace2024@gmail.com
                         </li>
                     </ol>
                     </p>
