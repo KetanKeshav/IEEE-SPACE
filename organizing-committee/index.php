@@ -510,7 +510,7 @@
           <div class="col-md-2">
             <h3 class="f-header">Contact Info</h3>
             <div class="detail_box">
-              <a href="https://ieeemapcon.org/contact.php" class="button-con">
+              <a href="https://ieeespace.org/contact.php" class="button-con">
                 Contact and Support
               </a>
             </div>
