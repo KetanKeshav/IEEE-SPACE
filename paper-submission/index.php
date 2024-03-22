@@ -209,8 +209,6 @@
           <h2>PAPER <span>UPLOAD</span></h2>
           <p>
 
-            <br><br>
-
             The submitting authors may be required to create an EDAS account before uploading the paper
             (if the submitting author does not have a Microsoft Conference Management Toolkit account).
             While uploading the paper, the authors should provide the title of the paper, an abstract of
@@ -223,7 +221,7 @@
             and sign the IEEE copyright form as part of the online submission process. All submitted papers will
             be peer reviewed by the Technical Program Committees (TPC).
 
-            <br>
+            <br><br><br>
             All papers must be submitted in PDF via EDAS: <a href="https://edas.info/index.php?c=32329">https://edas.info/index.php?c=32329</a>
 
           </p>
