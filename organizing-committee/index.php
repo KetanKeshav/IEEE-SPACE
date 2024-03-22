@@ -247,8 +247,8 @@
               <img class="card-img-top" src="./images/Krishna.jpg" alt="Card image">
             </center>
             <div class="card-body">
-              <h4 class="card-title">Dr Krishna Paul, Director</h4>
-              <p class="card-text">Intel</p>
+              <h4 class="card-title">Dr Krishna Paul</h4>
+              <p>Director, Intel</p>
             </div>
           </div>
 
