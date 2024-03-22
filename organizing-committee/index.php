@@ -248,11 +248,11 @@
             </center>
             <div class="card-body">
               <h4 class="card-title">Dr Krishna Paul</h4>
-              <p>Director, Intel</p>
+              <p class="card-text">Director, Intel</p>
             </div>
           </div>
 
-  <h2><span class="span_head"><h2><span class="span_head">Special Sessions Chair:</span></h2>
+  <h2><span class="span_head"><h2><span class="span_head">Special Sessions Chairs:</span></h2>
        <div class="row">
 
         <div class="card col-lg-4 col-md-4 col-sm-6">
@@ -298,7 +298,7 @@
         </div>
 
 
-        <h2><span class="span_head">Industry Outreach Chair:</span></h2>
+        <h2><span class="span_head">Industry Outreach Chairs:</span></h2>
         <div class="row">
 
         <div class="card col-lg-4 col-md-4 col-sm-6">
@@ -320,7 +320,7 @@
             </div>
         </div>
         </div>
-        <h2><span class="span_head">Academia Outreach Chair:</span></h2>
+        <h2><span class="span_head">Academia Outreach Chairs:</span></h2>
         <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
@@ -352,7 +352,7 @@
 
        </div>
 
-       <h2><span class="span_head"><h2><span class="span_head">Sponsorship Chair:</span></h2>
+       <h2><span class="span_head"><h2><span class="span_head">Sponsorship Chairs:</span></h2>
 
        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
