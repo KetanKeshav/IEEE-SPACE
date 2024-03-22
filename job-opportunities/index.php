@@ -261,7 +261,7 @@
                                 <a href="https://twitter.com/ieeemapcon?lang=en" target="_blank">
                                     <i class="fa fa-twitter" aria-hidden="true"></i>
                                 </a>
-                                <a href="https://www.linkedin.com/in/ieee-mapcon-4a9845233/recent-activity/"
+                                <a href="https://www.linkedin.com/in/ieee-space-1859532bb/"
                                     target="_blank">
                                     <i class="fa fa-linkedin" aria-hidden="true"></i>
                                 </a>
