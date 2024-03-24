@@ -42,7 +42,7 @@
       <div class="container-fluid">
         <?php include 'include/navbar.php' ?>
       </div>
-      <img src="./images/car/oglogs.jpg" style="width: 1920px; height: 300px;" alt="Image description">
+      <img src="./images/car/oglogs.jpg" alt="Image description">
     </header>
     <!-- end header section -->
     <!-- slider section -->
