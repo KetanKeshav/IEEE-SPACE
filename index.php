@@ -136,9 +136,9 @@
         <div class="col-md-6">
           <div class="detail-box">
             <div class="heading_container">
-              <div class="img-box">
-                <video src="images/animation.mp4" alt=""></video>
-              </div>
+              <!-- <div class="img-box">
+                <video src="images/animation.mp4" style="width: 10%" alt=""></video>
+              </div> -->
               <h2>
                 ABOUT <span>SPACE (SPace, Aerospace and defenCE conference)</span> 2024
               </h2>
