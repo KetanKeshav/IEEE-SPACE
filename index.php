@@ -43,7 +43,7 @@
         <?php include 'include/navbar.php' ?>
       </div>
       <div>
-      <img src="./images/car/oglogs.jpg" style="width: 1000px;" alt="Image description">
+      <img src="./images/car/oglogs.jpg" style="width: 100%;" alt="Image description">
       </div>
     </header>
     <!-- end header section -->
