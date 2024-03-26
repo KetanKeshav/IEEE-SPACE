@@ -144,7 +144,7 @@
                   </div>
                 </div>
               </div>
-              <!-- <div class="col-lg-4 col-md-4 col-sm-6">
+              <div class="col-lg-4 col-md-4 col-sm-6">
                 <div class="card">
                   <center>
                     <img class="card-img-top" src="./images/speakers/bkdas.jpg" alt="Card image">
@@ -154,7 +154,7 @@
                     <p class="card-text">DS & DG(ECS), DRDO</p>
                   </div>
                 </div>
-              </div> -->
+              </div>
             </div>
           </div>
         </div>
