@@ -264,7 +264,7 @@
                     <div class="detail_box">
                         <a href="https://ieeespace.org/index.php" class="button-con"
                             style="width:500px; height:70px; text-align:center;">
-                            <h1> Registeration Will open soon </h1>
+                            <h1> Registeration opening soon </h1>
                         </a>
                     </div>
                 </center><br><br>
