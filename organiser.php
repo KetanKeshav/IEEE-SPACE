@@ -7,7 +7,7 @@
           </div>
           <div class="row">
               <div class="col-md-12 img-box mt-2 mb-2">
-                <a href=""><img src="./images/sponsors/oc2.png" alt="" style="width: 1000px; height: 200px;"><br><br></a>
+                <a href=""><img src="./images/sponsors/oc2.png" alt=""><br><br></a>
               </div>
               <!-- <div class="col-md-4 img-box mt-2 mb-2">
                   <a href="https://www.mvg-world.com/en"><img src="https://ieeespace.org/images/sponsors/diamond.png" alt=""><br><br>
