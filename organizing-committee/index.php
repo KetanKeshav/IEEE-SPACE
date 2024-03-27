@@ -352,7 +352,7 @@
 
        </div>
 
-       <h2><span class="span_head"><h2><span class="span_head">Sponsorship Chairs:</span></h2>
+       <h2><span class="span_head">Sponsorship Chairs:</span></h2>
 
        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
