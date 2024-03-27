@@ -260,14 +260,14 @@
                     </ol>
                     </p> -->
                 </div>
-                <center>
+                <!-- <center>
                     <div class="detail_box">
                         <a href="https://ieeespace.org/index.php" class="button-con"
                             style="width:500px; height:70px; text-align:center;">
                             <h1> Registeration opening soon </h1>
                         </a>
                     </div>
-                </center><br><br>
+                </center><br><br> -->
             </div>
         </section>
     </div>
