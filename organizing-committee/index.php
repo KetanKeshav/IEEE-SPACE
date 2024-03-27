@@ -127,7 +127,7 @@
         <div class="row">
           <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
-              <img class="card-img-top" src="./images/sankaran.webp" alt="Card image">
+              <img class="card-img-top" src="./images/sankaran.png" alt="Card image">
             </center>
             <div class="card-body">
               <h4 class="card-title">Shri. M Sankaran</h4>
