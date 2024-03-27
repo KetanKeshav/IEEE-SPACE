@@ -7,7 +7,7 @@
           </div>
           <div class="row">
               <div class="col-md-12 img-box mt-2 mb-2">
-                <a href=""><img src="./images/sponsors/oc2.png" alt="" style="width: 500px; height: 300px;"><br><br></a>
+                <a href=""><img src="./images/sponsors/oc2.png" alt="" style="width: 700px; height: 300px;"><br><br></a>
               </div>
           </div>
       </div>
