@@ -207,7 +207,7 @@
                 </center>
                 <div class="card-body">
                 <h4 class="card-title">Prof. Sabrina Greco</h4>
-                <p class="card-text">2024-2024 IEEE AESS President</p>
+                <p class="card-text">2024-2025 IEEE AESS President</p>
                 </div>
         </div>
         <div class="card col-lg-4 col-md-4 col-sm-6">
