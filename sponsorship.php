@@ -171,15 +171,6 @@
         We would like you to sponsor this event as a Diamond/Platinum/Gold/Silver/Bronze sponsor. The details for the same are contained in the attached document.
         Looking forward to see you in the SPACE 2024, at Bangalore.
         </p>
-          <br><br>
-          <strong>
-            Puneet Kumar Mishra<br>
-            General Chair, SPACE 2024<br>
-          </strong>
-
-        </p>
-
-
       </div>
     </div>
   </section>
