@@ -120,32 +120,65 @@
         <div class="row">
           <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
-              <img class="card-img-top" src="./images/speakers/tom.jpg" alt="Card image">
+              <img class="card-img-top" src="./images/speakers/Mark.jpg" alt="Card image">
             </center>
             <div class="card-body">
-                <h4 class="card-title">Mr. Thomous Coughling</h4>
-                <p class="card-text">2024 IEEE President</p>
+                    <h4 class="card-title">Dr. Mark E Davis</h4>
+                    <p class="card-text">2022-2023 IEEE AESS President</p>
             </div>
           </div>
           <div class="card col-lg-4 col-md-4 col-sm-6">
               <center>
-                    <img class="card-img-top" src="./images/speakers/kathleen.webp" alt="Card image">
+                    <img class="card-img-top" src="./images/speakers/Greco.jpg" alt="Card image">
               </center>
               <div class="card-body">
-                    <h4 class="card-title">Prof. Kathleen Kramer</h4>
-                    <p class="card-text">2025 IEEE President</p>
+                    <h4 class="card-title">Prof. Sabrina Greco</h4>
+                    <p class="card-text">2024-2025 IEEE AESS President</p>
               </div>
           </div>
           <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
-              <img class="card-img-top" src="./images/speakers/rahman.jpg"   alt="Card image">
+              <img class="card-img-top" src="./images/speakers/bkdas.jpg"   alt="Card image">
             </center>
             <div class="card-body">
-                <h4 class="card-title">Prof. Saifur Rahman</h4>
-                <p class="card-text">2023 IEEE President</p>
+                    <h4 class="card-title">Dr. B K Das</h4>
+                    <p class="card-text">DS & DG(ECS), DRDO</p>
             </div>
           </div>
         </div>
+
+        <div class="row">
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/speakers/Mark.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+                    <h4 class="card-title">Dr. Mark E Davis</h4>
+                    <p class="card-text">2022-2023 IEEE AESS President</p>
+            </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+              <center>
+                    <img class="card-img-top" src="./images/speakers/Greco.jpg" alt="Card image">
+              </center>
+              <div class="card-body">
+                    <h4 class="card-title">Prof. Sabrina Greco</h4>
+                    <p class="card-text">2024-2025 IEEE AESS President</p>
+              </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/speakers/bkdas.jpg"   alt="Card image">
+            </center>
+            <div class="card-body">
+                    <h4 class="card-title">Dr. B K Das</h4>
+                    <p class="card-text">DS & DG(ECS), DRDO</p>
+            </div>
+          </div>
+        </div>
+
+
+        
 
 
       
