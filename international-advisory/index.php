@@ -416,7 +416,7 @@
                   <img class="card-img-top" src="./images/radhakrishna.jpg" alt="Card image">
                 </center>
                 <div class="card-body">
-                  <h4 class="card-title">Dr K Radhakrishnan</h4>
+                  <h4 class="card-title">Dr. P Radhakrishnan</h4>
                   <p class="card-text">Former Director LRDE</p>
                 </div>
           </div>
