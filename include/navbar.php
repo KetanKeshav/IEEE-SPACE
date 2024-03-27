@@ -85,19 +85,19 @@
                 <li class="nav-item <?php if($page == "sponsorship") echo "active"?>">
                     <a class="nav-link" href="sponsorship.php"> Sponsorship</a>
                 </li>
-                <!-- <li class="nav-item dropdown">
+                <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle <?php if($page== "register" || $page== "start-up") echo "active"?>" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Register
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item <?php if($page== "register") echo "active"?>" href="register.php">SPACE Registration
                         </a>
-                        <a class="dropdown-item <?php if($page== "accomodation") echo "active"?>" href="accomodation-list.php">Accomodation List - Reva University
+                        <!-- <a class="dropdown-item <?php if($page== "accomodation") echo "active"?>" href="accomodation-list.php">Accomodation List - Reva University
                         </a>
                         <a class="dropdown-item" href="https://forms.gle/FgXKFrPKpeaYxzFd7">Chapter Chair Meeting</a>
-                        <a class="dropdown-item <?php if($page== "start-up") echo "active"?>" href="startup-initiative.php">Startup Initiative</a>
+                        <a class="dropdown-item <?php if($page== "start-up") echo "active"?>" href="startup-initiative.php">Startup Initiative</a> -->
                     </div>
-                </li> -->
+                </li>
                 <li class="nav-item <?php if($page== "venue") echo "active"?>">
                     <a class="nav-link" href="venue.php">Venue</a>
                 </li>
