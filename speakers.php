@@ -82,45 +82,11 @@
       <div class="container">
         <div class="heading_container heading_center">
           <h2>
-            Organizing <span>Committee</span>
+            Keynote <span>Speakers</span>
           </h2>
         </div>
         <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
 
-        <h2><span class="span_head">Chief Patrons:</span></h2>
-        <div class="row">
-
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/Saraswat.jpg" alt="Card image">
-            </center>
-            <div class="card-body">
-              <h4 class="card-title">Dr. V K Saraswat</h4>
-              <p class="card-text">Member, Niti Ayog</p>
-            </div>
-          </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/somanath.webp" alt="Card image">
-            </center>
-            <div class="card-body">
-              <h4 class="card-title">Shri. S Somnath</h4>
-              <p class="card-text">Secretary, DoS/Chairman, ISRO</p>
-            </div>
-          </div>
-
-          <!-- <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/ashutosh.webp" alt="Card image">
-            </center>
-            <div class="card-body">
-              <h4 class="card-title">Ashutosh Kedar</h4>
-              <p class="card-text">LRDE/DRDO, Bangalore & Chair-Elect, IEEE AP/MTT Bangalore Jt. Chapter</p>
-            </div>
-          </div> -->
-        </div>
-
-        <h2><span class="span_head">Patrons:</span></h2>
         <div class="row">
           <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
@@ -151,144 +117,36 @@
           </div>
         </div>
 
-       
 
-
-      <h2><span class="span_head">General Co-Chairs:</span></h2>
-      <div class="row">
-      <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/images.jpg" alt="Card image">
-            </center>
-            <div class="card-body">
-              <h4 class="card-title">Dr. Rajlakshmi Menon</h4>
-              <p class="card-text">Director, CABS, DRDO, GoI</p>
-            </div>
-          </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/rajeev.jpg" alt="Card image">
-            </center>
-            <div class="card-body">
-              <h4 class="card-title">Dr. Rajeev Jyoti</h4>
-              <p class="card-text">Director- Technical, IN-SPACe, DoS, GoI</p>
-            </div>
-          </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/seema.jpg" alt="Card image">
-            </center>
-            <div class="card-body">
-              <h4 class="card-title">⁠Dr. Seema Chopra</h4>
-              <p class="card-text">ED& Sr.TF,  Boeing India</p>
-            </div>
-          </div>
-      </div>
-
-        <h2><span class="span_head">TPC Chairs:</span></h2>
         <div class="row">
-
           <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
-              <img class="card-img-top" src="./images/chandrakanta.webp" alt="Card image">
+              <img class="card-img-top" src="./images/sankaran.png" alt="Card image">
             </center>
             <div class="card-body">
-              <h4 class="card-title">Dr. Chandrakant Kumar</h4>
-              <p class="card-text">URSC, Bangalore & Chair, IEEE AP/MTT Bangalore Jt. Chapter</p>
+              <h4 class="card-title">Shri. M Sankaran</h4>
+              <p class="card-text">DS & Director, URSC</p>
             </div>
           </div>
-
           <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
-              <img class="card-img-top" src="./images/ashutosh.webp" alt="Card image">
+              <img class="card-img-top" src="./images/bkdas.jpg" alt="Card image">
             </center>
             <div class="card-body">
-              <h4 class="card-title">Ashutosh Kedar</h4>
-              <p class="card-text">LRDE/DRDO, Bangalore & Chair-Elect, IEEE AP/MTT Bangalore Jt. Chapter</p>
+              <h4 class="card-title">Dr. B K Das</h4>
+              <p class="card-text">DS & DG(ECS), DRDO</p>
             </div>
           </div>
-
           <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
-              <img class="card-img-top" src="./images/kvs.webp" alt="Card image">
+              <img class="card-img-top" src="./images/Unnikrishnan.jpg" alt="Card image">
             </center>
             <div class="card-body">
-              <h4 class="card-title">Dr. Kumar Vaibhav Shrivastava</h4>
-              <p class="card-text">IIT Kanpur & Chair, IEEE AESS UP Chapter</p>
+              <h4 class="card-title">Dr S. Unnikrishnan Nair</h4>
+              <p class="card-text">DS and Director, VSSC & IIST, ISRO</p>
             </div>
           </div>
         </div>
-        <div class="row">
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/Soumyabrata Chakrabarty.webp" alt="Card image">
-            </center>
-            <div class="card-body">
-              <h4 class="card-title">Dr. Soumyabrata Chakrabarty</h4>
-              <p class="card-text">IIT Gandhinagar</p>
-            </div>
-          </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/Radhakant.jpg" alt="Card image">
-            </center>
-            <div class="card-body">
-              <h4 class="card-title">Prof. Radhakant Padhi</h4>
-              <p class="card-text"> IISc</p>
-            </div>
-          </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/Madhumita.jpg" alt="Card image">
-            </center>
-            <div class="card-body">
-              <h4 class="card-title">Dr. Madhumita Chakravarti</h4>
-              <p class="card-text">Former Director CMSDS & Chair, AESS Hyderabad Chapter</p>
-            </div>
-          </div>
-  </div>
-  <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/Krishna.jpg" alt="Card image">
-            </center>
-            <div class="card-body">
-              <h4 class="card-title">Dr Krishna Paul</h4>
-              <p class="card-text">Director, Intel</p>
-            </div>
-          </div>
-
-  <h2><span class="span_head">Special Sessions Chairs:</span></h2>
-       <div class="row">
-
-        <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/m-b-mahajan.webp" alt="Card image">
-            </center>
-            <div class="card-body">
-              <h4 class="card-title">Dr. M B Mahajan</h4>
-              <p class="card-text">DD, ASA, SAC, ISRO</p>
-            </div>
-       </div>
-       <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/vinod.jpg" alt="Card image">
-            </center>
-            <div class="card-body">
-              <h4 class="card-title">Dr. Vinod Chipoalkatti</h4>
-              <p class="card-text">President, SEBU, Centum</p>
-            </div>
-       </div>
-       <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/Shitalkumar.jpg" alt="Card image">
-            </center>
-            <div class="card-body">
-              <h4 class="card-title">Shitalkumar Joshi</h4>
-              <p class="card-text">Sr Director Ansys</p>
-            </div>
-       </div>
-       </div>
-       
 
        
 
