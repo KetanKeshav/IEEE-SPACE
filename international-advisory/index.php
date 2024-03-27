@@ -517,6 +517,35 @@
                   <p class="card-text">2022-2023 President IEEE TEMS</p>
                 </div>
           </div>
+        </div>
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/Vinod.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Dr. Vinod Kumar</h4>
+                  <p class="card-text">Director- Promotion, IN-SPACe, DoS, GoI</p>
+                </div>
+          </div>
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/Nadagouda.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Shri. R V Nadagouda</h4>
+                  <p class="card-text">DD, ICA, URSC, ISRO</p>
+                </div>
+        </div>
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/Celia.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Ms. Celia Desmond</h4>
+                  <p class="card-text">President, World Class-Telecommunincations</p>
+                </div>
+          </div>
         </div>  
         </div>
   </div>
