@@ -75,127 +75,230 @@
         <!-- end header section -->
     </div>
     <!-- course section -->
+  <!-- end course section -->
+  <div class="content_bg">
 
-    <div class="content_bg">
-      <section class="course_section layout_padding content-bg">
-        <div class="container">
-          <div class="heading_container heading_center">
-            <h2>
-              <span>Keynote Speakers</span>
-            </h2>
+    <section class="course_section layout_padding content-bg">
+      <div class="container">
+        <div class="heading_container heading_center">
+          <h2>
+            Organizing <span>Committee</span>
+          </h2>
+        </div>
+        <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
+
+        <h2><span class="span_head">Chief Patrons:</span></h2>
+        <div class="row">
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/Saraswat.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Dr. V K Saraswat</h4>
+              <p class="card-text">Member, Niti Ayog</p>
+            </div>
           </div>
-          <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
-          <div class="heading_container span_body">
-            <div class="row">
-              <div class="col-lg-4 col-md-4 col-sm-6">
-                <div class="card">
-                  <center>
-                    <img class="card-img-top" src="./images/speakers/tom.jpg" alt="Card image">
-                  </center>
-                  <div class="card-body">
-                    <h4 class="card-title">Mr. Thomous Coughling</h4>
-                    <p class="card-text">2024 IEEE President</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg-4 col-md-4 col-sm-6">
-                <div class="card">
-                  <center>
-                    <img class="card-img-top" src="./images/speakers/kathleen.webp" alt="Card image">
-                  </center>
-                  <div class="card-body">
-                    <h4 class="card-title">Prof. Kathleen Kramer</h4>
-                    <p class="card-text">2025 IEEE President</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg-4 col-md-4 col-sm-6">
-                <div class="card">
-                  <center>
-                    <img class="card-img-top" src="./images/speakers/rahman.jpg" alt="Card image">
-                  </center>
-                  <div class="card-body">
-                    <h4 class="card-title">Prof. Saifur Rahman</h4>
-                    <p class="card-text">2023 IEEE President</p>
-                  </div>
-                </div>
-              </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/somanath.webp" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Shri. S Somnath</h4>
+              <p class="card-text">Secretary, DoS/Chairman, ISRO</p>
             </div>
-            <div class="row">
-              <div class="col-lg-4 col-md-4 col-sm-6">
-                <div class="card">
-                  <center>
-                    <img class="card-img-top" src="./images/speakers/Mark.jpg" alt="Card image">
-                  </center>
-                  <div class="card-body">
-                    <h4 class="card-title">Dr. Mark E Davis</h4>
-                    <p class="card-text">2022-2023 IEEE AESS President</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg-4 col-md-4 col-sm-6">
-                <div class="card">
-                  <center>
-                    <img class="card-img-top" src="./images/speakers/Greco.jpg" alt="Card image">
-                  </center>
-                  <div class="card-body">
-                    <h4 class="card-title">Prof. Sabrina Greco</h4>
-                    <p class="card-text">2024-2024 IEEE AESS President</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg-4 col-md-4 col-sm-6">
-                <div class="card">
-                  <center>
-                    <img class="card-img-top" src="./images/speakers/bkdas.jpg" alt="Card image">
-                  </center>
-                  <div class="card-body">
-                    <h4 class="card-title">Dr. B K Das</h4>
-                    <p class="card-text">DS & DG(ECS), DRDO</p>
-                  </div>
-                </div>
-              </div>
+          </div>
+
+          <!-- <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/ashutosh.webp" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Ashutosh Kedar</h4>
+              <p class="card-text">LRDE/DRDO, Bangalore & Chair-Elect, IEEE AP/MTT Bangalore Jt. Chapter</p>
             </div>
-            <div class="row">
-              <div class="col-lg-4 col-md-4 col-sm-6">
-                <div class="card">
-                  <center>
-                    <img class="card-img-top" src="./images/speakers/abhay.jpg" alt="Card image">
-                  </center>
-                  <div class="card-body">
-                      <h4 class="card-title">Dr. Abhay A Pashilkar</h4>
-                      <p class="card-text"> Director, CSIR-NAL</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg-4 col-md-4 col-sm-6">
-                <div class="card">
-                  <center>
-                    <img class="card-img-top" src="./images/speakers/manoj.jpg" alt="Card image">
-                  </center>
-                  <div class="card-body">
-                      <h4 class="card-title">Dr. Manoj Choudhary</h4>
-                      <p class="card-text">VC, Gati Shakti Vishwavidyalaya</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg-4 col-md-4 col-sm-6">
-                <div class="card">
-                  <center>
-                    <img class="card-img-top" src="./images/speakers/tapan.png" alt="Card image">
-                  </center>
-                  <div class="card-body">
-                        <h4 class="card-title">Dr. Tapan Misra</h4>
-                        <p class="card-text">DS & Former Director, SAC</p>
-                  </div>
-                </div>
-              </div>
+          </div> -->
+        </div>
+
+        <h2><span class="span_head">Patrons:</span></h2>
+        <div class="row">
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/sankaran.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Shri. M Sankaran</h4>
+              <p class="card-text">DS & Director, URSC</p>
+            </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/bkdas.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Dr. B K Das</h4>
+              <p class="card-text">DS & DG(ECS), DRDO</p>
+            </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/Unnikrishnan.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Dr S. Unnikrishnan Nair</h4>
+              <p class="card-text">DS and Director, VSSC & IIST, ISRO</p>
             </div>
           </div>
         </div>
-      </section>
-    </div>
 
+       
+
+
+      <h2><span class="span_head">General Co-Chairs:</span></h2>
+      <div class="row">
+      <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/images.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Dr. Rajlakshmi Menon</h4>
+              <p class="card-text">Director, CABS, DRDO, GoI</p>
+            </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/rajeev.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Dr. Rajeev Jyoti</h4>
+              <p class="card-text">Director- Technical, IN-SPACe, DoS, GoI</p>
+            </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/seema.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">⁠Dr. Seema Chopra</h4>
+              <p class="card-text">ED& Sr.TF,  Boeing India</p>
+            </div>
+          </div>
+      </div>
+
+        <h2><span class="span_head">TPC Chairs:</span></h2>
+        <div class="row">
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/chandrakanta.webp" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Dr. Chandrakant Kumar</h4>
+              <p class="card-text">URSC, Bangalore & Chair, IEEE AP/MTT Bangalore Jt. Chapter</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/ashutosh.webp" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Ashutosh Kedar</h4>
+              <p class="card-text">LRDE/DRDO, Bangalore & Chair-Elect, IEEE AP/MTT Bangalore Jt. Chapter</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/kvs.webp" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Dr. Kumar Vaibhav Shrivastava</h4>
+              <p class="card-text">IIT Kanpur & Chair, IEEE AESS UP Chapter</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/Soumyabrata Chakrabarty.webp" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Dr. Soumyabrata Chakrabarty</h4>
+              <p class="card-text">IIT Gandhinagar</p>
+            </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/Radhakant.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Prof. Radhakant Padhi</h4>
+              <p class="card-text"> IISc</p>
+            </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/Madhumita.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Dr. Madhumita Chakravarti</h4>
+              <p class="card-text">Former Director CMSDS & Chair, AESS Hyderabad Chapter</p>
+            </div>
+          </div>
+  </div>
+  <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/Krishna.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Dr Krishna Paul</h4>
+              <p class="card-text">Director, Intel</p>
+            </div>
+          </div>
+
+  <h2><span class="span_head">Special Sessions Chairs:</span></h2>
+       <div class="row">
+
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/m-b-mahajan.webp" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Dr. M B Mahajan</h4>
+              <p class="card-text">DD, ASA, SAC, ISRO</p>
+            </div>
+       </div>
+       <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/vinod.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Dr. Vinod Chipoalkatti</h4>
+              <p class="card-text">President, SEBU, Centum</p>
+            </div>
+       </div>
+       <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/Shitalkumar.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Shitalkumar Joshi</h4>
+              <p class="card-text">Sr Director Ansys</p>
+            </div>
+       </div>
+       </div>
+       
+
+       
+
+
+      
+  </div>
+  </section>
+
+  </div>
+    
     <!-- sponsors section -->
 
     <?php include 'sponsors.php'; ?>
