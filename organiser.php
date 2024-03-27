@@ -1,6 +1,6 @@
   <!-- sponsors section -->
 
-  <section class="about_section layout_padding">
+  <section class="layout_padding">
       <div class="container  ">
           <div class="heading_container">
               <h2 style="text-align: center;"><span>Organised by</span></h2>
