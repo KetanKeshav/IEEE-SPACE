@@ -231,7 +231,7 @@
                             </tbody>
                         </table>
                     </div>
-                    <p>
+                    <!-- <p>
                         <strong>NOTE:</strong>
                     <ol style="color: red; font-style: italic; font-weight: 400;">
                         <li>One can present two papers with one registration. However, with Student Registration, only
@@ -257,7 +257,7 @@
                                 ieeespace2024@gmail.com
                         </li>
                     </ol>
-                    </p>
+                    </p> -->
                 </div>
                 <center>
                     <div class="detail_box">
