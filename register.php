@@ -188,45 +188,45 @@
                             <tbody>
                                 <tr>
                                     <th scope="col">Delegate Category</th>
-                                    <th scope="col">All (₹)</th>
+                                    <!-- <th scope="col">All (₹)</th> -->
                                     <th scope="col">Indian (₹)</th>
                                     <!-- <th scope="col">Foreign (US$)</th> -->
                                 </tr>
                                 <tr>
                                     <td>IEEE AP-S/MTT-S Student Member</td>
-                                    <td>1475</td>
+                                    <!-- <td>1475</td> -->
                                     <td>9500</td>
-                                    <td>300</td>
+                                    <!-- <td>300</td> -->
                                 </tr>
                                 <tr>
                                     <td>IEEE Student Member</td>
-                                    <td>1770</td>
+                                    <!-- <td>1770</td> -->
                                     <td>10500</td>
-                                    <td>330</td>
+                                    <!-- <td>330</td> -->
                                 </tr>
                                 <tr>
                                     <td>Student-Non Member</td>
-                                    <td>2124</td>
+                                    <!-- <td>2124</td> -->
                                     <td>11500</td>
-                                    <td>360</td>
+                                    <!-- <td>360</td> -->
                                 </tr>
                                 <tr>
                                     <td>IEEE AP-S/MTT-S Member</td>
-                                    <td>2360</td>
+                                    <!-- <td>2360</td> -->
                                     <td>14000</td>
-                                    <td>440</td>
+                                    <!-- <td>440</td> -->
                                 </tr>
                                 <tr>
                                     <td>IEEE Member</td>
-                                    <td>2832</td>
+                                    <!-- <td>2832</td> -->
                                     <td>15000</td>
-                                    <td>480</td>
+                                    <!-- <td>480</td> -->
                                 </tr>
                                 <tr>
                                     <td>Non-Member</td>
-                                    <td>3540</td>
+                                    <!-- <td>3540</td> -->
                                     <td>19000</td>
-                                    <td>600</td>
+                                    <!-- <td>600</td> -->
                                 </tr>
                             </tbody>
                         </table>
@@ -263,7 +263,7 @@
                     <div class="detail_box">
                         <a href="https://ieeespace.org/index.php" class="button-con"
                             style="width:500px; height:70px; text-align:center;">
-                            <h1> Registeration Closed </h1>
+                            <h1> Registeration Will open soon </h1>
                         </a>
                     </div>
                 </center><br><br>
