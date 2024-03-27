@@ -181,8 +181,8 @@
                             <thead>
                                 <tr>
                                     <th scope="col">Event</th>
-                                    <th scope="col">Pre Conference Workshop & Tutorials (Dec 12, 2024)</th>
-                                    <th scope="col" colspan="2">Conference (Dec 13-15, 2024)</th>
+                                    <!-- <th scope="col">Pre Conference Workshop & Tutorials (Dec 12, 2024)</th> -->
+                                    <th scope="col" colspan="2">Conference (July 22-23, 2024)</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -190,7 +190,7 @@
                                     <th scope="col">Delegate Category</th>
                                     <th scope="col">All (₹)</th>
                                     <th scope="col">Indian (₹)</th>
-                                    <th scope="col">Foreign (US$)</th>
+                                    <!-- <th scope="col">Foreign (US$)</th> -->
                                 </tr>
                                 <tr>
                                     <td>IEEE AP-S/MTT-S Student Member</td>
