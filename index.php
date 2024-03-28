@@ -69,8 +69,8 @@
                     <h3>(SPace, Aerospace and defenCE conference)</h3>
                     <h2><b>July 22-23, 2024</b></h2>
                     <h2><b>Sheraton Grand Bengaluru Whitefield Hotel & Convention Center</b></h2>
-                    <a href="./downloads/brochure.pdf" target="_blank" download="Program Booklet">
-                      Program Booklet
+                    <a href="./downloads/cfp.pdf" target="_blank" download="Program Booklet">
+                      Call For Paper
                     </a>
                     <!-- <a href="program.php" target="_blank">
                       Schedule

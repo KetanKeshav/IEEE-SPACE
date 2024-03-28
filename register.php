@@ -173,8 +173,7 @@
             <div class="container">
                 <div class="heading_container spon_padding">
                     <h2>
-                        IEEE <span>SPACE</span> Registration Fee (Excluding 18% GST, Excluding 3.54% Payment Gateway
-                        Charges):
+                        IEEE <span>SPACE</span> Registration Fee (Excluding 18% GST):
                     </h2>
                     <div class="table-responsive">
                         <table class="table table-hover mt-3 table-bordered">
@@ -190,7 +189,7 @@
                                     <th scope="col">Delegate Category</th>
                                     <!-- <th scope="col">All (₹)</th> -->
                                     <!-- (₹) -->
-                                    <th scope="col">All</th>
+                                    <th scope="col">Fee(INR)</th>
                                     <!-- <th scope="col">Foreign (US$)</th> -->
                                 </tr>
                                 <tr>
