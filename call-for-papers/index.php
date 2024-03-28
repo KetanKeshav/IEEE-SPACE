@@ -217,9 +217,6 @@
               </tr>
             </tbody>
           </table>
-          <h3>Note</h3>
-          <p>Additional Paper Registration: INR 2000/Paper</p>
-
         </div>
       </div>
     </section>

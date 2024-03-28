@@ -231,6 +231,9 @@
                             </tbody>
                         </table>
                     </div>
+                    <h3>Note</h3>
+                    <p>Additional Paper Registration: INR 2000/Paper</p>
+
                     <!-- <p>
                         <strong>NOTE:</strong>
                     <ol style="color: red; font-style: italic; font-weight: 400;">
