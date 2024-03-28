@@ -185,7 +185,7 @@
 
   <center>
     <div class="detail_box">
-        <a href="downloads/cfp.pdf" class="button-con" download>
+        <a href="./downloads/cfp.pdf" class="button-con" download>
             <h1>Call for Paper</h1>
         </a>
     </div>
