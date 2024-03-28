@@ -183,6 +183,14 @@
 
   <!-- end course section -->
 
+  <center>
+    <div class="detail_box">
+        <a href="downloads/cfp.pdf" class="button-con" download>
+            <h1> Download CFP</h1>
+        </a>
+    </div>
+  </center>
+
   </section>
 
   <!-- end course section -->
