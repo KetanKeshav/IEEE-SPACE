@@ -407,7 +407,7 @@
 
       </div>
 
-       <h2><span class="span_head">Web Chairs:</span></h2>
+       <h2><span class="span_head">Web & Social Media Chairs:</span></h2>
         <div class="row">
 
           <div class="card col-lg-4 col-md-4 col-sm-6">
@@ -426,6 +426,15 @@
             <div class="card-body">
               <h4 class="card-title">Nagalekha Ramesh</h4>
               <p class="card-text">IEEE Bangalore Section</p>
+            </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/mohit.webp" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Mohit Mishra</h4>
+              <p class="card-text">IIT Guwahati</p>
             </div>
           </div>
         </div>
@@ -449,6 +458,29 @@
             <div class="card-body">
               <h4 class="card-title">Dr. Ambar Bajpai</h4>
               <p class="card-text">GITAM University</p>
+            </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/bhavish.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Bhavish Kumar</h4>
+              <p class="card-text">CABS, DRDO</p>
+            </div>
+          </div>
+        </div>
+
+        <h2><span class="span_head">European Liaison:</span></h2>
+        <div class="row">
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/akash.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Dr. Akash Bansal</h4>
+              <p class="card-text">Loughborough University, UK</p>
             </div>
           </div>
         </div>
