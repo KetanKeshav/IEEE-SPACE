@@ -341,7 +341,7 @@
         </div>
         <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
-              <img class="card-img-top" src="./images/Soni.jpg" alt="Card image">
+              <img class="card-img-top" src="./images/soni.jpg" alt="Card image">
             </center>
             <div class="card-body">
               <h4 class="card-title">Brijesh Soni</h4>
