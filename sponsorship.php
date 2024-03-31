@@ -175,6 +175,14 @@
     </div>
   </section>
 
+
+  <center>
+    <div class="detail_box">
+        <a href="../downloads/sponsor-brochure.pdf" class="button-con" download>
+            <h1>Brochure</h1>
+        </a>
+    </div>
+  </center>
   <!-- end course section -->
 
   <!-- about section -->
