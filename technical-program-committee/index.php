@@ -1561,7 +1561,118 @@
               <td>Dr. Madhusudhanan Natarajan</td>
               <td>National Institute of Technology Karnataka, Surathkal</td>
           </tr>
-
+          <tr>
+          <td>Siddhartha Panigrahi</td>
+          <td>Strong-Wave Radio Technology (SWaRT)</td>
+          </tr>
+          <tr>
+              <td>Utkarsh Alset</td>
+              <td>Kalyani Strategic Systems Limited</td>
+          </tr>
+          <tr>
+              <td>Dr. Girish Chandra Tripathi</td>
+              <td>Tejas Networks Limited</td>
+          </tr>
+          <tr>
+              <td>Dr. S. Rajeswari</td>
+              <td>SDNB Vaishnav College for Women</td>
+          </tr>
+          <tr>
+              <td>Jitendra Tahalyani</td>
+              <td>PhD scholar</td>
+          </tr>
+          <tr>
+              <td>Tarush Goel</td>
+              <td>Bharat Electronics Ltd</td>
+          </tr>
+          <tr>
+              <td>Easha</td>
+              <td>PMRF, IISc Bengaluru</td>
+          </tr>
+          <tr>
+              <td>Abhishek Gautam</td>
+              <td>Research Trainee @ DRDO</td>
+          </tr>
+          <tr>
+              <td>Dr. Kanwar Preet Kaur</td>
+              <td>Charotar University of Science and Technology (CHARUSAT)</td>
+          </tr>
+          <tr>
+              <td>Dr. Abdul Lateef Haroon P S</td>
+              <td>Ballari Institute of Technology & Management</td>
+          </tr>
+          <tr>
+              <td>Nuhcan Akçit</td>
+              <td>Research Assistant</td>
+          </tr>
+          <tr>
+              <td>Rahul Kumar Garg</td>
+              <td>Arya College of Engineering and IT Jaipur</td>
+          </tr>
+          <tr>
+              <td>Prajakta Sathe</td>
+              <td>IIT Kharagpur</td>
+          </tr>
+          <tr>
+              <td>Dr. Bala Saraswathi</td>
+              <td>ATLAS SkillTech University, Mumbai</td>
+          </tr>
+          <tr>
+              <td>Fateh Bahadur Kunwar</td>
+              <td>Geetanjali Institute of Technical Studies</td>
+          </tr>
+          <tr>
+              <td>Amit Kumar Singh</td>
+              <td>ISRO</td>
+          </tr>
+          <tr>
+              <td>Sonal Agarwal</td>
+              <td>Indian Institute of Information Technology Allahabad</td>
+          </tr>
+          <tr>
+              <td>Kartik Shreenath Bohra</td>
+              <td>Boeing</td>
+          </tr>
+          <tr>
+              <td>Asmita Dani</td>
+              <td>Member IEEE</td>
+          </tr>
+          <tr>
+              <td>Prasanna Kumar Daram</td>
+              <td>CLupav Scientific Pvt Ltd</td>
+          </tr>
+          <tr>
+              <td>Saurabh N. Mehta</td>
+              <td>Vidyalankar Institute of Technology</td>
+          </tr>
+          <tr>
+              <td>Dr. Vandana Satam</td>
+              <td>Assistant Professor and Joint Associate Dean Student Affairs</td>
+          </tr>
+          <tr>
+              <td>G. Boopalan</td>
+              <td>Associate Professor</td>
+          </tr>
+          <tr>
+              <td>Soma Pandey</td>
+              <td>Jio Platforms Limited</td>
+          </tr>
+          <tr>
+              <td>Dr. Mahesh Kumar Jha</td>
+              <td>CMR Institute of Technology, Bengaluru</td>
+          </tr>
+          <tr>
+              <td>Kavach Mishra</td>
+              <td>Indian Institute of Technology Madras</td>
+          </tr>
+          <tr>
+              <td>Vasavi Ravuri</td>
+              <td>Dr</td>
+          </tr>
+          <tr>
+              <td>Dr. Himani Saini</td>
+              <td>UR Rao Satellite Centre, Indian Space Research Organization</td>
+          </tr>
 
           </tbody>
         </table>
