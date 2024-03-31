@@ -332,7 +332,7 @@
             </tr>
             <tr>
               <td>Dr. B Satyanarayana</td>
-              <td>Bangalore University</td>
+              <td>Tata Institute of Fundamental Research, Mumbai</td>
             </tr>
             <tr>
               <td>Dr. Balamati Choudhury</td>
