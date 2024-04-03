@@ -118,7 +118,7 @@
             </center>
             <div class="card-body">
               <h4 class="card-title">Dr. Samir V Kamat</h4>
-              <p class="card-text">Secretary, DDR&D/Chairman, DRDO, GoI</p>
+              <p class="card-text">Secretary, DDR&D/Chairman, DRDO</p>
             </div>
           </div>
         </div>
