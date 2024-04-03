@@ -108,6 +108,19 @@
           </div>
           <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
+              <img class="card-img-top" src="./images/speakers/samir.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Dr. Samir V Kamat</h4>
+              <p class="card-text">Secretary, DDR&D/Chairman, DRDO, GoI</p>
+            </div>
+          </div>
+          
+        </div>
+
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
               <img class="card-img-top" src="./images/speakers/tom.jpg" alt="Card image">
             </center>
             <div class="card-body">
@@ -115,9 +128,6 @@
                 <p class="card-text">2024 IEEE President</p>
             </div>
           </div>
-        </div>
-
-        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
               <center>
                     <img class="card-img-top" src="./images/speakers/kathleen.webp" alt="Card image">
@@ -136,7 +146,10 @@
                 <p class="card-text">2023 IEEE President</p>
             </div>
           </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
+        </div>
+
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
               <img class="card-img-top" src="./images/speakers/Mark.jpg" alt="Card image">
             </center>
@@ -144,10 +157,7 @@
                     <h4 class="card-title">Dr. Mark E Davis</h4>
                     <p class="card-text">2022-2023 IEEE AESS President</p>
             </div>
-          </div>
         </div>
-
-        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
               <center>
                     <img class="card-img-top" src="./images/speakers/Greco.jpg" alt="Card image">
@@ -166,7 +176,13 @@
                     <p class="card-text">DS & DG(ECS), DRDO</p>
             </div>
           </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
+          
+        </div>
+
+
+
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
               <img class="card-img-top" src="./images/speakers/abhay.jpg" alt="Card image">
             </center>
@@ -175,11 +191,6 @@
                       <p class="card-text"> Director, CSIR-NAL</p>
             </div>
           </div>
-        </div>
-
-
-
-        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
               <center>
                     <img class="card-img-top" src="./images/speakers/manoj.jpg" alt="Card image">
@@ -198,7 +209,10 @@
                       <p class="card-text">DS & Former Director, SAC</p>
             </div>
           </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
+        </div>
+
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
               <img class="card-img-top" src="./images/speakers/dinesh.jpg" alt="Card image">
             </center>
@@ -207,9 +221,6 @@
                 <p class="card-text">DS & AD, SAC, ISRO</p>
             </div>
           </div>
-        </div>
-
-        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
               <center>
                     <img class="card-img-top" src="./images/speakers/Unnikrishnan.jpg" alt="Card image">
@@ -228,7 +239,10 @@
                   <p class="card-text">Director, NCRA, TIFR, DAE</p>
                 </div>
         </div>
-        <div class="card col-lg-4 col-md-4 col-sm-6">
+      </div>
+
+      <div class="row">
+      <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
               <img class="card-img-top" src="./images/speakers/sankaran.png" alt="Card image">
             </center>
@@ -238,7 +252,6 @@
             </div>
           </div>
       </div>
-      
   </div>
   </section>
 
