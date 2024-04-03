@@ -112,15 +112,15 @@
             </div>
           </div>
 
-          <!-- <div class="card col-lg-4 col-md-4 col-sm-6">
+          <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
-              <img class="card-img-top" src="./images/ashutosh.webp" alt="Card image">
+              <img class="card-img-top" src="./images/samir.jpg" alt="Card image">
             </center>
             <div class="card-body">
-              <h4 class="card-title">Ashutosh Kedar</h4>
-              <p class="card-text">LRDE/DRDO, Bangalore & Chair-Elect, IEEE AP/MTT Bangalore Jt. Chapter</p>
+              <h4 class="card-title">Dr. Samir V Kamat</h4>
+              <p class="card-text">Secretary, DDR&D/Chairman, DRDO, GoI</p>
             </div>
-          </div> -->
+          </div>
         </div>
 
         <h2><span class="span_head">Patrons:</span></h2>
