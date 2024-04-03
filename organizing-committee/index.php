@@ -347,7 +347,7 @@
        </div>
        </div>
        
-        <h2><span class="span_head">Finance Chair:</span></h2>
+        <!-- <h2><span class="span_head">Finance Chair:</span></h2>
 
 
         <div class="card col-lg-4 col-md-4 col-sm-6">
@@ -358,8 +358,36 @@
             <h4 class="card-title">Mahesh A</h4>
             <p class="card-text">Treasurer, IEEE AESS Bangalore Chapter</p>
           </div>
-        </div>
+        </div> -->
 
+  <div class="container">
+  <h2><span class="span_head">Finance Chair:</span></h2>
+
+  <div class="row">
+    <!-- First Person -->
+    <div class="card col-lg-4 col-md-4 col-sm-6">
+      <center>
+        <img class="card-img-top" src="./images/Mahesh.webp" alt="Card image">
+      </center>
+      <div class="card-body">
+        <h4 class="card-title">Mahesh A</h4>
+        <p class="card-text">Treasurer, IEEE AESS Bangalore Chapter</p>
+      </div>
+    </div>
+
+    <!-- Second Person -->
+    <div class="card col-lg-4 col-md-4 col-sm-6">
+      <h2><span class="span_head">European Liaison:</span></h2> <!-- New Heading -->
+      <center>
+        <img class="card-img-top" src="./images/akash.jpg" alt="Card image">
+      </center>
+      <div class="card-body">
+         <h4 class="card-title">Dr. Akash Bansal</h4>
+         <p class="card-text">Loughborough University, UK</p>
+      </div>
+    </div>
+  </div>
+</div>
 
         <h2><span class="span_head">Industry Outreach Chairs:</span></h2>
         <div class="row">
@@ -523,7 +551,7 @@
           </div>
         </div>
 
-        <h2><span class="span_head">European Liaison:</span></h2>
+        <!-- <h2><span class="span_head">European Liaison:</span></h2>
         <div class="row">
 
           <div class="card col-lg-4 col-md-4 col-sm-6">
@@ -535,7 +563,7 @@
               <p class="card-text">Loughborough University, UK</p>
             </div>
           </div>
-        </div>
+        </div> -->
   </div>
   </section>
 
