@@ -359,7 +359,7 @@
 
   <div class="row">
     <!-- First Person -->
-    <div class="card col-lg-4 col-md-4 col-sm-6">
+    <div class="card col-lg-6 col-md-6 col-sm-6">
       <center>
         <img class="card-img-top" src="./images/Mahesh.webp" alt="Card image">
       </center>
@@ -370,7 +370,7 @@
     </div>
 
     <!-- Second Person -->
-    <div class="card col-lg-4 col-md-4 col-sm-6">
+    <div class="card col-lg-6 col-md-6 col-sm-6">
       <div class="card">
         <center>
           <img class="card-img-top" src="./images/akash.jpg" alt="Card image">
