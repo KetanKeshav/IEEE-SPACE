@@ -374,8 +374,8 @@
           <img class="card-img-top" src="./images/akash.jpg" alt="Card image">
         </center>
         <div class="card-body">
-          <h4 class="card-title">Second Person Name</h4>
-          <p class="card-text">Designation</p>
+           <h4 class="card-title">Dr. Akash Bansal</h4>
+           <p class="card-text">Loughborough University, UK</p>
         </div>
       </div>
     </div>
