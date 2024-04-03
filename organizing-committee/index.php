@@ -154,6 +154,36 @@
           </div>
         </div>
 
+        <div class="row">
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/Siddique.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Shri M Z Siddique</h4>
+              <p class="card-text">DS & DG(Aero), DRDO</p>
+            </div>
+          </div>
+          <!-- <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/bkdas.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Dr. B K Das</h4>
+              <p class="card-text">DS & DG(ECS), DRDO</p>
+            </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/Unnikrishnan.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Dr S. Unnikrishnan Nair</h4>
+              <p class="card-text">DS and Director, VSSC & IIST, ISRO</p>
+            </div>
+          </div> -->
+        </div>
+
         <h2><span class="span_head">General Chair:</span></h2>
 
         <center>
