@@ -349,12 +349,14 @@
 
         <div class="container">
   <div class="row">
+    <center>
     <div class="col-md-6">
       <h2><span class="span_head">Finance Chair:</span></h2>
     </div>
-    <div class="col-md-4">
+    <div class="col-md-6">
       <h2><span class="span_head">Europian Chair:</span></h2>
     </div>
+  </center>
   </div>
 
   <div class="row">
