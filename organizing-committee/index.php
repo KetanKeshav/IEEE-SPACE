@@ -365,10 +365,10 @@
       <img class="card-img-top" src="./images/Mahesh.webp" alt="Card image">
     </div>
     <div class="col-12">
-      <div class="card-body">
-        <h4 class="card-title text-left">Mahesh A</h4>
-        <p class="card-text text-left">Treasurer, IEEE AESS Bangalore Chapter</p>
-      </div>
+    <div class="card-body text-left"> <!-- Added text-left class to align content to the left -->
+      <h4 class="card-title">Mahesh A</h4>
+      <p class="card-text">Treasurer, IEEE AESS Bangalore Chapter</p>
+    </div>
     </div>
   </div>
 </div>
