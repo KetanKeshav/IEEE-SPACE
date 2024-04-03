@@ -366,8 +366,8 @@
     </div>
     <div class="col-12">
       <div class="card-body">
-        <h4 class="card-title">Mahesh A</h4>
-        <p class="card-text">Treasurer, IEEE AESS Bangalore Chapter</p>
+        <h4 class="card-title text-left">Mahesh A</h4>
+        <p class="card-text text-left">Treasurer, IEEE AESS Bangalore Chapter</p>
       </div>
     </div>
   </div>
