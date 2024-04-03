@@ -352,7 +352,7 @@
     <div class="col-md-6">
       <h2><span class="span_head">Finance Chair:</span></h2>
     </div>
-    <div class="col-md-6">
+    <div class="col-md-4">
       <h2><span class="span_head">Europian Chair:</span></h2>
     </div>
   </div>
