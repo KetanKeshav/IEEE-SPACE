@@ -279,7 +279,7 @@
             </center>
             <div class="card-body">
               <h4 class="card-title">Prof. Radhakant Padhi</h4>
-              <p class="card-text"> IISc</p>
+              <p class="card-text">  IISc Bangalore</p>
             </div>
           </div>
           <div class="card col-lg-4 col-md-4 col-sm-6">
