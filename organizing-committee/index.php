@@ -361,10 +361,10 @@
     <!-- First Person -->
     <div class="card col-lg-6 col-md-6 col-sm-6">
   <div class="row">
-    <div class="col-12 text-left"> <!-- Adjusted column class to align content to the left -->
+    <div class="col-12"> <!-- Adjusted column class to align content to the left -->
       <img class="card-img-top" src="./images/Mahesh.webp" alt="Card image">
     </div>
-    <div class="col-12 text-left">
+    <div class="col-12">
     <div class="card-body"> <!-- Added text-left class to align content to the left -->
       <h4 class="card-title">Mahesh A</h4>
       <p class="card-text">Treasurer, IEEE AESS Bangalore Chapter</p>
