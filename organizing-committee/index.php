@@ -347,12 +347,12 @@
        </div>
        </div>
 
-        <div class="container">
+       <div class="container">
   <div class="row">
     <div class="col-md-6">
       <h2><span class="span_head">Finance Chair:</span></h2>
     </div>
-    <div class="col-md-6">
+    <div class="col-md-6 text-md-right"><!-- Adjusted column class to align content to the right -->
       <h2><span class="span_head">Europian Chair:</span></h2>
     </div>
   </div>
@@ -376,7 +376,7 @@
           <img class="card-img-top" src="./images/akash.jpg" alt="Card image">
         </center>
         <div class="card-body">
-           <h4 class="card-title">Dr. Akash Bansal</h4>
+          <h4 class="card-title">Dr. Akash Bansal</h4>
           <p class="card-text">Loughborough University, UK</p>
         </div>
       </div>
