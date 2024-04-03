@@ -360,8 +360,12 @@
           </div>
         </div> -->
 
-  <div class="container">
-  <h2><span class="span_head">Finance Chair:</span></h2>
+        <div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <h2><span class="span_head">Finance Chair:</span></h2>
+    </div>
+  </div>
 
   <div class="row">
     <!-- First Person -->
@@ -376,18 +380,21 @@
     </div>
 
     <!-- Second Person -->
-    <div class="card col-lg-4 col-md-4 col-sm-6">
-      <h2><span class="span_head">European Liaison:</span></h2> <!-- New Heading -->
-      <center>
-        <img class="card-img-top" src="./images/akash.jpg" alt="Card image">
-      </center>
-      <div class="card-body">
-         <h4 class="card-title">Dr. Akash Bansal</h4>
-         <p class="card-text">Loughborough University, UK</p>
+    <div class="col-lg-4 col-md-4 col-sm-6">
+      <div class="card">
+        <h2><span class="span_head">Europian Chair:</span></h2> <!-- New Heading -->
+        <center>
+          <img class="card-img-top" src="./images/SecondPerson.jpg" alt="Card image">
+        </center>
+        <div class="card-body">
+          <h4 class="card-title">Second Person Name</h4>
+          <p class="card-text">Designation</p>
+        </div>
       </div>
     </div>
   </div>
 </div>
+
 
         <h2><span class="span_head">Industry Outreach Chairs:</span></h2>
         <div class="row">
