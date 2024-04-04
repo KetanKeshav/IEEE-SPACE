@@ -159,7 +159,7 @@
       <div class="cfa_heading">
         <!-- <h1>Dear <span>Researcher</span>,</h1> -->
         <p style="text-align: justify;">
-        Aim of this compendium is to collect database of already published/unpublished  technologies which can be used in atleast 2 out of 3 verticals of SPace Aerospace and defenCE. It is to be noted that Papers submitted in this track will NOT be submitted to IEEE Xplore. One need to register and present the work to be included in compendium which will be released during SPACE 2024.
+        Aim of this compendium is to collect database of already Published/Unpublished Technologies (in the form of Paper/Patents/Internal Technical Reports) which can be used in atleast 2 out of 3 verticals of SPace Aerospace and defenCE. It is to be noted that Papers submitted in this track will NOT be submitted to IEEE Xplore. One need to register and present the work to be included in compendium which will be released during SPACE 2024.
         </p>
       </div>
     </div>

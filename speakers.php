@@ -94,7 +94,7 @@
             </center>
             <div class="card-body">
               <h4 class="card-title">Dr. V K Saraswat</h4>
-              <p class="card-text">Member, Niti Ayog</p>
+              <p class="card-text">Member, NITI Ayog</p>
             </div>
           </div>
           <div class="card col-lg-4 col-md-4 col-sm-6">
@@ -103,7 +103,7 @@
             </center>
             <div class="card-body">
               <h4 class="card-title">Shri. S Somnath</h4>
-              <p class="card-text">Secretary, DoS/Chairman, ISRO</p>
+              <p class="card-text">Secretary, DoS & Chairman, ISRO</p>
             </div>
           </div>
           <div class="card col-lg-4 col-md-4 col-sm-6">

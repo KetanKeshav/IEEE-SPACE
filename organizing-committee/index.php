@@ -99,7 +99,7 @@
             </center>
             <div class="card-body">
               <h4 class="card-title">Dr. V K Saraswat</h4>
-              <p class="card-text">Member, Niti Ayog</p>
+              <p class="card-text">Member, NITI Ayog</p>
             </div>
           </div>
           <div class="card col-lg-4 col-md-4 col-sm-6">
@@ -108,7 +108,7 @@
             </center>
             <div class="card-body">
               <h4 class="card-title">Shri. S Somnath</h4>
-              <p class="card-text">Secretary, DoS/Chairman, ISRO</p>
+              <p class="card-text">Secretary, DoS & Chairman, ISRO</p>
             </div>
           </div>
 
@@ -164,6 +164,15 @@
               <p class="card-text">DS & DG(Aero), DRDO</p>
             </div>
           </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/Nilesh.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Shri Nilesh M Desai</h4>
+              <p class="card-text">DS & Director, SAC</p>
+            </div>
+          </div>
           <!-- <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
               <img class="card-img-top" src="./images/bkdas.jpg" alt="Card image">
@@ -206,8 +215,8 @@
               <img class="card-img-top" src="./images/images.jpg" alt="Card image">
             </center>
             <div class="card-body">
-              <h4 class="card-title">Dr. Rajlakshmi Menon</h4>
-              <p class="card-text">Director, CABS, DRDO, GoI</p>
+              <h4 class="card-title">Dr. K. Rajalakshmi Menon</h4>
+              <p class="card-text">DS & Director, CABS, DRDO</p>
             </div>
           </div>
           <div class="card col-lg-4 col-md-4 col-sm-6">
@@ -216,7 +225,7 @@
             </center>
             <div class="card-body">
               <h4 class="card-title">Dr. Rajeev Jyoti</h4>
-              <p class="card-text">Director- Technical, IN-SPACe, DoS, GoI</p>
+              <p class="card-text">DS & Director-Technical, IN-SPACe</p>
             </div>
           </div>
           <div class="card col-lg-4 col-md-4 col-sm-6">
@@ -313,6 +322,15 @@
                 <p class="card-text">NPCIL, DAE</p>
               </div>
             </div>
+            <div class="card col-lg-4 col-md-4 col-sm-6">
+              <center>
+                <img class="card-img-top" src="./images/Rajesh.jpg" alt="Card image">
+              </center>
+              <div class="card-body">
+                <h4 class="card-title">Dr. R Rajesh</h4>
+                <p class="card-text">CABS, DRDO</p>
+              </div>
+            </div>
             </div>
 
   <h2><span class="span_head">Special Sessions Chairs:</span></h2>
@@ -353,7 +371,7 @@
       <h2><span class="span_head">Finance Chair:</span></h2>
     </div>
     <div class="col-md-6 text-md-right"><!-- Adjusted column class to align content to the right -->
-      <h2><span class="span_head">Europian Chair:</span></h2>
+      <h2><span class="span_head">European Liaison:</span></h2>
     </div>
   </div>
 
