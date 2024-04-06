@@ -183,7 +183,7 @@
             format will result in rejection. Detailed format information is available in IEEE Website.
             <br><br>
             The authors are required to use the standard IEEE manuscript template for conferences. The
-            Microsoft Word template in can be downloaded from IEEE conference template page: <a href="https://www.ieee.org/conferences/publishing/templates.php">Click here</a>
+            Microsoft Word template in can be downloaded from IEEE conference template page: <a href="https://www.ieee.org/conferences/publishing/templates.html">Click here</a>
           </p>
           <p>
             <strong>NOTE:</strong>
