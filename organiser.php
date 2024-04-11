@@ -20,17 +20,17 @@
 
     <div class="container">
         <div class="heading_container">
-            <h2 style="text-align: center;"><span>Technical Co-Sponor</span></h2>
+            <h2 style="text-align: center;"><span>Technical Co-Sponors</span></h2>
         </div>
         <div class="organisers_row" style="display: flex; justify-content: center;">
             <div class="organiser_logo">
-                <img src="./images/sponsors/3.png"" alt="Organiser 1" style="width: 200px; height: auto;">
+                <img src="./images/sponsors/5.png"" alt="Organiser 1" style="width: 200px; height: auto;">
             </div>
             <div class="organiser_logo">
                 <img src="./images/sponsors/4.png" alt="Organiser 2" style="width: 200px; height: auto;">
             </div>
             <div class="organiser_logo">
-                <img src="./images/sponsors/5.png" alt="Organiser 3" style="width: 200px; height: auto;">
+                <img src="./images/sponsors/3.png" alt="Organiser 3" style="width: 200px; height: auto;">
             </div>
         </div>
     </div>
