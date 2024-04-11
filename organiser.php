@@ -30,6 +30,9 @@
                 <img src="./images/sponsors/4.png" alt="Organiser 2" style="width: 200px; height: auto;">
             </div>
             <div class="organiser_logo">
+                <img src="./images/sponsors/7.png" alt="Organiser 3" style="width: 200px; height: auto;">
+            </div>
+            <div class="organiser_logo">
                 <img src="./images/sponsors/3.png" alt="Organiser 3" style="width: 200px; height: auto;">
             </div>
         </div>
