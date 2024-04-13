@@ -62,10 +62,9 @@
     }
 
     .organiser_logo {
-        flex: 0 0 calc(25% - 20px); /* Four logos per row with reduced white space */
+        flex: 0 0 calc(33.333% - 20px); /* Three logos per row with reduced white space */
         margin: 10px;
         box-sizing: border-box; /* Include padding and border in width calculation */
-        max-width: 150px; /* Limit the maximum width of the logo */
     }
 
     .organiser_logo img {
