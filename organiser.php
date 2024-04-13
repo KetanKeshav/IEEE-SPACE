@@ -2,7 +2,7 @@
 <section class="about_section layout_padding">
     <div class="container">
         <div class="heading_container">
-            <h2><span>Organised by</span></h2>
+            <h2 class="section_heading"><span>Organised by</span></h2>
         </div>
         <div class="organisers_row">
             <div class="organiser_logo">
@@ -16,7 +16,7 @@
 
     <div class="container">
         <div class="heading_container">
-            <h2><span>Technical Co-Sponsors</span></h2>
+            <h2 class="section_heading"><span>Technical Co-Sponsors</span></h2>
         </div>
         <div class="organisers_row">
             <div class="organiser_logo">
@@ -42,6 +42,16 @@
         justify-content: center;
         margin: 0 auto;
         max-width: 1200px; /* Adjust as needed */
+    }
+
+    .heading_container {
+        text-align: center;
+    }
+
+    .section_heading {
+        white-space: nowrap; /* Prevent line break */
+        overflow: hidden; /* Hide overflowing text */
+        text-overflow: ellipsis; /* Show ellipsis for overflow */
     }
 
     .organisers_row {
