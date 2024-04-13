@@ -1,7 +1,7 @@
 <!-- sponsors section -->
 <section class="about_section layout_padding">
     <div class="container">
-        <div>
+        <div class="heading_container">
             <h2><span>Organised by</span></h2>
         </div>
         <div class="organisers_row">
@@ -15,7 +15,7 @@
     </div>
 
     <div class="container">
-        <div>
+        <div class="heading_container">
             <h2><span>Technical Co-Sponsors</span></h2>
         </div>
         <div class="organisers_row">
