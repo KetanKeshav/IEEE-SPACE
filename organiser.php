@@ -2,7 +2,7 @@
 <section class="about_section layout_padding">
     <div class="container">
         <div class="heading_container">
-            <h2 style="text-align: center;"><span>Organised by</span></h2>
+            <h2><span>Organised by</span></h2>
         </div>
         <div class="organisers_row">
             <div class="organiser_logo">
@@ -16,7 +16,7 @@
 
     <div class="container">
         <div class="heading_container">
-            <h2 style="text-align: center;"><span>Technical Co-Sponsors</span></h2>
+            <h2><span>Technical Co-Sponsors</span></h2>
         </div>
         <div class="organisers_row">
             <div class="organiser_logo">
