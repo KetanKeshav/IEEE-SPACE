@@ -46,28 +46,33 @@
 
     .organisers_row {
         display: flex;
-        justify-content: center;
         flex-wrap: wrap;
+        justify-content: center;
+        margin: -10px; /* Reduce white space */
     }
 
     .organiser_logo {
+        flex: 0 0 calc(33.333% - 20px); /* Three logos per row with reduced white space */
         margin: 10px;
+        box-sizing: border-box; /* Include padding and border in width calculation */
     }
 
     .organiser_logo img {
         max-width: 100%;
         height: auto;
+        display: block; /* Remove extra space below image */
+        margin: auto; /* Center image horizontally */
     }
 
     @media screen and (max-width: 768px) {
         .organiser_logo {
-            flex-basis: 50%; /* Two logos per row on smaller screens */
+            flex: 0 0 calc(50% - 20px); /* Two logos per row on smaller screens */
         }
     }
 
     @media screen and (max-width: 576px) {
         .organiser_logo {
-            flex-basis: 100%; /* One logo per row on extra small screens */
+            flex: 0 0 calc(100% - 20px); /* One logo per row on extra small screens */
         }
     }
 </style>
