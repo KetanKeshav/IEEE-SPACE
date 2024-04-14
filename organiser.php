@@ -65,7 +65,7 @@
         flex: 0 0 calc(25% - 20px); /* Four logos per row with reduced white space */
         margin: 10px;
         box-sizing: border-box; /* Include padding and border in width calculation */
-        max-width: 150px; /* Limit the maximum width of the logo */
+        max-width: 200px; /* Increase maximum width of the logo */
     }
 
     .organiser_logo img {
@@ -82,8 +82,13 @@
     }
 
     @media screen and (max-width: 576px) {
+        .organisers_row {
+            flex-direction: column; /* Display logos in a single column */
+            align-items: center; /* Center logos vertically */
+        }
         .organiser_logo {
             flex: 0 0 calc(100% - 20px); /* One logo per row on extra small screens */
+            margin-bottom: 20px; /* Add spacing between logos */
         }
     }
 </style>
