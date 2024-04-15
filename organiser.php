@@ -55,14 +55,14 @@
     }
 
     .organisers_row {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        margin: -10px; /* Reduce white space */
-    }
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: -10px; /* Reduce white space */
+}
 
     .organiser_logo {
-        flex: 0 0 calc(25% - 20px); /* Four logos per row with reduced white space */
+        flex: 0 0 auto; /* Allow flexible sizing */
         margin: 10px;
         box-sizing: border-box; /* Include padding and border in width calculation */
         max-width: 200px; /* Increase maximum width of the logo */
