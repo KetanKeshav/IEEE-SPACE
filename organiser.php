@@ -13,10 +13,12 @@
     <div class="container">
         <div class="heading_container">
             <h2 class="section_heading"><span>Technical Co-Sponsors</span></h2>
+            <br>
+            <img src="./images/sponsors/2.png" alt="Organiser 2">
         </div>
-        <br>
+        <!-- <br>
             <div>
-                <img src="./images/sponsors/2.png" alt="Organiser 2">
-            </div>
+                
+            </div> -->
     </div>
 </section>
