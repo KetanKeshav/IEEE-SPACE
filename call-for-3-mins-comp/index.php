@@ -201,11 +201,11 @@
         </p>
 
         <p style="text-align: justify;">
-        <b>Application requirements: Combine all documents into a single PDF file and send it to baisakhi20@ieee.org with cc to ieeespace2024@gmail.com<b>
+        <b>Application requirements:</b> Combine all documents into a single PDF file and send it to baisakhi20@ieee.org with cc to ieeespace2024@gmail.com
         </p>
 
         <p style="text-align: justify;">
-        Selection Process: Upto 40 condidates will be selected to partcipate in the 3 Min thesis competition at IEEE SPACE 2024
+        <b>Selection Process:</b> Upto 40 condidates will be selected to partcipate in the 3 Min thesis competition at IEEE SPACE 2024
         </p>
 
         <p style="text-align: justify;">
@@ -217,7 +217,7 @@
         </p>
         
         <p style="text-align: justify;">
-        <b>Last date for submission: Please send the combined PDF file before 15th May, 2024.</b>
+        <b>Last date for submission:</b> Please send the combined PDF file before 15th May, 2024.
         </p>
 
       </div>
