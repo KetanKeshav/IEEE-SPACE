@@ -212,7 +212,7 @@
             The submitting authors may be required to create an EDAS account before uploading the paper
             (if the submitting author does not have a Microsoft Conference Management Toolkit account).
             While uploading the paper, the authors should provide the title of the paper, an abstract of
-            no more than 200 words and keywords in the respective text boxes in the paper submission page.
+            no more than 100 words and keywords in the respective text boxes in the paper submission page.
 
             <br><br>
 
