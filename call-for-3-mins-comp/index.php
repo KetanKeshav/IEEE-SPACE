@@ -12,7 +12,7 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>Call For Papers | SPACE 2024</title>
+  <title>3 Minute Thesis Competition | SPACE 2024</title>
 
   <link rel="shortcut icon" href="../images/favicon.ico" type="">
 
@@ -163,28 +163,28 @@
         </p>
 
         <p style="text-align: justify;">
-        What is in 3 Min? 3 Min is a thrilling opportunity for PhD students and young professionals to present their research in Space, Aerospace and defenCE to a specialist and non-specialit audience. In just three minutes and four slides, contestants will captivate listeners with their innovative ideas and discoveries.
+        <b>What is in 3 Min?</b> 3 Min is a thrilling opportunity for PhD students and young professionals to present their research in Space, Aerospace and defenCE to a specialist and non-specialit audience. In just three minutes and four slides, contestants will captivate listeners with their innovative ideas and discoveries.
         </p>
 
         <p style="text-align: justify;">
-        Goals of 3 Min? This Competition aims to ignite interest in the vast applications of Space, Aerospace and defenCE technologies and renew public fascination with its transformative potential. By sharing your research, you'll contribute to a broader understanding of SPace, Aerospace and defenCE advancements and their real-world impact.
+        <b>Goals of 3 Min?</b> This Competition aims to ignite interest in the vast applications of Space, Aerospace and defenCE technologies and renew public fascination with its transformative potential. By sharing your research, you'll contribute to a broader understanding of SPace, Aerospace and defenCE advancements and their real-world impact.
         </p>
 
         <p style="text-align: justify;">
-        How is it Judged, and How to Prepare? A panel of experts will evaluate presentations based on the clarity of the problem statement, relevance to SPace, Aerospace and defenCE society, and demonstrated research excellence. Prepare to impress with concise, engaging delivery and a clear demonstration of your research's significance.
+        <b>How is it Judged, and How to Prepare?</b> A panel of experts will evaluate presentations based on the clarity of the problem statement, relevance to SPace, Aerospace and defenCE society, and demonstrated research excellence. Prepare to impress with concise, engaging delivery and a clear demonstration of your research's significance.
         </p>
         
         <p style="text-align: justify;">
-        Who can Participate? ALL IEEE student members nearing the completion of their PhD are encourged to participate and elevate their research to a national stage. Don't miss this chance to showcase your work, gain valuable experience and boost your confidence!
+        <b>Who can Participate?</b> ALL IEEE student members nearing the completion of their PhD are encourged to participate and elevate their research to a national stage. Don't miss this chance to showcase your work, gain valuable experience and boost your confidence!
         </p>
 
         <p style="text-align: justify;">
-        Prizes and Recognition: Top 3 contenders will vie for prestigious awards. Including
-
+        <b>Prizes and Recognition: Top 3 contenders will vie for prestigious awards. Including</b>
+        </br>
         1 Prize: 10,000/-
-
+        </br>
         2nd Prize: 7,000/-
-
+        </br>
         3d Prize: 5,000/-
         </p>
 
@@ -201,7 +201,7 @@
         </p>
 
         <p style="text-align: justify;">
-        Application requirements: Combine all documents into a single PDF file and send it to baisakhi20@ieee.org with cc to ieeespace2024@gmail.com
+        <b>Application requirements: Combine all documents into a single PDF file and send it to baisakhi20@ieee.org with cc to ieeespace2024@gmail.com<b>
         </p>
 
         <p style="text-align: justify;">
@@ -213,11 +213,11 @@
         </p>
 
         <p style="text-align: justify;">
-        Baisakhi Bandyopadhyay tania.banerjee678@gmail.com baisakhi20@ieee.org
+        Baisakhi Bandyopadhyay: tania.banerjee678@gmail.com / baisakhi20@ieee.org
         </p>
         
         <p style="text-align: justify;">
-        Last date for submission: Please send the combined PDF file before 15th May, 2024.
+        <b>Last date for submission: Please send the combined PDF file before 15th May, 2024.</b>
         </p>
 
       </div>
