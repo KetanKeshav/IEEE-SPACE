@@ -134,6 +134,8 @@
     <!-- end slider section -->
   </div>
   <?php include 'organiser.php'; ?>
+  <?php include 'sponsors.php'; ?>
+
 
 
   <!-- about section -->
@@ -214,7 +216,6 @@
 
   <!-- sponsors section -->
 
-  <?php include 'sponsors.php'; ?>
 
   <!-- end sponsprs section -->
 
