@@ -224,6 +224,14 @@
     </div>
   </section>
 
+  <center>
+    <div class="detail_box">
+        <a href="../downloads/3 Minute Thesis Competition.pdf" class="button-con" download>
+            <h1>Download</h1>
+        </a>
+    </div>
+  </center>
+
   <!-- end course section -->
 
   </section>
