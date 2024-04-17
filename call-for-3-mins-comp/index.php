@@ -193,10 +193,10 @@
         </p>
 
         <p style="text-align: justify;">
-        Application Procedure:
+        <b>Application Procedure:</b>
 
-        1. Submission of Research Title and Description: Submit a title and short description of your research work, including an introduction, research gap, work done, practical applications, and its significance, not exceeding 2 pages in length.
-        2. Submission of a short biography and research activities, as well as the expected graduation date. Include a list of published and submitted journals, conference papers, relevant research prizes, research initiatives, and funding details no longer than two pages.
+        1. Submission of Research Title and Description: Submit a title and short description of your research work, including an introduction, research gap, work done, practical applications, and its significance, not exceeding 2 pages in length.</br>
+        2. Submission of a short biography and research activities, as well as the expected graduation date. Include a list of published and submitted journals, conference papers, relevant research prizes, research initiatives, and funding details no longer than two pages.</br>
         3. Endorsement Letter from Supervisor: Provide an endorsement letter from your supervisor explicity stating that they have no issues with showcasing your thesis work to a national-level audience
         </p>
 
