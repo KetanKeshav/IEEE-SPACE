@@ -133,10 +133,6 @@
     </section>
     <!-- end slider section -->
   </div>
-  <?php include 'organiser.php'; ?>
-  <?php include 'sponsors.php'; ?>
-
-
 
   <!-- about section -->
 
@@ -215,6 +211,9 @@
   <!-- End of Venue Details-->
 
   <!-- sponsors section -->
+  <?php include 'organiser.php'; ?>
+
+  <?php include 'sponsors.php'; ?>
 
 
   <!-- end sponsprs section -->
