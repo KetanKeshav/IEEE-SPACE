@@ -14,9 +14,7 @@
           <div class="row">
           <h2 style="text-align: center;">Diamond Sponsor</h2>
               <div class="col-md-4 img-box mt-2 mb-2">
-                  <a href="https://www.ansys.com/en-in"><img src="https://ieeespace.org/images/sponsors/1n.png" alt=""></a>
               <p>Coming soon</p>
-              </div>
           </div>
           <!--<div class="row">
               <div class="col-md-4 img-box mt-2 mb-2">
