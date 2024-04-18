@@ -18,7 +18,7 @@
               <h2>Coming soon</h2>
               </div>
           </div>
-          <div class="heading_container">
+          <!-- <div class="heading_container">
               <h2 style="text-align: center;"><span>Platinum Sponsor</span></h2>
           </div>
           <div class="row">
@@ -41,7 +41,7 @@
               <div class="col-md-4 img-box mt-2 mb-2">
               <h2>Coming soon</h2>
               </div>
-          </div>
+          </div> -->
           <!--<div class="row">
               <div class="col-md-4 img-box mt-2 mb-2">
                   <a href="https://apctechnologies.in/"><img src="https://ieeespace.org/images/sponsors/d.png" alt=""><br><br>
