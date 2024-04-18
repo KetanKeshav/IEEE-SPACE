@@ -7,14 +7,14 @@
           </div>
           <div class="row">
               <div class="col-md-4 img-box mt-2 mb-2">
-                  <h2 style="text-align: center;">Signature Sponsor</h2>
+                  <h2 style="text-align: center;"><span>Signature Sponsor</span></h2>
                   <a href="https://www.ansys.com/en-in"><img src="https://ieeespace.org/images/sponsors/1n.png" alt=""></a>
               </div>
           </div>
           <div class="row">
           <h2 style="text-align: center;">Diamond Sponsor</h2>
               <div class="col-md-4 img-box mt-2 mb-2">
-              <p>Coming soon</p>
+              <h2>Coming soon</h2>
           </div>
           <!--<div class="row">
               <div class="col-md-4 img-box mt-2 mb-2">
