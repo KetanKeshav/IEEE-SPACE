@@ -64,11 +64,11 @@
               <div class="row">
                 <div class="col-md-8 mx-auto">
                   <div class="detail_box">
-                    <h2>Welcome To</h2>
+                    <!-- <h2>Welcome To</h2>
                     <h1>SPACE 2024</h1>
                     <h3>(SPace, Aerospace and defenCE conference)</h3>
                     <h2><b>July 22-23, 2024</b></h2>
-                    <h2><b>Sheraton Grand Bengaluru Whitefield Hotel & Convention Center</b></h2>
+                    <h2><b>Sheraton Grand Bengaluru Whitefield Hotel & Convention Center</b></h2> -->
                     <a href="./downloads/cfp.pdf" target="_blank" download="Program Booklet">
                       Call For Paper
                     </a>
@@ -85,11 +85,11 @@
               <div class="row">
                 <div class="col-md-8 mx-auto">
                   <div class="detail_box">
-                    <h2>Welcome To</h2>
+                    <!-- <h2>Welcome To</h2>
                     <h1>SPACE 2024</h1>
                     <h3>(SPace, Aerospace and defenCE conference)</h3>
                     <h2><b>July 22-23, 2024</b></h2>
-                    <h2><b>Sheraton Grand Bengaluru Whitefield Hotel & Convention Center</b></h2>
+                    <h2><b>Sheraton Grand Bengaluru Whitefield Hotel & Convention Center</b></h2> -->
                     <a href="./downloads/cfp.pdf" target="_blank" download="Program Booklet">
                       Call For Paper
                     </a>
@@ -109,11 +109,11 @@
               <div class="row">
                 <div class="col-md-8 mx-auto">
                   <div class="detail_box">
-                    <h2>Welcome To</h2>
+                    <!-- <h2>Welcome To</h2>
                     <h1>SPACE 2024</h1>
                     <h3>(SPace, Aerospace and defenCE conference)</h3>
                     <h2><b>July 22-23, 2024</b></h2>
-                    <h2><b>Sheraton Grand Bengaluru Whitefield Hotel & Convention Center</b></h2>
+                    <h2><b>Sheraton Grand Bengaluru Whitefield Hotel & Convention Center</b></h2> -->
                     <a href="./downloads/cfp.pdf" target="_blank" download="Program Booklet">
                       Call For Paper
                     </a>
