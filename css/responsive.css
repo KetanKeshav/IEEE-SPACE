@@ -18,15 +18,15 @@
 
   .slide-1{
     margin-top: 0;
-    background-image: url(../images/car/welcome.svg);
+    background-image: url(../images/car/welcome.gif);
   }
   .slide-2{
     margin-top: 0;
-    background-image: url(../images/car/welcome.svg);
+    background-image: url(../images/car/welcome.gif);
   }
   .slide-3{
     margin-top: 0;
-    background-image: url(../images/car/welcome.svg);
+    background-image: url(../images/car/welcome.gif);
   }
 
   .header_section {
@@ -88,17 +88,17 @@
   .slide-1{
     position: relative;
     margin-top: 0;
-    background-image: url(../images/car/welcome.svg);
+    background-image: url(../images/car/welcome.gif);
   }
   .slide-2{
     position: relative;
     margin-top: 0;
-    background-image: url(../images/car/welcome.svg);
+    background-image: url(../images/car/welcome.gif);
   }
   .slide-3{
     position: relative;
     margin-top: 0;
-    background-image: url(../images/car/welcome.svg);
+    background-image: url(../images/car/welcome.gif);
   }
   .about_section .detail-box {
     margin-top: 0px;
