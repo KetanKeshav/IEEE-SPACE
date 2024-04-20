@@ -17,6 +17,9 @@
               <div class="col-md-4 img-box mt-2 mb-2">
               <a href="https://www.anritsu.com/en-us/"><img src="https://ieeespace.org/images/sponsors/diamond-1.png" alt=""></a>
               </div>
+              <div class="col-md-4 img-box mt-2 mb-2">
+              <a href="https://www.ni.com/en.html"><img src="https://ieeespace.org/images/sponsors/diamond-2.png" alt=""></a>
+              </div>
           </div>
           <!-- <div class="heading_container">
               <h2 style="text-align: center;"><span>Platinum Sponsor</span></h2>
