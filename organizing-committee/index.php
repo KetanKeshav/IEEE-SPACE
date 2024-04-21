@@ -367,18 +367,21 @@
 
        <div class="container">
   <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-4"><!-- Each column takes 4 units of the 12-unit grid for medium devices and above -->
       <h2><span class="span_head">Finance Chair:</span></h2>
     </div>
-    <div class="col-md-6 text-md-right"><!-- Adjusted column class to align content to the right -->
+    <div class="col-md-4 text-md-center"><!-- Adjusted column class to center content for medium devices and above -->
       <h2><span class="span_head">European Liaison:</span></h2>
+    </div>
+    <div class="col-md-4 text-md-right"><!-- Adjusted column class to align content to the right for medium devices and above -->
+      <h2><span class="span_head">USA Liaison:</span></h2>
     </div>
   </div>
 
   <div class="row">
     <!-- First Person -->
-    <div class="card col-lg-6 col-md-6 col-sm-6">
-    <div class="card">
+    <div class="col-lg-4 col-md-4 col-sm-4"><!-- Each column takes 4 units of the 12-unit grid for large, medium, and small devices -->
+      <div class="card">
         <center>
           <img class="card-img-top" src="./images/Mahesh.webp" alt="Card image">
         </center>
@@ -387,10 +390,10 @@
           <p class="card-text">Treasurer, IEEE AESS Bangalore Chapter</p>
         </div>
       </div>
-</div>
+    </div>
 
     <!-- Second Person -->
-    <div class="card col-lg-6 col-md-6 col-sm-6">
+    <div class="col-lg-4 col-md-4 col-sm-4"><!-- Each column takes 4 units of the 12-unit grid for large, medium, and small devices -->
       <div class="card">
         <center>
           <img class="card-img-top" src="./images/akash.jpg" alt="Card image">
@@ -401,9 +404,21 @@
         </div>
       </div>
     </div>
+
+    <!-- Third Person -->
+    <div class="col-lg-4 col-md-4 col-sm-4"><!-- Each column takes 4 units of the 12-unit grid for large, medium, and small devices -->
+      <div class="card">
+        <center>
+          <img class="card-img-top" src="./images/usa_liason.jpg" alt="Card image"><!-- Replace 'usa_liason.jpg' with the actual image file path -->
+        </center>
+        <div class="card-body">
+          <h4 class="card-title">Dr. Vincent Socci</h4>
+          <p class="card-text">Director, Blue Origin</p><!-- Add the appropriate description -->
+        </div>
+      </div>
+    </div>
   </div>
 </div>
-
 
         <h2><span class="span_head">Industry Outreach Chairs:</span></h2>
         <div class="row">
