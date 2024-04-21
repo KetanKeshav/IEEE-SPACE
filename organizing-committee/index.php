@@ -409,7 +409,7 @@
     <div class="col-lg-4 col-md-4 col-sm-4"><!-- Each column takes 4 units of the 12-unit grid for large, medium, and small devices -->
       <div class="card">
         <center>
-          <img class="card-img-top" src="./images/usa_liason.jpg" alt="Card image"><!-- Replace 'usa_liason.jpg' with the actual image file path -->
+          <img class="card-img-top" src="./images/vince.jpg" alt="Card image"><!-- Replace 'usa_liason.jpg' with the actual image file path -->
         </center>
         <div class="card-body">
           <h4 class="card-title">Dr. Vincent Socci</h4>
