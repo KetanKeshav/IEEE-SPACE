@@ -1673,6 +1673,158 @@
               <td>Dr. Himani Saini</td>
               <td>UR Rao Satellite Centre, Indian Space Research Organization</td>
           </tr>
+          <tr>
+          <td>RaviKanth Pasumarthy</td>
+          <td>Capgemini</td>
+          </tr>
+          <tr>
+              <td>Tushar Vrind</td>
+              <td>Samsung Electronics</td>
+          </tr>
+          <tr>
+              <td>Dr Naresh Chandra Agrawal</td>
+              <td>AKTU</td>
+          </tr>
+          <tr>
+              <td>Sandeep Bhatia</td>
+              <td>Galgotias University</td>
+          </tr>
+          <tr>
+              <td>Mohammad Al Bukhari Marzuki</td>
+              <td>Sultan Azlan Shah Polytechnic</td>
+          </tr>
+          <tr>
+              <td>AHMAD SYARIFUDDIN CHE ABD AZIZ</td>
+              <td>MINISTRY OF HIGHER EDUCATION MALAYSIA/ COMMUNITY COLLEGE MALAYSIA</td>
+          </tr>
+          <tr>
+              <td>Junlong Yang</td>
+              <td>Xinjiang university, China</td>
+          </tr>
+          <tr>
+              <td>Anjan Kumar Ray</td>
+              <td>NIT Sikkim</td>
+          </tr>
+          <tr>
+              <td>Rushiraj Jawale</td>
+              <td>Ericsson</td>
+          </tr>
+          <tr>
+              <td>Dr. R.SEETHARAMAN</td>
+              <td>COLLEGE OF ENGINEERING-GUINDY, CHENNAI-600025, INDIA</td>
+          </tr>
+          <tr>
+              <td>Ahmed Kareem Sameer</td>
+              <td>University of Anbar</td>
+          </tr>
+          <tr>
+              <td>Neeresh Kumar</td>
+              <td>Bharat Electronics Ltd</td>
+          </tr>
+          <tr>
+              <td>Farooq Aziz</td>
+              <td>University of Houston</td>
+          </tr>
+          <tr>
+              <td>Ali Hayder Abdul Kareem</td>
+              <td>Ministry of Education</td>
+          </tr>
+          <tr>
+              <td>Abdessamad Didi</td>
+              <td>National Energy Center of Nuclear Science and TechnologyThe institution will open in a new tab, Rabat, Morocco</td>
+          </tr>
+          <tr>
+              <td>Sirish Deshmukh</td>
+              <td>IISc, Indian Air Force</td>
+          </tr>
+          <tr>
+              <td>Shyam Sundar Pati</td>
+              <td>SRF</td>
+          </tr>
+          <tr>
+              <td>Rossian V. Perea</td>
+              <td>Cavite State University Naic, Cavite, Philippines</td>
+          </tr>
+          <tr>
+              <td>Gnanapriya C</td>
+              <td>Infosys</td>
+          </tr>
+          <tr>
+              <td>Prof. M M Sharma</td>
+              <td>Professor Department of ECE MNIT Jaipur</td>
+          </tr>
+          <tr>
+              <td>Dr R Rajesh</td>
+              <td>CABS, DRDO</td>
+          </tr>
+          <tr>
+              <td>Madhumita</td>
+              <td>Chakravarti</td>
+          </tr>
+          <tr>
+              <td>Soumyabrata Chakrabarty</td>
+              <td>IIT Gandhinagar</td>
+          </tr>
+          <tr>
+              <td>Tahir Kamal Khan</td>
+              <td>NPCIL (Dept of Atomic Energy)</td>
+          </tr>
+          <tr>
+              <td>Dr. Shyam Lal</td>
+              <td>NITK Surathkal Karnataka</td>
+          </tr>
+          <tr>
+              <td>Olive Ray</td>
+              <td>Indian Institute of Technology Bhubaneswar</td>
+          </tr>
+          <tr>
+              <td>Krishna Paul</td>
+              <td>INTEL</td>
+          </tr>
+          <tr>
+              <td>Shipra Bhatia</td>
+              <td>Ph.D. Scholar in CSIR-CEERI, Pilani</td>
+          </tr>
+          <tr>
+              <td>Dr SREELAL SREEDHARAN PILLAI</td>
+              <td>Vikram Sarabhai Space Centre, Thiruvananthapuram</td>
+          </tr>
+          <tr>
+              <td>Snehalatha L</td>
+              <td>Indian Institute of Technology Roorkee</td>
+          </tr>
+          <tr>
+              <td>Prof.Subhash Chander Dubey</td>
+              <td>Govt.College of Engineering and Technology,Jammu</td>
+          </tr>
+          <tr>
+              <td>Mohankumar N.</td>
+              <td>Dept. of ECE, Amrita Vishwa Vidyapeetham, Coimbatore, INDIA</td>
+          </tr>
+          <tr>
+              <td>Dr. Kali Charan Rath</td>
+              <td>Associate Professor, Department of Mechanical Engineering, GIET University, Odisha, India</td>
+          </tr>
+          <tr>
+              <td>Mustofa Abi Hamid</td>
+              <td>Universitas Sultan Ageng Tirtayasa, Indonesia</td>
+          </tr>
+          <tr>
+              <td>Engr Sayed Mazhar Ali</td>
+              <td>Department of Electrical Engineering Mehran University of Engineering and Technology SZAB Campus Khairpur Mirs Pakistan</td>
+          </tr>
+          <tr>
+              <td>Jawad K. Ali</td>
+              <td>University of Technology - Iraq</td>
+          </tr>
+          <tr>
+              <td>samsul huda</td>
+              <td>Okayama University, Japan</td>
+          </tr>
+          <tr>
+              <td>Houari Aoued</td>
+              <td>Lecturer at Hassiba Benbouali University of Chlef</td>
+          </tr>
 
           </tbody>
         </table>
