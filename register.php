@@ -235,6 +235,51 @@
                     <p>Registration Fee includes registration kit, access to all technical sessions, exhibits, 2 lunches, 1 dinner and 4 sessions of Tea/Coffee. 
                         One can present one paper with one registration. 
                         For additional papers one needs to pay additional INR 2000/paper.</p>
+                    <ol>
+                        <li>
+                            Government Organization Delegates, where only NEFT Payment is allowed, use the following Bank details for transfer of Registration Fee:
+                            <table border="1">
+                                <tr>
+                                    <td>A/c Name:</td>
+                                    <td>IEEE AEROSPACE ELECTRONICS SYSTEMS (AESS) SOCIETY BANGALORE CHAPTER</td>
+                                </tr>
+                                <tr>
+                                    <td>A/c Number:</td>
+                                    <td>016901024229</td>
+                                </tr>
+                                <tr>
+                                    <td>Bank Name:</td>
+                                    <td>ICICI Bank</td>
+                                </tr>
+                                <tr>
+                                    <td>Branch:</td>
+                                    <td>Indiranagar</td>
+                                </tr>
+                                <tr>
+                                    <td>IFSC Code:</td>
+                                    <td>ICIC0000169</td>
+                                </tr>
+                                <tr>
+                                    <td>Swift Code:</td>
+                                    <td>ICICINBBNRI</td>
+                                </tr>
+                                <tr>
+                                    <td>Account Type:</td>
+                                    <td>Savings</td>
+                                </tr>
+                                <tr>
+                                    <td>Bank Address:</td>
+                                    <td>MPS Tower, No 515, CMH Road, Indiranagar, 1st Stage, Bangalore, Karnataka - 560038</td>
+                                </tr>
+                                <tr>
+                                    <td>MICR:</td>
+                                    <td>560229013</td>
+                                </tr>
+                            </table>
+                        </li>
+                    </ol>
+
+
 
                     <!-- <p>
                         <strong>NOTE:</strong>
