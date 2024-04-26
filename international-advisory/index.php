@@ -121,7 +121,7 @@
                   <img class="card-img-top" src="./images/satheesh.webp" alt="Card image">
                 </center>
                 <div class="card-body">
-                  <h4 class="card-title">G. Satheesh Reddy</h4>
+                  <h4 class="card-title">Dr. G. Satheesh Reddy</h4>
                   <p class="card-text">2018-2022 Secretary, DDR&D & Chairman, DRDO</p>
                 </div>
           </div>
