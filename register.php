@@ -278,6 +278,10 @@
                                     <td>MICR:</td>
                                     <td>560229013</td>
                                 </tr>
+                                <tr>
+                                    <td>GST No.:</td>
+                                    <td>29AACAI7360Q1ZY</td>
+                                </tr>
                             </table>
                         </li>
                     </ol>
