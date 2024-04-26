@@ -122,7 +122,7 @@
                 </center>
                 <div class="card-body">
                   <h4 class="card-title">G. Satheesh Reddy</h4>
-                  <p class="card-text">Secretary, DDR&D/ Chairman, DRDO</p>
+                  <p class="card-text">2018-2022 Secretary, DDR&D & Chairman, DRDO</p>
                 </div>
           </div>
             
