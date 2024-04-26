@@ -48,94 +48,55 @@
     </header>
     <!-- end header section -->
     <!-- slider section -->
-    <section class="slider_section ">
-      <div id="customCarousel1" class="carousel slide" data-ride="carousel">
-        <!-- <ol class="carousel-indicators">
-          <li data-target="#customCarousel1" data-slide-to="0" class="active">1</li>
-          <li data-target="#customCarousel1" data-slide-to="1">2</li>
-          <li data-target="#customCarousel1" data-slide-to="2">3</li>
-          <li data-target="#customCarousel1" data-slide-to="3">4</li>
-          <li data-target="#customCarousel1" data-slide-to="4">5</li>
-
-        </ol> -->
-        <div class="carousel-inner">
-          <div class="carousel-item active slide-1">
-            <div class="container">
-              <div class="row">
-                <div class="col-md-8 mx-auto">
-                  <div class="detail_box">
-                    <!-- <h2>Welcome To</h2>
-                    <h1>SPACE 2024</h1>
-                    <h3>(SPace, Aerospace and defenCE conference)</h3>
-                    <h2><b>July 22-23, 2024</b></h2>
-                    <h2><b>Sheraton Grand Bengaluru Whitefield Hotel & Convention Center</b></h2> -->
-                    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-                    <a href="./downloads/cfp.pdf" target="_blank" download="Program Booklet">
-                      Call For Paper
-                    </a>
-                    <!-- <a href="program.php" target="_blank">
-                      Schedule
-                    </a> -->
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="carousel-item slide-2">
-            <div class="container">
-              <div class="row">
-                <div class="col-md-8 mx-auto">
-                  <div class="detail_box">
-                    <!-- <h2>Welcome To</h2>
-                    <h1>SPACE 2024</h1>
-                    <h3>(SPace, Aerospace and defenCE conference)</h3>
-                    <h2><b>July 22-23, 2024</b></h2>
-                    <h2><b>Sheraton Grand Bengaluru Whitefield Hotel & Convention Center</b></h2> -->
-                    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-                    <a href="./downloads/cfp.pdf" target="_blank" download="Program Booklet">
-                      Call For Paper
-                    </a>
-                    <!-- <a href="register.php" target="_blank">
-                      Register now
-                    </a>
-                    <a href="program.php" target="_blank">
-                      Schedule
-                    </a> -->
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="carousel-item slide-3">
-            <div class="container">
-              <div class="row">
-                <div class="col-md-8 mx-auto">
-                  <div class="detail_box">
-                    <!-- <h2>Welcome To</h2>
-                    <h1>SPACE 2024</h1>
-                    <h3>(SPace, Aerospace and defenCE conference)</h3>
-                    <h2><b>July 22-23, 2024</b></h2>
-                    <h2><b>Sheraton Grand Bengaluru Whitefield Hotel & Convention Center</b></h2> -->
-                    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-                    <a href="./downloads/cfp.pdf" target="_blank" download="Program Booklet">
-                      Call For Paper
-                    </a>
-                    <!-- <a href="register.php" target="_blank">
-                      Register now
-                    </a>
-                    <a href="program.php" target="_blank">
-                      Schedule
-                    </a> -->
-                  </div>
-                </div>
+    <section class="slider_section" style="overflow: hidden;">
+  <div id="customCarousel1" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+      <div class="carousel-item active slide-1" style="background-color: #f0f0f0;">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-8 mx-auto">
+              <div class="detail_box">
+                <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                <a href="./downloads/cfp.pdf" target="_blank" download="Program Booklet" style="color: #333; text-decoration: none;">
+                  Call For Paper
+                </a>
               </div>
             </div>
           </div>
         </div>
       </div>
-    </section>
-    <!-- end slider section -->
+      <div class="carousel-item slide-2" style="background-color: #f0f0f0;">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-8 mx-auto">
+              <div class="detail_box">
+                <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                <a href="./downloads/cfp.pdf" target="_blank" download="Program Booklet" style="color: #333; text-decoration: none;">
+                  Call For Paper
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item slide-3" style="background-color: #f0f0f0;">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-8 mx-auto">
+              <div class="detail_box">
+                <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                <a href="./downloads/cfp.pdf" target="_blank" download="Program Booklet" style="color: #333; text-decoration: none;">
+                  Call For Paper
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
+</section>
+
 
   <!-- about section -->
 
