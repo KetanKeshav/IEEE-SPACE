@@ -232,10 +232,13 @@
                         </table>
                     </div>
                     <h3>Note</h3>
-                    <p>Registration Fee includes registration kit, access to all technical sessions, exhibits, 2 lunches, 1 dinner and 4 sessions of Tea/Coffee. 
-                        One can present one paper with one registration. 
-                        For additional papers one needs to pay additional INR 2000/paper.</p>
                     <ol>
+
+                    <li>
+                    Registration Fee includes registration kit, access to all technical sessions, exhibits, 2 lunches, 1 dinner and 4 sessions of Tea/Coffee. 
+                        One can present one paper with one registration. 
+                        For additional papers one needs to pay additional INR 2000/paper.
+                    </li>
                         <li>
                             Government Organization Delegates, where only NEFT Payment is allowed, use the following Bank details for transfer of Registration Fee:
                             <table border="1">
