@@ -57,7 +57,7 @@
             <div class="col-md-8 mx-auto">
               <div class="detail_box">
                 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-                <a href="./downloads/cfp.pdf" target="_blank" download="Program Booklet" style="color: #333; text-decoration: none;">
+                <a href="./downloads/cfp.pdf" target="_blank" download="Program Booklet" style="color: #333; text-decoration: none; display: inline-block; padding: 10px 20px; background-color: #007bff; border-radius: 5px; font-weight: bold;">
                   Call For Paper
                 </a>
               </div>
@@ -71,7 +71,7 @@
             <div class="col-md-8 mx-auto">
               <div class="detail_box">
                 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-                <a href="./downloads/cfp.pdf" target="_blank" download="Program Booklet" style="color: #333; text-decoration: none;">
+                <a href="./downloads/cfp.pdf" target="_blank" download="Program Booklet" style="color: #333; text-decoration: none; display: inline-block; padding: 10px 20px; background-color: #007bff; border-radius: 5px; font-weight: bold;">
                   Call For Paper
                 </a>
               </div>
@@ -85,7 +85,7 @@
             <div class="col-md-8 mx-auto">
               <div class="detail_box">
                 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-                <a href="./downloads/cfp.pdf" target="_blank" download="Program Booklet" style="color: #333; text-decoration: none;">
+                <a href="./downloads/cfp.pdf" target="_blank" download="Program Booklet" style="color: #333; text-decoration: none; display: inline-block; padding: 10px 20px; background-color: #007bff; border-radius: 5px; font-weight: bold;">
                   Call For Paper
                 </a>
               </div>
@@ -96,6 +96,7 @@
     </div>
   </div>
 </section>
+
 
 
   <!-- about section -->
