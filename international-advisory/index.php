@@ -116,7 +116,21 @@
                   <p class="card-text">2015-2018 Secretary DoS/Chairman ISRO, GoI</p>
                 </div>
           </div>
-            <div class="card col-lg-4 col-md-4 col-sm-6">
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/satheesh.webp" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">G. Satheesh Reddy</h4>
+                  <p class="card-text">Secretary, DDR&D/ Chairman, DRDO</p>
+                </div>
+          </div>
+            
+          </div>
+
+
+          <div class="row">
+          <div class="card col-lg-4 col-md-4 col-sm-6">
               <center>
                   <img class="card-img-top" src="./images/rahman.jpg" alt="Card image">
               </center>
@@ -125,11 +139,6 @@
                   <p class="card-text">2023 IEEE President</p>
               </div>
             </div>
-            
-          </div>
-
-
-          <div class="row">
           <div class="card col-lg-4 col-md-4 col-sm-6">
               <center>
                 <img class="card-img-top" src="./images/kathleen.webp" alt="Card image">
@@ -148,7 +157,12 @@
                 <p class="card-text">2021-2022 Chair, IEEE Industry Engagement Committee</p>
               </div>
             </div>
-            <div class="card col-lg-4 col-md-4 col-sm-6">
+            
+            
+          </div>
+
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
               <center>
                   <img class="card-img-top" src="./images/aylin.webp" alt="Card image">
               </center>
@@ -157,10 +171,6 @@
                 <p class="card-text">IEEE Division IX Director</p>
               </div>
             </div>
-            
-          </div>
-
-        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
               <center>
                 <img class="card-img-top" src="./images/chris.webp" alt="Card image">
@@ -179,7 +189,12 @@
                 <p class="card-text">IEEE Division VI Director</p>
               </div>
           </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
+          
+         
+        </div>
+
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/lance.webp" alt="Card image">
                 </center>
@@ -188,10 +203,6 @@
                   <p class="card-text">IEEE R10, Director</p>
                 </div>
           </div>
-         
-        </div>
-
-        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/don.jpg" alt="Card image">
@@ -210,6 +221,10 @@
                 <p class="card-text">2024-2025 IEEE AESS President</p>
                 </div>
         </div>
+        
+        
+      </div>
+        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/Mark.jpg" alt="Card image">
@@ -219,9 +234,6 @@
                 <p class="card-text">2022-2023 IEEE AESS President</p>
                 </div>
         </div>
-        
-      </div>
-        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/bozzi.jpg" alt="Card image">
@@ -240,6 +252,9 @@
                   <p class="card-text">IEEE VP-TAB</p>
                 </div>
         </div>
+        
+        </div>
+        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/dutta.jpg" alt="Card image">
@@ -249,8 +264,6 @@
                   <p class="card-text">JHU, USA</p>
                 </div>
           </div>
-        </div>
-        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/abhay.jpg" alt="Card image">
@@ -269,6 +282,12 @@
                   <p class="card-text">DS &AD,  SAC, ISRO</p>
                 </div>
         </div>
+        
+        </div>
+        
+        
+        
+        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/pankaj.png" alt="Card image">
@@ -278,11 +297,6 @@
                   <p class="card-text">Director, MCF, ISRO</p>
                 </div>
         </div>
-        </div>
-        
-        
-        
-        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/subha.jpg" alt="Card image">
@@ -301,7 +315,11 @@
                   <p class="card-text">Head of Airbus Defence & Space, India & South Asia</p>
                 </div>
           </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
+         
+  </div>
+
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/annadurai.jpg" alt="Card image">
                 </center>
@@ -310,9 +328,6 @@
                   <p class="card-text">DS & Former Director, URSC</p>
                 </div>
           </div>
-  </div>
-
-        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/tapan.png" alt="Card image">
@@ -331,7 +346,11 @@
                   <p class="card-text">Ex-AD, URSC</p>
                 </div>
           </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
+          
+          
+        </div>
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/rajkumar.jpg" alt="Card image">
                 </center>
@@ -340,9 +359,6 @@
                   <p class="card-text">DS & Former Director, NRSC, ISRO</p>
                 </div>
           </div>
-          
-        </div>
-        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/manoj.png" alt="Card image">
@@ -361,7 +377,10 @@
                   <p class="card-text">VC, Gati Shakti Vishwavidyalaya</p>
                 </div>
           </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
+               
+        </div>
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/dinanath.jpg" alt="Card image">
                 </center>
@@ -369,9 +388,7 @@
                   <h4 class="card-title">⁠Mr. Dinanath Kholkar</h4>
                   <p class="card-text"> Former SVP& Global Head, Partner Ecosystem & Alliances, TCS</p>
                 </div>
-          </div>      
-        </div>
-        <div class="row">
+          </div> 
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/Nageswar.jpg" alt="Card image">
@@ -390,7 +407,10 @@
                   <p class="card-text">OS & Former AD, URSC</p>
                 </div>
           </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
+          
+        </div>
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/ksingh.jpg" alt="Card image">
                 </center>
@@ -399,8 +419,6 @@
                   <p class="card-text">Director, SCL, Chandigarh</p>
                 </div>
           </div>
-        </div>
-        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/pande.jpg" alt="Card image">
@@ -420,7 +438,10 @@
                   <p class="card-text">Former Director LRDE</p>
                 </div>
           </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
+        
+        </div>
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/guha.jpg" alt="Card image">
                 </center>
@@ -429,8 +450,6 @@
                   <p class="card-text">CU, MGA Chair, IEEE AP-S</p>
                 </div>
           </div>
-        </div>
-        <div class="row">
           <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/aksingh.jpg" alt="Card image">
@@ -449,7 +468,11 @@
                   <p class="card-text">Director, IIITB & Chair, IEEE India Council</p>
                 </div>
           </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
+          
+        </div>
+        
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/niwas.jpg" alt="Card image">
                 </center>
@@ -458,9 +481,6 @@
                   <p class="card-text">Director, IIITM Gwalior</p>
                 </div>
           </div>
-        </div>
-        
-        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/karthik.jpg" alt="Card image">
@@ -479,7 +499,10 @@
                   <p class="card-text">Director, NCRA, TIFR, DAE</p>
                 </div>
           </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
+          
+        </div>
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/hari.jpg" alt="Card image">
                 </center>
@@ -488,8 +511,6 @@
                   <p class="card-text">Director, CBR, IISc</p>
                 </div>
           </div>
-        </div>
-        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/srini.jpg" alt="Card image">
@@ -508,6 +529,9 @@
                   <p class="card-text"> 2002 IEEE MTT-S President and VC, IEEE Conference Committee</p>
                 </div>
         </div>
+       
+        </div>
+        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/ravi.webp" alt="Card image">
@@ -517,8 +541,6 @@
                   <p class="card-text">2022-2023 President IEEE TEMS</p>
                 </div>
           </div>
-        </div>
-        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/Vinod.jpg" alt="Card image">
@@ -537,6 +559,9 @@
                   <p class="card-text">DD, ICA, URSC, ISRO</p>
                 </div>
         </div>
+       
+        </div>
+        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/Celia.jpg" alt="Card image">
@@ -546,8 +571,6 @@
                   <p class="card-text">President, World Class-Telecommunincations</p>
                 </div>
           </div>
-        </div>
-        <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/Jitendra.jpg" alt="Card image">
