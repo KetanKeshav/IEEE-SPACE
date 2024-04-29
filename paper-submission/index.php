@@ -203,7 +203,28 @@
             <br><br>
             Type 3 fonts (bitmaps) will not be accepted. Authors can use the IEEE PDF eXpress to generate
             compliant PDF Files for final submission.
+            <br><br>
+            <strong>Creating your PDF eXpress Account</strong>
+            <br><br>
+            Log in to the <a href"https://ieee-pdf-express.org/account/login?ReturnUrl=%2F">IEEE PDF eXpress site</a>
+            <br><br>
+            First-time users should do the following:
+            <ol>
+              <li>Select the New Users - Click Here link.</li>
+              <li>Enter the following:
+                <ul>
+                  <li>63117X for the Conference ID</li>
+                  <li>your email address</li>
+                  <li>a password</li>
+                </ul>
+              </li>
+              <li>Continue to enter information as prompted.</li>
+            </ol>
+            An Online confirmation will be displayed and an email confirmation will be sent verifying your account setup.
+            <br><br>
+            Previous users of PDF eXpress need to follow the above steps, but should enter the same password that was used for previous conferences. Verify that your contact information is valid.
           </p>
+
         </div>
         <div class="spon_body">
           <h2>PAPER <span>UPLOAD</span></h2>
