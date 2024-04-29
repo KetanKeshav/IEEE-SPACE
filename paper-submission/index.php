@@ -201,12 +201,12 @@
             Failure to do so may result in the rejection of the paper. Embedded Type 1 or True Type fonts
             are required in the submitted PDF xle as subset fonts.
             <br><br>
-            Type 3 fonts (bitmaps) will not be accepted. Authors can use the IEEE PDF eXpress to generate
+            Type 3 fonts (bitmaps) will not be accepted. Authors can use the <a href="https://ieee-pdf-express.org/account/login?ReturnUrl=%2F" target="_blank">IEEE PDF eXpress</a> to generate
             compliant PDF Files for final submission.
             <br><br>
             <strong>Creating your PDF eXpress Account</strong>
             <br><br>
-            Log in to the <a href"https://ieee-pdf-express.org/account/login?ReturnUrl=%2F">IEEE PDF eXpress site</a>
+            Log in to the <a href="https://ieee-pdf-express.org/account/login?ReturnUrl=%2F" target="_blank">IEEE PDF eXpress site</a>
             <br><br>
             First-time users should do the following:
             <ol>
