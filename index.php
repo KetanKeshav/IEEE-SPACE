@@ -38,7 +38,7 @@
   <div class="hero_area">
     <!-- header section strats -->
     <header class="header_section">
-      <!-- <marquee style="color: white; font-size: 20px;">1. For accomodation related queries please call Dr. M Devanathan - +91 74183 32829 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. MAPCON Start Up Initiative Registration is open &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Details of Tutorials/Workshop/Technical Program is available now</marquee> -->
+      <marquee style="color: white; font-size: 20px;">On heavy demand Last date of Paper Submission is extended till May 15, 2024</marquee>
       <div class="container-fluid">
         <?php include 'include/navbar.php' ?>
       </div>

@@ -275,10 +275,11 @@
                 <td><b>April 1, 2024</b></td>
               </tr>
               <tr>
-                <td><b>Last Date of Paper Submission</b></td>
-                <!-- <td><b style="color: red;"><s>July 31, 2024</s></b> <b>August 31, 2024 (Hard Deadline)</b></td> -->
-                <td><b>April 30, 2024</b></td>
-              </tr>
+              <td><b>Last Date of Paper Submission</b></td>
+              <!--<td><b style="color: red;"><s>July 31, 2024</s></b> <b>August 31, 2024 (Hard Deadline)</b></td>-->
+              <td><b><s>April 30, 2024</s> May 15, 2024</b></td>
+          </tr>
+
               <tr>
                 <td>Notification of Acceptance</td>
                 <td>May 31, 2024</td>
