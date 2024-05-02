@@ -590,8 +590,8 @@
                 </div>
           </div>
         </div>  
-        </div>
-        <!-- <div class="row">
+
+    <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/Christophe.jpg" alt="Card image">
@@ -610,7 +610,10 @@
                   <p class="card-text">2025 President IEEE MTT-S President</p>
                 </div>
           </div>
-        </div> -->
+        </div>
+
+        </div>
+        
   </div>
   </div>
   </section>
