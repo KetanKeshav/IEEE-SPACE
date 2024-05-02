@@ -601,8 +601,7 @@
                   <p class="card-text">2025 President, IEEE AP-S</p>
                 </div>
           </div>
-        </div>
-        <div class="card col-lg-4 col-md-4 col-sm-6">
+          <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/Goutam.jpg" alt="Card image">
                 </center>
@@ -611,7 +610,7 @@
                   <p class="card-text">2025 President IEEE MTT-S President</p>
                 </div>
           </div>
-        </div>
+        </div> 
   </div>
   </div>
   </section>
