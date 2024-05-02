@@ -5,7 +5,7 @@
             <div class="sponsors_column">
                 <div class="heading_container" style="text-align: center;">
                     <!-- <h2 class="section_heading"><span>Organised by</span></h2> -->
-                    <img src="./images/sponsors/oc-tc.png" alt="Organisers" style="max-width: 100%;">
+                    <img src="./images/sponsors/org + tech.jpg" alt="Organisers" style="max-width: 100%;">
                 </div>
             </div>
         </div>
