@@ -200,11 +200,11 @@
 
               <tr>
                 <td>Notification of Acceptance</td>
-                <td>May 31, 2024</td>
+                <td>June 15, 2024</td>
               </tr>
               <tr>
                 <td>Last Date of Author Registration</td>
-                <td>June 15, 2024</td>
+                <td>June 30, 2024</td>
               </tr>
               <tr>
                 <td>Last Date of Non-Author Registration</td>
