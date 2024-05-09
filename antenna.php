@@ -70,7 +70,7 @@
                             - Basics of Transmission Line<br>
                             - VNA for Passive and Active device<br>
                             - VNA Architecture<br>
-                            - Basic Measurements<br>
+                            - Basic Measurements<br><br>
                             
                             <b>Fundamentals of Power Meter</b><br>
                             - Power Meter and it’s function</p>
