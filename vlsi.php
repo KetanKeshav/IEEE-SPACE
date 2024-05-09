@@ -49,29 +49,50 @@
 
     </div>
 
-    <center>
-        <div class="content_bg">
-        <!-- client section -->
-        <section class="client_section">
-        <div class="col-lg-9 col-md-9 col-sm-9 col-9">
-        <<div class="heading_container spon_padding">
-    <h2>Workshop on Mastering VLSI RTL Design</h2>
-    <h3>Unveiling FPGA Strategies for Advanced Defence and Space Radios</h3>
-    <p><strong>Abstract:</strong></p>
-    <p>Join us for an illuminating workshop on "Mastering VLSI RTL Design: Unveiling FPGA Strategies for Advanced Defence Radios," where we delve into the intricacies of leveraging FPGA (Field-Programmable Gate Array) technology to enhance the capabilities of defence radio systems. In today's rapidly evolving defence landscape, the need for agile and adaptable radio systems is more pressing than ever. FPGAs offer unparalleled flexibility and configurability, making them indispensable components in the development of advanced defence communication solutions.</p>
-    <p>This workshop will provide participants with a comprehensive understanding of RTL (Register-Transfer Level) design techniques tailored specifically for defence and space applications. Through a series of demo and expert-led discussions, attendees will explore the strategic deployment of FPGAs to optimize radio functionalities, enhance signal processing capabilities, and streamline system performance.</p>
-    <p>Led by industry-leading experts with extensive experience in RTL design and FPGA implementation, this workshop promises to be an invaluable learning opportunity for professionals involved in defence technology development. Participants will gain practical insights into FPGA strategies, best practices for RTL design, and real-world case studies highlighting successful implementations in defence radio systems. Whether you're a seasoned engineer looking to deepen your expertise or a newcomer eager to explore the possibilities of FPGA technology in defence applications, this workshop offers something for everyone. Join us as we unlock the potential of FPGA strategies for mastering RTL design in advanced defence radios.</p>
-    <h3>Speaker details</h3>
-    <ul>
-        <li>Hariprasad Bhat (Lekha Wireless) - <a href="https://www.linkedin.com/in/hariprasad-bhat-79a73640/" target="_blank">LinkedIn</a></li>
-        <li>Jayesh Tanwani (Intel) - <a href="https://www.linkedin.com/in/jayesh-tanwani-65176218/" target="_blank">LinkedIn</a></li>
-    </ul>
-</div>
+    <section class="course_section layout_padding">
+    <div class="container">
+      <div class="heading_container heading_center">
+        <h2 style="text-align: center;">
+            Workshop on <span>Mastering VLSI RTL Design</span>
+        </h2><br>
+      </div>
+      <div class="cfa_heading">
+        <p style="text-align: justify;">
+        <b><p>Unveiling FPGA Strategies for Advanced Defence and Space Radios</p></b>
+        <b>Abstract:</b><br><br>
+        Join us for an illuminating workshop on "Mastering VLSI RTL Design: Unveiling
+        FPGA Strategies for Advanced Defence Radios," where we delve into the intricacies
+        of leveraging FPGA (Field-Programmable Gate Array) technology to enhance the
+        capabilities of defence radio systems.
+        In today's rapidly evolving defence landscape, the need for agile and adaptable radio
+        systems is more pressing than ever. FPGAs offer unparalleled flexibility and
+        configurability, making them indispensable components in the development of
+        advanced defence communication solutions.
+        This workshop will provide participants with a comprehensive understanding of RTL
+        (Register-Transfer Level) design techniques tailored specifically for defence and
+        space applications. Through a series of demo and expert-led discussions, attendees
+        will explore the strategic deployment of FPGAs to optimize radio functionalities,
+        enhance signal processing capabilities, and streamline system performance.
+        Led by industry-leading experts with extensive experience in RTL design and FPGA
+        implementation, this workshop promises to be an invaluable learning opportunity for
+        professionals involved in defence technology development. Participants will gain
+        practical insights into FPGA strategies, best practices for RTL design, and real-world
+        case studies highlighting successful implementations in defence radio systems.
+        Whether you're a seasoned engineer looking to deepen your expertise or a
+        newcomer eager to explore the possibilities of FPGA technology in defence
+        applications, this workshop offers something for everyone. Join us as we unlock the
+        potential of FPGA strategies for mastering RTL design in advanced defence radios.</p>
+        <b>Speaker details</b><br><br>
+        1. Hariprasad Bhat (Lekha Wireless)
+        <a href="https://www.linkedin.com/in/hariprasad-bhat-79a73640/">https://www.linkedin.com/in/hariprasad-bhat-79a73640/</a><br>
+        2. Jayesh Tanwani (Intel)
+        <a href="https://www.linkedin.com/in/jayesh-tanwani-65176218/">https://www.linkedin.com/in/jayesh-tanwani-65176218/</a>
+        <p>
+        </p>
+      </div>
+    </div>
+  </section>
 
-        </div>
-        </section>
-        </div>
-    </center>
 
 
 
