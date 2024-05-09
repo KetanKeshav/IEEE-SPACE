@@ -37,7 +37,6 @@
         <!-- end header section -->
     </div>
 
-    <center>
         <div class="content_bg">
             <!-- workshop section -->
             <section>
@@ -74,7 +73,6 @@
             </section>
             <!-- end workshop section -->
         </div>
-    </center>
 
     <?php include 'sponsors.php'; ?>
 
