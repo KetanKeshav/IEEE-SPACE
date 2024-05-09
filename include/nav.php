@@ -99,6 +99,19 @@
                         <a class="dropdown-item <?php if($page== "start-up") echo "active"?>" href="../startup-initiative.php">Startup Initiative</a> -->
                     </div>
                 </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle <?php if($page== "workshop" || $page== "start-up") echo "active"?>" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Workshop
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item <?php if($page== "antenna") echo "active"?>" href="../antenna.php">>Workshop on Antenna Measurements
+                        </a>
+                        <a class="dropdown-item <?php if($page== "vlsi") echo "active"?>" href="../vlsi.php">Workshop on Mastering VLSI RTL Design
+                        </a>
+                        <a class="dropdown-item <?php if($page== "milli") echo "active"?>" href="../milli.php">Millimeter-Wave MMICs for Front-End Applications in Aerospace and Defense
+                        </a>
+                    </div>
+                </li>
                 <li class="nav-item <?php if($page== "venue") echo "active"?>">
                     <a class="nav-link" href="../venue.php">Venue</a>
                 </li>
