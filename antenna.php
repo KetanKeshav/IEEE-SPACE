@@ -40,10 +40,11 @@
     <center>
         <div class="content_bg">
             <!-- workshop section -->
-            <section class="workshop_section">
+            <section>
                 <div class="col-lg-9 col-md-9 col-sm-9 col-9">
                     <div>
-                        <h2>Workshop on Antenna Measurements</h2>
+                        <br>
+                        <b><h2>Workshop on Antenna Measurements</h2></b>
                         <p>1. Opening Remarks and setting the context: Prof. Debatosh Guha, IEEE Fellow and Immediate Past Chair, Antenna Measurements Committee</p>
                         <p>2. Spacecraft Level Antenna and Payload Measurements: Mr. Puneet Kumar Mishra, ISRO<br>
                             This Talk will focus on the latest and state-of-the-art Antenna and Payload Measurements. Antennas and Payload measurements are critical for any spacecraft RF characterization and specification compliance. Advanced and High throughput Multi-beam antennas and satellite requires special measurements methodology for their characterization. This workshop will provide a platform for researchers, scientists, and students to gain comprehensive knowledge about various antenna and payload measurement techniques, including microwave measurements. This workshop will also explore the latest advancements in instrumentation used for antenna and payload measurements. Participants will have the opportunity to interact with experts in the field, discuss challenges and explore future prospects. The workshop aims to foster collaboration and inspire innovative ideas for future research.</p>
