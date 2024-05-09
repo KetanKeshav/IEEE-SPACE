@@ -53,8 +53,8 @@
     <div class="container">
       <div class="heading_container heading_center">
         <h2 style="text-align: center;">
-            Workshop Proposal: Millimeter-Wave MMICs for Front-End Applications in Aerospace and Defense<br>
-            Dr. Asmita Dani
+            Workshop on Millimeter-Wave MMICs for Front-End Applications in Aerospace and Defense<br>
+            <a href="https://www.linkedin.com/in/asmita-dani-rf?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Dr. Asmita Dani</a>
         </h2><br>
       </div>
       <div class="cfa_heading">
