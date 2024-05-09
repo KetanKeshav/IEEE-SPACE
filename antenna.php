@@ -42,7 +42,7 @@
             <!-- workshop section -->
             <section class="workshop_section">
                 <div class="col-lg-9 col-md-9 col-sm-9 col-9">
-                    <div class="heading_container spon_padding">
+                    <div>
                         <h2>Workshop on Antenna Measurements</h2>
                         <p>1. Opening Remarks and setting the context: Prof. Debatosh Guha, IEEE Fellow and Immediate Past Chair, Antenna Measurements Committee</p>
                         <p>2. Spacecraft Level Antenna and Payload Measurements: Mr. Puneet Kumar Mishra, ISRO<br>
