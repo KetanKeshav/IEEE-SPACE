@@ -52,7 +52,7 @@
                             This Talk will focus on the latest and state-of-the-art Antenna and Payload Measurements. Antennas and Payload measurements are critical for any spacecraft RF characterization and specification compliance. Advanced and High throughput Multi-beam antennas and satellite requires special measurements methodology for their characterization. This workshop will provide a platform for researchers, scientists, and students to gain comprehensive knowledge about various antenna and payload measurement techniques, including microwave measurements. This workshop will also explore the latest advancements in instrumentation used for antenna and payload measurements. Participants will have the opportunity to interact with experts in the field, discuss challenges and explore future prospects. The workshop aims to foster collaboration and inspire innovative ideas for future research.</p>
                         <b><p>3. Advances in Measurement Technologies Hands-on SA, VNA & PM: Mr. Sadanand Bhatt, Anritsu</b><br>
                         <br>
-                            Fundamentals of Spectrum Analyzer<br>
+                        <b>Fundamentals of Spectrum Analyzer</b><br><br>
                             - What is a Spectrum Analyzer?<br>
                             - Prerequisite Basic Fundamentals<br>
                             - Main platform types of Spectrum and Signal Analyzers<br>
@@ -65,12 +65,14 @@
                             - Time Domain (Zero SPAN), Limits, Spectrogram<br>
                             - Real Time Spectrum Analyzer<br>
                             - Practical Applications: Measurement of unknown signals, Analog Modulation, Digital Modulations & 5G NR and LTE<br>
-                            Fundamentals of Vector Network Analyzer & Characterization of antenna using VNA<br>
+                            
+                            <b>Fundamentals of Vector Network Analyzer & Characterization of antenna using VNA</b><br>
                             - Basics of Transmission Line<br>
                             - VNA for Passive and Active device<br>
                             - VNA Architecture<br>
                             - Basic Measurements<br>
-                            Fundamentals of Power Meter<br>
+                            
+                            <b>Fundamentals of Power Meter</b><br><br>
                             - Power Meter and it’s function</p>
         <p>
         </p>
