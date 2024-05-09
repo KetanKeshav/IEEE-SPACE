@@ -59,7 +59,7 @@
       </div>
       <div class="cfa_heading">
         <p style="text-align: justify;">
-            Introduction:<br>
+            <b>Introduction:</b><br>
             Millimeter-wave MMICs (Monolithic Microwave Integrated Circuits) have emerged as critical
             components in modern aerospace and defense systems, enabling advanced radar, communication,
             and electronic warfare capabilities. This workshop aims to provide participants with a
@@ -67,7 +67,7 @@
             front-end systems for space and defense industries.
         </p>
         <p style="text-align: justify;">
-            Workshop Objectives:<br>
+        <b>Workshop Objectives:</b><br>
             ● To familiarize participants with the fundamental principles of millimeter-wave MMIC
             design and fabrication.<br>
             ● To explore the unique challenges and considerations in utilizing MMICs for front-end
@@ -78,13 +78,13 @@
             industry, and government sectors.
         </p>
         <p style="text-align: justify;">
-            Workshop Format:<br>
+        <b>Workshop Format:</b><br>
             The workshop will be conducted as a 2-hour comprehensive presentation along with panel
             discussion. A detailed review of various industry and academia work in various aspects of
             millimeter-wave MMICs and their applications will be presented.
         </p>
         <p style="text-align: justify;">
-            Proposed Agenda:<br>
+        <b>Proposed Agenda:</b><br>
             Introduction to Millimeter-Wave MMIC Technology<br>
             ● Overview of millimeter-wave frequency bands and applications.<br>
             ● Basics of MMIC design, fabrication, and packaging.<br>
@@ -105,14 +105,14 @@
             ● Industry insights on current challenges and future opportunities.
         </p>
         <p style="text-align: justify;">
-            Target Audience:<br>
+        <b>Target Audience:</b><br>
             The workshop is intended for engineers, researchers, and professionals working in the fields of
             RF/microwave engineering, aerospace technology, defense systems, and related disciplines.
             Participants with varying levels of expertise, from novice to experienced practitioners, are
             welcome to attend.
         </p>
         <p style="text-align: justify;">
-            Expected Outcomes:<br>
+        <b>Expected Outcomes:</b><br>
             Enhanced understanding of millimeter-wave MMIC technology and its relevance to
             aerospace and defense applications.<br>
             Insight into the latest developments and future directions in the field of millimeter-wave
@@ -123,7 +123,7 @@
             design and integration.
         </p>
         <p style="text-align: justify;">
-            Conclusion:<br>
+        <b>Conclusion:</b><br>
             This workshop aims to provide a platform for knowledge dissemination, collaboration, and
             professional development in the rapidly evolving field of millimeter-wave MMICs for aerospace
             and defense.
