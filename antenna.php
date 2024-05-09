@@ -38,21 +38,23 @@
         <!-- end header section -->
     </div>
 
-        <div class="content_bg">
-            <!-- workshop section -->
-            <section class="workshop_section">
-                <div class="col-lg-9 col-md-9 col-sm-9 col-9">
-                    <div class="heading_container spon_padding">
-                        <br>
-                        <b><h2>Workshop on Antenna Measurements</h2></b>
-                        <p>1. Opening Remarks and setting the context: Prof. Debatosh Guha, IEEE Fellow and Immediate Past Chair, Antenna Measurements Committee</p>
+    <section class="course_section layout_padding">
+    <div class="container">
+      <div class="heading_container heading_center">
+        <h2 style="text-align: center;">
+            Workshop on <span>Antenna Measurements</span>
+        </h2><br>
+      </div>
+      <div class="cfa_heading">
+        <p style="text-align: justify;">
+        <p>1. Opening Remarks and setting the context: Prof. Debatosh Guha, IEEE Fellow and Immediate Past Chair, Antenna Measurements Committee</p>
                         <p>2. Spacecraft Level Antenna and Payload Measurements: Mr. Puneet Kumar Mishra, ISRO<br>
                             This Talk will focus on the latest and state-of-the-art Antenna and Payload Measurements. Antennas and Payload measurements are critical for any spacecraft RF characterization and specification compliance. Advanced and High throughput Multi-beam antennas and satellite requires special measurements methodology for their characterization. This workshop will provide a platform for researchers, scientists, and students to gain comprehensive knowledge about various antenna and payload measurement techniques, including microwave measurements. This workshop will also explore the latest advancements in instrumentation used for antenna and payload measurements. Participants will have the opportunity to interact with experts in the field, discuss challenges and explore future prospects. The workshop aims to foster collaboration and inspire innovative ideas for future research.</p>
                         <p>3. Advances in Measurement Technologies Hands-on SA, VNA & PM: Mr. Sadanand Bhatt, Anritsu<br>
                             Fundamentals of Spectrum Analyzer<br>
                             - What is a Spectrum Analyzer?<br>
                             - Prerequisite Basic Fundamentals<br>
-                            - Main platform types of Spectrum and Signal Analysers<br>
+                            - Main platform types of Spectrum and Signal Analyzers<br>
                             - Main functional blocks and related roles in the Spectrum Analyzer<br>
                             - Input Attenuator, Preamplifier, Low Pass Filter<br>
                             - Local Oscillator, Mixer, Resolution BW and Video BW<br>
@@ -69,11 +71,12 @@
                             - Basic Measurements<br>
                             Fundamentals of Power Meter<br>
                             - Power Meter and it’s function</p>
-                    </div>
-                </div>
-            </section>
-            <!-- end workshop section -->
-        </div>
+        <p>
+        </p>
+      </div>
+    </div>
+  </section>
+
 
     <?php include 'sponsors.php'; ?>
 

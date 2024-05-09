@@ -104,7 +104,7 @@
                     Workshop
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item <?php if($page== "antenna") echo "active"?>" href="../antenna.php">>Workshop on Antenna Measurements
+                        <a class="dropdown-item <?php if($page== "antenna") echo "active"?>" href="../antenna.php">Workshop on Antenna Measurements
                         </a>
                         <a class="dropdown-item <?php if($page== "vlsi") echo "active"?>" href="../vlsi.php">Workshop on Mastering VLSI RTL Design
                         </a>
