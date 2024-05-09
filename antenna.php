@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<?php $page = "bpa"; ?>
 <head>
     <!-- Basic -->
     <meta charset="utf-8" />
@@ -28,7 +29,7 @@
 </head>
 <body class="sub_page">
     <div class="hero_area">
-        <!-- header section starts -->
+      <!-- header section starts -->
         <header class="header_section">
             <div class="container-fluid">
                 <?php include 'include/navbar.php'; ?>
@@ -39,9 +40,9 @@
 
         <div class="content_bg">
             <!-- workshop section -->
-            <section>
+            <section class="workshop_section">
                 <div class="col-lg-9 col-md-9 col-sm-9 col-9">
-                    <div>
+                    <div class="heading_container spon_padding">
                         <br>
                         <b><h2>Workshop on Antenna Measurements</h2></b>
                         <p>1. Opening Remarks and setting the context: Prof. Debatosh Guha, IEEE Fellow and Immediate Past Chair, Antenna Measurements Committee</p>
@@ -51,7 +52,7 @@
                             Fundamentals of Spectrum Analyzer<br>
                             - What is a Spectrum Analyzer?<br>
                             - Prerequisite Basic Fundamentals<br>
-                            - Main platform types of Spectrum and Signal Analyzers<br>
+                            - Main platform types of Spectrum and Signal Analysers<br>
                             - Main functional blocks and related roles in the Spectrum Analyzer<br>
                             - Input Attenuator, Preamplifier, Low Pass Filter<br>
                             - Local Oscillator, Mixer, Resolution BW and Video BW<br>
@@ -97,5 +98,7 @@
     <!-- Google Map -->
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCh39n5U-4IoWpsVGUHWdqB6puEkhRLdmI&callback=myMap"></script>
     <!-- End Google Map -->
+
 </body>
+
 </html>
