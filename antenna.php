@@ -47,10 +47,11 @@
       </div>
       <div class="cfa_heading">
         <p style="text-align: justify;">
-        <p>1. Opening Remarks and setting the context: Prof. Debatosh Guha, IEEE Fellow and Immediate Past Chair, Antenna Measurements Committee</p>
-                        <p>2. Spacecraft Level Antenna and Payload Measurements: Mr. Puneet Kumar Mishra, ISRO<br>
+        <b><p>1. Opening Remarks and setting the context: Prof. Debatosh Guha, IEEE Fellow and Immediate Past Chair, Antenna Measurements Committee</p></b>
+        <b><p>2. Spacecraft Level Antenna and Payload Measurements: Mr. Puneet Kumar Mishra, ISRO</b><br>
                             This Talk will focus on the latest and state-of-the-art Antenna and Payload Measurements. Antennas and Payload measurements are critical for any spacecraft RF characterization and specification compliance. Advanced and High throughput Multi-beam antennas and satellite requires special measurements methodology for their characterization. This workshop will provide a platform for researchers, scientists, and students to gain comprehensive knowledge about various antenna and payload measurement techniques, including microwave measurements. This workshop will also explore the latest advancements in instrumentation used for antenna and payload measurements. Participants will have the opportunity to interact with experts in the field, discuss challenges and explore future prospects. The workshop aims to foster collaboration and inspire innovative ideas for future research.</p>
-                        <p>3. Advances in Measurement Technologies Hands-on SA, VNA & PM: Mr. Sadanand Bhatt, Anritsu<br>
+                        <b><p>3. Advances in Measurement Technologies Hands-on SA, VNA & PM: Mr. Sadanand Bhatt, Anritsu</b><br>
+                        <br>
                             Fundamentals of Spectrum Analyzer<br>
                             - What is a Spectrum Analyzer?<br>
                             - Prerequisite Basic Fundamentals<br>
