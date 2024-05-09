@@ -132,8 +132,6 @@
     </div>
 </section>
 
-
-
     <?php include 'sponsors.php'; ?>
 
     <!-- end sponsprs section -->
