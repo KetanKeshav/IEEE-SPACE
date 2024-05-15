@@ -38,7 +38,7 @@
   <div class="hero_area">
     <!-- header section strats -->
     <header class="header_section">
-      <marquee style="color: white; font-size: 20px;">On heavy demand Last date of Paper Submission is extended till May 15, 2024</marquee>
+      <marquee style="color: white; font-size: 20px;">On heavy demand Last date of Paper Submission is extended till May 20, 2024 (Hard Deadline)</marquee>
       <div class="container-fluid">
         <?php include 'include/navbar.php' ?>
       </div>

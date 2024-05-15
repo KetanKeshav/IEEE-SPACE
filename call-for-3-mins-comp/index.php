@@ -217,7 +217,7 @@
         </p>
         
         <p style="text-align: justify;">
-        <b>Last date for submission:</b> Please send the combined PDF file before 15th May, 2024.
+        <b>Last date for submission:</b> Please send the combined PDF file before 20th May, 2024 (Hard Deadline).
         </p>
 
       </div>

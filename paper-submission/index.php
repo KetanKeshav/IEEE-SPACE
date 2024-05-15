@@ -277,7 +277,7 @@
               <tr>
               <td><b>Last Date of Paper Submission</b></td>
               <!--<td><b style="color: red;"><s>July 31, 2024</s></b> <b>August 31, 2024 (Hard Deadline)</b></td>-->
-              <td><b><s>April 30, 2024</s> May 15, 2024</b></td>
+              <td><b><s>May 15, 2024</s> May 20, 2024 (Hard Deadline)</b></td>
           </tr>
 
               <tr>
