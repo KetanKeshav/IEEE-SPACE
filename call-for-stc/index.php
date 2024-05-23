@@ -162,6 +162,14 @@
         Aim of this compendium is to collect database of already Published/Unpublished Technologies (in the form of Paper/Patents/Internal Technical Reports) which can be used in atleast 2 out of 3 verticals of SPace Aerospace and defenCE. It is to be noted that Papers submitted in this track will NOT be submitted to IEEE Xplore. One need to register and present the work to be included in compendium which will be released during SPACE 2024.
         </p>
       </div>
+      <center>
+                    <div class="detail_box">
+                        <a href="https://edas.info/index.php?c=32329"
+                            class="button-con" style="width:340px; height:55px; text-align:center;" target="_blank">
+                            <h1>Submit</h1>
+                        </a>
+                    </div>
+      </center><br><br>
     </div>
   </section>
 
