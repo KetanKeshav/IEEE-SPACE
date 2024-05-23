@@ -44,6 +44,9 @@
               <div class="col-md-4 img-box mt-2 mb-2">
               <a href="https://apctechnologies.in/"><img src="https://ieeespace.org/images/sponsors/silver-1.webp" alt=""></a>
               </div>
+              <div class="col-md-4 img-box mt-2 mb-2">
+              <a href="https://mtt.org/"><img src="https://ieeespace.org/images/sponsors/mtts.jpg" alt=""></a>
+              </div>
           </div>
          
   </section>
