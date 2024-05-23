@@ -606,8 +606,18 @@
                   <img class="card-img-top" src="./images/Goutam.jpg" alt="Card image">
                 </center>
                 <div class="card-body">
-                  <h4 class="card-title">Dr. Goutam Chattopadhyay, </h4>
+                  <h4 class="card-title">Dr. Goutam Chattopadhyay</h4>
                   <p class="card-text">2025 President IEEE MTT-S President</p>
+                </div>
+          </div>
+        </div>
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/laila.webp" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Prof. Leila De Floriani</h4>
+                  <p class="card-text">Director, IEEE Division VIII</p>
                 </div>
           </div>
         </div>
