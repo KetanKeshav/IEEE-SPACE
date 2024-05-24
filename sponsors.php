@@ -30,7 +30,7 @@
               </div>
           </div>
           <div class="heading_container">
-              <h2 style="text-align: center;"><span>Silver Sponsor</span></h2>
+              <h2 style="text-align: center;"><span>Silver Sponsors</span></h2>
           </div>
           <div class="row">
               <div class="col-md-4 img-box mt-2 mb-2">
@@ -43,7 +43,14 @@
               <a href="https://www.ieee.org/about/corporate/industry-engagement-committee.html"><img src="https://ieeespace.org/images/sponsors/iec.png" alt=""></a>
               </div>
           </div>
-         
+          <div class="heading_container">
+              <h2 style="text-align: center;"><span>Bronze Sponsor</span></h2>
+          </div>
+          <div class="row">
+              <div class="col-md-4 img-box mt-2 mb-2">
+              <a href="https://altair.com/"><img src="https://ieeespace.org/images/sponsors/altair.jpeg" alt=""></a>
+              </div>
+          </div>
   </section>
 
   <!-- end sponsprs section -->
