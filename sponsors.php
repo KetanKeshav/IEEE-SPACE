@@ -1,6 +1,6 @@
   <!-- sponsors section -->
 
-  <!-- <section class="about_section layout_padding">
+  <section class="about_section layout_padding">
       <div class="container">
           <div class="heading_container">
               <h2 style="text-align: center;"><span>Signature Sponsor</span></h2>
@@ -39,13 +39,16 @@
               <div class="col-md-4 img-box mt-2 mb-2">
               <a href="https://mtt.org/"><img src="https://ieeespace.org/images/sponsors/mtts.jpg" alt=""></a>
               </div>
+              <div class="col-md-4 img-box mt-2 mb-2">
+              <a href="https://www.ieee.org/about/corporate/industry-engagement-committee.html"><img src="https://ieeespace.org/images/sponsors/iec.png" alt=""></a>
+              </div>
           </div>
          
-  </section> -->
+  </section>
 
   <!-- end sponsprs section -->
 
-  <section class="about_section layout_padding" style="display: flex; justify-content: center;">
+  <!-- <section class="about_section layout_padding" style="display: flex; justify-content: center;">
     <div class="container" style="max-width: 100%; overflow: hidden;">
         <div class="sponsors_row" style="display: flex; justify-content: center;">
             <div class="sponsors_column">
@@ -55,7 +58,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
   <!-- sponsors section -->
 <section class="about_section layout_padding" style="display: flex; justify-content: center;">
