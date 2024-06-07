@@ -51,6 +51,11 @@
               <a href="https://altair.com/"><img src="https://ieeespace.org/images/sponsors/altair.jpeg" alt=""></a>
               </div>
           </div>
+          <div class="row">
+              <div class="col-md-4 img-box mt-2 mb-2">
+              <a href="https://ssdpolymers.com/"><img src="https://ieeespace.org/images/sponsors/ssd-poly.png" alt=""></a>
+              </div>
+          </div>
   </section>
 
   <!-- end sponsprs section -->
