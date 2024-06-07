@@ -815,6 +815,10 @@
               <td>Nagarjuna College of Engineering and Technology</td>
             </tr>
             <tr>
+              <td>Dr. Rathinamala Vijay</td>
+              <td>TU Berlin</td>
+            </tr>
+            <tr>
               <td>Mr. Rijubrata Pal</td>
               <td>IIT Kharagpur</td>
             </tr>
