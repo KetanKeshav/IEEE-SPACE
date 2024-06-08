@@ -318,7 +318,7 @@
                 </div>
                 <center>
                     <div class="detail_box">
-                        <a href="https://ieeespace.org/index.php" class="button-con"
+                        <a href="https://ieeespace.org/registration-page.php" class="button-con"
                             style="width:500px; height:70px; text-align:center;">
                             <h1> Register now</h1>
                         </a>
