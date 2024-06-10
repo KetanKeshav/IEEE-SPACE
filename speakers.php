@@ -243,13 +243,42 @@
       </div>
 
       <div class="row">
-      <div class="card col-lg-4 col-md-4 col-sm-6">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
                 <center>
                   <img class="card-img-top" src="./images/speakers/yashwant.jpg" alt="Card image">
                 </center>
                 <div class="card-body">
                   <h4 class="card-title">Prof. Yashwant Gupta</h4>
                   <p class="card-text">Director, NCRA, TIFR, DAE</p>
+                </div>
+        </div>
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/speakers/Maruthi.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Prof Maruthi R Akella</h4>
+                  <p class="card-text">University of Texas at Austin</p>
+                </div>
+        </div>
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/speakers/Puneet.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Prof. Puneet Singla</h4>
+                  <p class="card-text">PennState University</p>
+                </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/speakers/Aniruddha.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Dr. Aniruddha Mukhopadhyay</h4>
+                  <p class="card-text">Lead Chief Technologist, Ansys</p>
                 </div>
         </div>
       </div>
