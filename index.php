@@ -38,7 +38,7 @@
   <div class="hero_area">
     <!-- header section strats -->
     <header class="header_section">
-      <marquee style="color: white; font-size: 20px;">On heavy demand Last date of Paper Submission is extended till May 20, 2024 (Hard Deadline)</marquee>
+      <marquee style="color: white; font-size: 20px;">Notification of Acceptance and Rejection is sent to Corresponding Authors. Please check your mail for more details.</marquee>
       <div class="container-fluid">
         <?php include 'include/navbar.php' ?>
       </div>
@@ -57,8 +57,8 @@
             <div class="col-md-8 mx-auto">
               <div class="detail_box">
                 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-                <a href="./downloads/cfp.pdf" target="_blank" download="Program Booklet" style="color: #333; text-decoration: none;">
-                  Call For Paper
+                <a href="https://ieeespace.org/register.php" target="_blank" style="color: #333; text-decoration: none;">
+                  Register Now
                 </a>
               </div>
             </div>
@@ -71,8 +71,8 @@
             <div class="col-md-8 mx-auto">
               <div class="detail_box">
                 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-                <a href="./downloads/cfp.pdf" target="_blank" download="Program Booklet" style="color: #333; text-decoration: none;">
-                  Call For Paper
+                <a href="https://ieeespace.org/register.php" target="_blank" style="color: #333; text-decoration: none;">
+                  Register Now
                 </a>
               </div>
             </div>
@@ -85,8 +85,8 @@
             <div class="col-md-8 mx-auto">
               <div class="detail_box">
                 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-                <a href="./downloads/cfp.pdf" target="_blank" download="Program Booklet" style="color: #333; text-decoration: none;">
-                  Call For Paper
+                <a href="https://ieeespace.org/register.php" target="_blank" style="color: #333; text-decoration: none;">
+                Register Now
                 </a>
               </div>
             </div>

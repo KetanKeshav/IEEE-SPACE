@@ -42,7 +42,7 @@
     <div class="container">
       <div class="heading_container heading_center">
         <h2 style="text-align: center;">
-            Workshop on <span>Antenna Measurements</span>
+            Workshop on <span>Antenna Measurements (Sponsored by IEEE AP-S AMTC)</span>
         </h2><br>
       </div>
       <div class="cfa_heading">
