@@ -12,7 +12,7 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>Awards | SPACE 2024</title>
+  <title>Accommodation | SPACE 2024</title>
 
   <link rel="shortcut icon" href="./images/favicon.ico" type="">
 
