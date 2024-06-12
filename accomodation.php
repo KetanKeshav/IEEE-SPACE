@@ -56,6 +56,7 @@
           <span>Accommodation</span>
         </h2>
       </div>
+      <br><br>
       <table class="table table-hover">
         <thead>
           <tr>
