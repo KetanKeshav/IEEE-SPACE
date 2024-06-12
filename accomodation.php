@@ -59,26 +59,120 @@
       <table class="table table-hover">
         <thead>
           <tr>
-            <th scope="col">#</th>
-            <th scope="col">Award</th>
-            <th scope="col">Prize</th>
+            <th scope="col">SNo.</th>
+            <th scope="col">Name of The Hotel</th>
+            <th scope="col">Category</th>
+            <th scope="col">Distance from Conference Hotel (Venue)</th>
           </tr>
         </thead>
         <tbody>
           <tr>
             <th scope="row">1</th>
-            <td>SPACE Best Paper Award(Academia & Industry) 1st</td>
-            <td>₹ 50,000</td>
+            <td><a href="https://www.marriott.com/en-us/hotels/blrsw-sheraton-grand-bengaluru-whitefield-hotel-and-convention-center/overview/">Sheraton Grand Bengaluru Whitefield Hotel & Convention Center</a></td>
+            <td>Five Star</td>
+            <td>0</td>
           </tr>
           <tr>
             <th scope="row">2</th>
-            <td>SPACE Best Paper Award(Academia & Industry) 2nd</td>
-            <td>₹ 25,000</td>
+            <td><a href="https://www.thezurihotels.com/hotels-in-bengaluru">The Zuri Whitefield, Bengaluru</a></td>
+            <td>Five Star</td>
+            <td>0.75 KM</td>
           </tr>
           <tr>
             <th scope="row">3</th>
-            <td>SPACE Best Paper Award(Academia & Industry) 3rd</td>
-            <td>₹ 10,000</td>
+            <td><a href="https://www.denhotels.com">The Den, Bengaluru</a></td>
+            <td>Five Star</td>
+            <td>0.8 KM</td>
+          </tr>
+          <tr>
+            <th scope="row">4</th>
+            <td><a href="https://www.vivantahotels.com/en-in/vivanta-bengaluru-whitefield/">Vivanta Bengaluru, Whitefield</a></td>
+            <td>Five Star</td>
+            <td>0.9 KM</td>
+          </tr>
+          <tr>
+            <th scope="row">5</th>
+            <td><a href="https://www.marriott.com/en-us/hotels/blrwl-aloft-bengaluru-whitefield/overview/">Aloft Bengaluru Whitefield</a></td>
+            <td>Four Star</td>
+            <td>1.0 KM</td>
+          </tr>
+          <tr>
+            <th scope="row">6</th>
+            <td><a href="https://www.ihg.com/holidayinnexpress/hotels/us/en/whitefield/blrep/hoteldetail">Holiday Inn Express Bengaluru Whitefield ITPL</a></td>
+            <td>Four Star</td>
+            <td>1.6 KM</td>
+          </tr>
+          <tr>
+            <th scope="row">7</th>
+            <td><a href="https://www.marriott.com/en-us/hotels/blrwf-bengaluru-marriott-hotel-whitefield">Bengaluru Marriott Hotel Whitefield</a></td>
+            <td>Five Star</td>
+            <td>3.0 KM</td>
+          </tr>
+          <tr>
+            <th scope="row">8</th>
+            <td><a href="https://www.hilton.com/en/hotels/blrkudi-doubletree-bengaluru-whitefield/">Double Tree by Hilton Bengaluru Whitefield</a></td>
+            <td>Five Star</td>
+            <td>5.1 KM</td>
+          </tr>
+          <tr>
+            <th scope="row">9</th>
+            <td><a href="https://www.marriott.com/en-us/hotels/blrfp-four-points-bengaluru-whitefield/overview/">Four Points by Sheraton Bengaluru</a></td>
+            <td>Four Star</td>
+            <td>4.0 KM</td>
+          </tr>
+          <tr>
+            <th scope="row">10</th>
+            <td><a href="https://www.lemontreehotels.com/lemon-tree-hotel/bengaluru/whitefield">Lemon Tree Hotel Whitefield</a></td>
+            <td>Budget Hotel</td>
+            <td>4.5 KM</td>
+          </tr>
+          <tr>
+            <th scope="row">11</th>
+            <td><a href="https://www.gingerhotels.com/ginger-bangalore-whitefield">Ginger Bangalore Whitefield</a></td>
+            <td>Budget Hotel</td>
+            <td>2.3 KM</td>
+          </tr>
+          <tr>
+            <th scope="row">12</th>
+            <td><a href="https://www.wyndhamhotels.com/days-inn/bangalore-india/days-suites-bengaluru-whitefield/overview">Days Inn & Suits by Wyndham</a></td>
+            <td>Budget Hotel</td>
+            <td>0.6 KM</td>
+          </tr>
+          <tr>
+            <th scope="row">13</th>
+            <td>OYO Pmr Elitestay Hotel Near Ascendas Park Square Mall</td>
+            <td>Budget Hotel</td>
+            <td>3.0 KM</td>
+          </tr>
+          <tr>
+            <th scope="row">14</th>
+            <td>Grand Wilton Inn</td>
+            <td>Budget Hotel</td>
+            <td>3.0 KM</td>
+          </tr>
+          <tr>
+            <th scope="row">15</th>
+            <td>Astra Hotels - Whitefield</td>
+            <td>Budget Hotel</td>
+            <td>3.0 KM</td>
+          </tr>
+          <tr>
+            <th scope="row">16</th>
+            <td>Capital O The Udupi Park Boutique Hotel</td>
+            <td>Budget Hotel</td>
+            <td>4.0 KM</td>
+          </tr>
+          <tr>
+            <th scope="row">17</th>
+            <td>Hotel Royal Blooms</td>
+            <td>Budget Hotel</td>
+            <td>2.6 KM</td>
+          </tr>
+          <tr>
+            <th scope="row">18</th>
+            <td>Happy Stays - Whitefield</td>
+            <td>Budget Hotel</td>
+            <td>3.5 KM</td>
           </tr>
         </tbody>
       </table>
