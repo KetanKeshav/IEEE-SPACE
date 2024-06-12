@@ -112,8 +112,18 @@
                         </a>
                     </div>
                 </li>
-                <li class="nav-item <?php if($page== "venue") echo "active"?>">
-                    <a class="nav-link" href="../venue.php">Venue</a>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle <?php if($page== "workshop" || $page== "start-up") echo "active"?>" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Accommodation
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item <?php if($page== "venue") echo "active"?>" href="../venue.php">Conference Venue
+                        </a>
+                    </div>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item <?php if($page== "acc") echo "active"?>" href="../accomodation.php">Accommodation
+                        </a>
+                    </div>
                 </li>
             </ul>
         </div>
