@@ -167,8 +167,8 @@
                         <br>
                         <li>
                         <b style="color: red;">
-                            Once payment is made, kindly submit the scanned copy of Nomination Forms 
-                            (1. <a href="./downloads/MAPCON Pre Conference Workshop and Tutorial Registration Form.pdf" download>Pre Conference Workshop & Tutorials,</a> 
+                            Once payment is made, kindly submit the scanned copy of Registration Form 
+                            (1. <a href="./downloads/MAPCON Pre Conference Workshop and Tutorial Registration Form.pdf" download>Pre Conference Workshop </a> 
                             2. <a href="./downloads/MAPCON Conference Registration Form.pdf" download>Conference</a>) 
                             at <a href="https://forms.gle/iSWxFRMT2J9jqBBW6">https://forms.gle/iSWxFRMT2J9jqBBW6</a>
                         </b>
