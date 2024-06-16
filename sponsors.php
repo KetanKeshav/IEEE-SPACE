@@ -36,12 +36,6 @@
               <div class="col-md-4 img-box mt-2 mb-2">
               <a href="https://apctechnologies.in/"><img src="https://ieeespace.org/images/sponsors/silver-1.webp" alt=""></a>
               </div>
-              <div class="col-md-4 img-box mt-2 mb-2">
-              <a href="https://mtt.org/"><img src="https://ieeespace.org/images/sponsors/mtts.jpg" alt=""></a>
-              </div>
-              <div class="col-md-4 img-box mt-2 mb-2">
-              <a href="https://www.ieee.org/about/corporate/industry-engagement-committee.html"><img src="https://ieeespace.org/images/sponsors/iec.png" alt=""></a>
-              </div>
           </div>
           <div class="heading_container">
               <h2 style="text-align: center;"><span>Bronze Sponsor</span></h2>
@@ -76,7 +70,7 @@
         <div class="sponsors_row" style="display: flex; justify-content: center;">
             <div class="sponsors_column">
                 <div class="heading_container" style="text-align: center;">
-                    <img src="./images/sponsors/Knowledge Partners.png" alt="Organisers" style="max-width: 100%;">
+                    <img src="./images/sponsors/kp.png" alt="Organisers" style="max-width: 100%;">
                 </div>
             </div>
         </div>
