@@ -30,6 +30,14 @@
               </div>
           </div>
           <div class="heading_container">
+              <h2 style="text-align: center;"><span>Gold Sponsors</span></h2>
+          </div>
+          <div class="row">
+              <div class="col-md-4 img-box mt-2 mb-2">
+              <a href="https://www.collinsaerospace.com/"><img src="https://ieeespace.org/images/sponsors/ca.png" alt=""></a>
+              </div>
+          </div>
+          <div class="heading_container">
               <h2 style="text-align: center;"><span>Silver Sponsors</span></h2>
           </div>
           <div class="row">
@@ -46,6 +54,14 @@
               </div>
               <div class="col-md-4 img-box mt-2 mb-2">
               <a href="https://ssdpolymers.com/"><img src="https://ieeespace.org/images/sponsors/ssd-poly.png" alt=""></a>
+              </div>
+              <div class="col-md-4 img-box mt-2 mb-2">
+              <a href="https://unifiedwegrow.com/"><img src="https://ieeespace.org/images/sponsors/uni.jpeg" alt=""></a>
+              </div>
+          </div>
+          <div class="row">
+              <div class="col-md-4 img-box mt-2 mb-2">
+              <a href="https://www.jvmicronics.com/"><img src="https://ieeespace.org/images/sponsors/jv.png" alt=""></a>
               </div>
           </div>
   </section>
