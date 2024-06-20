@@ -29,6 +29,7 @@
               <a href="https://www.keysight.com/us/en/home.html"><img src="https://ieeespace.org/images/sponsors/platinum.png" alt=""></a>
               </div>
           </div>
+          <br>
           <div class="heading_container">
               <h2 style="text-align: center;"><span>Gold Sponsors</span></h2>
           </div>
@@ -37,6 +38,7 @@
               <a href="https://www.collinsaerospace.com/"><img src="https://ieeespace.org/images/sponsors/ca.png" alt=""></a>
               </div>
           </div>
+          <br>
           <div class="heading_container">
               <h2 style="text-align: center;"><span>Silver Sponsors</span></h2>
           </div>
@@ -59,6 +61,7 @@
               <a href="https://unifiedwegrow.com/"><img src="https://ieeespace.org/images/sponsors/uni.jpeg" alt=""></a>
               </div>
           </div>
+          <br>
           <div class="row">
               <div class="col-md-4 img-box mt-2 mb-2">
               <a href="https://www.jvmicronics.com/"><img src="https://ieeespace.org/images/sponsors/jv.png" alt=""></a>
