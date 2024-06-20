@@ -48,7 +48,7 @@
               </div>
           </div>
           <div class="heading_container">
-              <h2 style="text-align: center;"><span>Bronze Sponsor</span></h2>
+              <h2 style="text-align: center;"><span>Bronze Sponsors</span></h2>
           </div>
           <div class="row">
               <div class="col-md-4 img-box mt-2 mb-2">
