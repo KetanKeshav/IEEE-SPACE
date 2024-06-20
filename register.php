@@ -60,53 +60,45 @@
                             <thead>
                                 <tr>
                                     <th scope="col">Event</th>
-                                    <!-- <th scope="col">Pre Conference Workshop & Tutorials (Dec 12, 2024)</th> -->
+                                    <th scope="col">Workshop (July 21, 2024)</th>
                                     <th scope="col" colspan="2">Conference (July 22-23, 2024)</th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
                                     <th scope="col">Delegate Category</th>
-                                    <!-- <th scope="col">All (₹)</th> -->
-                                    <!-- (₹) -->
                                     <th scope="col">Fee(INR)</th>
-                                    <!-- <th scope="col">Foreign (US$)</th> -->
+                                    <th scope="col">Fee(INR)</th>
                                 </tr>
                                 <tr>
                                     <td>IEEE AESS/APS/MTT-S Student Members</td>
-                                    <!-- <td>1475</td> -->
+                                    <td>0</td>
                                     <td>4800</td>
-                                    <!-- <td>300</td> -->
                                 </tr>
                                 <tr>
                                     <td>IEEE Student Member</td>
-                                    <!-- <td>1770</td> -->
+                                    <td>500</td>
                                     <td>5200</td>
-                                    <!-- <td>330</td> -->
                                 </tr>
                                 <tr>
                                     <td>Student-Non Member</td>
-                                    <!-- <td>2124</td> -->
+                                    <td>1000</td>
                                     <td>5700</td>
-                                    <!-- <td>360</td> -->
                                 </tr>
                                 <tr>
                                     <td>IEEE AESS/AP-S/MTT-S Members</td>
-                                    <!-- <td>2360</td> -->
+                                    <td>500</td>
                                     <td>7500</td>
-                                    <!-- <td>440</td> -->
                                 </tr>
                                 <tr>
                                     <td>IEEE Member</td>
-                                    <!-- <td>2832</td> -->
+                                    <td>500</td>
                                     <td>8500</td>
-                                    <!-- <td>480</td> -->
                                 </tr>
                                 <tr>
                                     <td>Non-Member</td>
-                                    <!-- <td>3540</td> -->
+                                    <td>1000</td>
                                     <td>10000</td>
-                                    <!-- <td>600</td> -->
                                 </tr>
                             </tbody>
                         </table>
@@ -115,7 +107,7 @@
                     <ol>
 
                     <li>
-                    Registration Fee includes registration kit, access to all technical sessions, exhibits, 2 lunches, 1 dinner and 4 sessions of Tea/Coffee. 
+                    Registration Fee includes registration kit, access to all technical sessions, exhibits, 2 lunches, 2 dinner and 4 sessions of Tea/Coffee. 
                         One can present one paper with one registration. 
                         For additional papers one needs to pay additional INR 2000/paper.
                     </li>
@@ -174,36 +166,6 @@
                         </b>
                     </li>
                     </ol>
-
-
-
-                    <!-- <p>
-                        <strong>NOTE:</strong>
-                    <ol style="color: red; font-style: italic; font-weight: 400;">
-                        <li>One can present two papers with one registration. However, with Student Registration, only
-                            one paper can be presented per registration.</li>
-                        <li>Students registration includes complimentary shared hostel accomodation.</li>
-                        <li>Additional Explara charges of 3.54% on registration.</li>
-                        <li>Registration Includes:<br>
-                            Registration kit, 3 Sessions of Lunch, 6 Sessions of Tea/Coffee, Welcome Dinner & Awards
-                            Night Dinner, Access to All Talks, Technical Sessions and Exhibition</li>
-
-                        <li>Government Organization Delegates, where only NEFT Payment is allowed use following Bank
-                            details for transfer of Registration Fee:<br>
-                            Account Name : IEEE MTT/AP SOCIETY BANGALORE CHAPTER- MAPCON<br>
-                            Account No : 219101001453<br>
-                            Branch : Vidyaranyapura, Bangalore<br>
-                            IFSC Code : ICIC0002191<br>
-                            GSTIN : 29AACAI2151H1ZU
-                            <br><br>
-                            Once payment is made kindly submit the Scanned copy of Nomination Forms ( 1. <a
-                                href="./downloads/MAPCON Pre Conference Workshop and Tutorial Registration Form.pdf"
-                                download>Pre Conference Workshop & Tutorials,</a> 2. <a
-                                href="./downloads/MAPCON Conference Registration Form.pdf" download>Conference</a> ) to
-                                ieeespace2024@gmail.com
-                        </li>
-                    </ol>
-                    </p> -->
                 </div>
                 <center>
                     <div class="detail_box">
