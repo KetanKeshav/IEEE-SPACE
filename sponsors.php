@@ -66,6 +66,9 @@
               <div class="col-md-4 img-box mt-2 mb-2">
               <a href="https://www.jvmicronics.com/"><img src="https://ieeespace.org/images/sponsors/jv.png" alt=""></a>
               </div>
+              <div class="col-md-4 img-box mt-2 mb-2">
+              <a href="https://www.nitte.ac.in/"><img src="https://ieeespace.org/images/sponsors/nitte.jpg" alt=""></a>
+              </div>
           </div>
   </section>
 
