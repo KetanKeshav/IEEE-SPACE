@@ -72,6 +72,9 @@
               <div class="col-md-4 img-box mt-2 mb-2">
               <a href="https://www.nitte.ac.in/"><img src="https://ieeespace.org/images/sponsors/nitte.jpg" alt=""></a>
               </div>
+              <div class="col-md-4 img-box mt-2 mb-2">
+              <a href="https://ieee-dataport.org/"><img src="https://ieeespace.org/images/sponsors/dataport-logo.png" alt=""></a>
+              </div>
           </div>
   </section>
 

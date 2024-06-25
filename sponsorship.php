@@ -205,7 +205,7 @@
                 <li>20 Minutes Keynote presentation slot</li>
                 <li>90 Minutes Hands-on Training Session Slot in one of the Breakaway Venues</li>
                 <li>Acknowledgement during Inaugural, Awards, Banquet and Valedictory functions</li>
-                <li>3 Complimentary exhibit booths at Ultra Prime Location</li>
+                <li>3 no of 3mx3m Complimentary exhibit booths at Ultra Prime Location</li>
                 <li>Prominent display of logo on all printed material, backdrop and website</li>
                 <li>Permission to keep Company brochure in registration Kit</li>
               </ul>
@@ -218,7 +218,7 @@
                 <li>6 Complimentary delegate passes</li>
                 <li>Opportunity to be a Panel Speaker</li>
                 <li>Acknowledgement during Inaugural, Awards and Valedictory functions</li>
-                <li>2 Complimentary exhibit booths at Prime Location</li>
+                <li>2 no of 3mx3m Complimentary exhibit booths at Prime Location</li>
                 <li>Prominent display of logo on all printed material, backdrop and website</li>
                 <li>Permission to keep Company brochure in registration Kit</li>
               </ul>
@@ -231,7 +231,7 @@
                 <li>5 Complimentary delegate passes</li>
                 <li>10 minutes presentation slot</li>
                 <li>Acknowledgement during Awards & Valedictory Function</li>
-                <li>2 Complimentary exhibit booths at Prime Location</li>
+                <li>2 no of 3mx3m Complimentary exhibit booths at Prime Location</li>
                 <li>Prominent display of logo on all printed material, backdrop and website</li>
                 <li>Permission to keep Company brochure in registration Kit</li>
               </ul>
@@ -244,7 +244,7 @@
                 <li>4 Complimentary delegate passes</li>
                 <li>10 minutes presentation slot in one of the Breakaway sessions</li>
                 <li>Acknowledgement during Valedictory Function</li>
-                <li>Complimentary exhibit booth</li>
+                <li>3mx3m Complimentary exhibit booth</li>
                 <li>Prominent display of logo on all printed material, backdrop and website</li>
               </ul>
               </p>
@@ -255,7 +255,7 @@
               <ul>
                 <li>4 Complimentary delegate passes</li>
                 <li>5 minutes pre-recorded video presentation slot in one of the breakaway sessions</li>
-                <li>Complimentary exhibit booth</li>
+                <li>3mx2m(LxD) Complimentary exhibit booth</li>
                 <li>Display of logo on all printed material, backdrop and website</li>
               </ul>
               </p>
@@ -265,7 +265,7 @@
               <p>
               <ul>
                 <li>2 Complimentary delegate passes</li>
-                <li>Complimentary exhibit booth</li>
+                <li>3mx2m(LxD) Complimentary exhibit booth</li>
                 <li>Display of logo on all printed material, backdrop and website</li>
               </ul>
               </p>
