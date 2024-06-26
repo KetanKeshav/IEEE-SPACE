@@ -286,7 +286,7 @@
                   <img class="card-img-top" src="./images/speakers/Shashank.jpg" alt="Card image">
                 </center>
                 <div class="card-body">
-                  <h4 class="card-title">Shashank Naraya</h4>
+                  <h4 class="card-title">Shashank Narayan</h4>
                   <p class="card-text">CTO, AGI</p>
                 </div>
         </div>
