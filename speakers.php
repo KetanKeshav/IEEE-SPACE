@@ -281,6 +281,15 @@
                   <p class="card-text">Lead Chief Technologist, Ansys</p>
                 </div>
         </div>
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/speakers/Shashank.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Shashank Naraya</h4>
+                  <p class="card-text">CTO, AGI</p>
+                </div>
+        </div>
       </div>
   </div>
   </section>
