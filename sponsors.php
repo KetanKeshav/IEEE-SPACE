@@ -75,12 +75,12 @@
               <div class="col-md-4 img-box mt-2 mb-2">
               <a href="https://ieee-dataport.org/"><img src="https://ieeespace.org/images/sponsors/dataport-logo.png" alt=""></a>
               </div>
-              <div class="col-md-4 img-box mt-2 mb-2">
-              <a href="https://www.albatross-projects.com/en/"><img src="https://ieeespace.org/images/sponsors/ab.png" alt=""></a>
-              </div>
           </div>
           <br>
           <div class="row">
+              <div class="col-md-4 img-box mt-2 mb-2">
+              <a href="https://www.albatross-projects.com/en/"><img src="https://ieeespace.org/images/sponsors/ab.png" alt=""></a>
+              </div>
               <div class="col-md-4 img-box mt-2 mb-2">
               <a href="https://www.ecanechoicchambers.com/"><img src="https://ieeespace.org/images/sponsors/ecac.png" alt=""></a>
               </div>
