@@ -96,7 +96,7 @@
                         </a>
                         <a class="dropdown-item <?php if($page== "vlsi") echo "active"?>" href="vlsi.php">Workshop on Mastering VLSI RTL Design
                         </a>
-                        <a class="dropdown-item <?php if($page== "milli") echo "active"?>" href="milli.php">Millimeter-Wave MMICs for Front-End Applications in Aerospace and Defense
+                        <a class="dropdown-item <?php if($page== "milli") echo "active"?>" href="milli.php">Workshop on Create Physics based High-Fidelity Space Mission Using Simulation
                         </a>
                     </div>
                 </li>
