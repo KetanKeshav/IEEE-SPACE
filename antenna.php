@@ -29,7 +29,7 @@
 </head>
 <body class="sub_page">
     <div class="hero_area">
-      <!-- header section starts -->
+        <!-- header section starts -->
         <header class="header_section">
             <div class="container-fluid">
                 <?php include 'include/navbar.php'; ?>
@@ -39,47 +39,57 @@
     </div>
 
     <section class="course_section layout_padding">
-    <div class="container">
-      <div class="heading_container heading_center">
-        <h2 style="text-align: center;">
-            Workshop on <span>Antenna Measurements (Sponsored by IEEE AP-S AMTC)</span>
-        </h2><br>
-      </div>
-      <div class="cfa_heading">
-        <p style="text-align: justify;">
-        <b><p>1. Opening Remarks and setting the context: Prof. Debatosh Guha, IEEE Fellow and Immediate Past Chair, Antenna Measurements Committee</p></b>
-        <b><p>2. Spacecraft Level Antenna and Payload Measurements: Mr. Puneet Kumar Mishra, ISRO</b><br>
-                            This Talk will focus on the latest and state-of-the-art Antenna and Payload Measurements. Antennas and Payload measurements are critical for any spacecraft RF characterization and specification compliance. Advanced and High throughput Multi-beam antennas and satellite requires special measurements methodology for their characterization. This workshop will provide a platform for researchers, scientists, and students to gain comprehensive knowledge about various antenna and payload measurement techniques, including microwave measurements. This workshop will also explore the latest advancements in instrumentation used for antenna and payload measurements. Participants will have the opportunity to interact with experts in the field, discuss challenges and explore future prospects. The workshop aims to foster collaboration and inspire innovative ideas for future research.</p>
-                        <b><p>3. Advances in Measurement Technologies Hands-on SA, VNA & PM: Mr. Sadanand Bhatt, Anritsu</b><br>
-                        <br>
-                        <b>Fundamentals of Spectrum Analyzer</b><br>
-                            - What is a Spectrum Analyzer?<br>
-                            - Prerequisite Basic Fundamentals<br>
-                            - Main platform types of Spectrum and Signal Analyzers<br>
-                            - Main functional blocks and related roles in the Spectrum Analyzer<br>
-                            - Input Attenuator, Preamplifier, Low Pass Filter<br>
-                            - Local Oscillator, Mixer, Resolution BW and Video BW<br>
-                            - Signal Detection, Trace types<br>
-                            - Main functions/measurements of a Spectrum Analyzer<br>
-                            - Frequency Domain: Channel Power, Occupied Bandwidth, ACPR<br>
-                            - Time Domain (Zero SPAN), Limits, Spectrogram<br>
-                            - Real Time Spectrum Analyzer<br>
-                            - Practical Applications: Measurement of unknown signals, Analog Modulation, Digital Modulations & 5G NR and LTE<br><br>
-                            
-                            <b>Fundamentals of Vector Network Analyzer & Characterization of antenna using VNA</b><br>
-                            - Basics of Transmission Line<br>
-                            - VNA for Passive and Active device<br>
-                            - VNA Architecture<br>
-                            - Basic Measurements<br><br>
-                            
-                            <b>Fundamentals of Power Meter</b><br>
-                            - Power Meter and it’s function</p>
-        <p>
-        </p>
-      </div>
-    </div>
-  </section>
+        <div class="container">
+            <div class="heading_container heading_center">
+                <h2 style="text-align: center;">
+                    Workshop on <span>Antenna Measurements (Sponsored by IEEE AP-S AMTC)</span>
+                </h2><br>
+                <p style="text-align: center;">July 21, 2024 (8.30AM - 4.00PM)</p>
+            </div>
+            <div class="cfa_heading">
+                <p style="text-align: justify;">
+                    <b>8.30-8.45 AM: Opening Remarks and setting the context: Prof. Debatosh Guha, IEEE Fellow and Immediate Past Chair, Antenna Measurements Committee</b><br><br>
+                    
+                    <b>8.45AM-9.30 AM: Insight into Antenna Measurements: Amazing Experience of an Engineer : Dr. Chandrakanta Kumar, URSC, ISRO</b><br>
+                    New research findings need to be corroborated by the results of the hardware. It needs intense thinking and planning to capture those relevant results, even before entering into the measurement lab. Some frugal innovation and deep understanding of the results might transform even a moderate lab into more effective one. Simulated and measured results should be utilized judiciously without any prejudice. This talk intends to elucidate some intricate aspects of antenna measurements for obtaining a comprehensive picture.<br><br>
 
+                    <b>9.30AM-10.30AM: Performance of Large Compensated Compact Range Facilities for Antenna and Payload Testing of State-of-the-Art and Future Spacecrafts: Josef Migl, Airbus Defence and Space GmbH, Munich, Germany</b><br>
+                    Large compensated compact ranges are designed for antenna and payload testing of spacecraft antennas and payload units. The Compensated Compact Range concept (CCR) of Airbus is featuring two major advantages for such measurements. First of all, the compensating reflector design of the CCR delivers lowest cross-polarization (< -40 dB) for frequencies ≥ 3 GHz and its short effective focal length provides advantageous scanning capability of the test zone. The very low cross-polar contribution of the measurement range is a mandatory aspect for testing antennas utilized for telecommunications satellites due to their stringent cross-polar specifications. The scanning capability is of interest for deployed antennas of spacecrafts and allows measurements without relocation of the complete spacecraft for moving the Antenna under Test (AUT) into the centered test zone. This feature is already highly interesting for antenna testing, but much more for end-to-end testing campaigns where it provides a fully radiated test scenario for up- and downlink without touching the spacecraft at all. In order to achieve large test zones Airbus developed already a few years ago a new, larger type of compensated compact range, the CCR 120/100 with a centered test zone size of 8 m and scanned test zone diameters of at least 5 m for off-axis locations. The latest development and installation here in India even go above this scenario and reaches up to 10 m test zone aera for the centered test zone and 7 m for the scanned areas. This design allows the testing of all state-of-the-art spacecrafts within the centered test zone with the maximum available performance over the entire test zone area and provides sufficient margin for future spacecraft designs. Within this presentation performance data of recently installed, extremely large compensated compact-range test facility will be presented. The design criteria were mainly determined by the stringent requirements for antenna and payload testing of current and future communication satellites including broadband testing at low frequencies for navigation applications.<br><br>
+
+                    <b>Tea Break: 10.30-11.00 AM</b><br><br>
+
+                    <b>11.00 AM -1.00 PM: Advances in Measurement Technologies Hands-on SA, VNA & PM: Mr. Sadanand Bhatt, Anritsu</b><br>
+                    <b>Fundamentals of Spectrum Analyzer</b><br>
+                    - What is a Spectrum Analyzer?<br>
+                    - Prerequisite Basic Fundamentals<br>
+                    - Main platform types of Spectrum and Signal Analysers<br>
+                    - Main functional blocks and related roles in the Spectrum Analyzer<br>
+                    - Input Attenuator, Preamplifier, Low Pass Filter<br>
+                    - Local Oscillator, Mixer, Resolution BW and Video BW<br>
+                    - Signal Detection, Trace types<br>
+                    - Main functions/measurements of a Spectrum Analyzer<br>
+                    - Frequency Domain: Channel Power, Occupied Bandwidth, ACPR<br>
+                    - Time Domain (Zero SPAN), Limits, Spectrogram<br>
+                    - Real Time Spectrum Analyzer<br>
+                    - Practical Applications: Measurement of unknown signals, Analog Modulation, Digital Modulations & 5G NR and LTE<br><br>
+                    
+                    <b>Fundamentals of Vector Network Analyzer & Characterization of antenna using VNA</b><br>
+                    - Basics of Transmission Line<br>
+                    - VNA for Passive and Active device<br>
+                    - VNA Architecture<br>
+                    - Basic Measurements<br><br>
+                    
+                    <b>Fundamentals of Power Meter</b><br>
+                    - Power Meter and its function<br><br>
+                    
+                    <b>Lunch: 1.00PM-2.00PM</b><br><br>
+
+                    <b>2.00PM-4.00PM: Basics of Spacecraft Antennas and their Design: Dr. V K Lakshmeesha, Former Outstanding Scientist, ISRO</b><br>
+                    In this session Basics of Spacecraft Antenna their types and design requirements will be explained in detail. Also requirement and design of 32 M Indian Deep Space Antenna will be presented.
+                </p>
+            </div>
+        </div>
+    </section>
 
     <?php include 'sponsors.php'; ?>
 
@@ -106,5 +116,4 @@
     <!-- End Google Map -->
 
 </body>
-
 </html>
