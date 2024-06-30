@@ -84,6 +84,9 @@
               <div class="col-md-4 img-box mt-2 mb-2">
               <a href="https://www.ecanechoicchambers.com/"><img src="https://ieeespace.org/images/sponsors/ecac.png" alt=""></a>
               </div>
+              <div class="col-md-4 img-box mt-2 mb-2">
+              <a href="https://www.cadfem.net/en/"><img src="https://ieeespace.org/images/sponsors/cad.png" alt=""></a>
+              </div>
           </div>
   </section>
 
