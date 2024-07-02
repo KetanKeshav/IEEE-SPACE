@@ -3,7 +3,7 @@
   <section class="about_section layout_padding">
       <div class="container">
           <div class="heading_container">
-              <h2 style="text-align: center;"><span>Signature Sponsor</span></h2>
+              <h2 style="text-align: center;"><span>Signature Sponsors</span></h2>
           </div>
           <div class="row">
               <div class="col-md-4 img-box mt-2 mb-2">
