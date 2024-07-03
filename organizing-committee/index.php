@@ -451,6 +451,27 @@
             </div>
         </div>
         </div>
+        <br>
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/Sukumar.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Sukumar G</h4>
+              <p class="card-text">TE Connectivity</p>
+            </div>
+        </div>
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/Vismay.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Vismay Vinode Walle </h4>
+              <p class="card-text">TE Connectivity</p>
+            </div>
+        </div>
+        <div>
         <h2><span class="span_head">Academia Outreach Chairs:</span></h2>
         <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
