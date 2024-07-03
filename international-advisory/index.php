@@ -132,7 +132,7 @@
           <div class="row">
           <div class="card col-lg-4 col-md-4 col-sm-6">
               <center>
-                  <img class="card-img-top" src="./images/rahman.jpg" alt="Card image">
+                  <img class="card-img-top" src="./images/saifur.jpg" alt="Card image">
               </center>
               <div class="card-body">
                   <h4 class="card-title">Prof. Saifur Rahman</h4>
@@ -141,7 +141,7 @@
             </div>
           <div class="card col-lg-4 col-md-4 col-sm-6">
               <center>
-                <img class="card-img-top" src="./images/kathleen.webp" alt="Card image">
+                <img class="card-img-top" src="./images/Kathleen.jpg" alt="Card image">
               </center>
               <div class="card-body">
                 <h4 class="card-title">Prof. Kathleen Kramer</h4>

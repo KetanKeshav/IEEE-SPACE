@@ -124,13 +124,13 @@
               <img class="card-img-top" src="./images/speakers/tom.jpg" alt="Card image">
             </center>
             <div class="card-body">
-                <h4 class="card-title">Mr. Thomous Coughling</h4>
+                <h4 class="card-title">Thomas M. Coughlin</h4>
                 <p class="card-text">2024 IEEE President</p>
             </div>
           </div>
         <div class="card col-lg-4 col-md-4 col-sm-6">
               <center>
-                    <img class="card-img-top" src="./images/speakers/kathleen.webp" alt="Card image">
+                    <img class="card-img-top" src="./images/speakers/Kathleen.jpg" alt="Card image">
               </center>
               <div class="card-body">
                     <h4 class="card-title">Prof. Kathleen Kramer</h4>
@@ -139,7 +139,7 @@
           </div>
           <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
-              <img class="card-img-top" src="./images/speakers/rahman.jpg"   alt="Card image">
+              <img class="card-img-top" src="./images/speakers/saifur.jpg"   alt="Card image">
             </center>
             <div class="card-body">
                 <h4 class="card-title">Prof. Saifur Rahman</h4>
