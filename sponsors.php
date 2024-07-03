@@ -41,7 +41,7 @@
               <a href="https://www.collinsaerospace.com/"><img src="https://ieeespace.org/images/sponsors/ca.png" alt=""></a>
               </div>
               <div class="col-md-4 img-box mt-2 mb-2">
-              <a href="https://www.te.com/en/store.html?te_bu=Cor&te_type=srch&te_campaign=ggl_usa_cor-ggl-usa-srch-brand-fy22-main_sma-2209_1&elqCampaignId=117203&te_bu=Cor&te_type=srch&te_campaign=ggl_usa_cor-ggl-usa-srch-brand-fy23-main_sma-2656_2&elqCampaignId=161903&gad_source=1&gclid=Cj0KCQjw7ZO0BhDYARIsAFttkCgvDdaJUl-AIZd_zfChMKNGDIaUW8r8eQTtpm33cncH6NtdSZysWwcaApwHEALw_wcB"><img src="https://ieeespace.org/images/sponsors/ete.jpg" alt=""></a>
+              <a href="https://www.te.com/en/store.html?te_bu=Cor&te_type=srch&te_campaign=ggl_usa_cor-ggl-usa-srch-brand-fy22-main_sma-2209_1&elqCampaignId=117203&te_bu=Cor&te_type=srch&te_campaign=ggl_usa_cor-ggl-usa-srch-brand-fy23-main_sma-2656_2&elqCampaignId=161903&gad_source=1&gclid=Cj0KCQjw7ZO0BhDYARIsAFttkCgvDdaJUl-AIZd_zfChMKNGDIaUW8r8eQTtpm33cncH6NtdSZysWwcaApwHEALw_wcB"><img src="https://ieeespace.org/images/sponsors/ete.jpeg" alt=""></a>
               </div>
           </div>
           <br>
