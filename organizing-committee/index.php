@@ -467,7 +467,7 @@
               <img class="card-img-top" src="./images/Vismay.jpg" alt="Card image">
             </center>
             <div class="card-body">
-              <h4 class="card-title">Vismay Vinode Walle </h4>
+              <h4 class="card-title">Vismay Walle </h4>
               <p class="card-text">TE Connectivity</p>
             </div>
         </div>
