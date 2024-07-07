@@ -26,28 +26,16 @@
                         <!-- <a class="dropdown-item <?php if($page== "sc") echo "active"?>" href="../session-chairs.php">Session Chairs</a> -->
                     </div>
                 </li>
-                <!-- <li class="nav-item dropdown <?php if($page== "w1" || $page== "w2" || $page== "tutorial" || $page== "6g" || $page== "aa" || $page== "tt" || $page== "kn" || $page== "gan" || $page== "program" || $page== "yp" || $page== "ap") echo "active"?>">
+                <li class="nav-item dropdown <?php if($page== "program") echo "active"?>">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Program
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item <?php if($page== "tutorial") echo "active"?>" href="../tutorial.php">Tutorial</a>
-                        <a class="dropdown-item <?php if($page== "ppl") echo "active"?>" href="../program/Pathak_lectures.php">Prof. Pathak lectures</a>
-                        <a class="dropdown-item <?php if($page== "w1") echo "active"?>" href="../workshop-1.php">Workshop-1</a>
-                        <a class="dropdown-item <?php if($page== "w2") echo "active"?>" href="../workshop-2.php">Workshop-2</a>
-                        <a class="dropdown-item <?php if($page== "program") echo "active"?>" href="../program.php">Conference</a>
-                        <a class="dropdown-item <?php if($page== "6g") echo "active"?>" href="../program/6g.php">Special Sessions on 6G</a>
-                        <a class="dropdown-item <?php if($page== "aa") echo "active"?>" href="../program/antenna.php">Antenna Arrays</a>
-                        <a class="dropdown-item <?php if($page== "gan") echo "active"?>" href="../program/gan.php">GaN ASIC</a>
-                        <a class="dropdown-item <?php if($page== "kn") echo "active"?>" href="../program/keynotes.php">Keynotes</a> 
-                        <a class="dropdown-item <?php if($page== "tt") echo "active"?>" href="../program/tedtalk.php">Banquet TED Talk</a>
-                        <a class="dropdown-item <?php if($page== "yp") echo "active"?>" href="../program/yp.php">YP Activities</a>
-                        <a class="dropdown-item <?php if($page== "wie") echo "active"?>" href="../program/wie.php">WIE Activities</a>
-                        <a class="dropdown-item <?php if($page== "ap") echo "active"?>" href="../program/ap.php">AP-S & MTT-S SIGHT</a>
-                        <a class="dropdown-item" href="../downloads/MAPCON Presentation.pptx" target="_blank">Presentation
-                            Template</a>
+                        <a class="dropdown-item" href="../downloads/SPACE-Pre Conference Workshop Details.pdf" download>Pre Conference Workshop Program Schedule</a>
+                        <a class="dropdown-item" href="../downloads/SPACE PROGRAM 2024 - 7July24.pdf" download>Conference Program Schedule</a>
+                        <a class="dropdown-item" href="../downloads/IEEE SPACE-Contributory Paper Details.pdf" download>Contributory Paper Schedule</a>
                     </div>
-                </li> -->
+                </li>
                 <li class="nav-item dropdown <?php if($page== "awards" || $page== "cfa" || $page== "paper-submission" || $page== "important-dates") echo "active"?>">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Authors
