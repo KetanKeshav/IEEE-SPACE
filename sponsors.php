@@ -55,6 +55,9 @@
               <div class="col-md-4 img-box mt-2 mb-2">
               <a href="https://www.centumelectronics.com/"><img src="https://ieeespace.org/images/sponsors/centum.png" alt=""></a>
               </div>
+              <div class="col-md-4 img-box mt-2 mb-2">
+              <a href="https://www.mvg-world.com/en/orbit-fr"><img src="https://ieeespace.org/images/sponsors/mvg.jpeg" alt=""></a>
+              </div>
           </div>
           <div class="heading_container">
               <h2 style="text-align: center;"><span>Bronze Sponsors</span></h2>

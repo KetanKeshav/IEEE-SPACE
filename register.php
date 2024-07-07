@@ -72,32 +72,32 @@
                                 </tr>
                                 <tr>
                                     <td>IEEE AESS/APS/MTT-S Student Members</td>
-                                    <td>0</td>
+                                    <td>500</td>
                                     <td>4800</td>
                                 </tr>
                                 <tr>
                                     <td>IEEE Student Member</td>
-                                    <td>500</td>
+                                    <td>1000</td>
                                     <td>5200</td>
                                 </tr>
                                 <tr>
                                     <td>Student-Non Member</td>
-                                    <td>1000</td>
+                                    <td>1500</td>
                                     <td>5700</td>
                                 </tr>
                                 <tr>
                                     <td>IEEE AESS/AP-S/MTT-S Members</td>
-                                    <td>500</td>
+                                    <td>2000</td>
                                     <td>7500</td>
                                 </tr>
                                 <tr>
                                     <td>IEEE Member</td>
-                                    <td>500</td>
+                                    <td>2000</td>
                                     <td>8500</td>
                                 </tr>
                                 <tr>
                                     <td>Non-Member</td>
-                                    <td>1000</td>
+                                    <td>3000</td>
                                     <td>10000</td>
                                 </tr>
                             </tbody>
