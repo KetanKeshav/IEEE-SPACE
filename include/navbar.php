@@ -86,6 +86,10 @@
                         </a>
                         <a class="dropdown-item <?php if($page== "milli") echo "active"?>" href="milli.php">Workshop on Create Physics based High-Fidelity Space Mission Using Simulation
                         </a>
+                        <a class="dropdown-item <?php if($page== "sra") echo "active"?>" href="sar.php">Workshop on Synthetic Aperture Radar (SAR) Technology
+                        </a>
+                        <a class="dropdown-item <?php if($page== "srqa") echo "active"?>" href="srqa.php">Workshop on Reliability and Quality Assurance for SPACE Systems
+                        </a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
