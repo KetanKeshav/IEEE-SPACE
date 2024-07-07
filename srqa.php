@@ -44,17 +44,16 @@
                 <h2 style="text-align: center;">
                     Workshop on <span>Reliability and Quality Assurance for SPACE Systems</span>
                 </h2><br>
+                <h3>Shri. PJVKS Prakash Rao, Former Director, SIPO, ISRO HQ</h3>
                 <p style="text-align: center;">July 21, 2024 (2.00PM - 4.00PM)</p>
             </div>
             <div class="cfa_heading">
                 <p style="text-align: justify;">
-                    <b>2.00PM-4.00PM: Reliability and Quality Assurance for SPACE Systems: Shri. PJVKS Prakash Rao, Former Director, SIPO, ISRO HQ</b><br><br>
-
-                    In today’s world, there is no discipline, where the word ‘Quality’ does not find a mention. Research, Design, Development, Production, Marketing, Service, Customer interaction etc are now more driven by quality concepts - than in yesteryears.
-                    While this focus on quality is relatively new to the commercial establishments, which are primarily driven by competition and globalisation, there are some disciplines of engineering/research like Defence and Aerospace Sectors, which due to their critical nature, had ingredients of quality and reliability built into their programmes, almost from inception. This talk gives a brief insight into various elements of R&amp;QA, which need to be implemented for a spacecraft project.
-                    Technical drivers for quality programme of a spacecraft due to its unattended operation for long life duration under harsh environment of space are enumerated in the talk. Design assurance methodologies, Reliability Analyses like Derating analysis, Failure mode effects and criticality analysis (FMECA), Fault tree analysis (FTA) Worst case analysis, Sneak Circuit analysis, Reliability prediction, apportionment &amp; demonstration, Test &amp; Evaluation, Reviews etc are covered in addition to conventional Quality Control activities like Parts/Materials/ Process control and non-conformance control.
+                    In today’s world, there is no discipline, where the word ‘Quality’ does not find a mention. Research, Design, Development, Production, Marketing, Service, Customer interaction etc are now more driven by quality concepts - than in yesteryears.<br>
+                    While this focus on quality is relatively new to the commercial establishments, which are primarily driven by competition and globalisation, there are some disciplines of engineering/research like Defence and Aerospace Sectors, which due to their critical nature, had ingredients of quality and reliability built into their programmes, almost from inception. This talk gives a brief insight into various elements of R&amp;QA, which need to be implemented for a spacecraft project.<br>
+                    Technical drivers for quality programme of a spacecraft due to its unattended operation for long life duration under harsh environment of space are enumerated in the talk. Design assurance methodologies, Reliability Analyses like Derating analysis, Failure mode effects and criticality analysis (FMECA), Fault tree analysis (FTA) Worst case analysis, Sneak Circuit analysis, Reliability prediction, apportionment &amp; demonstration, Test &amp; Evaluation, Reviews etc are covered in addition to conventional Quality Control activities like Parts/Materials/ Process control and non-conformance control.<br>
                     The experiences gained at ISRO Satellite Centre, in realization of its highly successful Spacecraft Systems will be shared during the presentation. Various experiences / anecdotes of the presenter are embedded into the talk with a humorous touch to make the topic interesting and absorbing.
-                    Emerging concepts like First time right, Zero Defect Programme, Total Quality management (TQM) and Company wide quality control (CWQC) are also addressed.
+                    Emerging concepts like First time right, Zero Defect Programme, Total Quality management (TQM) and Company wide quality control (CWQC) are also addressed.<br>
                     Though delivered with the background of space systems, the concepts are applicable to all fields of engineering, and gives the audience a bird’s eye view of activities to be accomplished for achieving customer satisfaction.
                 </p>
             </div>
