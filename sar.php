@@ -44,7 +44,7 @@
                 <h2 style="text-align: center;">
                     Workshop on <span>Synthetic Aperture Radar (SAR) Technology</span>
                 </h2><br>
-                <h3>Dr. Tapan Misra, DS &amp; Former Director, SAC, Founding Director &amp; Chief Scientist, SISIRA</h3>
+                <h3>Dr. Tapan Misra, DS &amp; Former Director, SAC, Founding Director &amp; Chief Scientist, SISIR Radar</h3>
                 <p style="text-align: center;">July 21, 2024 (8.30AM - 10.30PM)</p>
             </div>
             <div class="cfa_heading">

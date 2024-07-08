@@ -101,6 +101,9 @@
               <div class="col-md-4 img-box mt-2 mb-2">
               <a href="https://vinvish.com/"><img src="https://ieeespace.org/images/sponsors/vinvish.jpeg" alt=""></a>
               </div>
+              <div class="col-md-4 img-box mt-2 mb-2">
+              <a href="https://www.ametek.com/"><img src="https://ieeespace.org/images/sponsors/ametek.png" alt=""></a>
+              </div>
           </div>
   </section>
 
