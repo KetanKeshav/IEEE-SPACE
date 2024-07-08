@@ -48,14 +48,32 @@
                 <p style="text-align: center;">July 21, 2024 (11.00-13.00 Hrs)</p>
             </div>
             <div class="cfa_heading">
-                <h4>11:00 - 11:30</h4>
-                <p>A Platform-Based Approach to Satellite Integration Test for Space Applications</p>
-                <h4>11:30 - 12:00</h4>
-                <p>Modernize Your Approach to LRU Hardware-in-the-Loop Testing</p>
-                <h4>12:00 - 12:30</h4>
-                <p>Gen3 VST for Radar and Satellite System Validation</p>
-                <h4>12:30 - 1:00</h4>
-                <p>Building Scalable Systems Integration Automated Test Equipment (ATE)</p>
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>Time</th>
+                            <th>Topic</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>11:00 - 11:30</td>
+                            <td>A Platform-Based Approach to Satellite Integration Test for Space Applications</td>
+                        </tr>
+                        <tr>
+                            <td>11:30 - 12:00</td>
+                            <td>Modernize Your Approach to LRU Hardware-in-the-Loop Testing</td>
+                        </tr>
+                        <tr>
+                            <td>12:00 - 12:30</td>
+                            <td>Gen3 VST for Radar and Satellite System Validation</td>
+                        </tr>
+                        <tr>
+                            <td>12:30 - 1:00</td>
+                            <td>Building Scalable Systems Integration Automated Test Equipment (ATE)</td>
+                        </tr>
+                    </tbody>
+                </table>
                 <br>
                 <p style="text-align: justify;">
                     Abstract: The workshop titled “Embedded Software Test and Integration Test Techniques” covers essential topics related to ensuring mission-readiness in the aerospace and defence industry. Here’s a brief overview of the key areas:
