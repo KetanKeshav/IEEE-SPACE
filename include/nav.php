@@ -102,6 +102,8 @@
                         </a>
                         <a class="dropdown-item <?php if($page== "srqa") echo "active"?>" href="../srqa.php">Workshop on Reliability and Quality Assurance for SPACE Systems
                         </a>
+                        <a class="dropdown-item <?php if($page== "esti") echo "active"?>" href="../esti.php">Workshop on Embedded Software Test and Integration Test Techniques
+                        </a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
