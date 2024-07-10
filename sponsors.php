@@ -59,11 +59,13 @@
               <a href="https://www.mvg-world.com/en/orbit-fr"><img src="https://ieeespace.org/images/sponsors/mvg.jpeg" alt=""></a>
               </div>
           </div>
+          <br><br>
           <div class="row">
               <div class="col-md-4 img-box mt-2 mb-2">
               <a href="https://www.rohde-schwarz.com/us/home_48230.html"><img src="https://ieeespace.org/images/sponsors/rs.png" alt=""></a>
               </div>
           </div>
+          <br><br>
           <div class="heading_container">
               <h2 style="text-align: center;"><span>Bronze Sponsors</span></h2>
           </div>
