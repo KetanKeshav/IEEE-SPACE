@@ -62,7 +62,7 @@
           <br><br>
           <div class="row">
               <div class="col-md-4 img-box mt-2 mb-2">
-              <a href="https://www.rohde-schwarz.com/us/home_48230.html"><img src="https://ieeespace.org/images/sponsors/rs.png" alt=""></a>
+              <a href="https://www.rohde-schwarz.com/us/home_48230.html"><img src="https://ieeespace.org/images/sponsors/rs1.jpg" alt=""></a>
               </div>
           </div>
           <br><br>
