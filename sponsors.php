@@ -77,7 +77,7 @@
               <a href="https://ssdpolymers.com/"><img src="https://ieeespace.org/images/sponsors/ssd-poly.png" alt=""></a>
               </div>
               <div class="col-md-4 img-box mt-2 mb-2">
-              <a href="https://unifiedwegrow.com/"><img src="https://ieeespace.org/images/sponsors/uni.jpeg" alt=""></a>
+              <a href="https://www.unified.co.in/"><img src="https://ieeespace.org/images/sponsors/uni.jpeg" alt=""></a>
               </div>
           </div>
           <br>
