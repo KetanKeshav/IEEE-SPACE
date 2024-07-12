@@ -111,6 +111,14 @@
               <div class="col-md-4 img-box mt-2 mb-2">
               <a href="https://www.ametek.com/"><img src="https://ieeespace.org/images/sponsors/ametek.png" alt=""></a>
               </div>
+              <div class="col-md-4 img-box mt-2 mb-2">
+              <a href="https://www.linkedin.com/company/icon-design-automation-pvt.-ltd./?originalSubdomain=in"><img src="https://ieeespace.org/images/sponsors/id.png" alt=""></a>
+              </div>
+          </div>
+          <div class="row">
+              <div class="col-md-4 img-box mt-2 mb-2">
+              <a href="https://www.mouser.in/?utm_id=82194723&gad_source=1&gclid=CjwKCAjwqMO0BhA8EiwAFTLgIG9bVYMitUXOfO0kORnwnIzRKS4NSHn8-LVu84A2hCB5Up9_LiMujRoC6AAQAvD_BwE"><img src="https://ieeespace.org/images/sponsors/mouser.png" alt=""></a>
+              </div>
           </div>
   </section>
 
