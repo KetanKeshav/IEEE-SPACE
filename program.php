@@ -57,8 +57,6 @@
           <h2>
             IEEE <span>SPACE</span> Program
           </h2>
-          <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTPjtKGCupbNLtcz2_Ng6vmI8TUHtVHV2AF-W1n4iMiw9jp2XdiA8jRwMdhaVeuTw/pubhtml" frameborder="0" style="width:100%;" height="750"></iframe>
-          <div class="table-responsive">
           </div>
           <!-- New iframe for the additional link -->
           <iframe src="https://edas.info/web/ieeespace2024/program.html" frameborder="0" style="width:100%;" height="750"></iframe>
