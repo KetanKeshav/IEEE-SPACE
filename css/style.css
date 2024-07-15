@@ -122,6 +122,126 @@ a:focus {
   background-position: center;
 }
 
+.slide-4{
+  height: 100vh;
+  position: relative;
+  /* display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column; */
+  background-image: url(../images/car/4.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.slide-5{
+  height: 100vh;
+  position: relative;
+  /* display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column; */
+  background-image: url(../images/car/5.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.slide-6{
+  height: 100vh;
+  position: relative;
+  /* display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column; */
+  background-image: url(../images/car/6.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.slide-7{
+  height: 100vh;
+  position: relative;
+  /* display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column; */
+  background-image: url(../images/car/7.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.slide-8{
+  height: 100vh;
+  position: relative;
+  /* display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column; */
+  background-image: url(../images/car/8.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.slide-9{
+  height: 100vh;
+  position: relative;
+  /* display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column; */
+  background-image: url(../images/car/9.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.slide-10{
+  height: 100vh;
+  position: relative;
+  /* display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column; */
+  background-image: url(../images/car/10.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.slide-11{
+  height: 100vh;
+  position: relative;
+  /* display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column; */
+  background-image: url(../images/car/11.png);
+  background-size: cover;
+  background-position: center;
+}
+
 
 .sub_page .hero_area {
   height: auto;
