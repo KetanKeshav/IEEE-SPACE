@@ -64,6 +64,9 @@
               <div class="col-md-4 img-box mt-2 mb-2">
               <a href="https://www.rohde-schwarz.com/us/home_48230.html"><img src="https://ieeespace.org/images/sponsors/rs1.jpg" alt=""></a>
               </div>
+              <div class="col-md-4 img-box mt-2 mb-2">
+              <a href="https://www.airbus.com/en"><img src="https://ieeespace.org/images/sponsors/airbus.png" alt=""></a>
+              </div>
           </div>
           <br><br>
           <div class="heading_container">
