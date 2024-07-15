@@ -34,7 +34,7 @@
                         <a class="dropdown-item" href="../downloads/SPACE-Pre Conference Workshop Details.pdf" download>Pre Conference Workshop Program Schedule</a>
                         <a class="dropdown-item" href="../downloads/SPACE PROGRAM 2024 - 7July24.pdf" download>Conference Program Schedule</a>
                         <a class="dropdown-item" href="../downloads/IEEE SPACE-Contributory Paper Details.pdf" download>Contributory Paper Schedule</a>
-                        <a class="dropdown-item <?php if($page== "program") echo "active"?>" href="../call-for-stc/program.php">Conference Program Detailed Schedule</a>
+                        <a class="dropdown-item <?php if($page== "program") echo "active"?>" href="../program.php">Conference Program Detailed Schedule</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown <?php if($page== "awards" || $page== "cfa" || $page== "paper-submission" || $page== "important-dates") echo "active"?>">
