@@ -51,7 +51,7 @@
   <section class="course_section layout_padding">
         <div class="container">
             <div class="heading_container heading_center">
-                <h2>IEEE SPACE 2024 Pre-Conference Workshops</h2>
+                <h2>IEEE SPACE 2024 <br> Pre-Conference Workshops: July 21, 2024(8:30-4:30pm)</h2>
             </div>
             <div class="course_container">
                 <div class="course_detail">
