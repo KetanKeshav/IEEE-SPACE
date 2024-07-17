@@ -122,6 +122,12 @@
               <div class="col-md-4 img-box mt-2 mb-2">
               <a href="https://www.mouser.in/?utm_id=82194723&gad_source=1&gclid=CjwKCAjwqMO0BhA8EiwAFTLgIG9bVYMitUXOfO0kORnwnIzRKS4NSHn8-LVu84A2hCB5Up9_LiMujRoC6AAQAvD_BwE"><img src="https://ieeespace.org/images/sponsors/mouser.png" alt=""></a>
               </div>
+              <div class="col-md-4 img-box mt-2 mb-2">
+              <a href="https://astramwp.com/"><img src="https://ieeespace.org/images/sponsors/astra.jpg" alt=""></a>
+              </div>
+              <div class="col-md-4 img-box mt-2 mb-2">
+              <a href="https://www.comsol.com/"><img src="https://ieeespace.org/images/sponsors/comsol.png" alt=""></a>
+              </div>
           </div>
   </section>
 
