@@ -24,7 +24,6 @@
                         <a class="dropdown-item" href="./organizing-committee/index.php">Organizing Committee</a>
                         <a class="dropdown-item <?php if($page== "tpc") echo "active"?>" href="./technical-program-committee/index.php">Technical Program
                             Committee</a>
-                        <!-- <a class="dropdown-item <?php if($page== "sc") echo "active"?>" href="./session-chairs.php">Session Chairs</a> -->
                     </div>
                 </li>
                 <li class="nav-item dropdown <?php if($page== "program") echo "active"?>">
@@ -43,17 +42,12 @@
                         Authors
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <!-- <a class="dropdown-item <?php if($page== "ra") echo "active"?>" href="./registered-authors.php">Registered Authors</a> -->
                         <a class="dropdown-item" href="./call-for-papers/index.php">Call For Papers</a>
                         <a class="dropdown-item" href="./call-for-stc/index.php">Call For SPACE Technology Compendium</a>
                         <a class="dropdown-item" href="./call-for-3-mins-comp/index.php">3 Minute Thesis Competition</a>
                         <a class="dropdown-item" href="./paper-submission/index.php">Paper Submission</a>
-                        <!-- <a class="dropdown-item" href="https://edas.info/index.php?c=32329">Submit a Paper</a> -->
                         <a class="dropdown-item" href="./important-dates/index.php">Important Dates</a>
                         <a class="dropdown-item <?php if($page== "awards") echo "active"?>" href="awards.php">Awards</a>
-                        <!-- <a class="dropdown-item" href="./downloads/MAPCON-CFP.pdf" target="_blank" download="MAPCON-brochure">
-                            Download CFP
-                        </a> -->
                     </div>
                 </li>
                 <li class="nav-item <?php if($page == "speakers") echo "active"?>">
