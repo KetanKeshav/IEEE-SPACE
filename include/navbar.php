@@ -81,7 +81,7 @@
                         Workshop
                     </a>
                     <li class="nav-item <?php if($page == "w1") echo "active"?>">
-                    <a class="nav-link" href="../workshop-1.php"> Sponsorship</a>
+                    <a class="nav-link" href="../workshop-1.php"> Workshops</a>
                 </li>
                 </li>
                 <li class="nav-item dropdown">

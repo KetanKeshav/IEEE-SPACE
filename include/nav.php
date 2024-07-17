@@ -89,7 +89,7 @@
                     </div>
                 </li>
                 <li class="nav-item <?php if($page == "w1") echo "active"?>">
-                    <a class="nav-link" href="../workshop-1.php"> Sponsorship</a>
+                    <a class="nav-link" href="../workshop-1.php"> Workshops</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle <?php if($page== "workshop" || $page== "start-up") echo "active"?>" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
