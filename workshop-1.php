@@ -137,9 +137,6 @@
                     </table>
                 </div>
             </div>
-            <div class="btn_box">
-                <a href="">View More</a>
-            </div>
         </div>
     </section>
     <!-- end course section -->
