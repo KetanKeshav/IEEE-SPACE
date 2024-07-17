@@ -289,6 +289,20 @@
             Associate Director of Technical Support at Anritsu India Pvt. Ltd., has been an essential part of Anritsu for over 11 years. With more than three decades of experience in the test and measurement industry, he deeply understands the electrical and electronic manufacturing sectors. His expertise includes Wideband Code Division Multiple Access (WCDMA), 3G, 4G LTE, and 5G NR. He is particularly interested in RF, Microwave, optical communication, and high-speed data communication testing. Throughout his career, Mr. Bhatt has supported both pre-sales and post-sales activities at Anritsu, providing invaluable technical assistance and guidance to customers. His role has involved ensuring the successful implementation and operation of Anritsu's test and measurement solutions, thereby contributing significantly to customer satisfaction and company success. Mr. Bhatt will share his insights on one of his favourite topics, the Spectrum Analyzer. His extensive knowledge and experience make him uniquely qualified to discuss this essential tool, which is critical for analysing and troubleshooting RF and microwave signals. The Spectrum Analyzer is used to measure the magnitude of an input signal versus frequency within the full frequency range of the instrument, and Mr. Bhatt's discussion will cover its applications, functionalities, and the latest advancements in the field. In addition to his technical acumen, Mr. Bhatt holds a Post Graduate degree in Marketing Management and Engineering. This combination of technical and marketing expertise allows him to understand and address the needs of both technical and business stakeholders, making him a well-rounded professional in the industry. His presentation today promises to be insightful and informative, drawing on his extensive background and passion for the subject matter.</p>
         </div>
     </div>
+    <div class="workshop">
+        <h2>Application Specific Antenna Design Strategies in the Domain of Space Communications</h2>
+        <div class="details">
+            <p><strong>Speakers:</strong> Dr. V K Lakshmeesha, Former Outstanding Scientist, ISRO</p>
+            <p><strong>Time:</strong> 14.00-16.00 Hrs</p>
+            <p><strong>Venue:</strong> Heliconia 1 & 2</p>
+        </div>
+        <div class="abstract">
+            <p><strong>Abstract:</strong> Space communications deals with Earth to Space and Space to Earth communications, which are essentially line of sight communications utilising selected regions of the Electromagnetic Spectrum. Antenna systems related to such needs differ widely between Space segment and Earth segment entities, largely influenced by both Electrical and Mechanical engineering prerogatives. A glimpse into certain design strategies realized successfully during the course of evolution of ISRO in India is to be the theme of the proposed discussion.</p>
+        </div>
+        <div class="bio">
+            <p><strong>Bio:</strong> Dr. V K Lakshmeesha, former Outstanding Scientist, ISRO Satellite Centre (currently U R Satellite Centre), joined ISRO in 1972 when Satellite development activities started in Bangalore, after completing Post Graduation in "Communication Systems and Radar" from the Dept of Elec Engg, IIT, Madras (Chennai). He has worked in the area of RF Systems development in the realm of Spacecraft Systems primarily, as well as Earth Station Systems, contributing to all the Satellites developed in India till Chandrayaan 1 for the TT&C Transponders as well as Data Transmission systems, primarily in the field of Antenna Systems. He has about 100 Publications (Authored and Co-Authored) related to the developments carried out during his tenure, and he is also the recipient of a few Awards.</p>
+        </div>
+    </div>
         </div>
     </section>
     <!-- end course section -->
