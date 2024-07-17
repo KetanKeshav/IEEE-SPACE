@@ -50,25 +50,8 @@
                         <!-- <a class="dropdown-item" href="https://edas.info/index.php?c=32329">Submit a Paper</a> -->
                         <a class="dropdown-item <?php if($page== "important-dates") echo "active"?>" href="../important-dates/index.php">Important Dates</a>
                         <a class="dropdown-item <?php if($page== "awards") echo "active"?>" href="../awards.php">Awards</a>
-                        <!-- <a class="dropdown-item" href="../downloads/MAPCON-CFP.pdf" target="_blank" download="MAPCON-brochure">
-                            Download CFP
-                        </a> -->
                     </div>
                 </li>
-                <!-- <li class="nav-item dropdown <?php if($page== "phd-student-initiative" || $page== "student-paper-award" || $page== "b/mtech" || $page== "sopp" || $page== "jopp") echo "active"?>">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Student Program
-                    </a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item <?php if($page== "phd-student-initiative") echo "active"?>" href="../phd-student-initiative/index.php">PhD Student Initiative
-                            Program</a>
-                        <a class="dropdown-item <?php if($page== "student-paper-award") echo "active"?>" href="../student-paper-award/index.php">Student Paper Award</a>
-                        <a class="dropdown-item <?php if($page== "b/mtech") echo "active"?>" href="../b.tech_m.tech-student-connect/index.php">B.Tech / M.Tech Student
-                            Connect Initiative Program</a>
-                        <a class="dropdown-item <?php if($page== "sopp") echo "active"?>" href="../student-opportunities/index.php">Opportunities for Students</a>
-                        <a class="dropdown-item <?php if($page== "jopp") echo "active"?>" href="../job-opportunities/index.php">Job Opportunities</a>
-                    </div>
-                </li> -->
                 <li class="nav-item <?php if($page == "speakers") echo "active"?>">
                     <a class="nav-link" href="../speakers.php">Speakers</a>
                 </li>
@@ -81,11 +64,6 @@
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item <?php if($page== "register") echo "active"?>" href="../register.php">SPACE Registration
-                        <!-- </a>
-                        <a class="dropdown-item <?php if($page== "accomodation") echo "active"?>" href="../accomodation-list.php">Accomodation List - Reva University
-                        </a>
-                        <a class="dropdown-item" href="https://forms.gle/FgXKFrPKpeaYxzFd7">Chapter Chair Meeting</a>
-                        <a class="dropdown-item <?php if($page== "start-up") echo "active"?>" href="../startup-initiative.php">Startup Initiative</a> -->
                     </div>
                 </li>
                 <li class="nav-item <?php if($page == "w1") echo "active"?>">

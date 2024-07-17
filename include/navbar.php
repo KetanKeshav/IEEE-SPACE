@@ -56,31 +56,13 @@
                         </a> -->
                     </div>
                 </li>
-                <!-- <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Student Program
-                    </a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="./phd-student-initiative/index.php">PhD Student Initiative
-                            Program</a>
-                        <a class="dropdown-item" href="./student-paper-award/index.php">Student Paper Award</a>
-                        <a class="dropdown-item" href="./b.tech_m.tech-student-connect/index.php">B.Tech / M.Tech Student
-                            Connect Initiative Program</a>
-                        <a class="dropdown-item" href="./student-opportunities/index.php">Opportunities for Students</a>
-                        <a class="dropdown-item" href="./job-opportunities/index.php">Job Opportunities</a>
-                    </div>
-                </li> -->
                 <li class="nav-item <?php if($page == "speakers") echo "active"?>">
                     <a class="nav-link" href="speakers.php">Speakers</a>
                 </li>
                 <li class="nav-item <?php if($page == "sponsorship") echo "active"?>">
                     <a class="nav-link" href="sponsorship.php"> Sponsorship</a>
                 </li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle <?php if($page== "workshop" || $page== "start-up") echo "active"?>" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Workshop
-                    </a>
-                    <li class="nav-item <?php if($page == "w1") echo "active"?>">
+                <li class="nav-item <?php if($page == "w1") echo "active"?>">
                     <a class="nav-link" href="../workshop-1.php"> Workshops</a>
                 </li>
                 </li>
@@ -91,10 +73,6 @@
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item <?php if($page== "register") echo "active"?>" href="register.php">SPACE Registration
                         </a>
-                        <!-- <a class="dropdown-item <?php if($page== "accomodation") echo "active"?>" href="accomodation-list.php">Accomodation List - Reva University
-                        </a>
-                        <a class="dropdown-item" href="https://forms.gle/FgXKFrPKpeaYxzFd7">Chapter Chair Meeting</a>
-                        <a class="dropdown-item <?php if($page== "start-up") echo "active"?>" href="startup-initiative.php">Startup Initiative</a> -->
                     </div>
                 </li>
 
