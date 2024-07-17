@@ -47,155 +47,102 @@
 
     </div>
 
-    <!-- Sponsor section -->
-
-    <section class="course_section layout_padding">
+  <!-- course section -->
+  <section class="course_section layout_padding">
         <div class="container">
             <div class="heading_container heading_center">
-                <h2 style="text-align: center;">
-                    IEEE SPACE 2024 Pre-Conference Workshops
-                </h2>
-                <h3>Date: July 21, 2024 (8.30-4.30 PM)</h3>
-                <h3>Time/Venue: Amaryllis & Petunia, Poinsettia 1 & 2, Heliconia 1 & 2</h3>
-                <div class="table-responsive">
-                    <table class="table table-bordered border-primary text-justify">
+                <h2>IEEE SPACE 2024 Pre-Conference Workshops</h2>
+            </div>
+            <div class="course_container">
+                <div class="course_detail">
+                    <table class="table table-striped">
                         <thead>
                             <tr>
-                                <th scope="col">Time (Hrs)</th>
-                                <th scope="col">Venue</th>
-                                <th scope="col">Topics</th>
-                                <th scope="col">Description</th>
+                                <th scope="col">Time/Venue</th>
+                                <th scope="col">Amaryllis & Petunia</th>
+                                <th scope="col">Poinsettia 1 & 2</th>
+                                <th scope="col">Heliconia 1 & 2</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <th scope="row">08.00 - 08.30</th>
+                                <th scope="row">08.00-08.30 Hrs</th>
                                 <td colspan="3">Registration & Networking</td>
                             </tr>
                             <tr>
-                                <th scope="row">08.30 - 10.30</th>
-                                <td>Amaryllis & Petunia</td>
-                                <td>Technology</td>
+                                <th scope="row">08.30-10.30 Hrs</th>
                                 <td>
-                                    Dr. Tapan Misra, DS Radar, Synthetic Aperture Al & Reliability Antenna Measurements<br>
-                                    1. Safety And Reliability<br>
-                                    2. Reliability-based Failure Prognostics: Mahesh Chandrakanta Kumar, ISRO<br>
-                                    3. Experience of an Engineer: Dr. Rajiv Ranjan, Boeing India<br>
-                                    4. Insight into Antenna Measurements: Bhasker Rao, Former Director, SAC<br>
-                                    5. Performance of Large Facilities for Antenna and Payload Testing: Chandrakanta Kumar, ISRO
+                                    Synthetic Aperture Radar (SAR) Technology<br>
+                                    Dr. Tapan Misra, DS & Former Director, SAC, Founding Director & Chief Scientist, SISIR Radar
+                                </td>
+                                <td>
+                                    AI & Reliability Applications in Aerospace<br>
+                                    1. Safety And Reliability Requirements for Airworthy Hardware: Rajiv Ranjan<br>
+                                    2. Reliability-based Failure Prognostics: Mahesh Purushothaman<br>
+                                    3. Generative AI for Aircraft Maintenance: Bhasker Rao, Boeing India
+                                </td>
+                                <td>
+                                    Antenna Measurements<br>
+                                    1. Insight into Antenna Measurements: Amazing Experience of an Engineer: Dr. Chandrakanta Kumar, ISRO<br>
+                                    2. Performance of Large Compensated Compact Range Facilities for Antenna and Payload Testing of State-of-the-Art and Future Spacecrafts: Mr. Josef Migl, Airbus Defence and Space GmbH, Munich, Germany
                                 </td>
                             </tr>
                             <tr>
-                                <th scope="row">08.30 - 10.30</th>
-                                <td>Poinsettia 1 & 2</td>
-                                <td>Radar (SAR) Applications in Aerospace</td>
+                                <th scope="row">10.30-11.00 Hrs</th>
+                                <td colspan="3">Tea/Coffee/Networking</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">11.00-13.00 Hrs</th>
                                 <td>
-                                    1. Safety And Reliability<br>
-                                    2. Reliability-based Failure Prognostics: Mahesh Chandrakanta Kumar, ISRO<br>
-                                    3. Experience of an Engineer: Dr. Rajiv Ranjan, Boeing India<br>
-                                    4. Insight into Antenna Measurements: Bhasker Rao, Former Director, SAC<br>
-                                    5. Performance of Large Facilities for Antenna and Payload Testing: Chandrakanta Kumar, ISRO
+                                    Create Physics-based High-Fidelity Space Mission Using Simulation<br>
+                                    Mr Nijas Kunju & Mr. Ravindra Challa, Ansys
+                                </td>
+                                <td>
+                                    Embedded Software Test and Integration<br>
+                                    1. A Platform-Based Approach to Satellite Integration Test for Space Applications: Mr. Karthik SP<br>
+                                    2. Gen3 VST for Radar and Satellite system Validation: Mr. Sharath Halneer<br>
+                                    3. Modernize Your Approach to LRU Hardware-in-the-Loop Testing: Mr. Tarun Gupta, NI India<br>
+                                    4. Building Scalable Systems Integration Automated Test Equipment (ATE): Mr. Tarun Gupta, NI India
+                                </td>
+                                <td>
+                                    Advances in Measurement Technologies Hands-on SA, VNA & PM<br>
+                                    Mr. Sadanand Bhatt, Anritsu
                                 </td>
                             </tr>
                             <tr>
-                                <th scope="row">08.30 - 10.30</th>
-                                <td>Heliconia 1 & 2</td>
-                                <td>Hardware</td>
+                                <th scope="row">13.00-14.00 Hrs</th>
+                                <td colspan="3">Lunch/Networking</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">14.00-16.00 Hrs</th>
                                 <td>
-                                    1. Safety And Reliability<br>
-                                    2. Reliability-based Failure Prognostics: Mahesh Chandrakanta Kumar, ISRO<br>
-                                    3. Experience of an Engineer: Dr. Rajiv Ranjan, Boeing India<br>
-                                    4. Insight into Antenna Measurements: Bhasker Rao, Former Director, SAC<br>
-                                    5. Performance of Large Facilities for Antenna and Payload Testing: Chandrakanta Kumar, ISRO
+                                    Reliability and Quality Assurance for Spacecraft Systems<br>
+                                    Shri. PJVKS Prakash Rao, Former Director, SIPO, ISRO HQ
+                                </td>
+                                <td>
+                                    Mastering VLSI RTL Design<br>
+                                    1. Hariprasad Bhat (Lekha Wireless)<br>
+                                    2. Jayesh Tanwani
+                                </td>
+                                <td>
+                                    Basics of Spacecraft Antennas and their Design<br>
+                                    Dr. V K Lakshmeesha, Former Outstanding Scientist, ISRO
                                 </td>
                             </tr>
                             <tr>
-                                <th scope="row">10.30 - 11.00</th>
-                                <td colspan="3"><b>Tea/Coffee/Networking</b></td>
-                            </tr>
-                            <tr>
-                                <th scope="row">11.00 - 13.00</th>
-                                <td>Amaryllis & Petunia</td>
-                                <td>Ansys</td>
-                                <td>
-                                    1. Create Physics Embedded Software Advances based High-Fidelity Test and Integration<br>
-                                    2. A Measurement Space Mission Platform-Based Approach to Technologies Hands-on Using Simulation: Mr. Nijas Kunju & Space Applications: Mr. Sadanand Bhatt, Anritsu<br>
-                                    3. Gen3 VST for Radar and Satellite system Validation: Mr. Sharath Halneer<br>
-                                    4. Modernise Your Approach to LRU Hardware-in-the-Loop Testing: Mr. Tarun Gupta, NI India<br>
-                                    5. Building Scalable Systems Integration Automated Test Equipment (ATE): Mr. Tarun Gupta, NI India
-                                </td>
-                            </tr>
-                            <tr>
-                                <th scope="row">11.00 - 13.00</th>
-                                <td>Poinsettia 1 & 2</td>
-                                <td>Software</td>
-                                <td>
-                                    1. Create Physics Embedded Software Advances based High-Fidelity Test and Integration<br>
-                                    2. A Measurement Space Mission Platform-Based Approach to Technologies Hands-on Using Simulation: Mr. Nijas Kunju & Space Applications: Mr. Sadanand Bhatt, Anritsu<br>
-                                    3. Gen3 VST for Radar and Satellite system Validation: Mr. Sharath Halneer<br>
-                                    4. Modernise Your Approach to LRU Hardware-in-the-Loop Testing: Mr. Tarun Gupta, NI India<br>
-                                    5. Building Scalable Systems Integration Automated Test Equipment (ATE): Mr. Tarun Gupta, NI India
-                                </td>
-                            </tr>
-                            <tr>
-                                <th scope="row">11.00 - 13.00</th>
-                                <td>Heliconia 1 & 2</td>
-                                <td>Integration</td>
-                                <td>
-                                    1. Create Physics Embedded Software Advances based High-Fidelity Test and Integration<br>
-                                    2. A Measurement Space Mission Platform-Based Approach to Technologies Hands-on Using Simulation: Mr. Nijas Kunju & Space Applications: Mr. Sadanand Bhatt, Anritsu<br>
-                                    3. Gen3 VST for Radar and Satellite system Validation: Mr. Sharath Halneer<br>
-                                    4. Modernise Your Approach to LRU Hardware-in-the-Loop Testing: Mr. Tarun Gupta, NI India<br>
-                                    5. Building Scalable Systems Integration Automated Test Equipment (ATE): Mr. Tarun Gupta, NI India
-                                </td>
-                            </tr>
-                            <tr>
-                                <th scope="row">13.00 - 14.00</th>
-                                <td colspan="3"><b>Lunch/Networking</b></td>
-                            </tr>
-                            <tr>
-                                <th scope="row">14.00 - 16.00</th>
-                                <td>Amaryllis & Petunia</td>
-                                <td>Reliability and Quality Assurance</td>
-                                <td>
-                                    1. Design for Spacecraft Systems: Shri. PJVKS Prakash Rao, Former Director, SIPO, ISRO HQ<br>
-                                    2. Mastering VLSI RTL Basics: Hariprasad Bhat, Lekha Wireless<br>
-                                    3. Basics of Spacecraft Antennas and their Design: Dr. V K Lakshmeesha, Former Outstanding Scientist, ISRO
-                                </td>
-                            </tr>
-                            <tr>
-                                <th scope="row">14.00 - 16.00</th>
-                                <td>Poinsettia 1 & 2</td>
-                                <td>Design</td>
-                                <td>
-                                    1. Design for Spacecraft Systems: Shri. PJVKS Prakash Rao, Former Director, SIPO, ISRO HQ<br>
-                                    2. Mastering VLSI RTL Basics: Hariprasad Bhat, Lekha Wireless<br>
-                                    3. Basics of Spacecraft Antennas and their Design: Dr. V K Lakshmeesha, Former Outstanding Scientist, ISRO
-                                </td>
-                            </tr>
-                            <tr>
-                                <th scope="row">14.00 - 16.00</th>
-                                <td>Heliconia 1 & 2</td>
-                                <td>VLSI</td>
-                                <td>
-                                    1. Design for Spacecraft Systems: Shri. PJVKS Prakash Rao, Former Director, SIPO, ISRO HQ<br>
-                                    2. Mastering VLSI RTL Basics: Hariprasad Bhat, Lekha Wireless<br>
-                                    3. Basics of Spacecraft Antennas and their Design: Dr. V K Lakshmeesha, Former Outstanding Scientist, ISRO
-                                </td>
-                            </tr>
-                            <tr>
-                                <th scope="row">16.00 - 16.30</th>
-                                <td colspan="3"><b>Tea/Coffee/Networking</b></td>
+                                <th scope="row">16.00-16.30 Hrs</th>
+                                <td colspan="3">Tea/Coffee/Networking</td>
                             </tr>
                         </tbody>
                     </table>
                 </div>
             </div>
+            <div class="btn_box">
+                <a href="">View More</a>
+            </div>
         </div>
     </section>
     <!-- end course section -->
-
-    <!-- sponsors section -->
 
   <?php include 'sponsors.php'; ?>
 
