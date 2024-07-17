@@ -135,10 +135,10 @@
                                 </td>
                                 <td>
                                     Embedded Software Test and Integration<br>
-                                    1. A Platform-Based Approach to Satellite Integration Test for Space Applications: Mr. Karthik SP<br>
-                                    2. Gen3 VST for Radar and Satellite system Validation: Mr. Sharath Halneer<br>
-                                    3. Modernize Your Approach to LRU Hardware-in-the-Loop Testing: Mr. Tarun Gupta, NI India<br>
-                                    4. Building Scalable Systems Integration Automated Test Equipment (ATE): Mr. Tarun Gupta, NI India
+                                    1. A Platform-Based Approach to Satellite Integration Test for Space Applications: Sharath Halneer<br>
+                                    2. Gen3 VST for Radar and Satellite system Validation: Tarun Gupta, NI India<br>
+                                    3. Modernize Your Approach to LRU Hardware-in-the-Loop Testing: Karthik SP<br>
+                                    4. Building Scalable Systems Integration Automated Test Equipment (ATE): Sintu Punnoose
                                 </td>
                                 <td>
                                     Advances in Measurement Technologies Hands-on SA, VNA & PM<br>
