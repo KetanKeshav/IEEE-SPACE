@@ -195,92 +195,111 @@
     </section>
     <!-- end course section -->
 
-    <section class="client_section layout_padding-bottom">
-        <div class="container ">
-            <div class="heading_container heading_center">
-                <h2 style="text-align: center;">
-                    Industry Associations
-                </h2>
-            </div>
-            <div class="client_container layout_padding2">
-                <div class="client_box b-1">
-                    <div class="client_id">
-                        <img src="images/client.png" alt="" />
-                    </div>
-                    <div class="client_name">
-                        <h5>
-                            Industry Expert
-                        </h5>
-                    </div>
-                </div>
-                <div class="client_box b-2">
-                    <div class="client_id">
-                        <img src="images/client.png" alt="" />
-                    </div>
-                    <div class="client_name">
-                        <h5>
-                            Industry Expert
-                        </h5>
-                    </div>
-                </div>
-                <div class="client_box b-3">
-                    <div class="client_id">
-                        <img src="images/client.png" alt="" />
-                    </div>
-                    <div class="client_name">
-                        <h5>
-                            Industry Expert
-                        </h5>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    <!-- sponsors section -->
 
-    <section class="info_section layout_padding">
-        <div class="container">
-            <div class="info_social">
-                <div>
-                    <a href="">
-                        <img src="images/facebook-logo-button.png" alt="">
-                    </a>
-                </div>
-                <div>
-                    <a href="">
-                        <img src="images/twitter-logo-button.png" alt="">
-                    </a>
-                </div>
-                <div>
-                    <a href="">
-                        <img src="images/linkedin.png" alt="">
-                    </a>
-                </div>
-                <div>
-                    <a href="">
-                        <img src="images/instagram.png" alt="">
-                    </a>
-                </div>
-            </div>
-            <div>
-                <p>
-                    &copy; <span id="displayYear"></span> All Rights Reserved By <a href="https://html.design/">Free Html Templates</a>
-                </p>
-            </div>
+  <?php include 'sponsors.php'; ?>
+
+<!-- end sponsprs section -->
+
+<div class="bottom_bg">
+  <!-- info section -->
+  <section class="info_section ">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 mx-auto">
+          <hr>
         </div>
-    </section>
-    <!-- info section -->
-    <!-- footer section -->
-    <section class="container-fluid footer_section">
-        <div class="container">
-            <p>
-                &copy; <span id="displayYear"></span> All Rights Reserved By <a href="https://html.design/">Free Html Templates</a>
-            </p>
+      </div>
+      <div class="info_box ">
+        <div class="col-md-2">
+          <div class="row">
+            <img src="./images/MAPCON-LOGO.png" width="200px">
+          </div>
+          <div class="row">
+            <div class="social_box">
+              <a href="https://m.facebook.com/IEEEMAPCON/" target="_blank">
+                <i class="fa fa-facebook" aria-hidden="true"></i>
+              </a>
+              <a href="https://twitter.com/ieeemapcon?lang=en" target="_blank">
+                <i class="fa fa-twitter" aria-hidden="true"></i>
+              </a>
+              <a href="https://www.linkedin.com/in/ieee-space-1859532bb/" target="_blank">
+                <i class="fa fa-linkedin" aria-hidden="true"></i>
+              </a>
+            </div>
+          </div>
         </div>
-    </section>
-    <!-- footer section -->
-    <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
-    <script type="text/javascript" src="js/bootstrap.js"></script>
-    <script type="text/javascript" src="js/slick.min.js"></script>
-    <script type="text/javascript" src="js/custom.js"></script>
+        <div class="col-md-3">
+          <h3 class="f-header">Connect With IEEE</h3>
+          <ul>
+            <li class="f-links"><a href="https://ieee.taleo.net/careersection/2/jobsearch.ftl?utm_source=mf&utm_campaign=taleo-jobs&utm_medium=footer&utm_term=taleo-jobs%20at%20ieee">Careers
+                at IEEE</a></li>
+            <li class="f-links"><a href="https://ieee-aess.org/">IEEE AESS</a></li>
+            <li class="f-links"><a href="https://ieeeaps.org/">IEEE APS</a></li>
+            <li class="f-links"><a href="https://mtt.org/">IEEE MTT-S</a></li>
+            <li class="f-links"><a href="https://aps-mtts.ieeebangalore.org/">AP/MTT Joint Bangalore Chapter</a></li>
+            <li class="f-links"><a href="https://iln.ieee.org/public/TrainingCatalog.aspx">IEEE Learning Network</a>
+            </li>
+          </ul>
+        </div>
+        <div class="col-md-3">
+          <h3 class="f-header">Membership</h3>
+          <ul>
+            <li class="f-links"><a href="https://www.ieee.org/membership/join/index.php?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=join">Join</a>
+            </li>
+            <li class="f-links"><a href="https://www.ieee.org/membership/renew.php?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=renew">Renew</a>
+            </li>
+            <li class="f-links"><a href="https://www.ieee.org/membership/benefits/index.php">Benefits</a></li>
+            <li class="f-links"><a href="https://ieee-collabratec.ieee.org/?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=collabratec-membership-list">IEEE
+                Collabratec</a></li>
+            <li class="f-links"><a href="https://ieeebangalore.org/guide-to-join-ieee/">Guide to Join IEEE</a></li>
+          </ul>
+        </div>
+        <div class="col-md-3">
+          <h3 class="f-header">Quick Links</h3>
+          <ul>
+            <li class="f-links"><a href="https://ieeespace.org/">Home</a></li>
+            <li class="f-links"><a href="https://ieeespace.org/organizing-committee/">Organizing Committee</a></li>
+            <li class="f-links"><a href="https://ieeespace.org/call-for-papers/">Call For Papers</a></li>
+            <li class="f-links"><a href="https://ieeespace.org/sponsorship.php">Sponsorship</a></li>
+            <li class="f-links"><a href="https://ieeespace.org/awards.php">Awards</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <h3 class="f-header">Contact Info</h3>
+          <div class="detail_box">
+            <a href="https://ieeespace.org/contact.php" class="button-con">
+              Contact and Support
+            </a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+  <!-- end info_section -->
+
+</div>
+
+<!-- footer section -->
+<footer class="footer_section">
+  <div class="container">
+    <div class="footer_box">
+      <p>Powered by and Copyright &copy; IEEESPACE2024 - IEEE Aerospace and Electronic Systems Society (AESS) and IEEE Microwaves, Antennas and Propagation Conference</p>
+    </div>
+  </div>
+</footer>
+<!-- footer section -->
+<!-- jQery -->
+<script src="js/jquery-3.4.1.min.js"></script>
+<!-- bootstrap js -->
+<script src="js/bootstrap.js"></script>
+<!-- custom js -->
+<script src="js/custom.js"></script>
+<!-- Google Map -->
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCh39n5U-4IoWpsVGUHWdqB6puEkhRLdmI&callback=myMap"></script>
+<!-- End Google Map -->
+
 </body>
+
 </html>
