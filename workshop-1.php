@@ -173,9 +173,7 @@
                     </table>
                 </div>
             </div>
-        </div>
-    </section>
-    <!-- end course section -->
+
 
     <title>Workshop Details</title>
     <div class="workshop-details">
@@ -203,6 +201,9 @@
         <p><strong>Nijas Kunju:</strong> Nijas Kunju is a Principal Application Engineer in Application Engineering at ANSYS Inc. He specialized in the domain of RF, Antennas, Radar, Signal Integrity, Power Integrity, and Multiphysics simulation. Nijas has been working with ANSYS for the last 8 years. He provides technical assistance for RF components, Antennas, Phased arrays, Radar, Automotive and 5G/6G applications. He has been interacting with different Aero and Space customers on various communication, Radar, and EWS system development through virtualization and digital engineering. Before joining ANSYS, he worked as a Research Consultant at GE Global Research in Bangalore in the area of Wireless Power Transfer and microwave material sensing for detecting different materials in Crude Oils. Nijas did his Master’s degree in Electronics Science and PhD under Prof. P. Mohanan from Cochin University of Science and Technology, Cochin, Kerala. He holds 20+ International publications and 20+ national and international conference publications.</p>
         <p><strong>Ravindra Challa:</strong> Ravindra Challa is a Senior Application Engineer at Ansys, where he leverages more than 11 years of experience bringing AGI’s digital mission engineering and aerospace systems simulation solutions to the global aerospace and defense community. With a career built on applying technical solutions as a Scientist in the Indian Space Research Organisation, Ravindra continues to apply a growing skill set to bring industry-leading simulation solutions to engineering organizations focused on digital transformation.</p>
     </div>
+        </div>
+    </section>
+    <!-- end course section -->
 
   <?php include 'sponsors.php'; ?>
 
