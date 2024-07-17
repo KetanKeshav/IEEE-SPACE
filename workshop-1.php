@@ -239,6 +239,56 @@
             </p>
         </div>
     </div>
+    <div class="workshop">
+        <h2>Mastering VLSI RTL Design : Unveiling FPGA Strategies for Advanced Defence and space Radios</h2>
+        <div class="details">
+            <p><strong>Speakers:</strong> Hariprasad Bhat (Lekha Wireless), Jayesh Tanwani (Intel)</p>
+            <p><strong>Time:</strong> 14.00-16.00 Hrs</p>
+            <p><strong>Venue:</strong> Poinsettia 1 & 2</p>
+        </div>
+        <div class="abstract">
+            <p><strong>Abstract:</strong> Join us for an illuminating workshop on "Mastering VLSI RTL Design: Unveiling FPGA Strategies for Advanced Defence Radios," where we delve into the intricacies of leveraging FPGA (Field-Programmable Gate Array) technology to enhance the capabilities of defence radio systems. In today's rapidly evolving defence landscape, the need for agile and adaptable radio systems is more pressing than ever. FPGAs offer unparalleled flexibility and configurability, making them indispensable components in the development of advanced defence communication solutions. This workshop will provide participants with a comprehensive understanding of RTL (Register-Transfer Level) design techniques tailored specifically for defence and space applications. Through a series of demo and expert-led discussions, attendees will explore the strategic deployment of FPGAs to optimize radio functionalities, enhance signal processing capabilities, and streamline system performance. Led by industry-leading experts with extensive experience in RTL design and FPGA implementation, this workshop promises to be an invaluable learning opportunity for professionals involved in defence technology development. Participants will gain practical insights into FPGA strategies, best practices for RTL design, and real-world case studies highlighting successful implementations in defence radio systems. Whether you're a seasoned engineer looking to deepen your expertise or a newcomer eager to explore the possibilities of FPGA technology in defence applications, this workshop offers something for everyone. Join us as we unlock the potential of FPGA strategies for mastering RTL design in advanced defence radios.</p>
+        </div>
+        <div class="bio">
+            <p><strong>Bio:</strong> Jayesh Tanwani<br>
+            SoC Design Engineering Manager at Intel, 10+ years of experience in the VLSI Industry. Have experience with FPGA based designs, SOC designs, low power design and optimization. One of the Youngest Chip Leads responsible for the next generation of processor designs. Completed a BE in Electronics and Communication Engineering in 2012 from Cambridge Institute of Technology. IEEE CAS member since 2020, now IEEE Senior Members and Vice Chair CAS Bangalore Chapter. Pioneered the I2I event and has organized many marquee events, including Memory Design Workshop and I-LEAD CAS and others. Outside of work he is a multi-hobbyist with varied subjects of interest. He is also a student of psychology and spirituality.</p>
+            <p><strong>Bio:</strong> Hariprasad Bhat<br>
+            Hariprasad Bhat has 12+ years of experience in VLSI domain blended with Embedded Hardware Designs. In the past, he was involved in various protocol specific RTL IP development, Hardware Schematics designs & system bring up activities. He leads the FPGA/RTL Design & development activities in the ADS group @ Lekha Wireless Solutions, Bangalore. At Lekha Wireless, he is actively contributing to the Wireless Radio development for Defence & Avionics applications. Before Lekha, he has served iWave systems for more than half a decade where he had good exposure & working knowledge on different advanced protocols like USB3, USB-Type C, DisplayPort, HDMI, ARINC 818, PCIe Gen3 to name a few. Hariprasad also served Granite River labs, where he was responsible for the architecture definition & execution of USB4 compliance solution. Apart from professional contribution, he is actively volunteering as Executive committee member for IEEE CAS Bangalore society. Being a senior IEEE member, Hariprasad contributes to several workshops for young professional's skill development focusing on VLSI domain. Hariprasad graduated from Srinivas Institute of Technology, Mangalore in 2012.</p>
+        </div>
+    </div>
+
+    <div class="workshop">
+        <h2>Antenna Measurements (Sponsored by IEEE AP-S AMTC)</h2>
+        <div class="details">
+            <p><strong>Speakers:</strong> Dr. Chandrakanta Kumar, URSC, ISRO, and Josef Migl, Airbus Defence and Space GmbH, Munich, Germany</p>
+            <p><strong>Time:</strong> 8.30-10.30 Hrs</p>
+            <p><strong>Venue:</strong> Heliconia 1 & 2</p>
+        </div>
+        <div class="abstract">
+            <p><strong>Abstract:</strong> New research findings need to be corroborated by the results of the hardware. It needs intense thinking and planning to capture those relevant results, even before entering into the measurement lab. Some frugal innovation and deep understanding of the results might transform even a moderate lab into more effective one. Simulated and measured results should be utilized judiciously without any prejudice. This talk intends to elucidate some intricate aspects of antenna measurements for obtaining a comprehensive picture.</p>
+        </div>
+        <div class="bio">
+            <p><strong>Bio:</strong> Chandrakanta Kumar received M. Tech and PhD from Institute of Radio Physics and Electronics of the University of Calcutta, and completed Space Studies Program, from International Space University, Strasbourg, France. He works as an antenna and microwave engineer at U R Rao Satellite Centre. As a part of his professional duty and research interest, he has carried out measurement of 500+ antennas. He has supervised 3 PhDs and has coauthored more than 150 publications including 58 in IEEE Journals and a book on ‘Defected Ground Structure (DGS) Based Antennas’ from IEEE Press Willy/USA. Dr. Kumar is a fellow of Indian National Academy of Engineering (INAE), WAST and IETE and senior member of IEEE. He is the Chair-elect (2024) of the IEEE Bangalore Section and present Chair of its APs/MTTs joint chapter. He is an associated editor for IEEE Antennas and Wireless Propagation Letters.</p>
+            <p><strong>Bio:</strong> Josef Migl<br>
+            1990 – 1991 Messerschmitt Bölkow-Blohm GmbH (MBB): Planar Near-Field Measurement Technique, 1992 – 1997 INPRO, Berlin: High Power Nd: YAG Laser Development, R&D Work for High Power Laser Applications in the Field of a Car Production Line. 1997 - 1999 with Best Engineering GmbH, Munich (Prof. Dr. Fasold), Development of a new Concept to Investigate the Behaviour of Multi-Feed Array Antennas within the INTELSAT Study “INTEL-1482”: Eng. Manager for INTELSAT Study “INTEL-1482”, Study for Measurement Accuracy Improvements. Since 1999 Airbus Defence and Space GmbH (and former companies), R&D Work in the Field of the Planar and Cylindrical Nearfield Measurement Technique: Design of Compact Range Antenna Test Facilities for single and double reflector ranges, RF Engineering and antenna testing of multiple commercial measurement champaigns in the Airbus’ Nearfield and Compact Range Test Facilities for customers like Intelsat, Eutelsat, HispaSAT, ArabSAT, RF System Engineering of Compact Range Facility Projects for Antenna and Payload Measurements, RF Systems Engineering for the INTELSAT IX C-Band Antenna Subsystem Antenna and RF design for large tracking ground station antennas for projects in Australia, French Guiana, Spain, Systems Engineering Management of multiple test range facility projects in India, China, Russia, Turkey, Kazakhstan, Test Engineering and Test Manager for payload test campaign of national and international spacecraft projects, Lecturer for Antenna Near-Field and Compact Range Measurement Technique for internal and external customers. Author of multiple papers about antenna and payload measurements of spacecrafts.</p>
+        </div>
+    </div>
+
+    <div class="workshop">
+        <h2>Advances in Measurement Technologies Hands-on SA, VNA & PM</h2>
+        <div class="details">
+            <p><strong>Speakers:</strong> Mr. Sadanand Bhatt, Anritsu</p>
+            <p><strong>Time:</strong> 11.00-13.00 Hrs</p>
+            <p><strong>Venue:</strong> Heliconia 1 & 2</p>
+        </div>
+        <div class="abstract">
+            <p><strong>Abstract:</strong> Fundamentals of Spectrum Analyzer, Vector Network Analyzer, and Power Meter. This session will cover the basics and practical applications of these measurement technologies in the context of RF and microwave communication systems.</p>
+        </div>
+        <div class="bio">
+            <p><strong>Bio:</strong> Mr. Sadanand Bhatt<br>
+            Associate Director of Technical Support at Anritsu India Pvt. Ltd., has been an essential part of Anritsu for over 11 years. With more than three decades of experience in the test and measurement industry, he deeply understands the electrical and electronic manufacturing sectors. His expertise includes Wideband Code Division Multiple Access (WCDMA), 3G, 4G LTE, and 5G NR. He is particularly interested in RF, Microwave, optical communication, and high-speed data communication testing. Throughout his career, Mr. Bhatt has supported both pre-sales and post-sales activities at Anritsu, providing invaluable technical assistance and guidance to customers. His role has involved ensuring the successful implementation and operation of Anritsu's test and measurement solutions, thereby contributing significantly to customer satisfaction and company success. Mr. Bhatt will share his insights on one of his favourite topics, the Spectrum Analyzer. His extensive knowledge and experience make him uniquely qualified to discuss this essential tool, which is critical for analysing and troubleshooting RF and microwave signals. The Spectrum Analyzer is used to measure the magnitude of an input signal versus frequency within the full frequency range of the instrument, and Mr. Bhatt's discussion will cover its applications, functionalities, and the latest advancements in the field. In addition to his technical acumen, Mr. Bhatt holds a Post Graduate degree in Marketing Management and Engineering. This combination of technical and marketing expertise allows him to understand and address the needs of both technical and business stakeholders, making him a well-rounded professional in the industry. His presentation today promises to be insightful and informative, drawing on his extensive background and passion for the subject matter.</p>
+        </div>
+    </div>
         </div>
     </section>
     <!-- end course section -->
