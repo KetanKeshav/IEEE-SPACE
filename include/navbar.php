@@ -80,20 +80,9 @@
                     <a class="nav-link dropdown-toggle <?php if($page== "workshop" || $page== "start-up") echo "active"?>" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Workshop
                     </a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item <?php if($page== "antenna") echo "active"?>" href="antenna.php">Workshop on Antenna Measurements
-                        </a>
-                        <a class="dropdown-item <?php if($page== "vlsi") echo "active"?>" href="vlsi.php">Workshop on Mastering VLSI RTL Design
-                        </a>
-                        <a class="dropdown-item <?php if($page== "milli") echo "active"?>" href="milli.php">Workshop on Create Physics based High-Fidelity Space Mission Using Simulation
-                        </a>
-                        <a class="dropdown-item <?php if($page== "sra") echo "active"?>" href="sar.php">Workshop on Synthetic Aperture Radar (SAR) Technology
-                        </a>
-                        <a class="dropdown-item <?php if($page== "srqa") echo "active"?>" href="srqa.php">Workshop on Reliability and Quality Assurance for SPACE Systems
-                        </a>
-                        <a class="dropdown-item <?php if($page== "esti") echo "active"?>" href="esti.php">Workshop on Embedded Software Test and Integration Test Techniques
-                        </a>
-                    </div>
+                    <li class="nav-item <?php if($page == "w1") echo "active"?>">
+                    <a class="nav-link" href="../workshop-1.php"> Sponsorship</a>
+                </li>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle <?php if($page== "register" || $page== "start-up") echo "active"?>" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">

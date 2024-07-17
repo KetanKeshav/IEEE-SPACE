@@ -53,227 +53,234 @@
         <div class="container">
             <div class="heading_container heading_center">
                 <h2 style="text-align: center;">
-                    Workshop-1 on <span>Comprehensive Simulation Solutions for Communication and Radar </span>
-                </h2><br>
-                <h2>Date: Dec 12, 2024, 8.30-17.30 Hall: GBR-2</h2>
-
+                    IEEE SPACE 2024 Pre-Conference Workshops
+                </h2>
+                <h3>Date: July 21, 2024 (8.30-4.30 PM)</h3>
+                <h3>Time/Venue: Amaryllis & Petunia, Poinsettia 1 & 2, Heliconia 1 & 2</h3>
                 <div class="table-responsive">
                     <table class="table table-bordered border-primary text-justify">
                         <thead>
                             <tr>
                                 <th scope="col">Time (Hrs)</th>
+                                <th scope="col">Venue</th>
                                 <th scope="col">Topics</th>
                                 <th scope="col">Description</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <th scope="row">08.30 - 9.30</th>
-                                <td>Basics of Computational Electromagnetics
-
-                                </td>
+                                <th scope="row">08.00 - 08.30</th>
+                                <td colspan="3">Registration & Networking</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">08.30 - 10.30</th>
+                                <td>Amaryllis & Petunia</td>
+                                <td>Technology</td>
                                 <td>
-                                    Introduction FEM, MOM, FDTD, SBR+
+                                    Dr. Tapan Misra, DS Radar, Synthetic Aperture Al & Reliability Antenna Measurements<br>
+                                    1. Safety And Reliability<br>
+                                    2. Reliability-based Failure Prognostics: Mahesh Chandrakanta Kumar, ISRO<br>
+                                    3. Experience of an Engineer: Dr. Rajiv Ranjan, Boeing India<br>
+                                    4. Insight into Antenna Measurements: Bhasker Rao, Former Director, SAC<br>
+                                    5. Performance of Large Facilities for Antenna and Payload Testing: Chandrakanta Kumar, ISRO
                                 </td>
                             </tr>
                             <tr>
-                                <th scope="row">9.30 -10.00</th>
+                                <th scope="row">08.30 - 10.30</th>
+                                <td>Poinsettia 1 & 2</td>
+                                <td>Radar (SAR) Applications in Aerospace</td>
                                 <td>
-                                    Updates in Ansys HFSS
-                                </td>
-                                <td>
-                                    Latest release updates and exciting new features
-                                </td>
-                            </tr>
-                            <tr>
-                                <th scope="row">10.00 -10.30</th>
-                                <td>
-                                    Tips and Tricks for Antenna Design
-                                </td>
-                                <td>
-                                    How to improve the simulation to match measurement
+                                    1. Safety And Reliability<br>
+                                    2. Reliability-based Failure Prognostics: Mahesh Chandrakanta Kumar, ISRO<br>
+                                    3. Experience of an Engineer: Dr. Rajiv Ranjan, Boeing India<br>
+                                    4. Insight into Antenna Measurements: Bhasker Rao, Former Director, SAC<br>
+                                    5. Performance of Large Facilities for Antenna and Payload Testing: Chandrakanta Kumar, ISRO
                                 </td>
                             </tr>
                             <tr>
-                                <th scope="row">10.30 -11.00</th>
-                                <td colspan="2"><b>Tea Break</b></td>
-                            </tr>
-                            <tr>
-                                <th scope="row">11.00-12.00</th>
-                                <td>Integration of Antenna on Vehicle/Aircraft/Satellite</td>
+                                <th scope="row">08.30 - 10.30</th>
+                                <td>Heliconia 1 & 2</td>
+                                <td>Hardware</td>
                                 <td>
-                                    Predict the change in antenna characteristics after the platform integration
+                                    1. Safety And Reliability<br>
+                                    2. Reliability-based Failure Prognostics: Mahesh Chandrakanta Kumar, ISRO<br>
+                                    3. Experience of an Engineer: Dr. Rajiv Ranjan, Boeing India<br>
+                                    4. Insight into Antenna Measurements: Bhasker Rao, Former Director, SAC<br>
+                                    5. Performance of Large Facilities for Antenna and Payload Testing: Chandrakanta Kumar, ISRO
                                 </td>
                             </tr>
                             <tr>
-                                <th scope="row">12.00-13.00</th>
-                                <td>Digital Mission Engineering: Communication Link Analysis </td>
+                                <th scope="row">10.30 - 11.00</th>
+                                <td colspan="3"><b>Tea/Coffee/Networking</b></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">11.00 - 13.00</th>
+                                <td>Amaryllis & Petunia</td>
+                                <td>Ansys</td>
                                 <td>
-                                    How ground station to aircraft communication link changes while objects are moving
-                                    (using STK)
+                                    1. Create Physics Embedded Software Advances based High-Fidelity Test and Integration<br>
+                                    2. A Measurement Space Mission Platform-Based Approach to Technologies Hands-on Using Simulation: Mr. Nijas Kunju & Space Applications: Mr. Sadanand Bhatt, Anritsu<br>
+                                    3. Gen3 VST for Radar and Satellite system Validation: Mr. Sharath Halneer<br>
+                                    4. Modernise Your Approach to LRU Hardware-in-the-Loop Testing: Mr. Tarun Gupta, NI India<br>
+                                    5. Building Scalable Systems Integration Automated Test Equipment (ATE): Mr. Tarun Gupta, NI India
                                 </td>
                             </tr>
                             <tr>
-                                <th scope="row">13.00 -14.00</th>
-                                <td colspan="2"><b>Lunch Break</b></td>
-                            </tr>
-                            <tr>
-                                <th scope="row">14.00-15.00</th>
-                                <td>Radar Cross Section using Ansys HFSS</td>
+                                <th scope="row">11.00 - 13.00</th>
+                                <td>Poinsettia 1 & 2</td>
+                                <td>Software</td>
                                 <td>
-                                    Mono-static, Bi-statics, Range Profile, ISAR imaging
+                                    1. Create Physics Embedded Software Advances based High-Fidelity Test and Integration<br>
+                                    2. A Measurement Space Mission Platform-Based Approach to Technologies Hands-on Using Simulation: Mr. Nijas Kunju & Space Applications: Mr. Sadanand Bhatt, Anritsu<br>
+                                    3. Gen3 VST for Radar and Satellite system Validation: Mr. Sharath Halneer<br>
+                                    4. Modernise Your Approach to LRU Hardware-in-the-Loop Testing: Mr. Tarun Gupta, NI India<br>
+                                    5. Building Scalable Systems Integration Automated Test Equipment (ATE): Mr. Tarun Gupta, NI India
                                 </td>
                             </tr>
                             <tr>
-                                <th scope="row">15.00-16.00</th>
-                                <td>Pulsed & FMCW Radar Simulation</td>
+                                <th scope="row">11.00 - 13.00</th>
+                                <td>Heliconia 1 & 2</td>
+                                <td>Integration</td>
                                 <td>
-                                    Doppler and Micro Doppler Extraction for Automotive and Drone application
+                                    1. Create Physics Embedded Software Advances based High-Fidelity Test and Integration<br>
+                                    2. A Measurement Space Mission Platform-Based Approach to Technologies Hands-on Using Simulation: Mr. Nijas Kunju & Space Applications: Mr. Sadanand Bhatt, Anritsu<br>
+                                    3. Gen3 VST for Radar and Satellite system Validation: Mr. Sharath Halneer<br>
+                                    4. Modernise Your Approach to LRU Hardware-in-the-Loop Testing: Mr. Tarun Gupta, NI India<br>
+                                    5. Building Scalable Systems Integration Automated Test Equipment (ATE): Mr. Tarun Gupta, NI India
                                 </td>
                             </tr>
                             <tr>
-                                <th scope="row">16.00 -16.30</th>
-                                <td colspan="2"><b>Tea Break</b></td>
+                                <th scope="row">13.00 - 14.00</th>
+                                <td colspan="3"><b>Lunch/Networking</b></td>
                             </tr>
                             <tr>
-                                <th scope="row">16.30-17.30</th>
-                                <td>Digital Mission Engineering: Radar </td>
+                                <th scope="row">14.00 - 16.00</th>
+                                <td>Amaryllis & Petunia</td>
+                                <td>Reliability and Quality Assurance</td>
                                 <td>
-                                    Detection targets while there are in motion
+                                    1. Design for Spacecraft Systems: Shri. PJVKS Prakash Rao, Former Director, SIPO, ISRO HQ<br>
+                                    2. Mastering VLSI RTL Basics: Hariprasad Bhat, Lekha Wireless<br>
+                                    3. Basics of Spacecraft Antennas and their Design: Dr. V K Lakshmeesha, Former Outstanding Scientist, ISRO
                                 </td>
+                            </tr>
+                            <tr>
+                                <th scope="row">14.00 - 16.00</th>
+                                <td>Poinsettia 1 & 2</td>
+                                <td>Design</td>
+                                <td>
+                                    1. Design for Spacecraft Systems: Shri. PJVKS Prakash Rao, Former Director, SIPO, ISRO HQ<br>
+                                    2. Mastering VLSI RTL Basics: Hariprasad Bhat, Lekha Wireless<br>
+                                    3. Basics of Spacecraft Antennas and their Design: Dr. V K Lakshmeesha, Former Outstanding Scientist, ISRO
+                                </td>
+                            </tr>
+                            <tr>
+                                <th scope="row">14.00 - 16.00</th>
+                                <td>Heliconia 1 & 2</td>
+                                <td>VLSI</td>
+                                <td>
+                                    1. Design for Spacecraft Systems: Shri. PJVKS Prakash Rao, Former Director, SIPO, ISRO HQ<br>
+                                    2. Mastering VLSI RTL Basics: Hariprasad Bhat, Lekha Wireless<br>
+                                    3. Basics of Spacecraft Antennas and their Design: Dr. V K Lakshmeesha, Former Outstanding Scientist, ISRO
+                                </td>
+                            </tr>
+                            <tr>
+                                <th scope="row">16.00 - 16.30</th>
+                                <td colspan="3"><b>Tea/Coffee/Networking</b></td>
                             </tr>
                         </tbody>
                     </table>
                 </div>
+            </div>
+        </div>
+    </section>
+    <!-- end course section -->
 
-
+    <section class="client_section layout_padding-bottom">
+        <div class="container ">
+            <div class="heading_container heading_center">
+                <h2 style="text-align: center;">
+                    Industry Associations
+                </h2>
+            </div>
+            <div class="client_container layout_padding2">
+                <div class="client_box b-1">
+                    <div class="client_id">
+                        <img src="images/client.png" alt="" />
+                    </div>
+                    <div class="client_name">
+                        <h5>
+                            Industry Expert
+                        </h5>
+                    </div>
+                </div>
+                <div class="client_box b-2">
+                    <div class="client_id">
+                        <img src="images/client.png" alt="" />
+                    </div>
+                    <div class="client_name">
+                        <h5>
+                            Industry Expert
+                        </h5>
+                    </div>
+                </div>
+                <div class="client_box b-3">
+                    <div class="client_id">
+                        <img src="images/client.png" alt="" />
+                    </div>
+                    <div class="client_name">
+                        <h5>
+                            Industry Expert
+                        </h5>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
 
-    <!-- end course section -->
-
-
-
-    <!-- sponsors section -->
-
-    <?php include 'sponsors.php'; ?>
-
-    <!-- end sponsprs section -->
-
-    <div class="bottom_bg">
-        <!-- info section -->
-        <section class="info_section ">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 mx-auto">
-                        <hr>
-                    </div>
+    <section class="info_section layout_padding">
+        <div class="container">
+            <div class="info_social">
+                <div>
+                    <a href="">
+                        <img src="images/facebook-logo-button.png" alt="">
+                    </a>
                 </div>
-                <div class="info_box ">
-                    <div class="col-md-2">
-                        <div class="row">
-                            <img src="./images/MAPCON-LOGO.png" width="200px">
-                        </div>
-                        <div class="row">
-                            <div class="social_box">
-                                <a href="https://m.facebook.com/IEEEMAPCON/" target="_blank">
-                                    <i class="fa fa-facebook" aria-hidden="true"></i>
-                                </a>
-                                <a href="https://twitter.com/ieeemapcon?lang=en" target="_blank">
-                                    <i class="fa fa-twitter" aria-hidden="true"></i>
-                                </a>
-                                <a href="https://www.linkedin.com/in/ieee-space-1859532bb/"
-                                    target="_blank">
-                                    <i class="fa fa-linkedin" aria-hidden="true"></i>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3">
-                        <h3 class="f-header">Connect With IEEE</h3>
-                        <ul>
-                            <li class="f-links"><a
-                                    href="https://ieee.taleo.net/careersection/2/jobsearch.ftl?utm_source=mf&utm_campaign=taleo-jobs&utm_medium=footer&utm_term=taleo-jobs%20at%20ieee">Careers
-                                    at IEEE</a></li>
-                            <li class="f-links"><a href="https://ieee-aess.org/">IEEE AESS</a></li>
-              <li class="f-links"><a href="https://ieeeaps.org/">IEEE APS</a></li>
-                            <li class="f-links"><a href="https://mtt.org/">IEEE MTT-S</a></li>
-                            <li class="f-links"><a href="https://aps-mtts.ieeebangalore.org/">AP/MTT Joint Bangalore
-                                    Chapter</a></li>
-                            <li class="f-links"><a href="https://iln.ieee.org/public/TrainingCatalog.aspx">IEEE Learning
-                                    Network</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col-md-3">
-                        <h3 class="f-header">Membership</h3>
-                        <ul>
-                            <li class="f-links"><a
-                                    href="https://www.ieee.org/membership/join/index.php?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=join">Join</a>
-                            </li>
-                            <li class="f-links"><a
-                                    href="https://www.ieee.org/membership/renew.php?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=renew">Renew</a>
-                            </li>
-                            <li class="f-links"><a
-                                    href="https://www.ieee.org/membership/benefits/index.php">Benefits</a></li>
-                            <li class="f-links"><a
-                                    href="https://ieee-collabratec.ieee.org/?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=collabratec-membership-list">IEEE
-                                    Collabratec</a></li>
-                            <li class="f-links"><a href="https://ieeebangalore.org/guide-to-join-ieee/">Guide to Join
-                                    IEEE</a></li>
-                        </ul>
-                    </div>
-                    <div class="col-md-3">
-                        <h3 class="f-header">Quick Links</h3>
-                        <ul>
-                            <li class="f-links"><a href="https://ieeespace.org/">Home</a></li>
-                            <li class="f-links"><a href="https://ieeespace.org/organizing-committee/">Organizing
-                                    Committee</a></li>
-                            <li class="f-links"><a href="https://ieeespace.org/call-for-papers/">Call For Papers</a>
-                            </li>
-                            <li class="f-links"><a href="https://ieeespace.org/sponsorship.php">Sponsorship</a></li>
-                            <li class="f-links"><a href="https://ieeespace.org/awards.php">Awards</a></li>
-                        </ul>
-                    </div>
-                    <div class="col-md-2">
-                        <h3 class="f-header">Contact Info</h3>
-                        <div class="detail_box">
-                            <a href="https://ieeespace.org/contact.php" class="button-con">
-                                Contact and Support
-                            </a>
-                        </div>
-                    </div>
-
+                <div>
+                    <a href="">
+                        <img src="images/twitter-logo-button.png" alt="">
+                    </a>
+                </div>
+                <div>
+                    <a href="">
+                        <img src="images/linkedin.png" alt="">
+                    </a>
+                </div>
+                <div>
+                    <a href="">
+                        <img src="images/instagram.png" alt="">
+                    </a>
                 </div>
             </div>
-        </section>
-        <!-- end info_section -->
-
-    </div>
-    <!-- footer section -->
-    <footer class="footer_section">
-        <div class="container">
-            <div class="footer_box">
+            <div>
                 <p>
-          Powered by & Copyright &copy; 2024 SPACE2024
-        </p>
+                    &copy; <span id="displayYear"></span> All Rights Reserved By <a href="https://html.design/">Free Html Templates</a>
+                </p>
             </div>
         </div>
-    </footer>
+    </section>
+    <!-- info section -->
     <!-- footer section -->
-
-    <!-- jQery -->
-    <script src="js/jquery-3.4.1.min.js"></script>
-    <!-- bootstrap js -->
-    <script src="js/bootstrap.js"></script>
-    <!-- custom js -->
-    <script src="js/custom.js"></script>
-    <!-- Google Map -->
-    <script
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCh39n5U-4IoWpsVGUHWdqB6puEkhRLdmI&callback=myMap"></script>
-    <!-- End Google Map -->
-
+    <section class="container-fluid footer_section">
+        <div class="container">
+            <p>
+                &copy; <span id="displayYear"></span> All Rights Reserved By <a href="https://html.design/">Free Html Templates</a>
+            </p>
+        </div>
+    </section>
+    <!-- footer section -->
+    <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.js"></script>
+    <script type="text/javascript" src="js/slick.min.js"></script>
+    <script type="text/javascript" src="js/custom.js"></script>
 </body>
-
 </html>
