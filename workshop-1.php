@@ -115,7 +115,7 @@
                                     AI & Reliability Applications in Aerospace<br>
                                     1. Safety And Reliability Requirements for Airworthy Hardware: Rajiv Ranjan<br>
                                     2. Reliability-based Failure Prognostics: Mahesh Purushothaman<br>
-                                    3. Generative AI for Aircraft Maintenance: Bhasker Rao, Boeing India
+                                    3. Next-Gen Reliability: Predictive Maintenance in the Industry 4.0 Era: Partha Adhikari
                                 </td>
                                 <td>
                                     Antenna Measurements<br>
