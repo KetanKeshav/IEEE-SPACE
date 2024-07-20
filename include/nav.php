@@ -31,6 +31,7 @@
                         Program
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="../downloads/SPACE 2024.pdf" download>SPACE Program Booklet</a>
                         <a class="dropdown-item" href="../downloads/SPACE-Pre Conference Workshop Details.pdf" download>Pre Conference Workshop Program Schedule</a>
                         <a class="dropdown-item" href="../downloads/SPACE PROGRAM 2024 - 7July24.pdf" download>Conference Program Schedule</a>
                         <a class="dropdown-item" href="../downloads/IEEE SPACE-Contributory Paper Details.pdf" download>Contributory Paper Schedule</a>
