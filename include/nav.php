@@ -4,7 +4,6 @@
             SPACE 2024
         </span>
     </a>
-    </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class=""> </span>
     </button>
@@ -36,6 +35,7 @@
                         <a class="dropdown-item" href="../downloads/SPACE PROGRAM 2024 - 7July24.pdf" download>Conference Program Schedule</a>
                         <a class="dropdown-item" href="../downloads/IEEE SPACE-Contributory Paper Details.pdf" download>Contributory Paper Schedule</a>
                         <a class="dropdown-item <?php if($page== "program") echo "active"?>" href="../program.php">Conference Program Detailed Schedule</a>
+                        <a class="dropdown-item" href="https://edas.info/getZip.php?c=32329&which=ap&key=29f7ec2f93c1263037d057692378ab8e">Download Conference Proceedings</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown <?php if($page== "awards" || $page== "cfa" || $page== "paper-submission" || $page== "important-dates") echo "active"?>">

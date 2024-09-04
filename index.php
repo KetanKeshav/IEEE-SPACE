@@ -38,7 +38,7 @@
   <div class="hero_area">
     <!-- header section strats -->
     <header class="header_section">
-      <marquee style="color: white; font-size: 20px;">Notification of Acceptance and Rejection is sent to Corresponding Authors. Please check your mail for more details.</marquee>
+      <marquee style="color: white; font-size: 20px;">Download IEEE SPACE 2024 Conference Proceedings.</marquee>
       <div class="container-fluid">
         <?php include 'include/navbar.php' ?>
       </div>
