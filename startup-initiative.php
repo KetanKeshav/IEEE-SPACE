@@ -12,7 +12,7 @@
     <meta name="description" content="" />
     <meta name="author" content="" />
 
-    <title>Register | SPACE 2024</title>
+    <title>Register | SPACE 2025</title>
 
     <link rel="shortcut icon" href="./images/favicon.ico" type="">
 
@@ -43,7 +43,7 @@
                 <!-- <nav class="navbar navbar-expand-lg custom_nav-container ">
                     <a class="navbar-brand" href="index.php">
                         <span>
-                            SPACE 2024
+                            SPACE 2025
                         </span>
                     </a>
                     </a>
@@ -192,7 +192,7 @@
                         7. Start Up with Maximum Delegate Registration will be invited to be part of Panel Discussion on
                         "Unlocking of Space and Defence sector and opportunities for RF and Microwave startups and
                         established players"<br>
-                        8. Last Date to Apply : Nov 30, 2024<br>
+                        8. Last Date to Apply : Nov 30, 2025<br>
                     </p>
                 </div>
                 <center>
@@ -311,8 +311,8 @@
             <div class="container">
                 <div class="footer_box">
                     <p>
-                        Copyright &copy; 2024 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference |
-                        Powered by SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference
+                        Copyright &copy; 2025 SPACE2025 - IEEE Microwaves, Antennas and Propagation Conference |
+                        Powered by SPACE2025 - IEEE Microwaves, Antennas and Propagation Conference
                     </p>
                 </div>
             </div>

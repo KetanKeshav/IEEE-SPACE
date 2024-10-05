@@ -12,7 +12,7 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>Accommodation | SPACE 2024</title>
+  <title>Accommodation | SPACE 2025</title>
 
   <link rel="shortcut icon" href="./images/favicon.ico" type="">
 
@@ -272,7 +272,7 @@
   <footer class="footer_section">
     <div class="container">
       <div class="footer_box">
-        <p>Powered by and Copyright &copy; IEEESPACE2024 - IEEE Aerospace and Electronic Systems Society (AESS) and IEEE Microwaves, Antennas and Propagation Conference</p>
+        <p>Powered by and Copyright &copy; IEEESPACE2025 - IEEE Aerospace and Electronic Systems Society (AESS) and IEEE Microwaves, Antennas and Propagation Conference</p>
       </div>
     </div>
   </footer>

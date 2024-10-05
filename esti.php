@@ -11,7 +11,7 @@
     <meta name="keywords" content="" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Workshop on Embedded Software Test and Integration | SPACE 2024</title>
+    <title>Workshop on Embedded Software Test and Integration | SPACE 2025</title>
     <link rel="shortcut icon" href="./images/favicon.ico" type="">
 
     <!-- bootstrap core css -->
@@ -45,7 +45,7 @@
                     Workshop on <span>Embedded Software Test and Integration</span>
                 </h2><br>
                 <h3>Speakers: Mr. Karthik SP, Mr. Sharath Halneer, Mr. Tarun Gupta</h3>
-                <p style="text-align: center;">July 21, 2024 (11.00-13.00 Hrs)</p>
+                <p style="text-align: center;">July 21, 2025 (11.00-13.00 Hrs)</p>
             </div>
             <div class="cfa_heading">
                 <table class="table table-bordered">
@@ -101,8 +101,8 @@
         <div class="container">
             <div class="footer_box">
                 <p>
-                    Copyright &copy; 2024 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference |
-                    Powered by SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference
+                    Copyright &copy; 2025 SPACE2025 - IEEE Microwaves, Antennas and Propagation Conference |
+                    Powered by SPACE2025 - IEEE Microwaves, Antennas and Propagation Conference
                 </p>
             </div>
         </div>

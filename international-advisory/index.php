@@ -12,7 +12,7 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>International Advisory Committeee | Space 2024</title>
+  <title>International Advisory Committeee | Space 2025</title>
 
   <link rel="shortcut icon" href="../images/favicon.ico" type="">
 
@@ -218,7 +218,7 @@
                 </center>
                 <div class="card-body">
                 <h4 class="card-title">Prof. Sabrina Greco</h4>
-                <p class="card-text">2024-2025 IEEE AESS President</p>
+                <p class="card-text">2025-2025 IEEE AESS President</p>
                 </div>
         </div>
         
@@ -240,7 +240,7 @@
                 </center>
                 <div class="card-body">
                   <h4 class="card-title">Prof. Maurizio Bozzi</h4>
-                  <p class="card-text">2024 President, IEEE MTT-S</p>
+                  <p class="card-text">2025 President, IEEE MTT-S</p>
                 </div>
           </div>
         <div class="card col-lg-4 col-md-4 col-sm-6">
@@ -586,7 +586,7 @@
                 </center>
                 <div class="card-body">
                   <h4 class="card-title">Branislav M. Notaros</h4>
-                  <p class="card-text">2024, President, IEEE AP-S</p>
+                  <p class="card-text">2025, President, IEEE AP-S</p>
                 </div>
           </div>
         </div>  
@@ -719,7 +719,7 @@
     <div class="container">
       <div class="footer_box">
         <p>
-        Powered by & Copyright &copy; 2024 SPACE2024
+        Powered by & Copyright &copy; 2025 SPACE2025
         </p>
       </div>
     </div>

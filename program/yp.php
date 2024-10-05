@@ -13,7 +13,7 @@
     <meta name="description" content="" />
     <meta name="author" content="" />
 
-    <title>YP Activities | SPACE 2024</title>
+    <title>YP Activities | SPACE 2025</title>
 
     <link rel="shortcut icon" href="../images/favicon.ico" type="">
 
@@ -200,7 +200,7 @@
         <div class="container">
             <div class="footer_box">
                 <p>
-          Powered by & Copyright &copy; 2024 SPACE2024
+          Powered by & Copyright &copy; 2025 SPACE2025
         </p>
             </div>
         </div>

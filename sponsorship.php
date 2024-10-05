@@ -12,7 +12,7 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>Sponsorship | SPACE 2024</title>
+  <title>Sponsorship | SPACE 2025</title>
 
   <link rel="shortcut icon" href="./images/favicon.ico" type="">
 
@@ -43,7 +43,7 @@
         <!-- <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="index.php">
             <span>
-              SPACE 2024
+              SPACE 2025
             </span>
           </a>
 
@@ -167,9 +167,9 @@
           Welcome <span>Message</span>
         </h2><br>
         <p style="text-align: left;">
-        On behalf of the executive committee of SPACE 2024, it is my great pleasure to invite you to be a valued sponsor at the event. SPACE offers multiple levels of sponsorship and exhibitor opportunities to promote your organization to this influential audience.
+        On behalf of the executive committee of SPACE 2025, it is my great pleasure to invite you to be a valued sponsor at the event. SPACE offers multiple levels of sponsorship and exhibitor opportunities to promote your organization to this influential audience.
         We would like you to sponsor this event as a Diamond/Platinum/Gold/Silver/Bronze sponsor. The details for the same are contained in the attached document.
-        Looking forward to see you in the SPACE 2024, at Bangalore.
+        Looking forward to see you in the SPACE 2025, at Bangalore.
         </p>
       </div>
     </div>
@@ -371,7 +371,7 @@
   <footer class="footer_section">
     <div class="container">
       <div class="footer_box">
-        <p>Powered by and Copyright &copy; IEEESPACE2024 - IEEE Aerospace and Electronic Systems Society (AESS) and IEEE Microwaves, Antennas and Propagation Conference</p>
+        <p>Powered by and Copyright &copy; IEEESPACE2025 - IEEE Aerospace and Electronic Systems Society (AESS) and IEEE Microwaves, Antennas and Propagation Conference</p>
       </div>
     </div>
   </footer>

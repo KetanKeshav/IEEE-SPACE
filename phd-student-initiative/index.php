@@ -12,7 +12,7 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>PhD Student Initiative Program | SPACE 2024</title>
+  <title>PhD Student Initiative Program | SPACE 2025</title>
 
   <link rel="shortcut icon" href="../images/favicon.ico" type="">
 
@@ -43,7 +43,7 @@
         <!-- <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="index.php">
             <span>
-              SPACE 2024
+              SPACE 2025
             </span>
           </a>
           </a>
@@ -153,7 +153,7 @@
     <div class="container">
       <div class="heading_container heading_center">
         <h2 style="text-align: center;">
-          PhD Student Initiative Program - <span>SPACE 2024</span>
+          PhD Student Initiative Program - <span>SPACE 2025</span>
         </h2><br>
       </div>
       <div class="cfa_heading">
@@ -205,7 +205,7 @@
                 <br>(d) one product from the exhibition. Maximum length of the report should be of 10 slides.
               </li>
               <li>
-                Last Date to apply: September 15, 2024
+                Last Date to apply: September 15, 2025
               </li>
             </ul>
           </li>
@@ -361,7 +361,7 @@
   <footer class="footer_section">
     <div class="container">
       <div class="footer_box">
-        <p>Powered by and Copyright &copy; IEEESPACE2024 - IEEE Aerospace and Electronic Systems Society (AESS) and IEEE Microwaves, Antennas and Propagation Conference</p>
+        <p>Powered by and Copyright &copy; IEEESPACE2025 - IEEE Aerospace and Electronic Systems Society (AESS) and IEEE Microwaves, Antennas and Propagation Conference</p>
       </div>
     </div>
   </footer>

@@ -13,7 +13,7 @@
     <meta name="description" content="" />
     <meta name="author" content="" />
 
-    <title>Keynotes | SPACE 2024</title>
+    <title>Keynotes | SPACE 2025</title>
 
     <link rel="shortcut icon" href="../images/favicon.ico" type="">
 
@@ -58,7 +58,7 @@
                 </h2><br>
                 <h3>
                     Rashaunda Henderson, Professor, University of Texas at Dallas, Richardson TX
-                    <br>Dec 13, 2024, GBR-1, 13.30-14.00 Hrs
+                    <br>Dec 13, 2025, GBR-1, 13.30-14.00 Hrs
                 </h3>
                 <div class="container  ">
                     <div class="row">
@@ -78,7 +78,7 @@
                                     </div>
                                 </center>
                                 <p style="text-align: justify;">
-                                    Rashaunda M. Henderson received the BSEE degree from Tuskegee University in 1992 and the MS and PhD degrees, also in electrical engineering, from The University of Michigan, Ann Arbor, in 1994 and 1999, respectively. She joined Motorola Semiconductor Product Sector in Tempe, AZ and worked as a research and development device engineer focusing on passive circuits integration in the microwave and mixed-signal technology labs for wireless embedded systems. She joined The University of Texas at Dallas in 2007 as an Assistant Professor in the Erik Jonsson School of Engineering and Computer Science. She is now a Professor in the Electrical and Computer Engineering Department and Interim co-Department Head. Dr. Henderson is co-founder of the High Frequency Circuits and Systems Laboratory, which facilitates millimeter-wave design and development of components, circuits and integrated packages and antennas for wireless communication systems. She has co-authored more than 100 journal and conference papers focusing on packaging and integration for high frequency applications. Dr. Henderson is a Senior Member of the IEEE and the 2024 President of the IEEE Microwave Theory and Technology Society (MTT-S) Administrative Committee. She is passionate about educating the next generation student and encouraging them to seek careers in science, technology, engineering and mathematics.
+                                    Rashaunda M. Henderson received the BSEE degree from Tuskegee University in 1992 and the MS and PhD degrees, also in electrical engineering, from The University of Michigan, Ann Arbor, in 1994 and 1999, respectively. She joined Motorola Semiconductor Product Sector in Tempe, AZ and worked as a research and development device engineer focusing on passive circuits integration in the microwave and mixed-signal technology labs for wireless embedded systems. She joined The University of Texas at Dallas in 2007 as an Assistant Professor in the Erik Jonsson School of Engineering and Computer Science. She is now a Professor in the Electrical and Computer Engineering Department and Interim co-Department Head. Dr. Henderson is co-founder of the High Frequency Circuits and Systems Laboratory, which facilitates millimeter-wave design and development of components, circuits and integrated packages and antennas for wireless communication systems. She has co-authored more than 100 journal and conference papers focusing on packaging and integration for high frequency applications. Dr. Henderson is a Senior Member of the IEEE and the 2025 President of the IEEE Microwave Theory and Technology Society (MTT-S) Administrative Committee. She is passionate about educating the next generation student and encouraging them to seek careers in science, technology, engineering and mathematics.
                                 </p>
                             </div>
                         </div>
@@ -94,7 +94,7 @@
                 A New Generation of <span>Metasurface Antennas </span>
             </h2><br>
             <h3>
-                <br>Prof. Stefano Maci, University of Siena, 2023 President IEEE AP-S Dec 13, 2024, GBR-1, 14.00-14.30 Hrs
+                <br>Prof. Stefano Maci, University of Siena, 2023 President IEEE AP-S Dec 13, 2025, GBR-1, 14.00-14.30 Hrs
             </h3>
             <div class="container  ">
                 <div class="row">
@@ -114,7 +114,7 @@
                                 </div>
                             </center>
                             <p style="text-align: justify;">
-                                Stefano MACI is a Professor at the University of Siena since 97. The research interest of Prof Maci includes high-frequency and beam representation methods, computational electromagnetics, large phased arrays, planar antennas, reflector antennas and feeds, metamaterials and metasurfaces. Since 2000, he was member the Technical Advisory Board of 13 international conferences and member of the Review Board of 6 International Journals. In 2004 he was the founder of the European School of Antennas (ESoA), a post graduate school that presently comprises 34 courses on Antennas, Propagation, Electromagnetic Theory, and Computational Electromagnetics and 150 teachers coming from 15 countries. Since 2004 is the Director of ESoA. Since 2010 he has been Principal Investigator of 6 cooperative projects financed by European Space Agency. Professor Maci has been a former member of the AdCom of IEEE Antennas and Propagation Society (AP-S), associate editor of AP-Transaction, Chair of the Award Committee of IEEE AP-S, and member of the Board of Directors of the European Association on Antennas and Propagation (EurAAP). From 2008 to 2015 he has been Director of the PhD program in Information Engineering and Mathematics of University of Siena, and from 2013 to 2015 he was member of the first National Italian Committee for Qualification to Professor. He founded and has been former Director of the consortium FORESEEN, involving 48 European Institutions. He was the principal investigator of the Future Emerging Technology project “Nanoarchitectronics” of the 8 th EU Framework program, and he is presently principal investigator of the EU program “Metamask”. He was co-founder of 2 Spin-off Companies. He has been a Distinguished Lecturer of the IEEE Antennas and Propagation Society (AP-S), and EuRAAP distinguished lecturer in the ambassador program. He was recipient of the EurAAP Award in 2014, of the IEEE Schelkunoff Transaction Prize in 2016, of the Chen-To Tai Distinguished Educator award in 2016, and of the URSI Dellinger Gold Medal in 2020. He is President Elect of the IEEE Antennas and Propagation Society 2024. His research activity is documented in 180 papers published in international journals, (among which 100 on IEEE journals), 10 book chapters, and about 450 papers in proceedings of international conferences. The papers he coauthored have been cited about 9000 times (h index 50, source: Google Scholar).
+                                Stefano MACI is a Professor at the University of Siena since 97. The research interest of Prof Maci includes high-frequency and beam representation methods, computational electromagnetics, large phased arrays, planar antennas, reflector antennas and feeds, metamaterials and metasurfaces. Since 2000, he was member the Technical Advisory Board of 13 international conferences and member of the Review Board of 6 International Journals. In 2004 he was the founder of the European School of Antennas (ESoA), a post graduate school that presently comprises 34 courses on Antennas, Propagation, Electromagnetic Theory, and Computational Electromagnetics and 150 teachers coming from 15 countries. Since 2004 is the Director of ESoA. Since 2010 he has been Principal Investigator of 6 cooperative projects financed by European Space Agency. Professor Maci has been a former member of the AdCom of IEEE Antennas and Propagation Society (AP-S), associate editor of AP-Transaction, Chair of the Award Committee of IEEE AP-S, and member of the Board of Directors of the European Association on Antennas and Propagation (EurAAP). From 2008 to 2015 he has been Director of the PhD program in Information Engineering and Mathematics of University of Siena, and from 2013 to 2015 he was member of the first National Italian Committee for Qualification to Professor. He founded and has been former Director of the consortium FORESEEN, involving 48 European Institutions. He was the principal investigator of the Future Emerging Technology project “Nanoarchitectronics” of the 8 th EU Framework program, and he is presently principal investigator of the EU program “Metamask”. He was co-founder of 2 Spin-off Companies. He has been a Distinguished Lecturer of the IEEE Antennas and Propagation Society (AP-S), and EuRAAP distinguished lecturer in the ambassador program. He was recipient of the EurAAP Award in 2014, of the IEEE Schelkunoff Transaction Prize in 2016, of the Chen-To Tai Distinguished Educator award in 2016, and of the URSI Dellinger Gold Medal in 2020. He is President Elect of the IEEE Antennas and Propagation Society 2025. His research activity is documented in 180 papers published in international journals, (among which 100 on IEEE journals), 10 book chapters, and about 450 papers in proceedings of international conferences. The papers he coauthored have been cited about 9000 times (h index 50, source: Google Scholar).
                             </p>
                         </div>
                     </div>
@@ -131,7 +131,7 @@
             </h2><br>
             <h3>
                 Dr. Rajlakshmi Menon, Director, CABS/DRDO
-                <br>Dec 13, 2024, GBR-1, 14.30-15.00 Hrs
+                <br>Dec 13, 2025, GBR-1, 14.30-15.00 Hrs
             </h3>
             <div class="container  ">
                 <div class="row">
@@ -168,7 +168,7 @@
             </h2><br>
             <h3>
                 Yashwant Gupta, Centre Director, National Centre for Radio Astrophysics, Pune
-                <br>Dec 13, 2024, GBR-1, 15.00-15.30 Hrs
+                <br>Dec 13, 2025, GBR-1, 15.00-15.30 Hrs
             </h3>
             <div class="container  ">
                 <div class="row">
@@ -188,7 +188,7 @@
                                 </div>
                             </center>
                             <p style="text-align: justify;">
-                                Professor Yashwant Gupta presently at the position of Distinguished Professor in the Tata Institute of Fundamental Research (TIFR), heads TIFR's National Centre for Radio Astrophysics, located in Pune, as the Centre Director. He obtained his M.S. and Ph.D. in Radio Astronomy from the University of California, San Diego in 1990, after completing his Bachelor's degree in Electrical Engineering from IIT Kanpur in 1985. Professor Gupta is known for his research on pulsars (which are very rapidly rotating, highly magnetised neutron stars) and the interstellar medium, as well as development of instrumentation and signal processing techniques for radio astronomy. In particular, he has contributed significantly to the building and running of the Giant Metrewave Radio Telescope (GMRT) observatory -- a world class facility located near Pune and operated by NCRA -- right from its conceptualisation to its recent upgrade. He also spearheads India's participation in the Square Kilometre Array (SKA) project -- an international collaborative project to design and build the next generation global radio astronomy facility. He has published more than 175 research articles in international journals, and has also delivered several plenary speeches and keynote addresses in several international and national level meetings. He is a member of several professional bodies: the International Astronomical Union (IAU), the International Union of Radio Science (URSI) and also a Senior Member of the Institute of Electrical and Electronics Engineers (IEEE). He has also been elected to the main national academies of science and engineering in India: INSA and INAE. For his contributions, Prof. Gupta has also been honoured with a number of awards: in 2007, he was awarded the Shanti Swarup Bhatnagar Prize for Science and Technology by the Council of Scientific and Industrial Research, Government of India -- one of the highest Indian science awards, for his contributions to physical sciences. Recently, in 2019, he and his team have been awarded the Zubin Kembhavi Award by the Astronomical Society of India, for the work of the upgrade of GMRT. In 2024, he has been selected for the Murli M. Chugani Memorial Award of the Indian Physics Association, for his achievements in applied physics.
+                                Professor Yashwant Gupta presently at the position of Distinguished Professor in the Tata Institute of Fundamental Research (TIFR), heads TIFR's National Centre for Radio Astrophysics, located in Pune, as the Centre Director. He obtained his M.S. and Ph.D. in Radio Astronomy from the University of California, San Diego in 1990, after completing his Bachelor's degree in Electrical Engineering from IIT Kanpur in 1985. Professor Gupta is known for his research on pulsars (which are very rapidly rotating, highly magnetised neutron stars) and the interstellar medium, as well as development of instrumentation and signal processing techniques for radio astronomy. In particular, he has contributed significantly to the building and running of the Giant Metrewave Radio Telescope (GMRT) observatory -- a world class facility located near Pune and operated by NCRA -- right from its conceptualisation to its recent upgrade. He also spearheads India's participation in the Square Kilometre Array (SKA) project -- an international collaborative project to design and build the next generation global radio astronomy facility. He has published more than 175 research articles in international journals, and has also delivered several plenary speeches and keynote addresses in several international and national level meetings. He is a member of several professional bodies: the International Astronomical Union (IAU), the International Union of Radio Science (URSI) and also a Senior Member of the Institute of Electrical and Electronics Engineers (IEEE). He has also been elected to the main national academies of science and engineering in India: INSA and INAE. For his contributions, Prof. Gupta has also been honoured with a number of awards: in 2007, he was awarded the Shanti Swarup Bhatnagar Prize for Science and Technology by the Council of Scientific and Industrial Research, Government of India -- one of the highest Indian science awards, for his contributions to physical sciences. Recently, in 2019, he and his team have been awarded the Zubin Kembhavi Award by the Astronomical Society of India, for the work of the upgrade of GMRT. In 2025, he has been selected for the Murli M. Chugani Memorial Award of the Indian Physics Association, for his achievements in applied physics.
                             </p>
                         </div>
                     </div>
@@ -205,7 +205,7 @@
             </h2><br>
             <h3>
                 Amir Boag, School of Electrical Engineering, Tel Aviv University, Tel Aviv 69978, Israel
-                <br>Dec 13, 2024, GBR-1, 15.30-16.00 Hrs
+                <br>Dec 13, 2025, GBR-1, 15.30-16.00 Hrs
             </h3>
             <div class="container  ">
                 <div class="row">
@@ -240,7 +240,7 @@
             </h2><br>
             <h3>
                 Dr. Milind Mahajan, GD, ASG, SAC/ISRO Ahmedabad
-                <br>Dec 13, 2024, GBR-1, 16.30-17.00 Hrs
+                <br>Dec 13, 2025, GBR-1, 16.30-17.00 Hrs
             </h3>
             <div class="container  ">
                 <div class="row">
@@ -276,7 +276,7 @@
             </h2><br>
             <h3>
             Prof. John L. Volakis,  Dean, Florida International University Miami, FL 33174
-            <br>Dec 13, 2024, GBR-1, 17.30-18.00 Hrs
+            <br>Dec 13, 2025, GBR-1, 17.30-18.00 Hrs
             </h3>
             <div class="container  ">
                 <div class="row">
@@ -310,7 +310,7 @@
             </h2><br>
             <h3>
                 Lalit Kumar INAE Expert Group MW-TW, CSIR-CEERI, Pilani, India 
-                <br>Dec 13, 2024, GBR-1, 18.00-18.30 Hrs
+                <br>Dec 13, 2025, GBR-1, 18.00-18.30 Hrs
             </h3>
             <div class="container  ">
                 <div class="row">
@@ -344,7 +344,7 @@
             </h2><br>
             <h3>
                 Lalit Kumar INAE Expert Group MW-TW, CSIR-CEERI, Pilani, India 
-                <br>Dec 13, 2024, GBR-1, 18.00-18.30 Hrs
+                <br>Dec 13, 2025, GBR-1, 18.00-18.30 Hrs
             </h3>
             <div class="container  ">
                 <div class="row">
@@ -378,7 +378,7 @@
             </h2><br>
             <h3>
                 Dr. Madhumita Chakravarti, Director, CMSDS, DRDO
-                <br>Dec 15, 2024, GBR-1, 8.30-9.00 Hrs
+                <br>Dec 15, 2025, GBR-1, 8.30-9.00 Hrs
             </h3>
             <div class="container  ">
                 <div class="row">
@@ -413,7 +413,7 @@ state source with appreciable power is attracting attention of researchers due t
             </h2><br>
             <h3>
                 Dr. Nasimuddin, Institute for Infocomm Research, A-STAR, Singapore
-                <br>Dec 15, 2024, GBR-1, 9.00-9.30 Hrs
+                <br>Dec 15, 2025, GBR-1, 9.00-9.30 Hrs
             </h3>
             <div class="container  ">
                 <div class="row">
@@ -447,7 +447,7 @@ state source with appreciable power is attracting attention of researchers due t
             </h2><br>
             <h3>
                 Prof. Debashish Chanda, University of Central Florida, USA
-                <br>Dec 15, 2024, GBR-1, 9.30-10.00 Hrs
+                <br>Dec 15, 2025, GBR-1, 9.30-10.00 Hrs
             </h3>
             <div class="container  ">
                 <div class="row">
@@ -481,7 +481,7 @@ state source with appreciable power is attracting attention of researchers due t
             </h2><br>
             <h3>
                 Giuliano Manara  Dipartimento di Ingegneria dell’Informazione University of Pisa, Pisa, ITALY 
-                <br>Dec 15, 2024, GBR-1, 10.00-10.20 Hrs
+                <br>Dec 15, 2025, GBR-1, 10.00-10.20 Hrs
             </h3>
             <div class="container  ">
                 <div class="row">
@@ -606,7 +606,7 @@ state source with appreciable power is attracting attention of researchers due t
         <div class="container">
             <div class="footer_box">
                 <p>
-          Powered by & Copyright &copy; 2024 SPACE2024
+          Powered by & Copyright &copy; 2025 SPACE2025
         </p>
             </div>
         </div>

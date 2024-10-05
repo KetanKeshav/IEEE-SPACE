@@ -12,7 +12,7 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>3 Minute Thesis Competition | SPACE 2024</title>
+  <title>3 Minute Thesis Competition | SPACE 2025</title>
 
   <link rel="shortcut icon" href="../images/favicon.ico" type="">
 
@@ -43,7 +43,7 @@
         <!-- <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="index.php">
             <span>
-              SPACE 2024
+              SPACE 2025
             </span>
           </a>
           </a>
@@ -159,7 +159,7 @@
       <div class="cfa_heading">
         <!-- <h1>Dear <span>Researcher</span>,</h1> -->
         <p style="text-align: justify;">
-        Are you ready to showcase your groundbreaking research in SPace, Aerospace and defenCE in just three minutes? Introducing the three minute thesis (3 Min) competition at IEEE SPACE 2024 Conference.
+        Are you ready to showcase your groundbreaking research in SPace, Aerospace and defenCE in just three minutes? Introducing the three minute thesis (3 Min) competition at IEEE SPACE 2025 Conference.
         </p>
 
         <p style="text-align: justify;">
@@ -201,11 +201,11 @@
         </p>
 
         <p style="text-align: justify;">
-        <b>Application requirements:</b> Combine all documents into a single PDF file and send it to baisakhi20@ieee.org with cc to ieeespace2024@gmail.com
+        <b>Application requirements:</b> Combine all documents into a single PDF file and send it to baisakhi20@ieee.org with cc to ieeespace2025@gmail.com
         </p>
 
         <p style="text-align: justify;">
-        <b>Selection Process:</b> Upto 40 condidates will be selected to partcipate in the 3 Min thesis competition at IEEE SPACE 2024
+        <b>Selection Process:</b> Upto 40 condidates will be selected to partcipate in the 3 Min thesis competition at IEEE SPACE 2025
         </p>
 
         <p style="text-align: justify;">
@@ -217,7 +217,7 @@
         </p>
         
         <p style="text-align: justify;">
-        <b>Last date for submission:</b> Please send the combined PDF file before 31st May, 2024.
+        <b>Last date for submission:</b> Please send the combined PDF file before 31st May, 2025.
         </p>
 
       </div>
@@ -325,7 +325,7 @@
   <footer class="footer_section">
     <div class="container">
       <div class="footer_box">
-        <p>Powered by and Copyright &copy; IEEESPACE2024 - IEEE Aerospace and Electronic Systems Society (AESS) and IEEE Microwaves, Antennas and Propagation Conference</p>
+        <p>Powered by and Copyright &copy; IEEESPACE2025 - IEEE Aerospace and Electronic Systems Society (AESS) and IEEE Microwaves, Antennas and Propagation Conference</p>
       </div>
     </div>
   </footer>

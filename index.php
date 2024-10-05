@@ -12,7 +12,7 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>SPACE 2024</title>
+  <title>SPACE 2025</title>
 
   <link rel="shortcut icon" href="./images/favicon.ico" type="">
 
@@ -38,7 +38,7 @@
   <div class="hero_area">
     <!-- header section strats -->
     <header class="header_section">
-      <marquee style="color: white; font-size: 20px;">Download IEEE SPACE 2024 Conference Proceedings.</marquee>
+      <marquee style="color: white; font-size: 20px;">Download IEEE SPACE 2025 Conference Proceedings.</marquee>
       <div class="container-fluid">
         <?php include 'include/navbar.php' ?>
       </div>
@@ -255,7 +255,7 @@
                 <video src="images/animation.mp4" style="width: 10%" alt=""></video>
               </div> -->
               <h2>
-                ABOUT <span>SPACE (SPace, Aerospace and defenCE conference)</span> 2024
+                ABOUT <span>SPACE (SPace, Aerospace and defenCE conference)</span> 2025
               </h2>
             </div>
             <p style="font-weight: bold; color:black;font-size: 16px; text-align:justify">
@@ -417,7 +417,7 @@
     <div class="container">
       <div class="footer_box">
         <p>
-          Powered by & Copyright &copy; 2024 SPACE2024
+          Powered by & Copyright &copy; 2025 SPACE2025
         </p>
       </div>
     </div>

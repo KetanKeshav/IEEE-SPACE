@@ -13,7 +13,7 @@
     <meta name="description" content="" />
     <meta name="author" content="" />
 
-    <title>Register | SPACE 2024</title>
+    <title>Register | SPACE 2025</title>
 
     <link rel="shortcut icon" href="./images/favicon.ico" type="">
 
@@ -60,8 +60,8 @@
                             <thead>
                                 <tr>
                                     <th scope="col">Event</th>
-                                    <th scope="col">Workshop (July 21, 2024)</th>
-                                    <th scope="col" colspan="2">Conference (July 22-23, 2024)</th>
+                                    <th scope="col">Workshop (July 21, 2025)</th>
+                                    <th scope="col" colspan="2">Conference (July 22-23, 2025)</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -283,8 +283,8 @@
             <div class="container">
                 <div class="footer_box">
                     <p>
-                        Copyright &copy; 2024 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference |
-                        Powered by SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference
+                        Copyright &copy; 2025 SPACE2025 - IEEE Microwaves, Antennas and Propagation Conference |
+                        Powered by SPACE2025 - IEEE Microwaves, Antennas and Propagation Conference
                     </p>
                 </div>
             </div>

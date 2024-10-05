@@ -12,7 +12,7 @@
     <meta name="description" content="" />
     <meta name="author" content="" />
 
-    <title>Job Opportunities | SPACE 2024</title>
+    <title>Job Opportunities | SPACE 2025</title>
 
     <link rel="shortcut icon" href="../images/favicon.ico" type="">
 
@@ -43,7 +43,7 @@
                 <!-- <nav class="navbar navbar-expand-lg custom_nav-container ">
                     <a class="navbar-brand" href="index.php">
                         <span>
-                            SPACE 2024
+                            SPACE 2025
                         </span>
                     </a>
                     </a>
@@ -176,7 +176,7 @@
         <div class="container">
             <div class="heading_container heading_center">
                 <h2 style="text-align: center;">
-                    Job Opportunities - <span>SPACE 2024</span>
+                    Job Opportunities - <span>SPACE 2025</span>
                     <br>
                 </h2><br>
             </div>
@@ -184,7 +184,7 @@
                 <p style="text-align: justify;">
                     Dear Professor,
                     <br><br>
-                    Greetings from the SPACE 2024 Team! We have created a portal to gather the possible research
+                    Greetings from the SPACE 2025 Team! We have created a portal to gather the possible research
                     and job opportunities (both short term and long term) in RF, Microwave and Antennas domain in India.
                     <br><br>
                     The purpose of this initiative is to promote research and jobs in RF and Microwave field, by
@@ -192,7 +192,7 @@
                     Professionals working in this research domain.
                     <br><br>
                     Please take this opportunity to advertise the openings in your group starting January 2023, by
-                    filling up the following Google form by November 30, 2024: <a href="https://docs.google.com/forms/d/1jbUCUGom-mJwZ94dwxsDOpvWNjBYBN9TOE-7olFUp2Q
+                    filling up the following Google form by November 30, 2025: <a href="https://docs.google.com/forms/d/1jbUCUGom-mJwZ94dwxsDOpvWNjBYBN9TOE-7olFUp2Q
             ">Fill the Form </a>
                     <br><br>
                     We are planning to compile the information and share it with students and YPs during the conference.
@@ -202,9 +202,9 @@
                     Thanks and Best Regards,
                     <br><br>
                     <b>
-                        Debdeep Sarkar (Co-Chair, YP Committee, SPACE 2024)<br>
-                        Somak Bhattacharyya (Co-Chair, YP Committee, SPACE 2024)<br>
-                        Puneet Kumar Mishra (General Chair, SPACE 2024)<br>
+                        Debdeep Sarkar (Co-Chair, YP Committee, SPACE 2025)<br>
+                        Somak Bhattacharyya (Co-Chair, YP Committee, SPACE 2025)<br>
+                        Puneet Kumar Mishra (General Chair, SPACE 2025)<br>
                         Web: https://www.ieeemapcon.org/
                     </b>
 
@@ -334,7 +334,7 @@
         <div class="container">
             <div class="footer_box">
                 <p>
-          Powered by & Copyright &copy; 2024 SPACE2024
+          Powered by & Copyright &copy; 2025 SPACE2025
         </p>
             </div>
         </div>

@@ -13,7 +13,7 @@
     <meta name="description" content="" />
     <meta name="author" content="" />
 
-    <title>WiE Activities | SPACE 2024</title>
+    <title>WiE Activities | SPACE 2025</title>
 
     <link rel="shortcut icon" href="../images/favicon.ico" type="">
 
@@ -56,7 +56,7 @@
                 <h2 style="text-align: center;">
                     PLENARY SESSION - <span>WOMEN IN ELECTROMAGNETICS AND MICROWAVES (WiEM )"</span>
                 </h2><br>
-                December 14, 2024
+                December 14, 2025
                 <div class="container  ">
                     <div class="row">
                         <div class="col-md-12">
@@ -252,7 +252,7 @@
         <div class="container">
             <div class="footer_box">
                 <p>
-          Powered by & Copyright &copy; 2024 SPACE2024
+          Powered by & Copyright &copy; 2025 SPACE2025
         </p>
             </div>
         </div>

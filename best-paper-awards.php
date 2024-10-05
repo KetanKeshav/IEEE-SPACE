@@ -13,7 +13,7 @@
     <meta name="description" content="" />
     <meta name="author" content="" />
 
-    <title>Best Paper Awards | SPACE 2024</title>
+    <title>Best Paper Awards | SPACE 2025</title>
 
     <link rel="shortcut icon" href="./images/favicon.ico" type="">
 
@@ -172,8 +172,8 @@
             <div class="container">
                 <div class="footer_box">
                     <p>
-                        Copyright &copy; 2024 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference |
-                        Powered by SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference
+                        Copyright &copy; 2025 SPACE2025 - IEEE Microwaves, Antennas and Propagation Conference |
+                        Powered by SPACE2025 - IEEE Microwaves, Antennas and Propagation Conference
                     </p>
                 </div>
             </div>

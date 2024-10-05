@@ -13,7 +13,7 @@
     <meta name="description" content="" />
     <meta name="author" content="" />
 
-    <title>Session Chairs | SPACE 2024</title>
+    <title>Session Chairs | SPACE 2025</title>
 
     <link rel="shortcut icon" href="./images/favicon.ico" type="">
 
@@ -44,7 +44,7 @@
                 <!-- <nav class="navbar navbar-expand-lg custom_nav-container ">
                     <a class="navbar-brand" href="index.php">
                         <span>
-                            SPACE 2024
+                            SPACE 2025
                         </span>
                     </a>
                     </a>
@@ -299,8 +299,8 @@
             <div class="container">
                 <div class="footer_box">
                     <p>
-                        Copyright &copy; 2024 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference |
-                        Powered by SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference
+                        Copyright &copy; 2025 SPACE2025 - IEEE Microwaves, Antennas and Propagation Conference |
+                        Powered by SPACE2025 - IEEE Microwaves, Antennas and Propagation Conference
                     </p>
                 </div>
             </div>

@@ -12,7 +12,7 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>Paper Submission | SPACE 2024</title>
+  <title>Paper Submission | SPACE 2025</title>
 
   <link rel="shortcut icon" href="../images/favicon.ico" type="">
 
@@ -42,7 +42,7 @@
         <!-- <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="index.php">
             <span>
-              SPACE 2024
+              SPACE 2025
             </span>
           </a>
           </a>
@@ -166,11 +166,11 @@
             <tbody>
               <!-- <tr>
                 <td>20% Discount</td>
-                <td>May 31, 2024</td>
+                <td>May 31, 2025</td>
               </tr> -->
               <tr>
                 <td>10% Discount</td>
-                <td>April 15, 2024</td>
+                <td>April 15, 2025</td>
               </tr>
             </tbody>
           </table>
@@ -190,25 +190,25 @@
             <tbody>
             <tr>
                 <td><b>Paper Submission start date</b></td>
-                <!-- <td><b style="color: red;"><s>July 31, 2024</s></b> <b>August 31, 2024 (Hard Deadline)</b></td> -->
-                <td><b>April 1, 2024</b></td>
+                <!-- <td><b style="color: red;"><s>July 31, 2025</s></b> <b>August 31, 2025 (Hard Deadline)</b></td> -->
+                <td><b>April 1, 2025</b></td>
               </tr>
               <tr>
               <td><b>Last Date of Paper Submission</b></td>
-              <td><b><s>May 15, 2024</s> May 20, 2024 (Hard Deadline)</b></td>
+              <td><b><s>May 15, 2025</s> May 20, 2025 (Hard Deadline)</b></td>
              </tr>
 
               <tr>
                 <td>Notification of Acceptance</td>
-                <td>June 15, 2024</td>
+                <td>June 15, 2025</td>
               </tr>
               <tr>
                 <td>Last Date of Author Registration</td>
-                <td>June 30, 2024</td>
+                <td>June 30, 2025</td>
               </tr>
               <tr>
                 <td>Last Date of Non-Author Registration</td>
-                <td>July 15, 2024</td>
+                <td>July 15, 2025</td>
               </tr>
             </tbody>
           </table>
@@ -308,7 +308,7 @@
   <footer class="footer_section">
     <div class="container">
       <div class="footer_box">
-        <p>Powered by and Copyright &copy; IEEESPACE2024 - IEEE Aerospace and Electronic Systems Society (AESS) and IEEE Microwaves, Antennas and Propagation Conference</p>
+        <p>Powered by and Copyright &copy; IEEESPACE2025 - IEEE Aerospace and Electronic Systems Society (AESS) and IEEE Microwaves, Antennas and Propagation Conference</p>
       </div>
     </div>
   </footer>

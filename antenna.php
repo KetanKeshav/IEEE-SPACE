@@ -11,7 +11,7 @@
     <meta name="keywords" content="" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Workshop on Antenna Measurements | SPACE 2024</title>
+    <title>Workshop on Antenna Measurements | SPACE 2025</title>
     <link rel="shortcut icon" href="./images/favicon.ico" type="">
 
     <!-- bootstrap core css -->
@@ -44,7 +44,7 @@
                 <h2 style="text-align: center;">
                     Workshop on <span>Antenna Measurements (Sponsored by IEEE AP-S AMTC)</span>
                 </h2><br>
-                <p style="text-align: center;">July 21, 2024 (8.30AM - 4.00PM)</p>
+                <p style="text-align: center;">July 21, 2025 (8.30AM - 4.00PM)</p>
             </div>
             <div class="cfa_heading">
                 <p style="text-align: justify;">
@@ -98,8 +98,8 @@
         <div class="container">
             <div class="footer_box">
                 <p>
-                    Copyright &copy; 2024 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference |
-                    Powered by SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference
+                    Copyright &copy; 2025 SPACE2025 - IEEE Microwaves, Antennas and Propagation Conference |
+                    Powered by SPACE2025 - IEEE Microwaves, Antennas and Propagation Conference
                 </p>
             </div>
         </div>

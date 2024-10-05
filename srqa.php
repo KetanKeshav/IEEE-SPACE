@@ -11,7 +11,7 @@
     <meta name="keywords" content="" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Workshop on Reliability and Quality Assurance for SPACE Systems | SPACE 2024</title>
+    <title>Workshop on Reliability and Quality Assurance for SPACE Systems | SPACE 2025</title>
     <link rel="shortcut icon" href="./images/favicon.ico" type="">
 
     <!-- bootstrap core css -->
@@ -45,7 +45,7 @@
                     Workshop on <span>Reliability and Quality Assurance for SPACE Systems</span>
                 </h2><br>
                 <h3>Shri. PJVKS Prakash Rao, Former Director, SIPO, ISRO HQ</h3>
-                <p style="text-align: center;">July 21, 2024 (2.00PM - 4.00PM)</p>
+                <p style="text-align: center;">July 21, 2025 (2.00PM - 4.00PM)</p>
             </div>
             <div class="cfa_heading">
                 <p style="text-align: justify;">
@@ -67,8 +67,8 @@
         <div class="container">
             <div class="footer_box">
                 <p>
-                    Copyright &copy; 2024 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference |
-                    Powered by SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference
+                    Copyright &copy; 2025 SPACE2025 - IEEE Microwaves, Antennas and Propagation Conference |
+                    Powered by SPACE2025 - IEEE Microwaves, Antennas and Propagation Conference
                 </p>
             </div>
         </div>

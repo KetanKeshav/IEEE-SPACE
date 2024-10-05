@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg custom_nav-container ">
     <a class="navbar-brand" href="index.php">
         <span>
-            SPACE 2024
+            SPACE 2025
         </span>
     </a>
     </a>
@@ -31,9 +31,9 @@
                         Program
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="../downloads/SPACE 2024.pdf" download>SPACE Program Booklet</a>
+                        <a class="dropdown-item" href="../downloads/SPACE 2025.pdf" download>SPACE Program Booklet</a>
                         <a class="dropdown-item" href="../downloads/SPACE-Pre Conference Workshop Details.pdf" download>Pre Conference Workshop Program Schedule</a>
-                        <a class="dropdown-item" href="../downloads/SPACE PROGRAM 2024 - 7July24.pdf" download>Conference Program Schedule</a>
+                        <a class="dropdown-item" href="../downloads/SPACE PROGRAM 2025 - 7July24.pdf" download>Conference Program Schedule</a>
                         <a class="dropdown-item" href="../downloads/IEEE SPACE-Contributory Paper Details.pdf" download>Contributory Paper Schedule</a>
                         <a class="dropdown-item" href="../program.php">Conference Program Detailed Schedule</a>
                         <a class="dropdown-item" href="https://edas.info/getZip.php?c=32329&which=ap&key=29f7ec2f93c1263037d057692378ab8e">Download Conference Proceedings</a>

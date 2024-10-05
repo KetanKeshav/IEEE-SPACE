@@ -12,7 +12,7 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>Call For Papers | SPACE 2024</title>
+  <title>Call For Papers | SPACE 2025</title>
 
   <link rel="shortcut icon" href="../images/favicon.ico" type="">
 
@@ -43,7 +43,7 @@
         <!-- <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="index.php">
             <span>
-              SPACE 2024
+              SPACE 2025
             </span>
           </a>
           </a>
@@ -159,7 +159,7 @@
       <div class="cfa_heading">
         <!-- <h1>Dear <span>Researcher</span>,</h1> -->
         <p style="text-align: justify;">
-        Aim of this compendium is to collect database of already Published/Unpublished Technologies (in the form of Paper/Patents/Internal Technical Reports) which can be used in atleast 2 out of 3 verticals of SPace Aerospace and defenCE. It is to be noted that Papers submitted in this track will NOT be submitted to IEEE Xplore. One need to register and present the work to be included in compendium which will be released during SPACE 2024.
+        Aim of this compendium is to collect database of already Published/Unpublished Technologies (in the form of Paper/Patents/Internal Technical Reports) which can be used in atleast 2 out of 3 verticals of SPace Aerospace and defenCE. It is to be noted that Papers submitted in this track will NOT be submitted to IEEE Xplore. One need to register and present the work to be included in compendium which will be released during SPACE 2025.
         </p>
       </div>
       <center>
@@ -266,7 +266,7 @@
   <footer class="footer_section">
     <div class="container">
       <div class="footer_box">
-        <p>Powered by and Copyright &copy; IEEESPACE2024 - IEEE Aerospace and Electronic Systems Society (AESS) and IEEE Microwaves, Antennas and Propagation Conference</p>
+        <p>Powered by and Copyright &copy; IEEESPACE2025 - IEEE Aerospace and Electronic Systems Society (AESS) and IEEE Microwaves, Antennas and Propagation Conference</p>
       </div>
     </div>
   </footer>

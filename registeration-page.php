@@ -12,7 +12,7 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>Register | SPACE 2024</title>
+  <title>Register | SPACE 2025</title>
 
   <link rel="shortcut icon" href="./images/favicon.ico" type="">
 
@@ -54,7 +54,7 @@
           <h2>
             IEEE <span>SPACE</span> Registration
           </h2>
-          <iframe src="https://in.explara.com/widget-new/space-2024-space-aerospace-and-defence-conference-2024" frameborder="0" style="width:100%;" height="750"></iframe>
+          <iframe src="https://in.explara.com/widget-new/space-2025-space-aerospace-and-defence-conference-2025" frameborder="0" style="width:100%;" height="750"></iframe>
           <div class="table-responsive">
           </div>
         </div>
@@ -160,8 +160,8 @@
       <div class="container">
         <div class="footer_box">
           <p>
-            Copyright &copy; 2024 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference |
-            Powered by SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference
+            Copyright &copy; 2025 SPACE2025 - IEEE Microwaves, Antennas and Propagation Conference |
+            Powered by SPACE2025 - IEEE Microwaves, Antennas and Propagation Conference
           </p>
         </div>
       </div>

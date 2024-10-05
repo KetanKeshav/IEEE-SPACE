@@ -12,7 +12,7 @@
     <meta name="description" content="" />
     <meta name="author" content="" />
 
-    <title>Speakers | SPACE 2024</title>
+    <title>Speakers | SPACE 2025</title>
 
     <link rel="shortcut icon" href="./images/favicon.ico" type="">
 
@@ -125,7 +125,7 @@
             </center>
             <div class="card-body">
                 <h4 class="card-title">Thomas M. Coughlin</h4>
-                <p class="card-text">2024 IEEE President</p>
+                <p class="card-text">2025 IEEE President</p>
             </div>
           </div>
         <div class="card col-lg-4 col-md-4 col-sm-6">
@@ -164,7 +164,7 @@
               </center>
               <div class="card-body">
                     <h4 class="card-title">Prof. Sabrina Greco</h4>
-                    <p class="card-text">2024-2025 IEEE AESS President</p>
+                    <p class="card-text">2025-2025 IEEE AESS President</p>
               </div>
           </div>
           <div class="card col-lg-4 col-md-4 col-sm-6">
@@ -391,7 +391,7 @@
       <div class="container">
         <div class="footer_box">
           <p>
-            Powered by &copy; 2024 SPACE2024
+            Powered by &copy; 2025 SPACE2025
           </p>
         </div>
       </div>

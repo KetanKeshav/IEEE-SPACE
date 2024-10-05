@@ -12,7 +12,7 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>Opportunities for Students | SPACE 2024</title>
+  <title>Opportunities for Students | SPACE 2025</title>
 
   <link rel="shortcut icon" href="../images/favicon.ico" type="">
 
@@ -43,7 +43,7 @@
         <!-- <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="index.php">
             <span>
-              SPACE 2024
+              SPACE 2025
             </span>
           </a>
           </a>
@@ -154,7 +154,7 @@
     <div class="container">
       <div class="heading_container heading_center">
         <h2 style="text-align: center;">
-          Opportunities for Students - <span>SPACE 2024</span>
+          Opportunities for Students - <span>SPACE 2025</span>
           <br>
         </h2><br>
       </div>
@@ -165,8 +165,8 @@
           for students and young professionals beginning from January, 2023. The purpose of this initiative is to
           promote research and job opportunities in RF and Microwave field. Please take this opportunity to advertise
           the incoming openings in your group. The information will be compiled and shared with the registerd students
-          and young professionals delegates during SPACE 2024.
-          Please submit the upcoming openings in your group in the following link by November 30, 2024 -
+          and young professionals delegates during SPACE 2025.
+          Please submit the upcoming openings in your group in the following link by November 30, 2025 -
           Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSehsahqwMf3pAboMXn2E_eH8b3zxUMYjnUtt0GggTgPvSlTeA/viewform?vc=0&c=0&w=1&flr=0" target="_blank">Here</a>
           <br><br>
           Please direct your queries to the organizers at mapcon.yp@gmail.com
@@ -280,7 +280,7 @@
   <footer class="footer_section">
     <div class="container">
       <div class="footer_box">
-        <p>Powered by and Copyright &copy; IEEESPACE2024 - IEEE Aerospace and Electronic Systems Society (AESS) and IEEE Microwaves, Antennas and Propagation Conference</p>
+        <p>Powered by and Copyright &copy; IEEESPACE2025 - IEEE Aerospace and Electronic Systems Society (AESS) and IEEE Microwaves, Antennas and Propagation Conference</p>
       </div>
     </div>
   </footer>

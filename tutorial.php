@@ -12,7 +12,7 @@
     <meta name="description" content="" />
     <meta name="author" content="" />
 
-    <title>Tutorial | SPACE 2024</title>
+    <title>Tutorial | SPACE 2025</title>
 
     <link rel="shortcut icon" href="./images/favicon.ico" type="">
 
@@ -43,7 +43,7 @@
                 <!-- <nav class="navbar navbar-expand-lg custom_nav-container ">
                     <a class="navbar-brand" href="index.php">
                         <span>
-                            SPACE 2024
+                            SPACE 2025
                         </span>
                     </a>
 
@@ -161,7 +161,7 @@
                 <h2 style="text-align: center;">
                     TUTORIAL on <span>Treatment of Some Fundamental Topics</span> in <span>Antenna Theory </span>
                 </h2><br>
-                <h2>Date: Dec 12, 2024, 8.30-17.30 Hall: Bidar</h2>
+                <h2>Date: Dec 12, 2025, 8.30-17.30 Hall: Bidar</h2>
 
                 <div class="table-responsive">
                     <table class="table table-bordered border-primary text-justify">
@@ -246,7 +246,7 @@
                             </tr>
                             <tr>
                                 <th scope="row">14.00-15.00</th>
-                                <td>Electrification - What the future holds for an EMC Engineer? <b>Dr. Vignesh Rajamani, President (2024-2023), IEEE Electromagnetic Compatibility Society</b></td>
+                                <td>Electrification - What the future holds for an EMC Engineer? <b>Dr. Vignesh Rajamani, President (2025-2023), IEEE Electromagnetic Compatibility Society</b></td>
                                 <td>
                                     <p>
                                     Energy is central to nearly every major challenge and opportunity the world faces today, and countries are racing to help mitigate climate change and invest in energy models that are not only clean but sustainable. The transformation of transportation by using batteries as form of energy source is transformative and disruptive, if not existential. The engineering challenges that come along with electrification is huge and the opportunities are even bigger. Making electric components that can operate efficiently while handling the higher voltages and currents and protecting them against Electromagnetic Interference both from the external and internal electromagnetic environment guarantees a bright future for Electromagnetic Compatibility Engineers around the world. This talk will discuss some challenges and most importantly the opportunities that exist in the field of EMI/C when it comes to the future of e-mobility and electrified transportation.
@@ -430,7 +430,7 @@
         <div class="container">
             <div class="footer_box">
                 <p>
-          Powered by & Copyright &copy; 2024 SPACE2024
+          Powered by & Copyright &copy; 2025 SPACE2025
         </p>
             </div>
         </div>

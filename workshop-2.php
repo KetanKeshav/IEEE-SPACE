@@ -12,7 +12,7 @@
     <meta name="description" content="" />
     <meta name="author" content="" />
 
-    <title>Workshop 2 | SPACE 2024</title>
+    <title>Workshop 2 | SPACE 2025</title>
 
     <link rel="shortcut icon" href="./images/favicon.ico" type="">
 
@@ -43,7 +43,7 @@
                 <!-- <nav class="navbar navbar-expand-lg custom_nav-container ">
                     <a class="navbar-brand" href="index.php">
                         <span>
-                            SPACE 2024
+                            SPACE 2025
                         </span>
                     </a>
 
@@ -161,7 +161,7 @@
                 <h2 style="text-align: center;">
                     Workshop-2 on <span>Fundamentals of Antenna Measurements</span>
                 </h2><br>
-                <h2>Date: Dec 12, 2024, 8.30-17.30 Hall: Varuna</h2>
+                <h2>Date: Dec 12, 2025, 8.30-17.30 Hall: Varuna</h2>
 
                 <div class="table-responsive">
                     <table class="table table-bordered border-primary text-justify">
@@ -346,7 +346,7 @@
         <div class="container">
             <div class="footer_box">
                 <p>
-          Powered by & Copyright &copy; 2024 SPACE2024
+          Powered by & Copyright &copy; 2025 SPACE2025
         </p>
             </div>
         </div>

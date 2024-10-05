@@ -12,7 +12,7 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>Best Student Paper Award | SPACE 2024</title>
+  <title>Best Student Paper Award | SPACE 2025</title>
 
   <link rel="shortcut icon" href="../images/favicon.ico" type="">
 
@@ -43,7 +43,7 @@
         <!-- <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="index.php">
             <span>
-              SPACE 2024
+              SPACE 2025
             </span>
           </a>
           </a>
@@ -157,7 +157,7 @@
       <div class="container">
         <div class="heading_container heading_center">
           <h2>
-            <span>Best Student Paper</span> Award - SPACE 2024
+            <span>Best Student Paper</span> Award - SPACE 2025
           </h2>
         </div>
         <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
@@ -168,7 +168,7 @@
             To be eligible for Student Paper Awards:
           <ul>
             <li>
-              First Author should be regular graduate/under graduate student as on December 16, 2024
+              First Author should be regular graduate/under graduate student as on December 16, 2025
             </li>
             <li>
               Paper Presentation should be made by Student Author
@@ -177,7 +177,7 @@
               A Valid Student ID Should be produced for verification
             </li>
             <li>
-              Decision made by SPACE 2024 organizing committee will be final
+              Decision made by SPACE 2025 organizing committee will be final
             </li>
           </ul>
 
@@ -275,7 +275,7 @@
   <footer class="footer_section">
     <div class="container">
       <div class="footer_box">
-        <p>Powered by and Copyright &copy; IEEESPACE2024 - IEEE Aerospace and Electronic Systems Society (AESS) and IEEE Microwaves, Antennas and Propagation Conference</p>
+        <p>Powered by and Copyright &copy; IEEESPACE2025 - IEEE Aerospace and Electronic Systems Society (AESS) and IEEE Microwaves, Antennas and Propagation Conference</p>
       </div>
     </div>
   </footer>

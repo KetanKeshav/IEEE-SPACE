@@ -13,7 +13,7 @@
     <meta name="description" content="" />
     <meta name="author" content="" />
 
-    <title>Program | SPACE 2024</title>
+    <title>Program | SPACE 2025</title>
 
     <link rel="shortcut icon" href="./images/favicon.ico" type="">
 
@@ -59,7 +59,7 @@
           </h2>
           </div>
           <!-- New iframe for the additional link -->
-          <iframe src="https://edas.info/web/ieeespace2024/program.html" frameborder="0" style="width:100%;" height="750"></iframe>
+          <iframe src="https://edas.info/web/ieeespace2025/program.html" frameborder="0" style="width:100%;" height="750"></iframe>
         </div>
       </div>
     </section>
@@ -192,8 +192,8 @@
             <div class="container">
                 <div class="footer_box">
                     <p>
-                        Copyright &copy; 2024 SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference |
-                        Powered by SPACE2024 - IEEE Microwaves, Antennas and Propagation Conference
+                        Copyright &copy; 2025 SPACE2025 - IEEE Microwaves, Antennas and Propagation Conference |
+                        Powered by SPACE2025 - IEEE Microwaves, Antennas and Propagation Conference
                     </p>
                 </div>
             </div>
