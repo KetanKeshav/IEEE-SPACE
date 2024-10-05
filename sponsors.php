@@ -2,12 +2,11 @@
 
   <section class="about_section layout_padding">
       <div class="container">
-      <h2 style="text-align: center;"><span>Title Sponsors</span></h2>
 
-      <!-- <div class="heading_container">
-              <h2 style="text-align: center;"><span>Title Sponsors</span></h2>
-          </div>
-          <div class="row">
+      <div class="heading_container">
+        <h2 style="text-align: center;"><span>Title Sponsors</span></h2>
+      </div>
+      <!--<div class="row">
               <div class="col-md-4 img-box mt-2 mb-2">
                   <a href="http://www.drdo.gov.in/"><img src="https://ieeespace.org/images/sponsors/DRDO.png" alt=""></a>
               </div>
