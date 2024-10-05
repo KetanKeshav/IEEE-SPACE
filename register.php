@@ -171,7 +171,7 @@
                     <div class="detail_box">
                         <a href="https://ieeespace.org/registeration-page.php" class="button-con"
                             style="width:500px; height:70px; text-align:center;">
-                            <h1>Cooming soon</h1>
+                            <h1>Coming soon</h1>
                         </a>
                     </div>
                 </center><br><br>
