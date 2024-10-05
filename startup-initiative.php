@@ -197,9 +197,9 @@
                 </div>
                 <center>
                     <div class="detail_box">
-                        <a href="https://docs.google.com/forms/d/1eLEuD_mGuS2THwAyIo9sSQLEvFCyFz71cZwuEoGZA-s/edit?usp=drivesdk"
+                        <a href=""
                             class="button-con" style="width:340px; height:55px; text-align:center;" target="_blank">
-                            <h1> Register now </h1>
+                            <h1> Coming soon </h1>
                         </a>
                     </div>
                 </center><br><br>
