@@ -87,7 +87,13 @@
         </div>
         <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
 
-        <div class="row">
+        <div class="heading_container">
+          <h2>
+            Coming soon
+          </h2>
+        </div>
+
+        <!-- <div class="row">
         <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
               <img class="card-img-top" src="./images/speakers/Saraswat.jpg" alt="Card image">
@@ -290,7 +296,7 @@
                   <p class="card-text">CTO, AGI</p>
                 </div>
         </div>
-      </div>
+      </div> -->
   </div>
   </section>
 
