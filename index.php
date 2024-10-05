@@ -38,7 +38,7 @@
   <div class="hero_area">
     <!-- header section strats -->
     <header class="header_section">
-      <marquee style="color: white; font-size: 20px;">Download IEEE SPACE 2025 Conference Proceedings.</marquee>
+      <!-- <marquee style="color: white; font-size: 20px;">Download IEEE SPACE 2025 Conference Proceedings.</marquee> -->
       <div class="container-fluid">
         <?php include 'include/navbar.php' ?>
       </div>
@@ -68,7 +68,7 @@
           </div>
         </div>
       </div>
-      <div class="carousel-item slide-2" style="background-color: #f0f0f0;">
+      <!-- <div class="carousel-item slide-2" style="background-color: #f0f0f0;">
         <div class="container">
           <div class="row">
             <div class="col-md-8 mx-auto">
@@ -84,8 +84,8 @@
             </div>
           </div>
         </div>
-      </div>
-      <div class="carousel-item slide-3" style="background-color: #f0f0f0;">
+      </div> -->
+      <!-- <div class="carousel-item slide-3" style="background-color: #f0f0f0;">
         <div class="container">
           <div class="row">
             <div class="col-md-8 mx-auto">
@@ -101,8 +101,8 @@
             </div>
           </div>
         </div>
-      </div>
-      <div class="carousel-item slide-4" style="background-color: #f0f0f0;">
+      </div> -->
+      <!-- <div class="carousel-item slide-4" style="background-color: #f0f0f0;">
         <div class="container">
           <div class="row">
             <div class="col-md-8 mx-auto">
@@ -118,8 +118,8 @@
             </div>
           </div>
         </div>
-      </div>
-      <div class="carousel-item slide-5" style="background-color: #f0f0f0;">
+      </div> -->
+      <!-- <div class="carousel-item slide-5" style="background-color: #f0f0f0;">
         <div class="container">
           <div class="row">
             <div class="col-md-8 mx-auto">
@@ -135,8 +135,8 @@
             </div>
           </div>
         </div>
-      </div>
-      <div class="carousel-item slide-6" style="background-color: #f0f0f0;">
+      </div> -->
+      <!-- <div class="carousel-item slide-6" style="background-color: #f0f0f0;">
         <div class="container">
           <div class="row">
             <div class="col-md-8 mx-auto">
@@ -152,8 +152,8 @@
             </div>
           </div>
         </div>
-      </div>
-      <div class="carousel-item slide-7" style="background-color: #f0f0f0;">
+      </div> -->
+      <!-- <div class="carousel-item slide-7" style="background-color: #f0f0f0;">
         <div class="container">
           <div class="row">
             <div class="col-md-8 mx-auto">
@@ -169,8 +169,8 @@
             </div>
           </div>
         </div>
-      </div>
-      <div class="carousel-item slide-8" style="background-color: #f0f0f0;">
+      </div> -->
+      <!-- <div class="carousel-item slide-8" style="background-color: #f0f0f0;">
         <div class="container">
           <div class="row">
             <div class="col-md-8 mx-auto">
@@ -186,8 +186,8 @@
             </div>
           </div>
         </div>
-      </div>
-      <div class="carousel-item slide-9" style="background-color: #f0f0f0;">
+      </div> -->
+      <!-- <div class="carousel-item slide-9" style="background-color: #f0f0f0;">
         <div class="container">
           <div class="row">
             <div class="col-md-8 mx-auto">
@@ -203,8 +203,8 @@
             </div>
           </div>
         </div>
-      </div>
-      <div class="carousel-item slide-10" style="background-color: #f0f0f0;">
+      </div> -->
+      <!-- <div class="carousel-item slide-10" style="background-color: #f0f0f0;">
         <div class="container">
           <div class="row">
             <div class="col-md-8 mx-auto">
@@ -220,8 +220,8 @@
             </div>
           </div>
         </div>
-      </div>
-      <div class="carousel-item slide-11" style="background-color: #f0f0f0;">
+      </div> -->
+      <!-- <div class="carousel-item slide-11" style="background-color: #f0f0f0;">
         <div class="container">
           <div class="row">
             <div class="col-md-8 mx-auto">
@@ -237,7 +237,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
     </div>
   </div>
 </section>
