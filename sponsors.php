@@ -2,6 +2,8 @@
 
   <section class="about_section layout_padding">
       <div class="container">
+      <h2 style="text-align: center;"><span>Title Sponsors</span></h2>
+
       <!-- <div class="heading_container">
               <h2 style="text-align: center;"><span>Title Sponsors</span></h2>
           </div>
