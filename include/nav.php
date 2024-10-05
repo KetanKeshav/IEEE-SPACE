@@ -25,7 +25,7 @@
                         <!-- <a class="dropdown-item <?php if($page== "sc") echo "active"?>" href="../session-chairs.php">Session Chairs</a> -->
                     </div>
                 </li>
-                <li class="nav-item dropdown <?php if($page== "program") echo "active"?>">
+                <!-- <li class="nav-item dropdown <?php if($page== "program") echo "active"?>">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Program
                     </a>
@@ -37,8 +37,8 @@
                         <a class="dropdown-item <?php if($page== "program") echo "active"?>" href="../program.php">Conference Program Detailed Schedule</a>
                         <a class="dropdown-item" href="https://edas.info/getZip.php?c=32329&which=ap&key=29f7ec2f93c1263037d057692378ab8e">Download Conference Proceedings</a>
                     </div>
-                </li>
-                <li class="nav-item dropdown <?php if($page== "awards" || $page== "cfa" || $page== "paper-submission" || $page== "important-dates") echo "active"?>">
+                </li> -->
+                <!-- <li class="nav-item dropdown <?php if($page== "awards" || $page== "cfa" || $page== "paper-submission" || $page== "important-dates") echo "active"?>">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Authors
                     </a>
@@ -50,16 +50,16 @@
                         <a class="dropdown-item <?php if($page== "important-dates") echo "active"?>" href="../important-dates/index.php">Important Dates</a>
                         <a class="dropdown-item <?php if($page== "awards") echo "active"?>" href="../awards.php">Awards</a>
                     </div>
-                </li>
+                </li> -->
                 <li class="nav-item <?php if($page == "speakers") echo "active"?>">
                     <a class="nav-link" href="../speakers.php">Speakers</a>
                 </li>
                 <li class="nav-item <?php if($page == "sponsorship") echo "active"?>">
                     <a class="nav-link" href="../sponsorship.php"> Sponsorship</a>
                 </li>
-                <li class="nav-item <?php if($page == "w1") echo "active"?>">
+                <!-- <li class="nav-item <?php if($page == "w1") echo "active"?>">
                     <a class="nav-link" href="../workshop-1.php"> Workshops</a>
-                </li>
+                </li> -->
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle <?php if($page== "register" || $page== "start-up") echo "active"?>" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Register
