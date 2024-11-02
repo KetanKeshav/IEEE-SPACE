@@ -204,7 +204,7 @@
         <div class="info_box ">
           <div class="col-md-2">
             <div class="row">
-              <img src="../images/MAPCON-LOGO.png" width="200px">
+              <!-- <img src="../images/MAPCON-LOGO.png" width="200px"> -->
             </div>
             <div class="row">
               <div class="social_box">
