@@ -355,7 +355,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-3">
+          <!-- <div class="col-md-3">
             <h3 class="f-header">Connect With IEEE</h3>
             <ul>
               <li class="f-links"><a
@@ -384,7 +384,7 @@
                   Collabratec</a></li>
               <li class="f-links"><a href="https://ieeebangalore.org/guide-to-join-ieee/">Guide to Join IEEE</a></li>
             </ul>
-          </div>
+          </div> -->
           <div class="col-md-3">
             <h3 class="f-header">Quick Links</h3>
             <ul>
