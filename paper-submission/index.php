@@ -185,45 +185,7 @@
             The authors are required to use the standard IEEE manuscript template for conferences. The
             Microsoft Word template in can be downloaded from IEEE conference template page: <a href="https://www.ieee.org/conferences/publishing/templates.html">Click here</a>
           </p>
-          <p>
-            <strong>NOTE:</strong>
-          <p style="color: red; font-style: italic; font-weight: 400;">
-            Once the paper is submitted, we shall start reviewing it, authors cannot update/resubmit the paper. They
-            should submit the final version, update/resubmissions are not allowed.
-          </p>
-          </p>
-          <p>
-            The paper shall consist of original and previously unpublished work, including specific results.
-            The 'Introduction' of the paper shall clearly indicate the unique aspects of the submission and how
-            it is related to the previous work.
-            <br><br>
-            All paper submissions must be electronic, using IEEE Xplore compliant PDF format (*.pdf).
-            Failure to do so may result in the rejection of the paper. Embedded Type 1 or True Type fonts
-            are required in the submitted PDF xle as subset fonts.
-            <br><br>
-            Type 3 fonts (bitmaps) will not be accepted. Authors can use the <a href="https://ieee-pdf-express.org/account/login?ReturnUrl=%2F" target="_blank">IEEE PDF eXpress</a> to generate
-            compliant PDF Files for final submission.
-            <br><br>
-            <strong>Creating your PDF eXpress Account</strong>
-            <br><br>
-            Log in to the <a href="https://ieee-pdf-express.org/account/login?ReturnUrl=%2F" target="_blank">IEEE PDF eXpress site</a>
-            <br><br>
-            First-time users should do the following:
-            <ol>
-              <li>Select the New Users - Click Here link.</li>
-              <li>Enter the following:
-                <ul>
-                  <li>63117X for the Conference ID</li>
-                  <li>your email address</li>
-                  <li>a password</li>
-                </ul>
-              </li>
-              <li>Continue to enter information as prompted.</li>
-            </ol>
-            An Online confirmation will be displayed and an email confirmation will be sent verifying your account setup.
-            <br><br>
-            Previous users of PDF eXpress need to follow the above steps, but should enter the same password that was used for previous conferences. Verify that your contact information is valid.
-          </p>
+          
 
         </div>
         <div class="spon_body">
@@ -236,11 +198,6 @@
             no more than 100 words and keywords in the respective text boxes in the paper submission page.
 
             <br><br>
-
-            Please note that all accepted papers that are registered and presented in the conference will be
-            sent for possible inclusion in IEEE Xplore. The authors must agree to the IEEE copyright conditions
-            and sign the IEEE copyright form as part of the online submission process. All submitted papers will
-            be peer reviewed by the Technical Program Committees (TPC).
 
             <br><br><br>
             All papers must be submitted in PDF via EDAS: <a href="https://edas.info/index.php?c=32329">https://edas.info/index.php?c=32329</a>

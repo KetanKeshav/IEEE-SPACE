@@ -320,7 +320,7 @@
   <!-- End of Venue Details-->
 
   <!-- sponsors section -->
-  <?php include 'organiser.php'; ?>
+  <!-- <?php include 'organiser.php'; ?> -->
 
   <?php include 'sponsors.php'; ?>
 
