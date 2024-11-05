@@ -88,6 +88,15 @@
         <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
 
         <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+              <center>
+                    <img class="card-img-top" src="./images/speakers/Kathleen.jpg" alt="Card image">
+              </center>
+              <div class="card-body">
+                    <h4 class="card-title">Prof. Kathleen Kramer</h4>
+                    <p class="card-text">2025 IEEE President</p>
+              </div>
+          </div>
           <div class="card col-lg-4 col-md-4 col-sm-6">
               <center>
                     <img class="card-img-top" src="./images/speakers/Greco.jpg" alt="Card image">
@@ -95,15 +104,6 @@
               <div class="card-body">
                     <h4 class="card-title">Prof. Sabrina Greco</h4>
                     <p class="card-text">2025-2025 IEEE AESS President</p>
-              </div>
-          </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-              <center>
-                    <img class="card-img-top" src="./images/speakers/Kathleen.jpg" alt="Card image">
-              </center>
-              <div class="card-body">
-                    <h4 class="card-title">Prof. Kathleen Kramer</h4>
-                    <p class="card-text">2025 IEEE President</p>
               </div>
           </div>
           <div class="card col-lg-4 col-md-4 col-sm-6">
@@ -115,7 +115,20 @@
                     <p class="card-text">2022-2023 IEEE AESS President</p>
             </div>
         </div>
+      </div>
           
+        <div class="row">
+        
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/speakers/Himed.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+                    <h4 class="card-title">Braham Himed</h4>
+                    <p class="card-text">Principal Electronics Engineer, Air Force Research Laboratory</p>
+            </div>
+        </div>
+        </div>
           
         </div>
 
