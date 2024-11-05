@@ -38,13 +38,10 @@
   <div class="hero_area">
     <!-- header section strats -->
     <header class="header_section">
-      <!-- <marquee style="color: white; font-size: 20px;">Download IEEE SPACE 2025 Conference Proceedings.</marquee> -->
+      <marquee style="color: white; font-size: 20px;">Access 2024 IEEE SPACE papers here (https://ieeexplore.ieee.org/xpl/conhome/10666970/proceeding) </marquee>
       <div class="container-fluid">
         <?php include 'include/navbar.php' ?>
       </div>
-      <!-- <div>
-      <img src="./images/car/oglogs.jpg" style="width: 100%;" alt="Image description">
-      </div> -->
     </header>
     <!-- end header section -->
     <!-- slider section -->
