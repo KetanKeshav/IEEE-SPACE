@@ -279,7 +279,7 @@
                 </center>
                 <div class="card-body">
                   <h4 class="card-title">Shri D K Singh</h4>
-                  <p class="card-text">DS &AD,  SAC, ISRO</p>
+                  <p class="card-text">DS & Director, HSFC</p>
                 </div>
         </div>
         
@@ -343,7 +343,7 @@
                 </center>
                 <div class="card-body">
                   <h4 class="card-title">Dr. Surendra Pal</h4>
-                  <p class="card-text">Ex-AD, URSC</p>
+                  <p class="card-text">DS & Former: AD, URSC and VC-DIAT</p>
                 </div>
           </div>
           
@@ -435,7 +435,7 @@
                 </center>
                 <div class="card-body">
                   <h4 class="card-title">Dr. P Radhakrishnan</h4>
-                  <p class="card-text">Former Director LRDE</p>
+                  <p class="card-text">DS & Former Director, LRDE</p>
                 </div>
           </div>
         

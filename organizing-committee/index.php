@@ -201,7 +201,7 @@
         <center>
             <div class="card-body">
               <h4 class="card-title">Puneet Kumar Mishra</h4>
-              <p class="card-text">BoG, IEEE AESS and Chair, IEEE AESS Bangalore Chapter</p>
+              <p class="card-text">2025 VP(Education), IEEE AESS & Chair, IEEE AESS Bangalore Chapter</p>
             </div>
         </center>
           </div>
@@ -216,7 +216,7 @@
             </center>
             <div class="card-body">
               <h4 class="card-title">Dr. K. Rajalakshmi Menon</h4>
-              <p class="card-text">DS & Director, CABS, DRDO</p>
+              <p class="card-text">DS & DG(Aero), DRDO and Director, CABS</p>
             </div>
           </div>
           <div class="card col-lg-4 col-md-4 col-sm-6">
@@ -248,7 +248,7 @@
             </center>
             <div class="card-body">
               <h4 class="card-title">Dr. Chandrakant Kumar</h4>
-              <p class="card-text">URSC, Bangalore & Chair, IEEE AP/MTT Bangalore Jt. Chapter</p>
+              <p class="card-text">URSC, Bangalore & 2025 Chair, IEEE Bangalore Section</p>
             </div>
           </div>
 
@@ -279,7 +279,7 @@
             </center>
             <div class="card-body">
               <h4 class="card-title">Dr. Soumyabrata Chakrabarty</h4>
-              <p class="card-text">IIT Gandhinagar</p>
+              <p class="card-text">IIT Kanpur</p>
             </div>
           </div>
           <div class="card col-lg-4 col-md-4 col-sm-6">
@@ -404,7 +404,7 @@
         </center>
         <div class="card-body">
           <h4 class="card-title">Dr. Vincent Socci</h4>
-          <p class="card-text">Director, Blue Origin</p><!-- Add the appropriate description -->
+          <p class="card-text">CTO, Target Motion</p><!-- Add the appropriate description -->
         </div>
       </div>
     </div>
@@ -557,7 +557,7 @@
             </center>
             <div class="card-body">
               <h4 class="card-title">Mohit Mishra</h4>
-              <p class="card-text">IIT Guwahati</p>
+              <p class="card-text">IIT Kanpur</p>
             </div>
           </div>
         </div>
