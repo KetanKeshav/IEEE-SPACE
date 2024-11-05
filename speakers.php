@@ -93,48 +93,17 @@
           </h2>
         </div>
 
-        <!-- <div class="row">
-        <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/speakers/Saraswat.jpg" alt="Card image">
-            </center>
-            <div class="card-body">
-              <h4 class="card-title">Dr. V K Saraswat</h4>
-              <p class="card-text">Member, NITI Ayog</p>
-            </div>
-          </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/speakers/somanath.webp" alt="Card image">
-            </center>
-            <div class="card-body">
-              <h4 class="card-title">Shri. S Somnath</h4>
-              <p class="card-text">Secretary, DoS & Chairman, ISRO</p>
-            </div>
-          </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/speakers/samir.jpg" alt="Card image">
-            </center>
-            <div class="card-body">
-              <h4 class="card-title">Dr. Samir V Kamat</h4>
-              <p class="card-text">Secretary, DDR&D & Chairman, DRDO</p>
-            </div>
-          </div>
-          
-        </div>
-
         <div class="row">
-        <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/speakers/tom.jpg" alt="Card image">
-            </center>
-            <div class="card-body">
-                <h4 class="card-title">Thomas M. Coughlin</h4>
-                <p class="card-text">2025 IEEE President</p>
-            </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+              <center>
+                    <img class="card-img-top" src="./images/speakers/Greco.jpg" alt="Card image">
+              </center>
+              <div class="card-body">
+                    <h4 class="card-title">Prof. Sabrina Greco</h4>
+                    <p class="card-text">2025-2025 IEEE AESS President</p>
+              </div>
           </div>
-        <div class="card col-lg-4 col-md-4 col-sm-6">
+          <div class="card col-lg-4 col-md-4 col-sm-6">
               <center>
                     <img class="card-img-top" src="./images/speakers/Kathleen.jpg" alt="Card image">
               </center>
@@ -145,18 +114,6 @@
           </div>
           <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
-              <img class="card-img-top" src="./images/speakers/saifur.jpg"   alt="Card image">
-            </center>
-            <div class="card-body">
-                <h4 class="card-title">Prof. Saifur Rahman</h4>
-                <p class="card-text">2023 IEEE President</p>
-            </div>
-          </div>
-        </div>
-
-        <div class="row">
-        <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
               <img class="card-img-top" src="./images/speakers/Mark.jpg" alt="Card image">
             </center>
             <div class="card-body">
@@ -164,139 +121,11 @@
                     <p class="card-text">2022-2023 IEEE AESS President</p>
             </div>
         </div>
-        <div class="card col-lg-4 col-md-4 col-sm-6">
-              <center>
-                    <img class="card-img-top" src="./images/speakers/Greco.jpg" alt="Card image">
-              </center>
-              <div class="card-body">
-                    <h4 class="card-title">Prof. Sabrina Greco</h4>
-                    <p class="card-text">2025-2025 IEEE AESS President</p>
-              </div>
-          </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/speakers/bkdas.jpg"   alt="Card image">
-            </center>
-            <div class="card-body">
-                    <h4 class="card-title">Dr. B K Das</h4>
-                    <p class="card-text">DS & DG(ECS), DRDO</p>
-            </div>
-          </div>
+          
           
         </div>
 
-
-
-        <div class="row">
-        <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/speakers/sankaran.png" alt="Card image">
-            </center>
-            <div class="card-body">
-              <h4 class="card-title">Shri. M Sankaran</h4>
-              <p class="card-text">DS & Director, URSC</p>
-            </div>
-          </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-              <center>
-                    <img class="card-img-top" src="./images/speakers/Unnikrishnan.jpg" alt="Card image">
-              </center>
-              <div class="card-body">
-                  <h4 class="card-title">Dr S. Unnikrishnan Nair</h4>
-                  <p class="card-text">DS and Director, VSSC & IIST, ISRO</p>
-              </div>
-        </div>
-        <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/speakers/abhay.jpg" alt="Card image">
-            </center>
-            <div class="card-body">
-                      <h4 class="card-title">Dr. Abhay A Pashilkar</h4>
-                      <p class="card-text"> Director, CSIR-NAL</p>
-            </div>
-          </div>    
-        </div>
-
-        <div class="row">
-        <div class="card col-lg-4 col-md-4 col-sm-6">
-              <center>
-                    <img class="card-img-top" src="./images/speakers/manoj.jpg" alt="Card image">
-              </center>
-              <div class="card-body">
-                      <h4 class="card-title">Dr. Manoj Choudhary</h4>
-                      <p class="card-text">VC, Gati Shakti Vishwavidyalaya</p>
-              </div>
-          </div>
-        <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/speakers/tapan.png"   alt="Card image">
-            </center>
-            <div class="card-body">
-                      <h4 class="card-title">Dr. Tapan Misra</h4>
-                      <p class="card-text">DS & Former Director, SAC</p>
-            </div>
-          </div>
-        <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/speakers/dinesh.jpg" alt="Card image">
-            </center>
-            <div class="card-body">
-                <h4 class="card-title">Shri D K Singh</h4>
-                <p class="card-text">DS & AD, SAC, ISRO</p>
-            </div>
-          </div>   
         
-      </div>
-
-      <div class="row">
-        <div class="card col-lg-4 col-md-4 col-sm-6">
-                <center>
-                  <img class="card-img-top" src="./images/speakers/yashwant.jpg" alt="Card image">
-                </center>
-                <div class="card-body">
-                  <h4 class="card-title">Prof. Yashwant Gupta</h4>
-                  <p class="card-text">Director, NCRA, TIFR, DAE</p>
-                </div>
-        </div>
-        <div class="card col-lg-4 col-md-4 col-sm-6">
-                <center>
-                  <img class="card-img-top" src="./images/speakers/Maruthi.jpg" alt="Card image">
-                </center>
-                <div class="card-body">
-                  <h4 class="card-title">Prof Maruthi R Akella</h4>
-                  <p class="card-text">University of Texas at Austin</p>
-                </div>
-        </div>
-        <div class="card col-lg-4 col-md-4 col-sm-6">
-                <center>
-                  <img class="card-img-top" src="./images/speakers/Puneet.jpg" alt="Card image">
-                </center>
-                <div class="card-body">
-                  <h4 class="card-title">Prof. Puneet Singla</h4>
-                  <p class="card-text">PennState University</p>
-                </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="card col-lg-4 col-md-4 col-sm-6">
-                <center>
-                  <img class="card-img-top" src="./images/speakers/Aniruddha.jpg" alt="Card image">
-                </center>
-                <div class="card-body">
-                  <h4 class="card-title">Dr. Aniruddha Mukhopadhyay</h4>
-                  <p class="card-text">Lead Chief Technologist, Ansys</p>
-                </div>
-        </div>
-        <div class="card col-lg-4 col-md-4 col-sm-6">
-                <center>
-                  <img class="card-img-top" src="./images/speakers/Shashank.jpg" alt="Card image">
-                </center>
-                <div class="card-body">
-                  <h4 class="card-title">Shashank Narayan</h4>
-                  <p class="card-text">CTO, AGI</p>
-                </div>
-        </div>
-      </div> -->
   </div>
   </section>
 
