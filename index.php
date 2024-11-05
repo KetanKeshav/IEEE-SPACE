@@ -38,7 +38,9 @@
   <div class="hero_area">
     <!-- header section strats -->
     <header class="header_section">
-      <marquee style="color: white; font-size: 20px;">Access 2024 IEEE SPACE papers here (https://ieeexplore.ieee.org/xpl/conhome/10666970/proceeding) </marquee>
+      <marquee style="color: white; font-size: 20px;">
+      Access 2024 IEEE SPACE papers <a href="https://ieeexplore.ieee.org/xpl/conhome/10666970/proceeding" style="color: white;">here</a>
+      </marquee>
       <div class="container-fluid">
         <?php include 'include/navbar.php' ?>
       </div>
