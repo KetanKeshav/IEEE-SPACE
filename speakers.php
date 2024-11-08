@@ -125,7 +125,7 @@
             </center>
             <div class="card-body">
                     <h4 class="card-title">Braham Himed</h4>
-                    <p class="card-text">Principal Electronics Engineer, Air Force Research Laboratory</p>
+                    <p class="card-text">2025 IEEE AESS President-Elect</p>
             </div>
         </div>
         </div>

@@ -165,11 +165,11 @@
             <td>SPACE Best Paper Award(Academia & Industry) 2nd</td>
             <td>₹ 25,000</td>
           </tr>
-          <tr>
+          <!-- <tr>
             <th scope="row">3</th>
             <td>SPACE Best Paper Award(Academia & Industry) 3rd</td>
             <td>₹ 10,000</td>
-          </tr>
+          </tr> -->
           <!-- <tr>
             <th scope="row">2</th>
             <td>Dr. C J Reddy Best YP Paper Award (Male & Female)</td>

@@ -38,19 +38,19 @@
                         <a class="dropdown-item" href="https://edas.info/getZip.php?c=32329&which=ap&key=29f7ec2f93c1263037d057692378ab8e">Download Conference Proceedings</a>
                     </div>
                 </li> -->
-                <!-- <li class="nav-item dropdown <?php if($page== "awards" || $page== "cfa" || $page== "paper-submission" || $page== "important-dates") echo "active"?>">
+                <li class="nav-item dropdown <?php if($page== "awards" || $page== "cfa" || $page== "paper-submission" || $page== "important-dates") echo "active"?>">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Authors
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item <?php if($page== "cfa") echo "active"?>" href="../call-for-papers/index.php">Call For Papers</a>
-                        <a class="dropdown-item <?php if($page== "stc") echo "active"?>" href="../call-for-stc/index.php">Call For SPACE Technology Compendium</a>
-                        <a class="dropdown-item <?php if($page== "three-min") echo "active"?>" href="../call-for-3-mins-comp/index.php">3 Minute Thesis Competition</a>
+                        <!-- <a class="dropdown-item <?php if($page== "stc") echo "active"?>" href="../call-for-stc/index.php">Call For SPACE Technology Compendium</a> -->
+                        <!-- <a class="dropdown-item <?php if($page== "three-min") echo "active"?>" href="../call-for-3-mins-comp/index.php">3 Minute Thesis Competition</a> -->
                         <a class="dropdown-item <?php if($page== "paper-submission") echo "active"?>" href="../paper-submission/index.php">Paper Submission</a>
                         <a class="dropdown-item <?php if($page== "important-dates") echo "active"?>" href="../important-dates/index.php">Important Dates</a>
                         <a class="dropdown-item <?php if($page== "awards") echo "active"?>" href="../awards.php">Awards</a>
                     </div>
-                </li> -->
+                </li>
                 <li class="nav-item <?php if($page == "speakers") echo "active"?>">
                     <a class="nav-link" href="../speakers.php">Speakers</a>
                 </li>
