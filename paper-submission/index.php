@@ -200,7 +200,7 @@
             <br><br>
 
             <br><br><br>
-            All papers must be submitted in PDF via EDAS: <a href="https://edas.info/index.php?c=32329">https://edas.info/index.php?c=32329</a>
+            <!-- All papers must be submitted in PDF via EDAS: <a href="https://edas.info/index.php?c=32329">https://edas.info/index.php?c=32329</a> -->
 
           </p>
         </div>
@@ -228,26 +228,23 @@
             <tbody>
             <tr>
                 <td><b>Paper Submission start date</b></td>
-                <!-- <td><b style="color: red;"><s>July 31, 2025</s></b> <b>August 31, 2025 (Hard Deadline)</b></td> -->
-                <td><b>April 1, 2025</b></td>
+                <td><b>Dec 1, 2024</b></td>
               </tr>
               <tr>
               <td><b>Last Date of Paper Submission</b></td>
-              <!--<td><b style="color: red;"><s>July 31, 2025</s></b> <b>August 31, 2025 (Hard Deadline)</b></td>-->
-              <td><b><s>May 15, 2025</s> May 20, 2025 (Hard Deadline)</b></td>
-          </tr>
-
+              <td>Feb 28, 2025</td>
+             </tr>
               <tr>
                 <td>Notification of Acceptance</td>
-                <td>June 15, 2025</td>
+                <td>April 15, 2025</td>
               </tr>
               <tr>
                 <td>Last Date of Author Registration</td>
-                <td>June 30, 2025</td>
+                <td>May 15, 2025</td>
               </tr>
               <tr>
                 <td>Last Date of Non-Author Registration</td>
-                <td>July 15, 2025</td>
+                <td>June 30, 2025</td>
               </tr>
             </tbody>
           </table>

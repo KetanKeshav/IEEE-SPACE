@@ -183,13 +183,13 @@
 
   <!-- end course section -->
 
-  <center>
+  <!-- <center>
     <div class="detail_box">
         <a href="../downloads/cfp.pdf" class="button-con" download>
             <h1>Call for Paper</h1>
         </a>
     </div>
-  </center>
+  </center> -->
   <br>
 
   </section>
@@ -221,7 +221,7 @@
                 <td>20%</td>
               </tr> -->
               <tr>
-                <td>On or Before January 15</td>
+                <td>On or Before Dec 15</td>
                 <td>10%</td>
               </tr>
             </tbody>
