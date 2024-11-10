@@ -128,6 +128,18 @@
                     <p class="card-text">2025 IEEE AESS President-Elect</p>
             </div>
         </div>
+
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/speakers/tom.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+                    <h4 class="card-title">Tom Coughlin</h4>
+                    <p class="card-text">2024 IEEE President & CEO</p>
+            </div>
+        </div>
+
+
         </div>
           
         </div>
