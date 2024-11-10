@@ -284,7 +284,37 @@
         </div>
         
         </div>
-        
+
+        </div>
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/mary.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Mary Ellan Randall</h4>
+                  <p class="card-text">2026 IEEE President</p>
+                </div>
+          </div>
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/cjreddy.jpg" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Dr. C J Reddy</h4>
+                  <p class="card-text">2026 IEEE AP-S President</p>
+                </div>
+        </div>
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+                <center>
+                  <img class="card-img-top" src="./images/Vignesh.png" alt="Card image">
+                </center>
+                <div class="card-body">
+                  <h4 class="card-title">Dr. Vignesh Rajamani</h4>
+                  <p class="card-text">2023, IEEE EMC Society President</p>
+                </div>
+        </div>
+        </div>
         
         
         <div class="row">
