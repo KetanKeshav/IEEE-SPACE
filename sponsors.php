@@ -143,7 +143,7 @@
 
 
 
-<!-- <section class="about_section layout_padding" style="display: flex; justify-content: center;">
+<section class="about_section layout_padding" style="display: flex; justify-content: center;">
     <div class="container" style="max-width: 100%; overflow: hidden;">
         <div class="sponsors_row" style="display: flex; justify-content: center;">
             <div class="sponsors_column">
@@ -153,4 +153,4 @@
             </div>
         </div>
     </div>
-</section> -->
+</section>

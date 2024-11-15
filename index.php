@@ -319,12 +319,12 @@
   <!-- End of Venue Details-->
 
   <!-- sponsors section -->
-
+<div>
   <?php include 'organiser.php'; ?>
 
 
   <?php include 'sponsors.php'; ?>
-
+</div>
 
   <!-- end sponsprs section -->
 
