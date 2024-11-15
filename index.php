@@ -338,7 +338,8 @@
         <div class="info_box ">
           <div class="col-md-2">
             <div class="row">
-           <img src="./images/MAPCON-LOGO.png" width="200px">
+                            <img src="./images/MAPCON-LOGO.png" width="200px">
+
             </div>
             <div class="row">
               <div class="social_box">
@@ -357,8 +358,7 @@
           <div class="col-md-3">
             <h3 class="f-header">Connect With IEEE</h3>
             <ul>
-              <li class="f-links"><a
-                  href="https://ieee.taleo.net/careersection/2/jobsearch.ftl?utm_source=mf&utm_campaign=taleo-jobs&utm_medium=footer&utm_term=taleo-jobs%20at%20ieee">Careers
+              <li class="f-links"><a href="https://ieee.taleo.net/careersection/2/jobsearch.ftl?utm_source=mf&utm_campaign=taleo-jobs&utm_medium=footer&utm_term=taleo-jobs%20at%20ieee">Careers
                   at IEEE</a></li>
               <li class="f-links"><a href="https://ieee-aess.org/">IEEE AESS</a></li>
               <li class="f-links"><a href="https://ieeeaps.org/">IEEE APS</a></li>
@@ -371,24 +371,15 @@
           <div class="col-md-3">
             <h3 class="f-header">Membership</h3>
             <ul>
-              <li class="f-links"><a
-                  href="https://www.ieee.org/membership/join/index.php?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=join">Join</a>
+              <li class="f-links"><a href="https://www.ieee.org/membership/join/index.php?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=join">Join</a>
               </li>
-              <li class="f-links"><a
-                  href="https://www.ieee.org/membership/renew.php?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=renew">Renew</a>
+              <li class="f-links"><a href="https://www.ieee.org/membership/renew.php?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=renew">Renew</a>
               </li>
               <li class="f-links"><a href="https://www.ieee.org/membership/benefits/index.php">Benefits</a></li>
-              <li class="f-links"><a
-                  href="https://ieee-collabratec.ieee.org/?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=collabratec-membership-list">IEEE
+              <li class="f-links"><a href="https://ieee-collabratec.ieee.org/?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=collabratec-membership-list">IEEE
                   Collabratec</a></li>
               <li class="f-links"><a href="https://ieeebangalore.org/guide-to-join-ieee/">Guide to Join IEEE</a></li>
             </ul>
-          </div>
-          <div class="col-md-3">
-           
-          </div>
-          <div class="col-md-3">
-            
           </div>
           <div class="col-md-3">
             <h3 class="f-header">Quick Links</h3>
@@ -420,14 +411,11 @@
   <footer class="footer_section">
     <div class="container">
       <div class="footer_box">
-        <p>
-          Powered by & Copyright &copy; 2025 SPACE2025
-        </p>
+        <p>Powered by and Copyright &copy; IEEESPACE2025 - IEEE Aerospace and Electronic Systems Society (AESS) and IEEE Microwaves, Antennas and Propagation Conference</p>
       </div>
     </div>
   </footer>
   <!-- footer section -->
-
   <!-- jQery -->
   <script src="js/jquery-3.4.1.min.js"></script>
   <!-- bootstrap js -->
@@ -435,10 +423,9 @@
   <!-- custom js -->
   <script src="js/custom.js"></script>
   <!-- Google Map -->
-  <script
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCh39n5U-4IoWpsVGUHWdqB6puEkhRLdmI&callback=myMap"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCh39n5U-4IoWpsVGUHWdqB6puEkhRLdmI&callback=myMap"></script>
   <!-- End Google Map -->
-  <!-- <script src = "./js/custom.js"></script> -->
+
 </body>
 
 </html>
