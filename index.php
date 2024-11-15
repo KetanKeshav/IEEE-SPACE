@@ -320,7 +320,7 @@
 
   <!-- sponsors section -->
 
-  <?php include 'oraniser.php'; ?>
+  <?php include 'organiser.php'; ?>
 
 
   <?php include 'sponsors.php'; ?>
