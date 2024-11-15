@@ -168,7 +168,7 @@
 
         The conference covers all aspects of Space, Aerospace and Defence technologies (within IEEE's field of interest). The conference program includes keynote presentations, technical sessions, workshops, and panel discussions, all aimed at fostering collaboration and driving innovation in aerospace and defense.
 
-        You are requested to upload your paper having length minimum 2 pages to maximum 4 pages  to paper submission portal
+        You are requested to upload your paper having length minimum 2 pages to maximum 4 pages  to paper submission portal. All peer reviewed, Accepted, Registered and Presented papers will be uploaded to IEEE Xplore fulfilling IEEE quality guidelines.
 
           <br><br><br>
 
@@ -216,12 +216,20 @@
               </tr>
             </thead>
             <tbody>
-              <!-- <tr>
-                <td>On or Before May 31</td>
-                <td>20%</td>
-              </tr> -->
               <tr>
-                <td>On or Before Dec 15</td>
+                <td>Dec 1 - Dec 15</td>
+                <td>25%</td>
+              </tr>
+              <tr>
+                <td>Dec 16 - Dec 31</td>
+                <td>20%</td>
+              </tr>
+              <tr>
+                <td>Jan 1 - Jan 15</td>
+                <td>15%</td>
+              </tr>
+              <tr>
+                <td>Jan 16 - Jan 31</td>
                 <td>10%</td>
               </tr>
             </tbody>

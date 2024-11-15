@@ -162,8 +162,8 @@
           </tr>
           <tr>
             <th scope="row">2</th>
-            <td>SPACE Best Paper Award(Academia & Industry) 2nd</td>
-            <td>₹ 25,000</td>
+            <td>Session Best Paper Award/td>
+            <td>₹ 2,500</td>
           </tr>
           <!-- <tr>
             <th scope="row">3</th>

@@ -60,8 +60,8 @@
                             <thead>
                                 <tr>
                                     <th scope="col">Event</th>
-                                    <th scope="col">Workshop (July 21, 2025)</th>
-                                    <th scope="col" colspan="2">Conference (July 22-23, 2025)</th>
+                                    <th scope="col">Workshop (July 20, 2025)</th>
+                                    <th scope="col" colspan="2">Conference (July 21-23, 2025)</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -72,33 +72,33 @@
                                 </tr>
                                 <tr>
                                     <td>IEEE AESS/APS/MTT-S Student Members</td>
-                                    <td>500</td>
-                                    <td>4800</td>
+                                    <td>1000</td>
+                                    <td>8000</td>
                                 </tr>
                                 <tr>
                                     <td>IEEE Student Member</td>
-                                    <td>1000</td>
-                                    <td>5200</td>
+                                    <td>1750</td>
+                                    <td>8600</td>
                                 </tr>
                                 <tr>
                                     <td>Student-Non Member</td>
-                                    <td>1500</td>
-                                    <td>5700</td>
+                                    <td>2500</td>
+                                    <td>9500</td>
                                 </tr>
                                 <tr>
                                     <td>IEEE AESS/AP-S/MTT-S Members</td>
-                                    <td>2000</td>
-                                    <td>7500</td>
+                                    <td>3500</td>
+                                    <td>12000</td>
                                 </tr>
                                 <tr>
                                     <td>IEEE Member</td>
-                                    <td>2000</td>
-                                    <td>8500</td>
+                                    <td>4000</td>
+                                    <td>13600</td>
                                 </tr>
                                 <tr>
                                     <td>Non-Member</td>
-                                    <td>3000</td>
-                                    <td>10000</td>
+                                    <td>5000</td>
+                                    <td>16000</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -107,9 +107,9 @@
                     <ol>
 
                     <li>
-                    Registration Fee includes registration kit, access to all technical sessions, exhibits, 2 lunches, 2 dinner and 4 sessions of Tea/Coffee. 
+                    Registration Fee includes registration kit, access to all technical sessions, exhibits, 3 lunches, 2 dinner and 6 sessions of tea/coffee. 
                         One can present one paper with one registration. 
-                        For additional papers one needs to pay additional INR 2000/paper.
+                        For Additional papers one need to pay additional INR 4000/paper
                     </li>
                         <li>
                             Government Organization Delegates, where only NEFT Payment is allowed, use the following Bank details for transfer of Registration Fee:
