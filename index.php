@@ -338,7 +338,7 @@
         <div class="info_box ">
           <div class="col-md-2">
             <div class="row">
-              <!--               <!-- <img src="./images/MAPCON-LOGO.png" width="200px"> -->
+           <img src="./images/MAPCON-LOGO.png" width="200px">
             </div>
             <div class="row">
               <div class="social_box">
@@ -354,7 +354,7 @@
               </div>
             </div>
           </div>
-          <!-- <div class="col-md-3">
+          <div class="col-md-3">
             <h3 class="f-header">Connect With IEEE</h3>
             <ul>
               <li class="f-links"><a
@@ -383,7 +383,7 @@
                   Collabratec</a></li>
               <li class="f-links"><a href="https://ieeebangalore.org/guide-to-join-ieee/">Guide to Join IEEE</a></li>
             </ul>
-          </div> -->
+          </div>
           <div class="col-md-3">
            
           </div>
