@@ -161,62 +161,49 @@
         <p style="text-align: justify;">
         On behalf of the SPACE Organizing Committee, I take the opportunity to invite you to participate in this professionally enriching Technical Conference SPACE. SPACE is a premier interdisciplinary forum for space, aerospace, and defence experts, engineers, and researchers to come together to discuss the latest developments in designated technologies. The conference provides a platform for sharing cutting-edge research, exploring innovative approaches, and addressing the technical challenges facing the space, aerospace and defence industries. It is a well known fact that technologies used in Space, Aerospace and Defence can be used among these 3 domains with some improvement/modifications. The objective of SPACE is to create a platform where industry professionals and research scientists working across these.domains share, learn and collaborate. Scientists, Researchers and industry practitioners are encouraged to present their work and developments can be used across/at least in two of these domains. The conference covers all aspects of Space, Aerospace and Defence technologies (within IEEE's field of interest). The conference program includes keynote presentations, technical sessions, workshops, and panel discussions, all aimed at fostering collaboration and driving innovation in aerospace and defense. You are requested to upload your paper having length minimum 3 pages to maximum 6 pages to the paper submission portal. All peer reviewed, Accepted, Registered and Presented papers will be uploaded to IEEE Xplore fulfilling IEEE quality guidelines. 
 
-You are Invited to submit your original research work in any of the following 3 tracks and 6 Special Sessions, which is most relevant to your work. Tracks:
+        <p>You are invited to submit your original research work in any of the following:</p>
 
-Aerospace Systems Technologies
-Defence Systems Technologies
-Space Systems Technologies
-Special Sessions:
+<h2>Tracks</h2>
+<ol>
+    <li>Aerospace Systems Technologies</li>
+    <li>Defence Systems Technologies</li>
+    <li>Space Systems Technologies</li>
+</ol>
 
-Special Session on AI/ML for SPACE
-Special Session on Quantum Technologies for SPACE
-Special Session on Software Defined Radio Technologies for SPACE
-Women-led Technology Developments for SPACE
-Special Session on Advances in Measurements for SPACE Systems
-Special Session on Bhartiya Antriksh Station 
-You are further requested to choose Topics relevant to your paper work among following:
+<h2>Special Sessions</h2>
+<ul>
+    <li>Special Session on AI/ML for SPACE</li>
+    <li>Special Session on Quantum Technologies for SPACE</li>
+    <li>Special Session on Software Defined Radio Technologies for SPACE</li>
+    <li>Women-led Technology Developments for SPACE</li>
+    <li>Special Session on Advances in Measurements for SPACE Systems</li>
+    <li>Special Session on Bhartiya Antriksh Station</li>
+</ul>
 
-·       Antenna/RF/Microwaves
-
-·       Communication/Networking
-
-·       Computing/Cyber Security/IT/Software Engineering
-
-·       Mission Planning/Controls/Navigation/Guidance
-
-·       Embedded Systems/VLSI/RFIC/MMIC/Nanoelectronics
-
-·       EMI/EMC/ESD/HPM/Space Weather
-
-·       mm-wave/THz/5G/6G
-
-·       Power/Energy/Power Electronics
-
-·       Signal Processing/Data Processing
-
-·       Assembly, Integration, & Testing/Checkout
-
-·       Gyros/Sensors & Associated Electronics
-
-·       Ground Support Technologies
-
-·       Miniaturization technologies
-
-·       Technologies for Humanity
-
-·       Sustainable Technologies
-
-·       System Engineering
-
-·       Reliability/Quality Assurance
-
-·       Photonics/Electro-optics
-
-·       Optical/Microwave Remote Sensing Technologies
-
-·       Not Listed Above
-
- 
+<h2>Topics</h2>
+<p>You are further requested to choose topics relevant to your paper work among the following:</p>
+<ul>
+    <li>Antenna/RF/Microwaves</li>
+    <li>Communication/Networking</li>
+    <li>Computing/Cyber Security/IT/Software Engineering</li>
+    <li>Mission Planning/Controls/Navigation/Guidance</li>
+    <li>Embedded Systems/VLSI/RFIC/MMIC/Nanoelectronics</li>
+    <li>EMI/EMC/ESD/HPM/Space Weather</li>
+    <li>mm-wave/THz/5G/6G</li>
+    <li>Power/Energy/Power Electronics</li>
+    <li>Signal Processing/Data Processing</li>
+    <li>Assembly, Integration, & Testing/Checkout</li>
+    <li>Gyros/Sensors & Associated Electronics</li>
+    <li>Ground Support Technologies</li>
+    <li>Miniaturization Technologies</li>
+    <li>Technologies for Humanity</li>
+    <li>Sustainable Technologies</li>
+    <li>System Engineering</li>
+    <li>Reliability/Quality Assurance</li>
+    <li>Photonics/Electro-optics</li>
+    <li>Optical/Microwave Remote Sensing Technologies</li>
+    <li>Not Listed Above</li>
+</ul> 
 
  Kindly note that Papers once submitted can NOT be updated. Paper review process will immediately start as soon as it is submitted.
 
