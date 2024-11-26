@@ -206,9 +206,7 @@
 </ul> 
 
  Kindly note that Papers once submitted can NOT be updated. Paper review process will immediately start as soon as it is submitted.
-
-
-          <br><br><br>
+<br>
 
           <strong>
             Puneet Kumar Mishra<br>
