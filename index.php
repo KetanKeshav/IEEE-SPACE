@@ -242,12 +242,14 @@
     </div>
   </div>
 </section>
+<center>
                     <div class="detail_box">
                         <a href="https://edas.info/N33216" class="button-con"
-                            style="width:200px; height:70px; text-align:center;">
+                            style="width:500px; height:70px; text-align:center;">
                             <h1>Submit Paper</h1>
                         </a>
                     </div>
+                    </center>
 
   <!-- about section -->
 
