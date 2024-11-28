@@ -169,8 +169,20 @@
                 <td>May 31, 2025</td>
               </tr> -->
               <tr>
-                <td>10% Discount</td>
-                <td>April 15, 2025</td>
+                <td>Dec 1 - Dec 15</td>
+                <td>25%</td>
+              </tr>
+              <tr>
+                <td>Dec 16 - Dec 31</td>
+                <td>20%</td>
+              </tr>
+              <tr>
+                <td>Jan 1 - Jan 15</td>
+                <td>15%</td>
+              </tr>
+              <tr>
+                <td>Jan 16 - Jan 31</td>
+                <td>10%</td>
               </tr>
             </tbody>
           </table>
