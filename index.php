@@ -55,13 +55,12 @@
           <div class="row">
             <div class="col-md-8 mx-auto">
               <div class="detail_box">
-                <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-                <a href="https://ieeespace.org/register.php" target="_blank" style="color: #333; text-decoration: none;">
-                  Register Now
+                <a href="https://edas.info/N33216" target="_blank" style="color: #333; text-decoration: none;">
+                  Submit Paper
                 </a>
-                <a href="https://docs.google.com/spreadsheets/d/1iIYlC_3YWh2LS_XeUsCnJ_K3-W9b7DDPquDfHLS1ai0/edit?usp=sharing" target="_blank" style="color: #333; text-decoration: none;">
+                <!-- <a href="https://docs.google.com/spreadsheets/d/1iIYlC_3YWh2LS_XeUsCnJ_K3-W9b7DDPquDfHLS1ai0/edit?usp=sharing" target="_blank" style="color: #333; text-decoration: none;">
                   Schedule
-                </a>
+                </a> -->
               </div>
             </div>
           </div>
