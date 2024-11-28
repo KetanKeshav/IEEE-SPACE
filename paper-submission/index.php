@@ -197,9 +197,7 @@
             While uploading the paper, the authors should provide the title of the paper, an abstract of
             no more than 100 words and keywords in the respective text boxes in the paper submission page.
 
-            <br><br>
-
-            <br><br><br>
+         <br><br>
             Please note that all accepted papers that are registered and presented in the conference will be sent for possible inclusion in IEEE Xplore. The authors must agree to the IEEE copyright conditions and sign the IEEE copyright form as part of the online submission process. All submitted papers will be peer reviewed by the Technical Program Committees (TPC).
 All papers must be submitted in PDF via EDAS:   <a href="https://edas.info/N33216">Click here</a>
 
