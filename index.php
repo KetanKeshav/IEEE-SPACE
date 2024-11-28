@@ -55,12 +55,12 @@
           <div class="row">
             <div class="col-md-8 mx-auto">
               <div class="detail_box">
-                <br><br><br><br><br>
-                <br><br><br><br><br>
-                <br><br><br><br><br><br><br><br><br><br><br>
+              <!-- <br><br><br><br><br>
+               <br><br><br><br><br>
+              <br><br><br><br><br>
                 <a href="https://edas.info/N33216" target="_blank" style="color: #333; text-decoration: none;">
                   Submit Paper
-                </a>
+                </a> -->
                 <!-- <a href="https://docs.google.com/spreadsheets/d/1iIYlC_3YWh2LS_XeUsCnJ_K3-W9b7DDPquDfHLS1ai0/edit?usp=sharing" target="_blank" style="color: #333; text-decoration: none;">
                   Schedule
                 </a> -->
@@ -242,12 +242,12 @@
     </div>
   </div>
 </section>
-                    <!-- <div class="detail_box">
+                    <div class="detail_box">
                         <a href="https://edas.info/N33216" class="button-con"
                             style="width:500px; height:70px; text-align:center;">
                             <h1>Submit Paper</h1>
                         </a>
-                    </div> -->
+                    </div>
 
   <!-- about section -->
 
@@ -257,7 +257,9 @@
         <div class="col-md-6">
           <div class="detail-box">
             <div class="heading_container">
-            </div>
+              <!-- <div class="img-box">
+                <video src="images/animation.mp4" style="width: 10%" alt=""></video>
+              </div> -->
               <h2>
                 ABOUT <span>SPACE (SPace, Aerospace and defenCE conference)</span> 2025
               </h2>
