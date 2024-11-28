@@ -242,7 +242,12 @@
     </div>
   </div>
 </section>
-
+<div class="detail_box">
+                        <a href="https://edas.info/N33216" class="button-con"
+                            style="width:500px; height:70px; text-align:center;">
+                            <h1>Submit Paper</h1>
+                        </a>
+                    </div>
 
   <!-- about section -->
 
@@ -255,14 +260,7 @@
               <!-- <div class="img-box">
                 <video src="images/animation.mp4" style="width: 10%" alt=""></video>
               </div> -->
-              <center>
-                    <div class="detail_box">
-                        <a href="https://edas.info/N33216" class="button-con"
-                            style="width:500px; height:70px; text-align:center;">
-                            <h1>Submit Paper</h1>
-                        </a>
-                    </div>
-                </center>
+                 
             </div>
               <h2>
                 ABOUT <span>SPACE (SPace, Aerospace and defenCE conference)</span> 2025
