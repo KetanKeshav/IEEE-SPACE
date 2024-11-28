@@ -257,10 +257,6 @@
         <div class="col-md-6">
           <div class="detail-box">
             <div class="heading_container">
-              <!-- <div class="img-box">
-                <video src="images/animation.mp4" style="width: 10%" alt=""></video>
-              </div> -->
-                 
             </div>
               <h2>
                 ABOUT <span>SPACE (SPace, Aerospace and defenCE conference)</span> 2025
