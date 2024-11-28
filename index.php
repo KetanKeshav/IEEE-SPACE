@@ -54,6 +54,8 @@
         <div class="container">
           <div class="row">
             <br><br><br><br><br>
+            <br><br><br><br><br>
+            <br><br><br><br><br>
             <div class="col-md-8 mx-auto">
               <div class="detail_box">
                 <a href="https://edas.info/N33216" target="_blank" style="color: #333; text-decoration: none;">
