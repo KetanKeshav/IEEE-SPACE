@@ -163,13 +163,13 @@
                         <div class="col-md-12">
                             <h4>Conference Venue</h4>
                             <p>
-                                Sheraton Grand Bengaluru Whitefield Hotel & Convention Center 
-                                <a href="https://www.marriott.com/hotels/travel/blrws-sheraton-grand-bengaluru-whitefield-hotel-and-convention-center/" target="_blank">Website</a>
+                                Bangalore
+                                <!-- <a href="https://www.marriott.com/hotels/travel/blrws-sheraton-grand-bengaluru-whitefield-hotel-and-convention-center/" target="_blank">Website</a> -->
                             </p>
-                        <div class="col-lg-6 col-xl-6 col-sm-6 col-md-6">
+                        <!-- <div class="col-lg-6 col-xl-6 col-sm-6 col-md-6">
                             <h4>Directions to reach</h4>
                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.7308520368274!2d77.729827!3d12.989058900000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae11eec9986c7f%3A0x6e8715fd5f4e9861!2sSheraton%20Grand%20Bengaluru%20Whitefield%20Hotel%20%26%20Convention%20Center!5e0!3m2!1sen!2sus!4v1708278393438!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                        </div>
+                        </div> -->
                         <!-- <div class="col-lg-6 col-md-6 col-sm-6">
                             <div class="venue-info-content">
                                 <h4>Sheraton Grand Bengaluru Whitefield Hotel & Convention Center</h4>

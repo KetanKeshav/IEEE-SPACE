@@ -281,14 +281,14 @@
           <!-- <div class="detail-box"> -->
           <div class="heading_container" id="venue">
             <h2>
-              Conference Venue : <br><span>Sheraton Grand Bengaluru Whitefield Hotel & Convention Center</span>
+              Conference Venue : <br><span>Bangalore</span>
             </h2>
             <!-- <strong>NOTE:</strong>
             <h5>Delegates requiring Hotel Accommodation at Conference Venue can fill the request form. <a
                 href="https://forms.gle/wGcAkpiC2Jdh7PTu6" target="_blank">Click here.</a><br>Organizing team will reach
               out to you with more details.</h5> -->
           </div>
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.7308520368274!2d77.729827!3d12.989058900000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae11eec9986c7f%3A0x6e8715fd5f4e9861!2sSheraton%20Grand%20Bengaluru%20Whitefield%20Hotel%20%26%20Convention%20Center!5e0!3m2!1sen!2sus!4v1708278393438!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.7308520368274!2d77.729827!3d12.989058900000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae11eec9986c7f%3A0x6e8715fd5f4e9861!2sSheraton%20Grand%20Bengaluru%20Whitefield%20Hotel%20%26%20Convention%20Center!5e0!3m2!1sen!2sus!4v1708278393438!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
           <!-- </div> -->
         </div>
       </div>
