@@ -176,7 +176,7 @@
           <h2><span>PAPER</span> SUBMISSION</h2>
           <p>
             All papers are required to be prepared and submitted in the IEEE Standard two-column conference
-            format of A4 size in English. Papers must be two to four pages in length, including texts,
+            format of A4 size in English. Papers must be three to six pages in length, including texts,
             Figures, photographs and references. Any submitted paper that exceeds four pages will be rejected.
             The first page must include the title of the paper, author(s), affiliations, address and text.
             Please do not include page numbers on submitted documents. Failing to conform to the standard
