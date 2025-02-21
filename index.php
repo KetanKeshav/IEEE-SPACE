@@ -281,7 +281,7 @@
           <!-- <div class="detail-box"> -->
           <div class="heading_container" id="venue">
             <h2>
-              Conference Venue : <br><span>Bangalore</span>
+              Conference Venue : <br><span>Sheraton Grand Bengaluru Whitefield Hotel & Convention Center</span>
             </h2>
             <!-- <strong>NOTE:</strong>
             <h5>Delegates requiring Hotel Accommodation at Conference Venue can fill the request form. <a
