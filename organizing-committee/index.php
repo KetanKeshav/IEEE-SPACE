@@ -95,19 +95,10 @@
 
           <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
-              <img class="card-img-top" src="./images/Saraswat.jpg" alt="Card image">
-            </center>
-            <div class="card-body">
-              <h4 class="card-title">Dr. V K Saraswat</h4>
-              <p class="card-text">Member, NITI Ayog</p>
-            </div>
-          </div>
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
               <img class="card-img-top" src="./images/somanath.webp" alt="Card image">
             </center>
             <div class="card-body">
-              <h4 class="card-title">Shri. S Somnath</h4>
+              <h4 class="card-title">Dr. S Somnath</h4>
               <p class="card-text">Secretary, DoS & Chairman, ISRO</p>
             </div>
           </div>
@@ -121,6 +112,17 @@
               <p class="card-text">Secretary, DDR&D & Chairman, DRDO</p>
             </div>
           </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/pawan.jpg" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Dr. Pawan Kumar Goenka</h4>
+              <p class="card-text">Chairman, IN-SPACe</p>
+            </div>
+          </div>
+
         </div>
 
         <h2><span class="span_head">Patrons:</span></h2>
@@ -155,15 +157,6 @@
         </div>
 
         <div class="row">
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
-              <img class="card-img-top" src="./images/Siddique.jpg" alt="Card image">
-            </center>
-            <div class="card-body">
-              <h4 class="card-title">Shri M Z Siddique</h4>
-              <p class="card-text">DS & DG(Aero), DRDO</p>
-            </div>
-          </div>
           <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
               <img class="card-img-top" src="./images/Nilesh.jpg" alt="Card image">
