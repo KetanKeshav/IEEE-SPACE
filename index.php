@@ -244,10 +244,10 @@
 </section>
 <center>
 <div class="detail_box">
-    <a href="https://edas.info/N33216" class="button-con" style="width:280px; height:75px; text-align:center; display:inline-block; margin-right:10px;">
+    <a href="https://edas.info/N33216" class="button-con" style="width:280px; height:70px; text-align:center; display:inline-block; margin-right:10px;">
         <h1>Submit Paper</h1>
     </a>
-    <a href="downloads/SPACE 2025 CFP.pdf" class="button-con" style="width:280px; height:75px; text-align:center; display:inline-block;" download>
+    <a href="downloads/SPACE 2025 CFP.pdf" class="button-con" style="width:280px; height:70px; text-align:center; display:inline-block;" download>
         <h1>Download CPF</h1>
     </a>
 </div>
