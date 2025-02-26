@@ -165,6 +165,7 @@
               <h4 class="card-title">Shri Nilesh M Desai</h4>
               <p class="card-text">DS & Director, SAC</p>
             </div>
+          </div>
             <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
               <img class="card-img-top" src="./images/dk_singh.jpg" alt="Card image">
@@ -175,7 +176,6 @@
             </div>
           </div>
             
-          </div>
           <!-- <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
               <img class="card-img-top" src="./images/bkdas.jpg" alt="Card image">
