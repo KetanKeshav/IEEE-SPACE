@@ -84,31 +84,19 @@
 <p>You are further requested to choose topics relevant to your paper work among the following:</p>
 <ul>
     <li>Antenna/RF/Microwave/Payloads</li>
-    <li>Antenna/RF/Microwaves</li>
     <li>Assembly, Integration, & Testing/Checkout</li>
     <li>Communication/Networking</li>
-    <li>Communication/Networking</li>
-    <li>Computing/Cyber Security/IT/Software Engineering</li>
     <li>Computing/Cyber Security/IT/Software Engineering</li>
     <li>Embedded Systems/VLSI/RFIC/MMIC/Nanoelectronics</li>
-    <li>Embedded Systems/VLSI/RFIC/MMIC/Nanoelectronics</li>
     <li>EMI/EMC/ESD/HPM/Space Weather</li>
-    <li>EMI/EMC/ESD/HPM/Space Weather</li>
-    <li>Ground Support Technologies</li>
     <li>Ground Support Technologies</li>
     <li>Gyros/Sensors & Associated Electronics</li>
     <li>Miniaturisation Technologies</li>
-    <li>Miniaturization Technologies</li>
     <li>Mission Planning/Controls/Navigation/Guidance</li>
-    <li>Mission Planning/Controls/Navigation/Guidance</li>
-    <li>mm-wave/THz/5G/6G</li>
     <li>mm-wave/THz/5G/6G</li>
     <li>Optical/Microwave Remote Sensing Technologies</li>
     <li>Photonics/Electro-optics</li>
-    <li>Photonics/Electro-optics</li>
     <li>Power/Energy/Power Electronics</li>
-    <li>Power/Energy/Power Electronics</li>
-    <li>Reliability/Quality Assurance</li>
     <li>Reliability/Quality Assurance</li>
     <li>Robotics/Automation/Sensor Electronics</li>
     <li>Signal Processing/Data Processing</li>
@@ -117,7 +105,6 @@
     <li>Sustainable Technology Developments</li>
     <li>System Engineering</li>
     <li>System Engineering and Associated Technologies</li>
-    <li>Technologies for Humanity</li>
     <li>Technologies for Humanity</li>
     <li>Not Listed Above</li>
 </ul> 
