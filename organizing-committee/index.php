@@ -168,7 +168,7 @@
           </div>
             <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
-              <img class="card-img-top" src="./images/dk_singh.jpg" alt="Card image">
+              <img class="card-img-top" src="./images/dinesh.jpg" alt="Card image">
             </center>
             <div class="card-body">
               <h4 class="card-title">Shri D K Singh</h4>
