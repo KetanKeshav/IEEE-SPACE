@@ -206,7 +206,7 @@
               </tr>
               <tr>
               <td><b>Last Date of Paper Submission</b></td>
-              <td><strike><b>Feb 28, 2025</strike> March 21, 2025</b></td>
+              <td><strike><b>Feb 28, 2025</strike>  March 21, 2025</b></td>
              </tr>
               <tr>
                 <td>Notification of Acceptance</td>
