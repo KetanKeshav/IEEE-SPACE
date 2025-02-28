@@ -231,7 +231,7 @@ All papers must be submitted in PDF via EDAS:   <a href="https://edas.info/N3321
               </tr>
               <tr>
               <td><b>Last Date of Paper Submission</b></td>
-              <td><b>Feb 28, 2025</b></td>
+              <td><strike><b>Feb 28, 2025</strike> March 21, 2025</b></td>
              </tr>
               <tr>
                 <td>Notification of Acceptance</td>

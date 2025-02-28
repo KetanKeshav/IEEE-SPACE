@@ -39,7 +39,7 @@
     <!-- header section strats -->
     <header class="header_section">
       <marquee style="color: white; font-size: 20px;">
-      Access 2024 IEEE SPACE papers <a href="https://ieeexplore.ieee.org/xpl/conhome/10666970/proceeding" style="color: white;">Click Here</a> &nbsp;&nbsp;&nbsp;&nbsp; Submit Paper now <a href="https://edas.info/N33216" style="color: white;">Click Here</a>
+      Access 2024 IEEE SPACE papers <a href="https://ieeexplore.ieee.org/xpl/conhome/10666970/proceeding" style="color: white;">Click Here</a> &nbsp;&nbsp;&nbsp;&nbsp; Last date for Paper Submission: 21st March, 2025 <a href="https://edas.info/N33216" style="color: white;">Click Here</a>
       </marquee>
       <div class="container-fluid">
         <?php include 'include/navbar.php' ?>
