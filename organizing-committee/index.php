@@ -95,16 +95,6 @@
 
           <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
-              <img class="card-img-top" src="./images/somanath.webp" alt="Card image">
-            </center>
-            <div class="card-body">
-              <h4 class="card-title">Dr. S Somnath</h4>
-              <p class="card-text">Secretary, DoS & Chairman, ISRO</p>
-            </div>
-          </div>
-
-          <div class="card col-lg-4 col-md-4 col-sm-6">
-            <center>
               <img class="card-img-top" src="./images/samir.jpg" alt="Card image">
             </center>
             <div class="card-body">
